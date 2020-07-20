@@ -11,12 +11,15 @@ class BertEncoder(object):
 
     def __init__(self, device='cpu', model="bert"):
 
-        # config = BertConfig.from_pretrained("bert-large-uncased-whole-word-masking", output_hidden_states=True)
-        # self.tokenizer = BertTokenizer.from_pretrained('bert-large-uncased-whole-word-masking')
-        # self.model = BertForMaskedLM.from_pretrained('bert-large-uncased-whole-word-masking', config = config)
+        if model == "bert":
+            config = BertConfig.from_pretrained("bert-base-uncased", output_hidden_states=True)
+            self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+            self.model = BertForMaskedLM.from_pretrained('bert-base-uncased', config = config)
 
-        self.tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
-        self.model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased')
+        elif model == "scibert":
+            config = AutoConfig.from_pretrained('allenai/scibert_scivocab_uncased', output_hidden_states = True)
+            self.tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
+            self.model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased', config = config)
         
         self.model.eval()
         self.model.to(device)
@@ -68,12 +71,8 @@ class BertEncoder(object):
 
         with torch.no_grad():
             outputs = self.model(tokens_tensor)
-            return outputs[0][0].detach().cpu().numpy(), tokenized_text, tok_to_orig_map, orig2tok
+
+            all_layers = outputs[-1]
+            layers_concat = torch.cat([all_layers[l] for l in layers], dim = -1)
             
-            
-            predictions = torch.cat([outputs[1][layer][0] for layer in layers], axis=-1)  # .detach().cpu().numpy()
-            predictions = predictions.detach().cpu().numpy()
-
-            return (predictions.squeeze(), orig2tok, tok_to_orig_map, tokenized_text)
-
-
+            return layers_concat[0].detach().cpu().numpy(), tokenized_text, tok_to_orig_map, orig2tok

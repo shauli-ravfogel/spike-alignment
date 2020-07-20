@@ -1,0 +1,22 @@
+arg1:[e]paracetamol is $not useful for treating arg2:[e]asthma.
+However , while tocilizumab is a promising agent against COVID-19 , it is not an appropriate agent in patients with active or latent tuberculosis , bacterial and fungal infections , multi-organ failure , and gastrointestinal perforation [ 7 ] .
+1	There are cases of ADEM or even fulminant presentation such as AHL where steroids alone are not sufficient for suppressing inflammation and improving clinical findings .
+2	Thus , ribavirin may not be useful for treating SARS infections because of its questionable efficacy and because of its known toxicity ( reviewed by van Vonderen et al. , 2003 ; Lai , 2005 ) .
+3	In general , steroid therapy is not recommended in the clinical treatment of SARS-CoV-2 [ 103 ] .
+4	In fact , steroids are not recommended in COVID-19 infection outside of clinical trial because of potential increased risk of mechanical ventilation ( 10 ) .
+5	Patients with PCP typically die due to refractory hypoxemia from severe respiratory failure , and corticosteroids have failed to demonstrate benefit outside of the HIV population [ 62 , 63 ] .
+6	In addition , steroids are not effective for the treatment of lung injury or shock in adults ' SARS-CoV-2 infection [ 11 ] .
+7	Corticosteroids in the treatment of SARS-CoV-2 pneumonia are not usually recommended ; they may delay virus clearance from the body [ 1 , 3 ] .
+8	At present , there is no effective therapeutic agent against CVB3 , and only ribavirin is available for CVB3 infection despite its weak antiviral activity [ 93 ] .
+9	Drugs currently licensed for the treatment of systemic CMV infections have limited therapeutic effectiveness due to dose-limiting toxicities , and prolonged therapy often results in resistance ( Biron , 2006 ) .
+10	Most of the TCM agents are mildly effective and slow-acting , and therefore , should not be used as the only treatment modality due to the rapid progression of disease .
+11	In addition , antivirals such as NA inhibitors and M2 blockers have limited efficacy in severe cases of influenza infection if not administered within 48 hours from symptoms onset and may select for resistance .
+12	The efficacy rate is also low in children , and the treatment is normally ineffective in secondary ITP with underlying diseases , such as systemic lupus erythematosus [ 25 ] .
+13	However , the use of corticosteroids in the treatment of COVID-19 can cause host immune suppression and delay viral clearance .
+14	However , the clinical use of interferon to treat dengue is not common , possibly due to IFN-α side effects associated with its systemic activity .
+15	Unfortunately , a consistent benefit has not been observed in all clinical trials and ribavirin is currently not considered to be a drug of choice for influenza .
+16	For HSV encephalitis , the efficacy of aciclovir monotherapy may be hampered by limited penetration of the drug in the central nervous system .
+17	Although , in a substantial cooperative study , high-dose acyclovir has had certain efficacy for preventing CMV disease ( 101 ) , its utility is limited in a setting where more potent anti-CMV agents ( e.g. , ganciclovir ) are used ( 102 ) .
+18	While FAM is standard therapy for established BOS , recent data argue strongly against using azithromycin as prophylaxis against BOS due to decreased survival due to a higher rate of hematologic relapse [ 83 ] .
+19	Although a number of antivirals are available for influenza infections ( e.g. , M2 and neuraminidase inhibitors ) , these drugs have only modest efficacy and their use is further limited by resistance that is either preexisting or is rapidly induced during treatment ( 192 ) .
+20	Although immunosuppression is a mainstay of treatment for autoimmunity , IPEX treatment is frequently limited by insufficient response to therapy or side effects of immune suppression .
