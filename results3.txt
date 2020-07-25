@@ -1,22 +1,1001 @@
-a arg1:subset of patients  $progress to arg2:hemorrhagic fever
-0	Severe cases may progress to a capillary leak syndrome with septic shock , rash , facial and neck swelling , and multi-organ system failure .
-1	When symptoms occur , IPS may rapidly progress to pulmonary dysfunction requiring mechanical ventilation .
-2	Clinical signs are nonspecific in the early stages , but as the disease progresses to involve more of the liver and impair regeneration , icterus , ascites , and hepatic encephalopathy may develop as typical correlates with hepatic insufficiency .
-3	The patients can develop radiographic findings of bilateral pulmonary opacities [ 9 ] , and they can progress to respiratory failure in severe cases .
-4	Untreated cases of DPB typically progress to bronchiectasis and respiratory failure .
-5	Symptoms can progress to a severe form of pneumonia with critical complications , including septic shock , pulmonary edema , acute respiratory distress syndrome and multi-organ failure .
-6	Rarely , symptoms may progress to respiratory failure , shock or multiorgan dysfunction .
-7	This infection usually begins as a viral croup but progresses rapidly with high fever , toxicity , and worsening respiratory distress .
-8	Mild disease may resolve without medical care or may progress to pneumonia and respiratory failure requiring hospitalization .
-9	In severe cases , dyspnea and/or hypoxemia usually occur one week after the onset of the disease , and in severe cases , it rapidly progresses to acute respiratory distress syndrome , septic shock , metabolic acidosis that is difficult to correct , and bleeding and coagulation dysfunction .
-10	The disease may progress to encephalitis with drowsiness , disorientation , convulsions , and coma .
-11	This worsening can present as recurrent fever 4 to 7 days after initial defervescence , new chest infiltrates , respiratory failure , or watery diarrhea .
-12	While disease is often mild with cold-like symptoms , it can progress to severe presentations such as bronchiolitis or pneumonia requiring hospitalization or resulting in death .
-13	Patients may progress to acute respiratory distress syndrome , neurological impairment with encephalopathy , and seizures .
-14	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
-15	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
-16	In severe cases , the illness can progress to the development of interstitial pneumonia , acute respiratory distress syndrome , meningoencephalitis , acute kidney injury , or disseminated intravascular coagulation .
-17	The disease can rapidly progress to the hemorrhagic phase of disease , during which patients exhibit petechiae , hematomas/ecchymosis , and hemorrhages from various sites around the body .
-18	In some patients , the signs may progress to a secondary bronchopneumonia .
-19	They may begin with an afebrile watery diarrhea syndrome and then progress to fever and bacteremia .
-20	In severe cases , the disease may progress to respiratory , circulatory , and renal failure , and ultimately death due to multiorgan failure .
+a arg1:subset of patients $progress to arg2:hemorrhagic fever
+0	In severe cases , dyspnea and/or hypoxemia usually occur one week after the onset of the disease , and in severe cases , it rapidly progresses to acute respiratory distress syndrome , septic shock , metabolic acidosis that is difficult to correct , and bleeding and coagulation dysfunction .
+1	In severe cases , the disease may progress to respiratory , circulatory , and renal failure , and ultimately death due to multiorgan failure .
+2	While disease is often mild with cold-like symptoms , it can progress to severe presentations such as bronchiolitis or pneumonia requiring hospitalization or resulting in death .
+3	In some cases , rapid progression of lung consolidation occurs , leading to respiratory failure and death .
+4	In severe cases , the illness can progress to the development of interstitial pneumonia , acute respiratory distress syndrome , meningoencephalitis , acute kidney injury , or disseminated intravascular coagulation .
+5	Severe cases can develop dyspnea and hypoxemia after 1 week of onset , and may quickly progress to acute respiratory distress syndrome , persistent metabolic acidosis , coagulation dysfunction , and multiple organ failure .
+6	Persistent high fever may occur in severe patients , with rapid progress of the conditions into apparent pneumonia , acute lung injury , and acute respiratory distress syndrome .
+7	Mild infections may be self-limiting in few days , but in some cases the respiratory symptoms can develop into acute respiratory distress syndrome ( ARDS ) with a high risk of death from multiorgan failure .
+8	Severe cases may progress to a capillary leak syndrome with septic shock , rash , facial and neck swelling , and multi-organ system failure .
+9	In severe cases , the pneumonia rapidly progresses to acute respiratory distress syndrome and multiorgan failure .
+10	In critical patients , the disease progresses rapidly , and dyspnea may occur 1 week after onset and may advance to acute respiratory distress syndrome , sepsis , internal environmental imbalance , and multiple organ dysfunction syndrome .
+11	Symptoms can progress to a severe form of pneumonia with critical complications , including septic shock , pulmonary edema , acute respiratory distress syndrome and multi-organ failure .
+12	Some patients with BCC develop a life-threatening , sometimes necrotizing , pneumonia , associated with bacteremia and severe respiratory failure .
+13	Mild disease may resolve without medical care or may progress to pneumonia and respiratory failure requiring hospitalization .
+14	The disease may progress into respiratory failure comparable with an acute respiratory distress syndrome ( ARDS ) .
+15	Some cases of viral pneumonia have a rapid and relentless fatal course , with generalized alveolar and interstitial opacities , development of the adult respiratory distress syndrome ( ARDS ) , and progressive respiratory failure .
+16	In some cases , the illness can progress to severe anemia , kidney and respiratory failure , and death .
+17	In a small subset of severe cases , the disease quickly progresses to respiratory failure and even death .
+18	In a small subset of severe cases , the disease quickly progresses to respiratory failure and even death .
+19	In severe cases , the disease can lead to acute respiratory distress syndrome , septic shock , metabolic acidosis , coagulation dysfunction , and multiple organ dysfunction syndromes .
+20	In critically ill cases , it progresses rapidly to acute respiratory distress syndrome , septic shock , refractory metabolic acidosis , coagulopathy , and multiorgan failure .
+21	Within 1 week after onset , the conditions may rapidly progress and deteriorate into acute lung injury , acute respiratory distress syndrome , pulmonary hemorrhage , pleural effusion , pancytopenia , multiple organ failure , shock , Reye syndrome , and secondary bacterial infection and septicemia .
+22	In the clinic , COVID-19 patients most commonly present with fever , cough and dyspnea , and from there the disease can progress to acute respiratory distress syndrome , lung consolidation , cytokine release syndrome , endotheliitis , coagulopathy , multiple organ failure and death .
+23	In the clinic , COVID-19 patients most commonly present with fever , cough and dyspnea , and from there the disease can progress to acute respiratory distress syndrome , lung consolidation , cytokine release syndrome , endotheliitis , coagulopathy , multiple organ failure and death .
+24	In the typical presentation , an initial upper respiratory infection becomes relentlessly progressive , with involvement of the lower respiratory tract , significant hypoxia , and oftentimes death .
+25	Severe pediatric cases show obvious dyspnea , and may rapidly progress to acute respiratory distress syndrome , septic shock , refractory metabolic acidosis , coagulation dysfunction and multiple-organ failure .
+26	Although the infection is mild in most of the affected individuals , it may cause severe clinical manifestations such as acute respiratory distress syndrome or cytokine storm leading to death .
+27	When symptoms occur , IPS may rapidly progress to pulmonary dysfunction requiring mechanical ventilation .
+28	This infection usually begins as a viral croup but progresses rapidly with high fever , toxicity , and worsening respiratory distress .
+29	However , in approximately 10 % of cases , severe , and potentially fatal , systemic disease may develop , including jaundice , renal failure , and pulmonary hemorrhage .
+30	Although often associated with acute pneumonia , this may be followed by persistent , chronic infection , including chronic bronchitis , bronchiectasis , and pulmonary abscesses .
+31	Infection can be rapidly progressive with the development of multifocal bilateral air space opacities or even ARDS .
+32	Disease onset can cause progressive respiratory failure because of alveolar impairment and even death .
+33	Patients with HME can develop aseptic meningitis and meningoencephalitis or progress to respiratory and renal insuffi ciency .
+34	In severe cases , it can progress to ARDS , shock , and multiorgan failure .
+35	In some patients it may rapidly progress toward the development of severe encephalitis , and ultimately death , even in the absence of opportunistic infections .
+36	In some cases ( 3 % to 6 % ) , especially in patients receiving aggressive treatment for acute leukemia , full-blown neutropenic enterocolitis may develop , with high fever , severe abdominal pain , and sometimes hemorrhagic diarrhea evolving into acute abdomen and septic shock .
+37	Severe patients develop dyspnea and/or hypoxemia after one week and may progress rapidly to acute respiratory distress syndrome , septic shock , refractory metabolic acidosis , coagulopathy , and other symptoms .
+38	In the acute phase , the disease can manifest with myocarditis , conduction system abnormalities , and pericarditis .
+39	In severe cases , the conditions may develop into acute lung injury , acute respiratory distress syndrome ( ARDS ) , or even multiple organ failure that causes death .
+40	In severe cases , the conditions may develop into acute lung injury , acute respiratory distress syndrome ( ARDS ) , or even multiple organ failure that causes death .
+41	Unlike other forms of community-acquired pneumonia , in the absence of appropriate treatment , there may be rapid progression to respiratory failure , vascular collapse , purpuric skin lesions , necrotic digits , and death .
+42	If untreated , ehrlichiosis may progress to more severe illness : meningoencephalitis , seizure , coma , cardiomyopathy , adult respiratory distress syndrome , respiratory failure , disseminated intravascular coagulation , and renal failure .
+43	Untreated disease may result in alveolar damage and pneumonia , mostly culminating in organ failure and death .
+44	The disease can rapidly progress to the hemorrhagic phase of disease , during which patients exhibit petechiae , hematomas/ecchymosis , and hemorrhages from various sites around the body .
+45	Untreated cases of DPB typically progress to bronchiectasis and respiratory failure .
+46	But in rare serious cases , the condition may progress rapidly , with occurrence of viral pneumonia , respiratory failure , and multiple organ failure .
+47	Pneumonia develops with primary infection , occurs rarely in children , and progresses to respiratory failure and ARDS .
+48	Those who suffer from this illness may experience a clinical course ranging from being asymptomatic to having a minor illness , and in a significant minority a severe form of viral pneumonia , which can result in respiratory failure and death .
+49	While influenza is mostly a self-resolving illness , in older patients and in a disproportionate percentage of pregnant patients , it can be complicated by viral pneumonia , myocarditis , and myositis .
+50	The disease is mild in most people ; in some ( usually the elderly and those with comorbidities ) , it may progress to pneumonia , acute respiratory distress syndrome ( ARDS ) and multi organ dysfunction .
+51	Uncommonly , some patients may develop severe interstitial lung disease and some progress to acute respiratory distress syndrome ( ARDS ) .
+52	Disease can rapidly progress to shock and multiple organ dysfunction syndrome with disseminated intravascular coagulation and hemorrhagic manifestations .
+53	In severe cases , patients progress rapidly to acute 80 respiratory distress syndrome ( ARDS ) , sepsis , and coagulopathy .
+54	Some cases may progress to acute pulmonary injury or ARDS , rapidly incurring respiratory failure or even death .
+55	Symptoms of YF begin 3 - 6 days after infection and include fever , chills , headache , and myalgia and may progress to jaundice , hemorrhagic complications , shock , multisystem organ failure , and death .
+56	Some patients , of any age , may develop severe and fulminant infection with pulmonary complications and/or extrapulmonary manifestations that may affect almost every organ .
+57	And in some cases , the condition may rapidly progress into acute respiratory distress syndrome ( ARDS ) .
+58	Approximately 20 % of patients with SARS develop acute lung injury or acute respiratory distress syndrome , and the disease may progress , with pulmonary fibrosis .
+59	Severe complications arise when the disease progresses to viral pneumonia and multi-organ failure .
+60	Severe complications arise when the disease progresses to viral pneumonia and multi-organ failure .
+61	The most common infection , seasonal influenza , is usually a mild , self-limited febrile syndrome , but it can be more severe in infants , the elderly , and immunodeficient persons , in whom it can progress to severe viral pneumonitis or be complicated by bacterial superinfection , leading to pneumonia and sepsis .
+62	This infection usually begins as a viral-like illness or croup with stridor but progresses rapidly with high fever , toxicity and worsening respiratory distress .
+63	Progression to severe bronchopulmonary disease can lead to weight loss , dyspnea , and , rarely , death .
+64	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
+65	Usually , the disease progresses very slowly , but can result in cardiac and pulmonary failure .
+66	Patients may present as asymptomatic or have symptoms such as fever , myalgia , cough , and dyspnea , and they may evolve with pneumonia and , in more severe cases , acute respiratory syndrome , sepsis , multiple organ failure , and death .
+67	CMV pneumonitis has an insidious onset , which is manifested by constitutional symptoms and fever , with a later progression to dyspnea and tachypnea .
+68	Occasionally , measles infection progresses to depression , anorexia , coughing , and dyspnea in conjunction with giant cell pneumonia .
+69	Some cases of viral pneumonia , especially those due to rapid-onset severe adenovirus infection , can lead to bronchiolitis obliterans and hyperlucent lung syndrome .
+70	Some cases of viral pneumonia , especially those due to rapid-onset severe adenovirus infection , can lead to bronchiolitis obliterans and hyperlucent lung syndrome .
+71	Some individuals develop multisystem organ failure with complications that can include micro and macro thromboses , myocarditis , elevated muscle enzymes suggestive of myositis , and kidney failure .
+72	The disease can be rapidly fatal within a few days , with high fevers , rapidly developing sepsis and multiorgan failure from hypotension and shock .
+73	44 Symptoms may worsen even further into an acute respiratory distress syndrome ( ARDS ) , as a result of progressive pulmonary immune infiltration , formation of hyaline membranes , diffuse alveolar damage ( DAD ) , and a high viral burden .
+74	As seen , the infection can rapidly develop into a severe acute respiratory distress syndrome that can cause death .
+75	Occasionally , patients can present or develop a sub-acute , more protracted course that mimics chronic viral hepatitis and leads to cirrhosis .
+76	Patients present with LRTI which may progress rapidly to pneumonia and potentially acute respiratory failure , ARDS , septic shock , multi-organ failure , rhabdomyolysis and encephalopathy .
+77	Clinical signs are nonspecific in the early stages , but as the disease progresses to involve more of the liver and impair regeneration , icterus , ascites , and hepatic encephalopathy may develop as typical correlates with hepatic insufficiency .
+78	About 1 week after the appearance of the first symptoms , a subset of patients develop a severe pneumonia , which is often associated with pulmonary fibrosis , myocardial infarction , acute renal failure and ultimately multiple organ failure .
+79	The illness begins as a nonspecific febrile prodrome , and then patients quickly develop noncardiogenic pulmonary edema , respiratory failure , and shock .
+80	Milder , and most commonly , symptoms include fever , fatigue and cough ; however , more severe cases of the disease can induce respiratory distress , renal and cardiac failure and eventually death .
+81	In severe cases , patients present with dyspnea and/ or hypoxemia 1 week after the onset of the disease , and rapidly deteriorate to acute respiratory distress syndrome ( ARDS ) , septic shock , metabolic acidosis , and coagulation abnormalities .
+82	Severe patients often have dyspnoea and/or hypoxemia 1 week after onset , after which septic shock , ARDS , difficult-to-correct metabolic acidosis , and coagulation dysfunction develop rapidly .
+83	In adults , infection results in fever as well as upper and lower respiratory tract symptoms including cough and breathlessness , which can rapidly deteriorate to severe acute respiratory distress syndrome .
+84	Disease can progress to acute respiratory distress syndrome and multiorgan system failure [ 37 ] .
+85	In severe cases , dyspnea or hypoxemia develops , which may rapidly progress to acute respiratory distress syndrome in some of the patients .
+86	Hemoptysis , coughing , and progressive dyspnea are common initial symptoms , and the disease may progress to acute respiratory failure .
+87	Disease can progress to acute respiratory distress syndrome and multiorgan system failure [ 5 ] .
+88	Acute illness may have varying manifestations , and while the majority developed antibodies to the infection and immunity , 10 - 15 % go on to develop chronic disease and approximately 1 % will have fulminant failure .
+89	Patients usually present with a rapidly progressive pneumonia that can result in respiratory failure and acute respiratory distress syndrome .
+90	In patients with full-blown AIDS , however , the disease may manifest abruptly with fever and hypoxemia .
+91	In a small proportion of cases , the disease progresses to life-threatening dengue haemorrhagic fever , which results in non-infectious bleeding , thrombocytopenia and leakage of plasma , or dengue shock syndrome .
+92	Ulcers in the mouth or esophagus , or lesions lower in the intestinal tract may develop , and presenting symptoms include nausea , vomiting , diarrhea , abdominal pain , or an acute abdomen progressing to a sepsis syndrome with high mortality .
+93	Some patients with severe infection gradually develop respiratory failure , even acute respiratory distress syndrome , multiple organ failure , and ultimately death .
+94	Severe cases will rapidly progress to respiratory failure or multiple organ failure [ 3 ] .
+95	The initial pulmonary infection may result in an acute progressive disseminated infection that characteristically presents with fever , chills , weight loss , hepatosplenomegaly , and pancytopenia from bone marrow involvement .
+96	Later stages of the disease can manifest in multiorgan failure , shock , and coma .
+97	Hantavirus pulmonary syndrome is characterized by fever , chills , and severe myalgia , which progress to variably severe respiratory compromise and hemodynamic instability .
+98	The disease can rapidly progress into acute respiratory distress syndrome , mediastinal emphysema , sepsis , shock , consciousness disturbance , and acute renal injury .
+99	Unfortunately , in certain patients , the disease progresses rapidly , and respiratory failure can occur within a short time , even leading to death .
+100	Pneumonia develops rapidly and eventually progresses after 2 to 4 days into respiratory failure and shock .
+101	The serious clinical symptoms of the viral infection , including fever , dry cough , dyspnea , and pneumonia , may result in progressive respiratory failure and even death .
+102	190 Acute to subacute thoracic myelopathy typically arise 2 to 4 weeks after the antecedent respiratory infection and progress to a nadir in about 3 days ; it may be accompanied by meningoencephalitis and/or polyradiculopathy .
+103	In severe cases , dyspnea occurs more than a week later and ARDS , septic shock , difficult to correct metabolic acidosis , and coagulation dysfunction rapidly develop ( 7 ) .
+104	Rarely , symptoms may progress to respiratory failure , shock or multiorgan dysfunction .
+105	Rapid progression to pneumonia may occur within the first week , often requiring mechanical ventilation and other organ support such as renal dialysis [ 23 ] .
+106	Patients with severe infections have pneumonia that progresses to acute respiratory distress syndrome , multisystem disease , and organ failure .
+107	The condition may rapidly develop into acute respiratory distress syndrome ( ARDS ) , sepsis , septic shock , and even multiple organs failure .
+108	The onset of type II failure may be insidious and may develop when respiratory muscle fatigue complicates preexisting disorders , such as pneumonia or status asthmaticus , which present initially with hypoxemia without hypoventilation .
+109	Patients may progress to acute respiratory distress syndrome , neurological impairment with encephalopathy , and seizures .
+110	In some cases , infection progresses to the central nervous system ( CNS ) and neurological symptoms , such as confusion , ataxia , and seizures , manifest .
+111	Pulmonary infiltrates may take up to several weeks or even months to fully resolve after successful treatment of CAP ( especially in smokers , the elderly , and patients with underlying lung disease ) .
+112	Severe cases may rapidly progress to acute respiratory distress syndrome ( ARDS ) , septic shock , refractory metabolic acidosis , and coagulation dysfunction [ 6 , 7 ] .
+113	In patients with chronic GVHD , a rare manifestation of VZV infection is fulminent hepatitis ( with or without concomitant pancreatitis ) antecedent to the cutaneous rash and which can pursue a virulent course leading rapidly to shock and death .
+114	The symptoms of severe respiratory failure occur rapidly , are progressive , and can quickly lead to death .
+115	Advanced cases often develop refractory pulmonary edema and sepsis syndrome .
+116	Advanced cases often develop refractory pulmonary edema and sepsis syndrome .
+117	The clinical manifestations can vary from asymptomatic infection to serious fatal illness that may include exacerbation of other underlying conditions or severe viral pneumonia with multi-organ failure .
+118	The disease is mild or asymptomatic in many patients , however a minority develop a severe pneumonia and progress to respiratory failure .
+119	A few cases may progress to acute respiratory distress syndrome ( ARDS ) .
+120	Severe illnesses may subsequently manifest as pneumonia , acute respiratory distress syndrome , encephalitis , myocarditis , or other severe and life-threatening complications .
+121	These may rapidly progress to a multiorgan syndrome with petechial and more extensive bleeding but which is often less life threatening than vascular collapse with varying degrees of pulmonary edema , hypotension , shock , and renal failure .
+122	Some patients progress quickly to severe pneumonia , acute respiratory distress syndrome ( ARDS ) , shock and acute necrotic brain injury .
+123	The disease can progress to pneumonia , respiratory failure and death when severe , and in this case , acute complications include acute lung injury , ARDS , sepsis and shock .
+124	In a minority of infected individuals , encephalitis or encephalomyelitis occurs and may lead to neck stiffness , confusion , tonic-clonic seizures , somnolence , coma and death .
+125	Disease progression can continue to pneumonitis or encephalitic manifestations , with the person succumbing to multiorgan failure ( Playford et al. , 2010 ) .
+126	Most cases are mild , but some patients develop severe pneumonia with acute respiratory distress , septic shock and multi-organ failure .
+127	The vast majority of cases range from asymptomatic viremia to fevers and transient marrow suppression , but patients can infrequently develop severe disease , including encephalitis , hepatitis , and pneumonitis .
+128	Unfortunately , these nonspecific symptoms can rapidly progress to severe respiratory failure requiring ventilatory support within days or weeks after symptom onset .
+129	Affected patients may progress rapidly to acute respiratory distress syndrome ( ARDS ) and multi-organ failure .
+130	In some cases , especially in immunosuppressed individuals , children , or persons with existing pulmonary diseases , progression to acute respiratory failure can also occur .
+131	This worsening can present as recurrent fever 4 to 7 days after initial defervescence , new chest infiltrates , respiratory failure , or watery diarrhea .
+132	In a subset of patients , by the end of the first week , the disease can progress to pneumonia , respiratory failure , and death [ 1 ] .
+133	Severe respiratory involvement can occur as a result of lung edema and pleural effusions , and patients may present with ARDS .
+134	SARS is characterized by high fever , malaise , rigor , headache and dyspnoea and may progress to generalized interstitial infiltrates in the lungs requiring artificial ventilation .
+135	Many of the initial symptoms may persist in the early organ phase , and patients may sustain a high fever .
+136	However , severe cases can present with bilateral pneumonia which may rapidly deteriorate into acute respiratory distress syndrome ( 2 ) .
+137	In some of these patients , the clinical course can progress relentlessly to septic shock and/or multiple organ dysfunction syndrome ( MODS ) .
+138	While many infections are asymptomatic , infection may begin as a nonspecific , febrile illness and develop as a severe and life-threatening disease .
+139	In more severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure , and death .
+140	In more severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure , and death .
+141	This worsening can present as recurrent fever 4 - 7 days after initial defervescence , new chest infiltrates on radiography , or recurrent respiratory failure .
+142	Complications of pulmonary involvement can result in adult respiratory distress syndrome ( ARDS ) and respiratory failure in 50 % of cases .
+143	Complications of pulmonary involvement can result in adult respiratory distress syndrome ( ARDS ) and respiratory failure in 50 % of cases .
+144	In severe cases , respiratory function may worsen during the second week of illness and progress to ARDS .
+145	70 Illness often has an abrupt onset and ranges from asymptomatic infection to primary viral pneumonia that progresses to death .
+146	Acute infection during adulthood is self-limiting and results in flu-like symptoms that can progress to hepatocellular involvement as observed with the development of jaundice .
+147	Patients whose condition deteriorates to critical status primarily decompensate from a respiratory standpoint , but may also develop multi-organ failure ( respiratory failure , cardiac failure , renal failure , hypercoagulable state , thrombotic microangiopathy ) , as well as severe inflammatory responses similar to cytokine release syndrome and eventually reactive hemophagocytic lymphohistiocytosis syndrome .
+148	Patients whose condition deteriorates to critical status primarily decompensate from a respiratory standpoint , but may also develop multi-organ failure ( respiratory failure , cardiac failure , renal failure , hypercoagulable state , thrombotic microangiopathy ) , as well as severe inflammatory responses similar to cytokine release syndrome and eventually reactive hemophagocytic lymphohistiocytosis syndrome .
+149	Severe pneumonia may occur , especially the elderly who have comorbidities , and/or impaired cellular immunity .
+150	In more severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure , and even death .
+151	In more severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure , and even death .
+152	Fulminant psittacosis can be manifested as severe pneumonia with rapid progression , acute respiratory distress syndrome , sepsis , and multiple organ failure .
+153	In severe cases , the illness progresses to pulmonary edema , with respiratory failure and shock [ 90 ] .
+154	Although in general , RSV infection is limited to the upper respiratory tract , the disease may progress to the lower airways leading to acute hypoxemic respiratory failure .
+155	In early infection , patients present with conjunctival injection , mild hypotension , flushing , and petechial rash ; in later stages of the disease , frank mucous membrane hemorrhage with shock and generalized bleeding may occur .
+156	Rapid clinical deterioration may occur with diffuse viral pneumonitis with hypoxaemia , acute respiratory distress syndrome ( ARDS ) , septic shock , multisystem organ failure and death occurring within a week of onset of illness [ 7 ] .
+157	The natural disease process can be complicated by acute respiratory distress syndrome , multiorgan failure , and ultimately death .
+158	Acute rejection is manifested by diffuse infiltrates , hypoxia , and airflow limitation , and may lead to respiratory insufficiency and death .
+159	Some patients may progress rapidly with ARDS , disseminated intravascular coagulation ( DIC ) , septic shock , and eventually multiple organ failure [ 13 ] .
+160	Within the first week , the patient may experience difficulty breathing and develop pneumonia , which may progress to multiorgan failure and death .
+161	In cases with various predisposing factors , the disease tends to have a more acute course and may lead to fulminant disease in the form of shock and potentially multiorgan system failure .
+162	Most infected persons experience a mild form of disease , but those with advanced age or underlying comorbidities may suffer severe respiratory and multiorgan complications .
+163	Most infected persons experience a mild form of disease , but those with advanced age or underlying comorbidities may suffer severe respiratory and multiorgan complications .
+164	The rapid progression from initial typical influenza symptoms to extensive pulmonary involvement , with acute lung injury , can occur both in patients with underlying respiratory or cardiac morbidities and in young healthy adults , especially if obese or pregnant .
+165	Some patients may develop recurrent respiratory infections and colonization with Pseudomonas , Staphylococcus aureus , and Aspergillus , while others may progress rapidly to respiratory failure within a few months .
+166	While the majority of cases result in mild symptoms , many progress to viral pneumonia and multi-organ failure .
+167	In severe cases , it can progress to Acute Respiratory Distress Syndrome ( ARDS ) and death .
+168	Cases can worsen and lead to acute respiratory distress syndrome ( ARDS ) or pneumonia .
+169	Severe disease occurs in around 5 - 15 % of patients and is primarily due to the development of pneumonia/pneumonitis and respiratory failure .
+170	Late infection begins as a mild URTI , which commonly progresses to obstructive bronchiolitis and chronic oxygen dependency .
+171	Although some infections are asymptomatic , many cases present with severe symptoms that can result in acute respiratory distress syndrome ( ARDS ) , septic shock , multiorgan failure , and death .
+172	Although most influenza is associated with an acute , yet mild and self-limiting illness , patients with severe disease can rapidly progress to severe respiratory failure , multiorgan failure , and death .
+173	Although the infection is generally mild and self-limiting , patients of every age can develop severe or extrapulmonary disease .
+174	Some patients with fulminant myocarditis will suffer from multiple organ failure , especially liver and kidney injury , as a result of viral infection , immunological injury , and shock .
+175	Although most patients have mild symptoms such as fever , headache , cough , myalgia and anosmia , some develop acute respiratory distress syndrome , leading to death in many cases .
+176	Although most patients have mild symptoms such as fever , headache , cough , myalgia and anosmia , some develop acute respiratory distress syndrome , leading to death in many cases .
+177	After the onset of disease , cases may progress to a mild variant of the disease characterized by mild respiratory symptoms with fever or a " cough variant " characterized by persistent intractable cough .
+178	Severe patients often develop dyspnea and/or hypoxemia 1 week after disease onset and progress rapidly to acute respiratory distress syndrome ( ARDS ) , septic shock , refractory metabolic acidosis , and coagulopathy .
+179	Although neurological involvement is uncommon in patients with COVID-19 , it can be seen in those with severe infection and the patients may manifest as acute cerebrovascular diseases , impaired consciousness or encephalopathy , and skeletal muscle injury .
+180	In severe cases , the disease may progress to prostration , stupor , coma , and death within 6 to 10 days .
+181	Symptoms of this disease include fever , shortness of breath , cough , and a non-negligible proportion of infected individuals may develop severe forms of the symptoms leading to their transfer to intensive care units and , in some cases , death .
+182	Cystic involvement of the CNS may cause pronounced neurologic deficits ( with the type of observed CNS deficit dependent upon involvement of the brain , brain stem and/or spinal cord ) , or may be rapidly fatal with advanced disease .
+183	More severe COVID-19 symptoms are typical of pneumonia , and upon progression , the patient 's condition can worsen with severe respiratory and cardiac problems .
+184	When fever is persistent , hypotension and shock may develop and lead to multiorgan failure , myositis , fasciitis , or disseminated intravascular coagulation ( DIC ) .
+185	Only a minority of patients develop complicated disease that may lead to blindness , renal failure , liver failure , and heart involvement .
+186	Fever , chills , headache , and weakness occur with acute onset , and can transition to the septicemic form of the plague [ 42 ] in a quarter of patients .
+187	Acute myocarditis typically results in heart failure in children and adolescents and often progresses to chronic myocarditis and dilated cardiomyopathy .
+188	The clinical symptoms begin with systemic inflammatory responses and rapidly progress to multiple organ failure and ultimately death .
+189	Although this pneumonitis usually responds to antimicrobial therapy , the disease may be complicated by severe respiratory failure .
+190	Fulminant myocarditis is the most severe type of myocarditis and is characterized by sudden occurrence ; rapid progress ; hemodynamic dysfunction , such as pump failure and circulation failure that can develop very quickly ; and respiratory , liver , or kidney failure which can occur simultaneously .
+191	This highly infectious disease is usually associated with flu-like symptoms but may rapidly evolve to severe interstitial pneumonia and even death , particularly in older patients with comorbidities including cancer .
+192	A flu-like syndrome can progress to full hemorrhagic fever with multiorgan failure , and frequently , death .
+193	The disease begins with high fever and non-pathognomonic manifestations that can end in shock and organ failure .
+194	In some cases , infection progresses rapidly and can result in death within two weeks of onset of clinical symptoms .
+195	In falciparum malaria , deterioration can occur rapidly and result in multiple organ failure and death .
+196	Severe pneumonia may further progresses rapidly into ARDS , mediastinal emphysema , sepsis , shock , consciousness disturbance , and acute renal damage .
+197	Clinical worsening over a few days leads to respiratory failure with diffuse rales and radiographic abnormalities similar to other viral pneumonias and acute respiratory distress syndrome .
+198	If left untreated , this is followed by early disseminated disease , which typically causes inflammation of the heart and nervous systems .
+199	In severe cases , the illness can quickly progress to severe atypical pneumonia , acute respiratory distress syndrome and severe hypoxemic respiratory failure [ 20 , 26 , 28 , 29 , 69 ] .
+200	Presentation in older adults and in individuals with compromised immune systems can initially be less dramatic , possibly because of a diminished cytokine response , but initial mild symptoms can progress to severe lower respiratory disease in these patients .
+201	The clinical symptoms of MERS may be asymptomatic , mild and can lead to severe disease with multi-organ failure .
+202	Progressive lethargy and shortness of breath , typically within 5 days of symptom onset , suggest development of lower respiratory tract complications which may rapidly progress to respiratory failure and death in severe cases [ 64 ] .
+203	Untreated or inappropriately treated patients progress rapidly to develop respiratory failure , vascular collapse , purpuric skin lesions , necrotic digits and death .
+204	Untreated or inappropriately treated patients progress rapidly to develop respiratory failure , vascular collapse , purpuric skin lesions , necrotic digits and death .
+205	In more than a third of patients , the syndrome progresses to severe disease with respiratory distress and oxygen desaturation that requires ventilatory support approximately 8 days after onset of symptoms .
+206	Most commonly NEC develops suddenly in a preterm infant who was otherwise well , with initial symptoms of abdominal distention , bilious or bloody emesis or gastric aspirates , hematochezia , and pneumatosis intestinalis , and sometimes progresses quickly to include bowel perforation , acidosis , shock , and death .
+207	With altered immune function , however , there may be progressive local disease , dissemination to miliary pulmonary disease , or early reactivation ( months to 5 years ) at distal sites , which produces tuberculous meningitis or osteomyelitis .
+208	With altered immune function , however , there may be progressive local disease , dissemination to miliary pulmonary disease , or early reactivation ( months to 5 years ) at distal sites , which produces tuberculous meningitis or osteomyelitis .
+209	Dyspnea and/or hypoxemia may occur in patients with severe forms of the disease , with rapid progression to Acute Respiratory Distress Syndrome ( ARDS ) , septic shock , and acidosis .
+210	This syndrome generally begins with respiratory symptoms , which may progress to single organ dysfunction ( i.e. respiratory failure ) and then to multiple organ failure , and death .
+211	In the acute setting , this usually causes a progressive lung failure but , over time , the patients can develop a severe cardiac and multiorgan failure .
+212	After incubation period of 2 - 14 days patients initially present with influenza-like symptoms , fever , and cough that can progress to atypic pneumonia and respiratory failure .
+213	A complicated viral infection may rapidly proceed to acute respiratory distress syndrome ( ARDS ) .
+214	There is a prodrome of fever , malaise , sore throat , and cough that progresses to croup , myositis , otitis media , abdominal pain , and vomiting or to viral pneumonia as the virus invades the central nervous system and muscles , as well as further damaging the lung parenchyma .
+215	Untreated , most ILDs progress to end-stage lung disease complicated by cor pulmonale and death due to respiratory failure .
+216	Hepatic involvement occurs early , and is associated with decreased fetal erythrocyte production and anemia , which can be followed by output failure with ascites , hydrops , and sometimes death .
+217	This disease process can progress rapidly to airway compromise within hours .
+218	In the most severe cases , patients may develop pneumonia , acute respiratory distress syndrome , acute cardiac problems , and multiorgan failure [ 1 ] .
+219	Although most patients recover from their primary dengue infection , primary or more commonly , secondary infections can be fatal .
+220	While most cases are self-limited , some progress rapidly to acute respiratory failure with high rates of morbidity and mortality [ 41 ] .
+221	Jaundice symptoms begin suddenly , and are accompanied by nausea , fever and a general state of sickness that can continue for several weeks ; particularly in older adults , occasionally there are also fulminant forms that can have a lethal outcome owing to cirrhosis and severe hepatic failure .
+222	Systemic manifestations begin to subside once the rash appears and can reappear with superinfection of skin lesions or superimposed bacterial bronchopneumonia .
+223	Early disseminated infection is characterized by multiple EM lesions , cardiac and/or neurologic findings such as facial nerve palsy .
+224	Acute fulminant cases often exhibit lobar fibrinous pneumonia and pleuritis and may die with as little as 30 % of the lung affected , due to systemic effects of the infection rather than failure of lung function .
+225	The acute phase of ARDS can either resolve quickly or result in death .
+226	In 5 % cases requiring Intensive care , the disease progression is gradual , and requires about 9 - 10 days to progress from symptoms of Upper Respiratory Tract Infection ( URTI ) to Acute Respiratory Distress Syndrome ( ARDS ) .
+227	Secondary bacterial pneumonia may follow any respiratory viral illness and presents as a recurrent or protracted fever and respiratory symptoms after initial recovery .
+228	If the condition is severe , it may result in adult respiratory distress syndrome and respiratory failure .
+229	If the condition is severe , it may result in adult respiratory distress syndrome and respiratory failure .
+230	In some cases , diarrhea may rapidly develop into a lifethreatening condition .
+231	Clinical manifestations are often related to the type of transplant and range from self-limited fever , gastroenteritis , hemorrhagic cystitis , to necrotizing hepatitis or pneumonia with the potential to cause life-threatening infection .
+232	Multi-organ involvement can occur about 5 days after illness onset , lasting for 7 to 14 days , with progressive failure in fatal cases or a self-limited course in survivors .
+233	Postnatal infection results in disease that is less severe and commonly presents as nondescript , consisting of fever , myalgia , and generalized lymphadenopathy that may resolve without treatment in a few weeks .
+234	Postnatal infection results in disease that is less severe and commonly presents as nondescript , consisting of fever , myalgia , and generalized lymphadenopathy that may resolve without treatment in a few weeks .
+235	Severe patients can rapidly progress to acute respiratory distress syndrome , septic shock , metabolic acidosis , coagulation dysfunction and multiple organ failure .
+236	While often following a mild course , severe cases present with respiratory failure , cytokine release syndrome or myocarditis , often in older patients and those with underlying comorbidities .
+237	As in many other viral diseases , CCHF may cause symptoms of pulmonary involvement and may lead to death .
+238	A subset of patients may progress within a week of the onset of their symptoms to have dyspnea and hypoxemia , which may rapidly progress to ARDS , or end-organ failure [ 3 ] .
+239	Patients with IPS develop acute onset of cough , dyspnea with or without fever , hypoxemia , and diffuse infiltrates on CXR that often progresses quickly to respiratory failure .
+240	Clinically , these infections may have an acute course with fever and dyspnea or a more insidious course , many times with patients first presenting with lung cavities , empyemas , or necrotizing pneumonias .
+241	CMV pneumonia may be severe in premature infants and may especially progress to diffuse interstitial pneumonia , leading fibrosis and bronchopulmonary dysplasia in such infants .
+242	The lung damage caused by such infections can further progress to acute respiratory distress syndrome .
+243	In more advanced disease , they may develop pulmonary hypertension , resulting in right ventricular enlargement and , as the disease progresses , right-sided heart failure ( cor pulmonale ) .
+244	However , the disease can progress to encephalitis , meningoencephalitis , or aseptic meningitis .
+245	AMR can present as progressive worsening of lung function in the absence of acute or chronic rejection , and can rapidly result in death due to graft failure .
+246	There is clinical , pathological , and radiological overlap with ARDS , and patients often present with respiratory failure developing over days or weeks .
+247	Patients may develop raised ICP with papilledema ( 33 % ) , cranial nerve palsies ( 20 % ) , and seizures ; if left untreated , the condition progresses to obtundation and , ultimately , death .
+248	Although this form of the disease often remains asymptomatic for months or years , it may eventually produce a cough with sputum and hemoptysis .
+249	Although this form of the disease often remains asymptomatic for months or years , it may eventually produce a cough with sputum and hemoptysis .
+250	In some cases , military tuberculosis can progress to adult respiratory distress syndrome .
+251	If untreated , symptoms worsen in severity and the infection may progress , affecting the joints , heart , and nervous system .
+252	Infection is usually limited to the upper respiratory tract , and progression into the lower respiratory tract can result in serious complications of infection , including hospitalization for pneumonia and bronchiolitis .
+253	Many patients will experience no , or only minor , non-specific symptoms , but in a minority of cases severe disease may develop ( 4 , 5 ) , progressing from pneumonia to the acute respiratory distress syndrome and ultimately shock with multi-organ failure ( 5 ) ( 6 ) ( 7 ) ( 8) .
+254	In symptomatic cases , the onset of disease begins with flu-like symptoms and rapidly progresses to encephalitis with disorientation , delirium , and coma .
+255	In symptomatic cases , the onset of disease begins with flu-like symptoms and rapidly progresses to encephalitis with disorientation , delirium , and coma .
+256	In those with cirrhosis , ACLF , a unique condition , can evolve following bacterial infections and the presentation is characterized by acute hepatic decompensation and multi-organ failure .
+257	The terminal stages of Ebola virus infection usually include diffuse bleeding , and hypotensive shock accounts for many Ebola virus fatalities .
+258	Primary liver disease most commonly occurs from toxic , infectious , or metabolic causes and may progress to loss of function and clinical signs of hepatic failure .
+259	However , malaria can also evolve into severe life-threatening complications , including cerebral malaria , severe anemia , respiratory distress , and acute renal failure .
+260	If untreated , the disease may progress to severe pneumonic or systemic plague .
+261	If untreated , the disease may progress to severe pneumonic or systemic plague .
+262	Most horses have a mild illness that resolves within 1 to 2 weeks , but death can occur either from secondary bacterial bronchopneumonia or from severe viral infection involving damage to heart , gastrointestinal tract , kidney , and other parenchymal organs , as well as severe ocular and pulmonary lesions .
+263	Patients can have progressive hepatic dysfunction and ultimately multiorgan failure .
+264	Bronchiolitis obliterans usually begins later than 3 months following transplant and manifests as dyspnoea , obstruction of the airways , recurrent lower tract infections and a rapid progression over months with a clinical course similar to that of COPD .
+265	The illness often presents with nonspecific symptoms ( conjunctivitis , frontal headache , malaise , myalgia , bradycardia ) and progresses with worsening hemorrhage to shock and subsequent death in 50 % to 90 % of patients .
+266	Acute infection in healthy individuals is usually asymptomatic , but infection in immunocompromised individuals can result in severe disease with CNS involvement , myocarditis and pneumonia .
+267	Usually presenting as an upper respiratory tract infection with rhinorrhea , sinus congestion and a sore throat , RSV infection can progress to bronchiolitis , pneumonitis , and pneumonia .
+268	Infected patients may be asymptomatic or may develop a fulminant pneumonia , possibly with extrathoracic findings such as retinitis , hepatitis , and gastritis .
+269	The pneumonia may develop into a diffuse ARDS type of pulmonary involvement , and those with respiratory failure may require ventilatory support and sometimes treatment with extracorporeal membrane oxygenation .
+270	Chronic infection leads to long standing or intermittent diarrhea , weight loss , hypoproteinemia , and failure to thrive .
+271	The cardinal initial signs of bacterial tracheitis include cough , stridor and a rapidly changing course of illness that progresses to respiratory failure quickly .
+272	However , reactivation in posttransplant patients may manifest with cutaneous infection , encephalitis , myelitis , and pneumonia .
+273	Severe , long-standing airway obstruction may progress to cor pulmonale and right heart failure .
+274	In those individuals whose immune system is compromised or not fully developed , influenza-associated disease will often lead to severe viral pneumonitis or be complicated by bacterial superinfection , leading to pneumonia and sepsis .
+275	The disease usually causes respiratory symptoms but in a small proportion of patients can lead to pneumonitis , Adult Respiratory Distress Syndrome and death .
+276	In severe cases , patients may develop severe pneumonia , acute respiratory distress syndrome , and acute cardiac injury .
+277	In severe cases , patients may develop severe pneumonia , acute respiratory distress syndrome , and acute cardiac injury .
+278	Viral pneumonia can progress to secondary bacterial pneumonia and cause significant morbidity .
+279	The course of the disease is often mild , undistinguishable from a common flu , but in a considerable number of cases may require hospitalization , eventually leading to an acute respiratory distress syndrome ( ARDS ) and death .
+280	The disease , in some patients , progresses into life-threatening acute respiratory distress syndrome ( ARDS ) .
+281	Liver crisis , often precipitated by an infection , typically presents in the first 2 years of life and is characterized by increased severity of hepatic dysfunction .
+282	Initial flu-like symptoms of fever , cough , and shortness of breath may progress to pneumonia , and in severe cases infection may lead to Acute Respiratory Distress Syndrome ( ARDS ) , the most severe form of acute lung injury .
+283	Illness typically is mild and self-limiting , but may be more severe and even fatal in elderly and immuno-compromised individuals .
+284	The course may progress rapidly to acute respiratory distress syndrome ( ARDS ) and multi-organ failure , requiring intensive care .
+285	The acute febrile phase of illness tends to resolve within 3 - 5 days ; however , malaise and general fatigue may persist for several days and sometimes weeks post infection .
+286	Progression to lower respiratory tract infection often presents as dyspnea and hypoxia , which can prove fatal .
+287	Patients who are immunocompromised often present with pneumonia that may progress to respiratory failure .
+288	If the host is unable to clear the primary pulmonary infection , the fungi disseminate systemically , and meningoencephalitis commonly evolves as the predominant clinical presentation .
+289	Severity of illness may range from asymptomatic radiographic infiltrates to fulminant respiratory failure and acute lung injury .
+290	In some cases , the disease progresses to a severe acute respiratory syndrome , pneumonia , multi-organ failure , and death [ 4 ] .
+291	Severe patients may later develop acute respiratory distress syndrome that could progress to multiple organ failure with a relatively high mortality rate .
+292	Early grade ( 1 - 2 ) pneumonitis may rapidly progress to respiratory failure and death in 1 - 2 % of patients .
+293	Clinical manifestations vary , but the neurological phase often includes increased aggression and the tendency to bite and thereby transmit infection ; rapid progression to death is inevitable [ 4 ] .
+294	It may progress to respiratory failure , and a significant proportion of patients die .
+295	Clinically , the illness is an acute type of bronchiolitis that may progress to pneumonia .
+296	If untreated , CVID patients typically develop severe bronchiectasis , frequent complications , and oxygen dependency .
+297	Manifestation of the infection can have a form from a self-limiting upper respiratory tract inflammation , through bronchitis ( in adults ) , bronchiolitis ( in infants ) and pneumonitis ( in infants and adults ) , and extremely of severe acute respiratory failure with a need of mechanical ventilation .
+298	Infection typically results in cold-like symptoms but can lead to more serious respiratory illnesses and , in extreme cases , death .
+299	Progression of disease may lead to extensive hepatic necrosis and liver failure .
+300	Perhaps the most important , and frequent , clinical manifestation of PIDs is recurrent sinopulmonary infections which , if not adequately treated , may result in the development of obstructive lung disease , chronic respiratory failure , and ultimately premature death .
+301	Chronic HP may progress to pulmonary fibrosis with fatal outcomes .
+302	The disease typically progresses from a nonspecific febrile prodrome to a fulminant cardiopulmonary phase , followed by a recovery phase in survivors .
+303	EVD begins with nonspecific symptoms involving fever , fatigue , and muscle ache , and evolves to a severe condition associated with vomiting , diarrhea , infrequent hemorrhaging , and mental disorder leading to a comatose state and death .
+304	They may begin with an afebrile watery diarrhea syndrome and then progress to fever and bacteremia .
+305	This may progress to respiratory failure and a syndrome indistinguishable from acute respiratory distress syndrome ( ARDS ) may develop .
+306	Occasionally , patients have progressive primary coccidioidomycosis develop , a condition in which the infiltrates and lymphadenopathy progress in association with fever , cough , and weight loss .
+307	Without effective antimicrobial treatment , bubonic plague may progress to an increasingly toxic state of fever , tachycardia , lethargy leading to prostration , agitation and confusion , and , occasionally , convulsions and delirium .
+308	The disease in this age group can progress to scarring of the gastric outflow tract with subsequent gastritis , dysphagia , and esophageal ulceration leading to inap petence , ptyalism , and death .
+309	In immunosuppressed hosts , extensive hematogenous spread of infection can manifest as a miliary TB , with multi-organ involvement .
+310	Those suffering from severe infection , and requiring hospital admission , may present with respiratory failure , cardiovascular failure , septic shock , or encephalopathy .
+311	The onset of FIP can be acute , although most cats have a chronic progressive course over 1 week to 3 months .
+312	Severe patients may develop diffuse alveolar injury , progressive respiratory failure , and acute respiratory distress syndrome ( ARDS ) and so on .
+313	The conditions of severe type may rapidly progress into acute lung injury or ARDS , leading to respiratory failure .
+314	However , systemic illness such as pyrexia , anorexia , lethargy and/or pneumonia can occur during the viraemic phase and is usually associated with immune dysfunction and death .
+315	The initial ( acute ) phase of the disease usually occurs in children ; there is then a long latent phase ( ∼20 years or more ) , culminating later in life in a chronic phase which may include irreversible cardiac and/or intestinal manifestations and shortened life spans in the victims .
+316	The infection can occur as septicemia , and patients then have high fever , toxic appearance , and confusion .
+317	In humans , infection is associated with fever and liver damage , but a subset of patients progress to hemorrhagic fever , encephalitis , ocular disease or death .
+318	Though most cases are self-limited , rapid progression to acute respiratory failure can occur with high rates of morbidity and mortality [ 41 ] .
+319	Some cases might progress rapidly to acute respiratory distress syndrome [ 5 ] and/or multiple organ function failure [ 6 ] .
+320	In immunosuppressed subjects , infection may become widespread and serious , with haemorrhagic lesions , and may extend to the central nervous system , causing meningitis or meningoencephalitis .
+321	Hyperinfection syndrome develops due to accelerated autoinfection and typically presents as intestinal or pulmonary failure .
+322	Pneumonic consolidation may develop with a rapidly worsening clinical condition and severe hypoxia , including hemoptysis .
+323	This condition can rapidly progress to severe and intractable hypotension with multisystem dysfunction .
+324	Both primary CMV infection and reactivation of latent virus infection during pregnancy may lead to symptomatic CMV infection with clinical signs such as jaundice , hepatosplenomegaly , cholestasis , petechiae , pneumonitis , small head circumference and neurologic sequela .
+325	The interstitial lung disease is potentially reversible , but the acute course of the disease can last several days , and ventilatory support may be needed for weeks [ 4 ] .
+326	Lower respiratory tract disease can manifest itself as airflow obstruction or viral pneumonia , which can be fatal .
+327	CMV pneumonitis commonly manifests with insidious onset of fever , malaise , cough , and dyspnea with hypoxia .
+328	Some patients develop dyspnea , multifocal pneumonitis that can cause a rapid decrease of blood oxygen saturation , and systemic cytokine storm , multisystem organ failure , and death .
+329	In severe cases , the patients also experience asthmatic suffocation and dyspnea , which may further develop into acute respiratory distress syndrome .
+330	The patients can develop radiographic findings of bilateral pulmonary opacities [ 9 ] , and they can progress to respiratory failure in severe cases .
+331	Eventually many patients develop severe chronic respiratory failure and may die during an acute episode of bronchitis .
+332	Rapid clinical deterioration can occur and > 95 % of patients requiring mechanical ventilation succumb to the disease [ 20 , 33 , 45 ] .
+333	Hantavirus pneumonia usually presents as interstitial edema , which may progress to consolidation representing a pulmonary capillary leak syndrome .
+334	It is a progressive disease characterized by repeated episodes of infection and may be complicated by acute respiratory failure , development of antibiotic resistance , pneumothorax , hemoptysis , and general nutritional decline .
+335	Neurological symptoms develop rapidly in the acute phase and are commonly associated with encephalopathy , stupor , coma , meningismus , and seizures .
+336	Early clinical manifestations begin with inflammation and progress to circulatory organ dysfunction associated with significant hematopathologic changes .
+337	Disease may be severe in immunocompromised individuals including stem cell transplant recipients and patients being treated for malignancy , with reports of pneumonia and rare fatalities .
+338	Severe disease may result in death due to progressive respiratory failure ( 9 , 10 ) .
+339	Although most infections are mild and self-limited , the spectrum of illness includes life-threatening pulmonary disease and widely disseminated systemic disease with a high mortality rate .
+340	The disease can progress rapidly , accompanied by acute respiratory distress syndrome , mediastinal emphysema , septic shock , disturbance of consciousness , and acute kidney injury .
+341	Chronic infection leads to chronic or intermittent diarrhea , weight loss , hypoproteinemia , and failure to thrive .
+342	This pneumonia usually evolves to acute respiratory distress syndrome ( ARDS ) requiring mechanical ventilation .
+343	Some cases might progress rapidly to acute respiratory distress syndrome ( ARDS ) and/or multiple organ function failure .
+344	Recrudescences quite often occur , leading to permanent myocardial damage , cardiomegaly , and/or congestive cardiac failure ; this may have an autoimmune pathogenesis .
+345	Most cases of ADEM are preceded by infection , yet often the infection has cleared before neurological signs and symptoms develop .
+346	One of the life­threatening cardiac manifestations is coronavirus fulminant myocarditis , which may also occur without accompanying symptoms of pulmonary involvement .
+347	Sequential infection in which a respiratory viral infection may progress to pneumonia or be succeeded by a systemic bacterial or fungal infection is common in immunosuppressed patients and potentially fatal .
+348	Most patients with COVID-19 present with mild and moderate symptoms , but severe cases can present with acute respiratory distress syndrome ( ARDS ) , multiple organ dysfunction syndrome , and even death .
+349	If patients survive the acute phase , they may develop clinical signs including vomiting , diarrhea , and abdominal pain .
+350	They normally give rise to a systemic illness with high fever , myalgia , and a dry cough which may be lifethreatening in high-risk groups such as the elderly or those with chronic cardio-respiratory conditions .
+351	Some patients may have dyspnea , and those who have a serious form of COVID-19 may rapidly progress to acute respiratory distress syndrome , coagulation dysfunction , and septic shock .
+352	Some patients can develop severe respiratory failure , which will usually appear around the eighth day after the onset of symptoms .
+353	In severe cases , malaria may present with shock , renal failure , hypoglycemia , and pulmonary edema .
+354	Part of the natural history of this disease is intermittent acute episodes of increased respiratory symptoms and worse pulmonary function that may be accompanied by fever and other constitutional symptoms , which are characterized as acute exacerbations .
+355	A much rarer complication is HUS that leads to a microangipathic hemolytic anemia , thrombocytopenia , and acute renal failure within a few days of symptom onset .
+356	In the immunocompromised setting , fever , chills , dyspnea , and hemoptysis are common , and weight loss may occur as the disease progresses .
+357	In some patients , the disease is fulminant , progressing to lethal respiratory failure within months , whereas the course may be indolent , spanning > 5 years in some patients .
+358	This typically progresses to a severe viral pneumonia , sometimes with secondary bacterial involvement .
+359	Without treatment , disease disseminates , leading to pneumonia , meningitis , sepsis , and multiorgan failure .
+360	Some severe cases can rapidly develop into acute respiratory distress syndrome ( ARDS ) , refractory metabolic acidosis , septic shock , and coagulation dysfunction [ 1 ] .
+361	Severe pneumonia is frequently of acute onset , demonstrates bilateral infiltrates on chest radiography , and causes severe acute respiratory failure not due to cardiac failure .
+362	In a small proportion of the cases , particularly in children , the infection can progress to haemolytic uraemic syndrome , a lifethreatening disease .
+363	In some of the critically ill patients , the lesions may progress to " white out " lung or acute respiratory distress syndrome ( ARDS ) leading to death .
+364	While acute infections are usually selflimited , severe forms may occur .
+365	TB with either a miliary or diffuse pneumonic pattern can progress to septic shock with multiple organ failure .
+366	Such Candida infections are usually fairly superficial in nature ( such as vaginitis and cystitis ) but can progress to infections of the eye , skin , and brain .
+367	Patients with severe disease develop viral pneumonia , acute respiratory distress , and hypoxia , requiring intubation and mechanical ventilation .
+368	Severe cases of COVID-19 progress rapidly to acute respiratory distress syndrome , septic shock , and metabolic acidosis , which is difficult to correct , and coagulopathy [ 10 ] .
+369	If the virus spreads to infect the nervous system , a further 1 - 2 % of cases experience stiffness in the back and neck , as well as mild muscle weakness .
+370	Without effective antimicrobial treatment , bubonic plague may progress to an increasingly toxic state of fever , tachycardia , lethargy , agitation and , occasionally , convulsions and delirium .
+371	Crias often have a 4- to 14-day history of diarrhea without severe accompanying signs , most likely related to the original gut pathogen , followed by rapidly progressive depression , anorexia , recumbency , abdominal tympany , colic , coma , and usually rapid death associated with secondary clostridial disease .
+372	The disease usually begins with gastrointestinal symptoms that can progress to bacteremia .
+373	Pneumonia can occur a few days after the development of rash and fever and can lead to respiratory failure .
+374	While the initial pulmonary infection is usually asymptomatic , cryptococcosis can cause serious symptoms of brain and spinal cord disease , such as headaches , dizziness , sleepiness , and confusion .
+375	While the initial pulmonary infection is usually asymptomatic , cryptococcosis can cause serious symptoms of brain and spinal cord disease , such as headaches , dizziness , sleepiness , and confusion .
+376	Severe cases may have pulmonary consolidation , which is particularly obvious in the outer zone of the lung , and may also be complicated by pleural effusion .
+377	Pneumonia may develop ; in some cases , it rapidly progresses and may cause respiratory failure that can not be corrected by conventional oxygen therapy within 1 - 3 days .
+378	In more severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure and death .
+379	The infections may be asymptomatic or may present mild vomiting and/or diarrhea , but can also cause severe disease leading to potentially fatal dehydration .
+380	Fulminant liver involvement occurs in about 1 % of adults and may be complicated by more serious abnormalities , including hypoglycemia , coagulopathy , and hypoalbuminemia .
+381	Radiologic worsening of the pulmonary lesions seen at admission then occurs , and development of diffuse groundglass changes frequently heralds the development of acute respiratory distress syndrome ( ARDS ) .
+382	Some patients go on to chronic disease with cavitation or progressive pulmonary blastomycosis , which manifests as acute respiratory distress syndrome , cavitary lesions , and a poor prognosis [ 247 ] .
+383	Some severe cases develop into acute respiratory distress syndrome ( ARDS ) , which can be fatal .
+384	Secondary bacterial pneumonia may follow any respiratory viral illness and presents as a recurrence or protracted fever and respiratory symptoms after initial recovery .
+385	In a small number of patients , SFTS progresses rapidly to multiorgan failure , which is fatal in some cases .
+386	The disease develops rapidly and can lead to sudden congestive heart failure , cardiogenic shock , and Adam-Strokes syndrome .
+387	Although CHIKV infections are rarely fatal , the disease can evolve into a chronic stage , which is characterized by persisting polyarthralgia and joint stiffness .
+388	Bacterial pneumonia may follow several days of mild URI , but onset then usually is abrupt .
+389	Some of these viral infections alone may not result in any clinical disease , but lead to secondary bacterial infections resulting in severe respiratory disease .
+390	Infection usually develops within the first 3 months of transplantation , with a presentation that might include pharyngitis , tracheitis , bronchitis , pneumonitis , enteritis , hemorrhagic cystitis , or disseminated disease .
+391	Infection usually develops within the first 3 months of transplantation , with a presentation that might include pharyngitis , tracheitis , bronchitis , pneumonitis , enteritis , hemorrhagic cystitis , or disseminated disease .
+392	If renal hypoperfusion is not quickly restored , the condition can progress from prerenal disease to acute intrinsic renal failure .
+393	In symptomatic patients , illness may evolve over the course of a week or longer , beginning with mild symptoms that progress ( in some cases ) to the point of dyspnea and shock [ 11 ] .
+394	Pneumonia evolving to ARDS is the major complication in patients with severe disease and can develop shortly after the onset of dyspnoea .
+395	Severe , generalized distemper may begin with a serous to mucopurulent conjunctivitis and rhinitis , and progress to include signs of lower respiratory disease , depression , anorexia , vomiting and diarrhea , severe dehydration , and death .
+396	This disease progresses rapidly to airway compromise .
+397	High fever and renal manifestations with acute tubular necrosis develop in the second phase and often lead to renal failure .
+398	The disease progresses rapidly , leading to dyspnea , stridor , cyanosis , and septic shock .
+399	The disease progresses rapidly , leading to dyspnea , stridor , cyanosis , and septic shock .
+400	The illness may progress to meningitis , vasculitis , renal and liver failure , and disseminated intravascular coagulation .
+401	Although the majority of children with adenovirus disease develop mild upper respiratory tract disease , more severe disease may occur with involvement of the lower respiratory tract characterized by pneumonitis and/or small airways disease .
+402	While the majority of cases are mild , some become severe progressing to pneumonia with multi-organ failure and death ( 3 ) .
+403	Furthermore , renal failure can progress rapidly even in the absence of symptoms .
+404	Circulatory and pulmonary complications are common in patients with cirrhosis and portal hypertension and some patients have gas exchange abnormalities that may progress to the hepatopulmonary syndrome ( HPS ) .
+405	Although chronic infection is often asymptomatic , in 20 % to 30 % of cases , it leads to serious or fatal cardiac or intestinal disease .
+406	All the epithelial manifestations of the disease are more severe , and secondary bacterial infections cause life-threatening disease of the lower respiratory tract as well as otitis media , conjunctivitis , and sinusitis .
+407	Acute infections present with a flu-like illness that can progress to severe pneumonia and acute hepatitis .
+408	Exacerbations can be caused by bacterial or viral infections and may lead to pneumonia .
+409	Both adults and children with severe disease can present with CNS involvement , which carries a 15 % to 20 % mortality rate and can lead to neurologic sequelae in survivors .
+410	Disease is mostly limited to the upper airways and is self-limiting , but a small percentage can progress to lower respiratory tract infections as bronchiolitis and pneumonia .
+411	Disease is mostly limited to the upper airways and is self-limiting , but a small percentage can progress to lower respiratory tract infections as bronchiolitis and pneumonia .
+412	In infants and young children , the infection can take a much severer course and can be associated with croup-like symptoms .
+413	In severe cases , the illness may be complicated by hypovolemic shock , encephalopathy , respiratory distress caused by laryngeal edema , pleural effusions , or pneumonitis .
+414	Disease may present in acute , subacute , and chronic forms and is potentially fatal .
+415	Acute upper airway obstruction may occur , but the cardinal signs of acute obstruction ( stridor and respiratory distress with recession and tachypnea ) can be absent until late in the process .
+416	Some of these infections may be severe , leading to death .
+417	Some of these infections may be severe , leading to death .
+418	While the symptoms of infection can include mild illnesses such as fever , malaise , rashes , and common cold-like presentation , more severe cases may result in diseases of the central nervous system , including aseptic meningitis , encephalitis , and paralysis .
+419	Viral pneumonia and gastrointestinal involvement manifested by nausea , vomiting , and diarrhea may also develop , especially in children .
+420	When lung parenchyma is affected , in addition to fever , symptoms include dry cough , dyspnoea and , in more serious cases , potentially fatal ARF [ 5 ] .
+421	After this localized phase , which can last weeks to months , the infection(s ) can spread to other sites ( disseminated disease ) , and patients then show malaise , fatigue , fever and chills , headaches , stiff neck , facial nerve palsies ( Bell 's palsy ) , and muscle and joint pain and other signs and symptoms .
+422	Thrombocytopenia subsequently develops , which can further progress to shock in approximately 15 % patients .
+423	All types of VHF are characterized by fever along with bleeding disorders and can progress to high fever , shock , and death in extreme cases .
+424	It results in atypical pneumonia , which may progress to respiratory distress syndrome .
+425	Severe cases in adults usually result in dyspnea after 1 week of onset , which can quickly progress to acute respiratory distress syndrome ( ARDS ) , septic shock , difficult to correct metabolic acidosis , and coagulation dysfunction [ 11 ] .
+426	The fatal brainstem encephalitis is characterized by rapid progression of cardiopulmonary failure .
+427	In less than 1 % of acute hepatitis B patients with jaundice , the disease may progress into fulminant hepatic failure .
+428	In the absence of timely diagnosis and treatment , the clinical course can rapidly progress to multiorgan failure , disseminated intravascular coagulopathy , and death .
+429	Many patients begin with mild or no symptoms and develop severe cases a week to two weeks after infection .
+430	Sore throat with hoarseness is often severe and may precede pneumonia by up to a week and resolve before pneumonia onset , resulting in a biphasic illness .
+431	Peracute cases may die within 1 to 2 days because of overwhelming viremia and vasculitis of all major organs and yet have minimal clinical signs other than fever , lymphadenopathy , depression , and prostration .
+432	Peracute cases may die within 1 to 2 days because of overwhelming viremia and vasculitis of all major organs and yet have minimal clinical signs other than fever , lymphadenopathy , depression , and prostration .
+433	In a minor proportion of patients as the disease progresses , it may lead to severe alveolar damage-causing respiratory distress , which can culminate in mortality [ 2 ] .
+434	In some cases , the complications of emphysema and acute respiratory distress syndrome occur , with multiple diffusive lesions in both lungs that rapidly changes .
+435	The acute Coxsackie virus infection in the immunocompetent pediatric population can sometimes evolve severely , complicated by acute diarrheal manifestations with subsequent dehydration and possible hematological involvement .
+436	The disease progresses to hemorrhage and hemodynamic instability , occasionally progressing to shock .
+437	Acute worsening and DAD may occur also in patients with nonspecific interstitial pneumonias ( NSIPs ) , and even in severe viral lung infections where there is DAD histopathology in the lung .
+438	Most cases of leptospirosis are self-limited , but the complications can include : uveitis , myocarditis , hemorrhage due to DIC , rhabdomyolysis that may result in renal failure , acute respiratory distress syndrome ( ARDS ) , septic shock and multiple organ failure .
+439	Respiratory decompensation often coincides with the development of adult respiratory disease syndrome ( ARDS ) , which can be difficult to differentiate from a confluent pulmonary tuberculosis infection with septic shock .
+440	Respiratory decompensation often coincides with the development of adult respiratory disease syndrome ( ARDS ) , which can be difficult to differentiate from a confluent pulmonary tuberculosis infection with septic shock .
+441	The natural history of eosinophilic myocarditis is usually swift and ominous with rapid evolution to refractory heart failure or intractable arrhythmias , leading to death .
+442	The classic manifestations of these infections , such as high fever , systemic toxicity , and local signs may be absent due to widespread use of antibiotics and/or profound immune suppression .
+443	More specific clinical manifestations may appear between 4 and 7 days after infection and are characterized by ( 1 ) VWD and ( 2 ) neurological signs including tremor , recumbency , padding opisthotonus , and finally death .
+444	Its progression can be more or less rapid , leading to chronic respiratory failure with pulmonary hypertension .
+445	One of the life‑threatening cardiac manifestations is coronavirus fulminant myocarditis , which may also occur without accompanying symptoms of pulmonary involvement .
+446	Death usually occurs because of multi-organ failure and shock ; metabolic disturbances occur in late stages , along with diffuse coagulopathy ( 38 , 68 , 73 ) .
+447	More severe COVID-19 symptoms are typical of pneumonia , and upon progression , the patient ’s condition can worsen with severe respiratory and cardiac problems .
+448	In the late stage of disease , dissemination of S. aureus could lead to sepsis , which has potential to involve other organs and cause acute respiratory distress syndrome ( ARDS ) , pericarditis , acute renal failure and even meningitis , but these are not seen often .
+449	These patients experience progressive dyspnea on exertion , cough , fatigue , malaise , and weight loss , and the condition often progresses to diffuse fibrosis and end-stage lung disease .
+450	A subset of patients , however , progresses to severe disease and respiratory failure with acute respiratory distress syndrome ( ARDS ) .
+451	Cases can be asymptomatic or cause mild respiratory symptoms , but rapid progression to severe pneumonia , acute respiratory distress syndrome , acute kidney injury and gastrointestinal symptoms ( vomiting and diarrhoea ) can develop .
+452	Signs and symptoms of ALF , including jaundice , ascites , encephalopathy , disseminated intravascular coagulopathy , and hypoglycemia can rapidly progress .
+453	The viral pathogenesis results in symptoms like fever , acute pneumonia , and , eventually , respiratory failure .
+454	Within 2 to 3 days , clinical signs associated with severe respiratory distress and ARDS can develop , leading to death .
+455	However , approximately 10 - 20 % of patients with KD may go on to develop recrudescent or persistent fever .
+456	The disease in humans may be mild and selflimiting or develop to severe pseu domembranous colitis with risk of intestinal perforation .
+457	Children can present insidiously with nonspecific signs such as fever , chills , malaise , prostration , and rash ( maculopapular to purpuric ) yet often progress within hours to coma and death .
+458	The symptoms of the bloodstream infection vary depending on the site of the original infection , but in general , they will include respiratory distress , severe headache , fever , diarrhea , development of pus-filled lesions on the skin , muscle tenderness , and disorientation .
+459	The development of fulminant hepatitis is rare ( less than 0.5 % of cases ) and can lead to more serious illness , including liver failure and death .
+460	These patients rapidly develop severe progressive respiratory failure which is often associated with failure of other organs , or marked worsening of underlying airways disease .
+461	These patients rapidly develop severe progressive respiratory failure which is often associated with failure of other organs , or marked worsening of underlying airways disease .
+462	The infection usually involves the lung parenchyma , but can also present in extra-pulmonary forms such as lymphadenopathy , bone and joint infections , and serious meningoencephalitis .
+463	The severe form of tracheobronchitis generally results from mixed infections complicated by poor general health , immunosuppression , or lack of vaccination .
+464	In severe cases , dyspnea , respiratory distress , or septic shock may occur , develop into severe disease , or even result in death .
+465	In humans , infection of the respiratory tract can lead to pneumonia , secondary pneumonia and overwhelming immune responses , followed by multiorgan failure in rare cases .
+466	Occasionally , IPA manifests as a necrotizing pneumonia , with infiltration of local structures or organs .
+467	The spectrum of disease can range from asymptomatic infections to severe disease with dehydration , which can be fatal .
+468	The spectrum of disease can range from asymptomatic infections to severe disease with dehydration , which can be fatal .
+469	Multiorgan failure may develop , and up to half of patients in the toxic phase die within 7e10 days [ 15 ] .
+470	Acute failure of this process results in disseminated infection , which may ultimately lead to death .
+471	Chronic infection may resolve with the development of immunity or may reactivate , resulting in further acute disease .
+472	In severe cases , pulmonary edema or adult respiratory distress syndrome may develop .
+473	It usually presents in the second to fourth day of life and may be associated with lung tissue damage ( RDS , infection , and mechanical ventilation with high-inspired oxygen ) , hypoxia , hypervolemia , hypoproteinemia , congestive heart failure , and coagulation abnormalities .
+474	It usually presents in the second to fourth day of life and may be associated with lung tissue damage ( RDS , infection , and mechanical ventilation with high-inspired oxygen ) , hypoxia , hypervolemia , hypoproteinemia , congestive heart failure , and coagulation abnormalities .
+475	When present in large numbers , septic emboli may cause unexpected death because of massive pulmonary edema ; survivors generally develop pulmonary arteritis and thrombosis and embolic ( suppurative ) pneumonia , which may lead to pulmonary abscesses .
+476	Thrombocytopenia subsequently develops which can further progress to shock in approximately 15 % patients .
+477	Severely affected patients may develop ARDS or bacterial superinfection and septic shock .
+478	Certain strains of leptospirosis will typically present with aseptic meningitis ; however , most cases present in conjunction with systemic disease and severe involvement of other organs such as lung , liver , and kidney .
+479	A child with bacterial tracheitis will often develop high fever , toxicity , and worsening respiratory distress .
+480	As with primary PAP , secondary PAP may be mild and self-limited or may progress to respiratory failure .
+481	It may begin with an acute viral respiratory tract infection that fails to resolve .
+482	Primary infection in patients with leukemia or in patients who have undergone HSCT occurs most often in children and can lead to dissemination with involvement of multiple organs , including the CNS as meningitis , encephalitis , or vasculitis of the intracranial vessels .
+483	Patients with HFMD usually have good prognosis ; however , in some extreme cases the infection can be accompanied by central nervous system diseases , eventually leading to cardiorespiratory failure , and even death .
+484	Symptomatic dengue virus infection usually involves fever , arthralgia , and rash , but severe dengue ( formerly called dengue hemorrhagic fever or dengue shock syndrome ) involves hemorrhagic manifestations , hypotension , and shock that may be fatal .
+485	Disseminated disease may present with pneumonia and hepatitis with hypothermia , apnea , nasal congestion , tachypnea , cyanosis , poor feeding with emesis , hypotension , neutropenia , hematuria , and hypotonia [ 4 , 22 ] .
+486	If left untreated , the disease may progress to permanent damage with fi brosis and bronchiectases .
+487	Early HAT can present with biliary tract necrosis followed by sepsis , altered mental status , and coagulopathy .
+488	Although calves can die because of acute , uncomplicated viral lesions , most fatal cases have a superimposed acute bacterial bronchopneumonia or lobar pneumonia .
+489	The acute form causes severe respiratory distress that can lead to asphyxiation and death .
+490	Patients often are extremely ill , not only with respiratory compromise and even respiratory failure but also with nonrespiratory manifestations ; specifically , gastrointestinal , central nervous system , hepatic , and renal abnormalities may accompany the pneumonia .
+491	In severe cases , it may lead to primary viral pneumonia accompanied with subbronchial hemorrhage and even fatal outcome .
+492	While most disease associated with RVF is mild , severe and fatal illness does occur .
+493	Occasionally , these infections progress to bronchopneumonia .
+494	Seriously affected adults often develop a viral pneumonia and cardiac complications , and older patients are more susceptible to respiratory failure and death .
+495	In the most serious cases , infection progresses into acute respiratory distress syndrome ( ARDS ) with diffuse alveolar consolidations ( diffuse patchy-like lesions ) [ 4 ] .
+496	The clinical course of SSPE may last either months or years and ultimately results in coma and death .
+497	The clinical course of SSPE may last either months or years and ultimately results in coma and death .
+498	Disseminated disease can course with severe acute hepatitis and it can be fatal in the absence of antiviral therapy .
+499	Some patients develop pneumonia that can lead to respiratory failure or severe acute respiratory syndrome ( SARS ) .
+500	Severe viral pneumonias , such as highly pathogenic avian influenza virus infection , severe acute respiratory syndrome virus infection , often progress rapidly into dangerous condition .
+501	The syndrome progresses very rapidly from interstitial pulmonary edema to a clinical picture resembling adult respiratory distress syndrome ( ARDS ) .
+502	Clinical hepatitis in HSCT recipients can range from fever accompanied by abdominal pain to fulminant illness .
+503	The primary infection may present with associated flu-like symptoms , including an abrupt onset of high fever , irritability , and malaise .
+504	When death occurs , it usually results from septic shock , DIC , or multiple organ dysfunction .
+505	The clinical manifestations of inhalational anthrax generally evolve to a fulminant presentation with progressive respiratory failure and shock .
+506	The pneumonia and accompanying adult respiratory distress syndrome can be rapidly progressive and can lead to death ( 2 , 3 ) .
+507	Clinical manifestations of COP can begin with a flu-like illness and often protracted dyspnoea , albeit there are also rapidly progressive cases .
+508	The Middle East respiratory syndrome corona virus infection typically begins with fever , cough , dyspnea , and that rapidly progress to pneumonia requiring ventilatory and other organ support .
+509	Severe cases are characterized by rapid change , abrupt onset of fever , petechial or purpuric rash , hemodynamic signs of sepsis , vasomotor collapse , and shock [ 44 ] .
+510	More severe forms of disease can occur , particularly in the young or immunocompromised that are associated with pneumonia or bronchitis .
+511	Most cases are asymptomatic or self-limiting , but the clinical spectrum extends to severe progressive pneumonia with acute respiratory distress syndrome , a life-threatening condition requiring mechanical ventilation and intensive care support .
+512	In some cases , the infection can become disseminated with spread to the lungs .
+513	Most cases are mild ; severe disease often involves cytokine storm and organ failure .
+514	Most people infected with the virus recover well , but some also may experience fatal complications , such as acute organ failure , septic shock , acute pulmonary edema , acute pneumonia , and acute respiratory distress syndrome .
+515	After the acute phase , polyarthritis can be recurrent and may persist for several years after infection .
+516	Unfortunately , these nonspecifi c symptoms can rapidly progress to severe respiratory failure requiring ventilatory support within days or weeks after symptom onset .
+517	The clinical manifestations of inhalational anthrax generally evolve to a fulminant septic picture with progressive respiratory failure .
+518	The clinical manifestations of inhalational anthrax generally evolve to a fulminant septic picture with progressive respiratory failure .
+519	Infection may be exacerbated by concurrent SeV infection or mycoplasmosis , resulting in death .
+520	Infection may result in rapid progressive viral pneumonia with fatal outcome .
+521	When severe , these patients present with pneumonia and acute respiratory distress syndrome ( ARDS ) , and 1%-3 % progress to multiorgan failure and ultimately succumb to the viral syndrome .
+522	With severe cases , bleeding , gangrene of the digits , thrombocytopenia , seizures , CNS signs , or renal failure may develop .
+523	Younger children can have a syndrome called streptococcosis-coryza with crusting below the nares , more generalized adenopathy , and a more chronic course .
+524	In Hantavirus pulmonary syndrome ( HPS ) ( mainly seen in the Americas ) , within 12 - 24 h of onset of symptoms , most patients develop some degree of hemodynamic instability and pulmonary edema accompanied by hypoxemia to full blown ARDS .
+525	Severely affected patients develop acute respiratory distress syndrome , which corresponds with diffuse alveolar damage .
+526	Patients that develop acute respiratory distress syndrome may worsen rapidly and die of multiple organ failure [ 13 ] .
+527	The disease can vary in severity from subclinical , through very mild , to fulminating liver necrosis and death .
+528	Late-onset lung injury usually manifests as cryptogenic organizing pneumonia .
+529	The hallmark of severe dengue is capillary leakage leading to shock and , if not managed well , death .
+530	Infection can be more severe in infants and in children under the age of 22 years , people over the age of 65 years , or immunocompromised individuals in whom viral pneumonitis or pneumonia can develop or bacterial superinfection resulting in pneumonia or sepsis .
+531	PH usually presents in the second to fourth day of life and may be associated with lung tissue damage from respiratory distress syndrome , infection , mechanical ventilation , and oxygen-induced lung injury .
+532	Clinically , primary influenza viral pneumonia initially manifests like a typical uncomplicated URTI , but the acute infection rapidly progresses to the lower respiratory tract , accompanied by signs and symptoms of pneumonic involvement like cough , dyspnea , and hypoxemia .
+533	Initial symptoms and signs of ADEM usually begin within 2 days to 4 weeks after a viral infection or vaccination , and include a rapid onset encephalopathy ( behavioral change or altered consciousness ) associated with a combination of multifocal neurological deficits , leading to hospitalization within a week .
+534	After 3 to 7 days of fever , a nonproductive cough may progress to breathlessness and hypoxemia in 15 % of patients .
+535	Left untreated , it can rapidly progress to cardiopulmonary arrest and death .
+536	Myocarditis , however , may progress to dilated cardiomyopathy and heart failure .
+537	In the majority of cases , the infection is asymptomatic , but in~5 % of patients , the disease manifests itself in a severe form , which may include adult T-cell leukemia/lymphoma and HTLV-1-associated myelopathy/tropical spastic paraparesis .
+538	When PTLD develops within the first year after transplantation , it can present as a mononucleosislike syndrome and later develop into a fulminant malignant disease with over 75 % mortality .
+539	Those who are infected can develop pulmonary fibrosis , which is characterized by disseminated pneumonitis and respiratory failure .
+540	When clinically evident infection does occur , the primary manifestations are usually systemic , including intrauterine growth retardation , hepatosplenomegaly and thrombocytopenia .
+541	Clinical syndromes are generally mild but occasional infections may cause serious disease , such as paralytic poliomyelitis , meningitis or myocarditis .
+542	The onset of serious illness may result in death as a consequence of substantial alveolar damage and progressive respiratory failure .
+543	Disease can be acute , causing septicemia and death .
+544	Such illness may be self-limiting or followed by progressive disease , which is sometimes first manifest many months or years later , affecting either the lung or extrapulmonary sites .
+545	If CMV infection is symptomatic , clinical presentation may be a relatively benign mononucleosis in adults , or in patients with HIV infection , manifestations such as pneumonia , hepatitis , encephalitis , esophagitis , colitis , and retinitis can occur .
+546	Severe , generalized distemper may begin with a serous to mucopurulent conjunctivitis and rhinitis and progress to include signs of lower respiratory disease , lethargy , anorexia , vomiting and diarrhea , severe dehydration , and death .
+547	While most patients having COVID-19 pneumonia will have a mild disease course , some patients will develop severe respiratory distress , sepsis , and septic shock .
+548	However , the disease may evolve into an acute phase , and some dogs develop a rapidly progressive , pleomorphic ( immunoblast ) lymphoma .
+549	Acute melioidosis is a systemic infection that produces widespread coalescent microabscesses but it may resolve without being recognized only to recur many years later in lung , lymph nodes , and bone .
+550	Clinical presentation of MERS-CoV infection ranges from asymptomatic to very severe disease ; The patient may also complain of shortness of breath that may progress to pneumonia , often requiring ventilator support .
+551	The condition typically progresses to meningitis , which may be rapidly fatal or may result in serious neurologic sequelae [ 725 ] .
+552	This condition can progress through mild symptoms to shortness of breath , with radiological evidence of pulmonary consolidation and concomitant tuberculosis .
+553	Common outcomes of infection include lymphoid depletion , hyperkeratosis , interstitial pneumonia ( often complicated by opportunistic bacterial infections ) , and fatal encephalopathy .
+554	In severe cases , necrotizing fasciitis occurs with extensive destruction of the subcutaneous tissues and is often associated with multiorgan failure .
+555	In its most severe form , PGD presents as diffuse alveolar infiltrates in the allograft in the absence of cardiogenic pulmonary edema , infection , or cellular rejection that can lead to refractory hypoxia .
+556	A patient with primary infection often presents with the so-called CMV syndrome ( high fever without localising physical signs ) that can progress rapidly to gastritis , colitis ( often bloody ) , pneumonitis and other end-organ involvement .
+557	In the most severe form of the disease , severe bleeding , organ dysfunction , vascular permeability , and shock can occur .
+558	After viral infection , symptoms of encephalopathy commonly occur , including acute intracranial hypertension , conscious disturbance , and convulsion .
+559	The disease can progress to dehydration , anorexia and weight loss , acidosis , depression , and occasionally death .
+560	The disease can progress to dehydration , anorexia and weight loss , acidosis , depression , and occasionally death .
+561	Withdrawal syndrome can occur with abrupt discontinuation of treatment and is characterized by acute relapse of disease symptoms such as accelerated splenomegaly , worsening cytopenias , and sepsis-like syndrome .
+562	The infection characterized by chills , fever , diarrhea , and myalgia can progress to hemorrhage and death .
+563	Severe infection with MERS-CoV can result in acute respiratory distress syndrome , renal failure , and death , while younger patients without preexisting conditions typically display milder disease .
+564	For patients with severe disease , sudden onset of fever , chills , fatigue , headache , malaise , nausea , and vomiting can progress quickly to seizures , coma , paralysis , and death .
+565	Seriously-ill patients may develop dyspnea and/or hypoxemia one week after the onset of symptoms , and critically-ill patients can quickly progress to acute respiratory distress syndrome , septic shock , severe metabolic acidosis , coagulopathy , and multiple organ dysfunction syndrome .
+566	RV disease is characterized by watery diarrhea , often accompanied by fever , vomiting and nausea , leading to rapid dehydration that can be fatal in the absence of medical intervention .
+567	Severe disease is characterized by vigorous inflammatory responses in the lung , often with a sudden onset after 5 - 7 days of stable disease .
+568	Severe bacteremia is an important consequence of advanced disease and results in multiorgan abscesses and infarction .
+569	Severe bacteremia is an important consequence of advanced disease and results in multiorgan abscesses and infarction .
+570	Severe bacteremia is an important consequence of advanced disease and results in multiorgan abscesses and infarction .
+571	Severe bacteremia is an important consequence of advanced disease and results in multiorgan abscesses and infarction .
+572	The cardiopulmonary stage , heralded by cough and dyspnea , can progress rapidly ; pulmonary edema and respiratory failure may develop within hours of presentation .
+573	The course of chronic liver disease is usually insidious , and progresses slowly without symptoms or physical signs in the majority of patients during the first two or more decades after infection .
+574	Further deterioration can involve marked cerebral edema , hypoglycemia and severe shock with lactic acidosis and multiple organ failure .
+575	Further deterioration can involve marked cerebral edema , hypoglycemia and severe shock with lactic acidosis and multiple organ failure .
+576	MERS can be asymptomatic but also lead to respiratory failure and death .
+577	The extension of influenza viral infection to the lower respiratory tract may result in viral pneumonia which can spread into all of the internal organs .
+578	Necrotizing pneumonia in an otherwise healthy child usually resolves with antimicrobial treatment , but occasionally can progress to formation of pneumatoceles ( blebs in the lung parenchyma created by coalescence of alveolar spaces after rupture function .
+579	Patients with abortive infection recover at this stage , but approximately 15 % of patients will enter the third stage of intoxication , which is characterized by the return of fever , prostration , and organ dysfunction leading to nausea , vomiting , epigastric pain , jaundice , oliguria , and a hemorrhagic diathesis .
+580	Although generally self-limiting , relapse with chronic diarrhea is possible as well as extraintestinal infection including bacter­emia .
+581	In more severe cases , infection can lead to pneumonia , serious respiratory problems and ultimately , fatalities .
+582	Secondary bacterial infection may also occur to complicate the disease that progresses into septicemia , with a mortality of up to above 50 % .
+583	In a neonate with enteroviral infection , clinical manifestations can range from mild gastroenteritis to a severe and fulminant sepsis-like syndrome or meningitis and encephalitis .
+584	In severe cases , acute respiratory distress syndrome , septic shock , difficult to correct metabolic acidosis , and coagulation dysfunction develop rapidly [ 4 ] .
+585	While fever may be the manifestation of a self-limited infection , it can also presage an infection that could be rapidly progressive and lethal .
+586	DENV infection is typically self-limiting ; however , in some cases of infection , the disease manifests a more complicated and severe form where patients may suffer from plasma leakage and shock syndrome .
+587	In severe cases , pulmonary edema or respiratory distress syndrome may develop .
+588	The majority of infections remain asymptomatic ; however , in cases of heavy infection , patients may develop diarrhea , often alternating with constipation , epigastric pain , nausea and vomiting , and hemorrhage , secondary to intestinal obstruction and mucosal injury .
+589	In others , disease progresses to severe bronchiolitis and pneumonia , including submucosal edema and bronchiolar obstruction requiring oxygen , and in the worst cases , mechanical ventilation .
+590	With disease progression , respiratory distress , cyanosis , altered mental status , and chest pain ( owing to pneumothorax in some cases ) may occur .
+591	Lymphocytic interstitial pneumonia can complicate HIV infection and may persist with a nonproductive chronic cough , respiratory distress , failure to thrive , and pulmonary infiltrates .
+592	After measles infection , for instance , there is no rash in these children , but an uncontrolled and progressive growth of virus in the respiratory tract , leading to fatal giant cell pneumonia .
+593	A subset of these patients develop a more severe form of the disease characterized by expanding pulmonary lesions , sepsis , acute respiratory distress syndrome , and respiratory failure .
+594	It usually occurs within 4 hours after transfusion and is characterized by the acute onset of dyspnea and hypoxemia , and it progresses to noncardiogenic pulmonary edema requiring mechanical ventilation and ICU treatment .
+595	Patients with IPF may present with rapid respiratory worsening during the course of their disease .
+596	Depending on the virus , the disease can progress with respiratory problems , severe bleeding , kidney failure , and shock .
+597	The disease can then progress to the nervous system , advancing to the second stage , which is characterized by the development of high temperatures and acute central nervous system ( CNS ) symptoms .
+598	Acute GVHD can progress to frank epidermal desquamation , massive diarrhea and hematochezia , and fulminant liver failure , respectively .
+599	This disease can progress quickly , and 2 - 3 % of patients die within a short time , which is generally due to multiple organ failure .
+600	21 Death is usually due to progressive respiratory failure and the acute respiratory distress syndrome , but multi-organ failure can also occur .
+601	The onset of bacterial pneumonia usually is abrupt but can follow several days of mild URI .
+602	The spectrum of hMPV disease may range from mild upper respiratory tract infection to serious disseminated infection leading to respiratory failure and encephalitis .
+603	The spectrum of hMPV disease may range from mild upper respiratory tract infection to serious disseminated infection leading to respiratory failure and encephalitis .
+604	Whereas the HSV infections commonly present as orolabial disease , disseminated disease in the form of pneumonitis , esophagitis , and hepatitis may occur .
+605	116 Recovery begins after 8 to 10 days , but in 20 % of cases the infection can progress to pulmonary edema , encephalopathy , and shock .
+606	This form presents as the infectious process wanes with the acute onset of anemia that may be severe , although usually self-limited .
+607	As part of this hyperinfection syndrome in immunocompromised patients , CNS involvement may be manifest by headache , altered mentation , meningismus , focal or generalized seizures , or motor weakness .
+608	In an immunocompromised patient , especially those with HIV infection , cryptococcal pneumonia is usually symptomatic and can progress rapidly to ARDS , even in the absence of CNS involvement .
+609	A diffuse necrotizing vasculitis and spread of virus into parenchymal organs , including the adrenals , kidneys , lungs , spleen , and liver , results in multifocal organ necrosis .
+610	It leads mostly to moderate to severe anemia , with subsequent hypoxemia , hypercoagulability , and often fatal outcomes .
+611	The subsequent clinical course is characterized by episodes of muscle weakness in the first 2 years of life , which may progress to respiratory failure .
+612	Within 24 h , the disease rapidly progresses to respiratory failure , hemorrhagic mediastinitis ( wide mediastinum ) , septic shock , multiorgan failure , and death .
+613	The onset of myocarditis , endocarditis , and pericarditis may be triggered , with circulatory failure and pulmonary edema in the severe cases .
+614	In the early recovery phase , diffuse infiltrates are most commonly due to noninfectious causes such as pulmonary edema , ARDS , or idiopathic interstitial pneumonitis .
+615	Most patients who develop SSPE remain symptom free for 6 to 15 years after the initial infection but then later develop behavioral problems , intellectual disability , motor dysfunction , myoclonic jerks and other movement disorders , and ocular abnormalities before progressing to death within 1 to 3 years of symptom onset .
+616	The severe disease presents with dyspnea , hypoxia , or > 50 % lung involvement , and critical illness occurs when there is respiratory failure , shock , or multiorgan failure [ 11 ] .
+617	In rare cases , acute hepatitis E can be severe , resulting in liver failure and death .
+618	Initial symptoms are often fever , cough , and nasal congestion that can progress to pneumonia and acute respiratory distress syndrome .
+619	Infection of the central nervous system generally presents with focal neurologic deficits or seizures and may progress to death following extensive demyelination .
+620	Infection of the central nervous system generally presents with focal neurologic deficits or seizures and may progress to death following extensive demyelination .
+621	when bacteremia is associated with the uti , full-blown severe sepsis can develop .
+622	Serious progression may be fatal due to shock and organ failure .
+623	Certain distinctive complications , such as uveitis , usually occur as a late complication months later , sometimes without detectable clinical symptoms during the acute infection .
+624	Later , progressive involvement of the gastrointestinal tract with severe pain and gastrointestinal bleeding , maculopapular rash , and systemic bleeding disorders often occurs .
+625	LF is typically mild but it can cause severe disease characterized by hemorrhagic fever and multi-organ failure .
+626	After 3 to 7 days of fever , a nonproductive cough may progress to dyspnea and hypoxemia in 15 % of patients .
+627	Once clinical signs develop , disease is extensive and often unresponsive to therapy .
+628	Severe disease from MERS-CoV infection can cause respiratory failure and organ failure , and cases can be fatal , especially in patients with co-morbidities such as diabetes and cardiac complications .
+629	The clinical manifestations change rapidly , and severe cases can lead to hypoxia , multiple organ dysfunction , and death .
+630	In the absence of early treatment , it may progress to cirrhosis and liver failure .
+631	If left undiagnosed , the disease progresses to renal failure , meningoencephalitis , acute respiratory distress syndrome , and shock and may result in death in more than 20 % of untreated cases [ 22 , 23 ] .
+632	It may reach more severe forms of aseptic meningitis and acute flaccid paralysis ( AFP ) with long-term residual paralysis or death during the acute phase .
+633	Serious disease is rare , but untreated or late stage disease may result in renal or respiratory failure , peripheral neuropathies , disseminated intravascular coagulation (DIC)-like coagulopathies , rhabdomyolysis , and hemorrhage [ 37 , 38 ] .
+634	The respiratory symptoms of this infection are primarily related to severe lower respiratory tract complications ( e.g. , dyspnoea and coughing associated with a fever ) that may become fatal , while there is generally little involvement of the upper respiratory tract .
+635	In certain cases , pulmonary symptoms can be severe with major hypoxemia or acute respiratory distress syndrome ( ARDS ) [ 29 ] .
+636	In certain cases , pulmonary symptoms can be severe with major hypoxemia or acute respiratory distress syndrome ( ARDS ) [ 29 ] .
+637	Influenza can cause a primary viral hemorrhagic pneumonia characterized by progressive dyspnea and leukocytosis , potentially progressing to respiratory failure and acute respiratory disease syndrome .
+638	Fever and gastrointestinal symptoms may form a prodrome , after which symptoms decline , only to be followed by a more severe systemic and respiratory syndrome [ 25 , 26 ] .
+639	Late stages of the disease are marked by shock , seizures and coma , culminating in death [ 13 ] .
+640	In healthy individuals , symptomatic infection is most commonly a subacute , self-limited pulmonary illness , which occasionally may mimic bacterial pneumonia or sepsis .
+641	The disease may progress to encephalitis with drowsiness , disorientation , convulsions , and coma .
+642	It may progress to jaundice , bleeding disorders , shock , renal or liver failure , encephalopathy , coma , and death .
+643	The clinical course is biphasic [ 1 ] , first a viral infection in the upper or/and lower respiratory tract sometimes followed by a dysregulated inflammatory response ( " cytokine storm " ) with severe inflammation in the lungs which often require several weeks of mechanical ventilation .
+644	Primary infection ( Valley Fever ) is usually mild and self-limiting , but may progress into a systemic mycosis producing oral lesions , generalized lymphadenopathy , and miliary pulmonary lesions .
+645	The manifestations of disease can vary from an influenza-like mild fever and lymphadenopathy ( buboes ) to pneumonia , shock , disseminated intravascular coagulation , and tissue necrosis .
+646	Although clinical signs initially can resemble those of influenza , clinical signs of CDV are much more severe and manifest as a combination of respiratory , neurologic , and dermatologic signs not seen with influenza .
+647	A small number of patients may present with acute respiratory distress syndrome with severe respiratory complications , which can lead even to death .
+648	Primary viral pneumonia is the most severe , although the least common of the pneumonic complications and may occur in patients that are otherwise normal ( 22 ) .
+649	A small number of patients may present with acute respiratory distress syndrome with severe respiratory complications , which can lead even to death .
+650	Continued progression may lead to respiratory distress and death .
+651	In a small percent of cases , severe pneumonia can aggravate to Acute Respiratory Distress Syndrome ( ARDS ) , septic shock and multiple organ failure ( 1 ) .
+652	The disease primarily presents with pneumonitis but later can progress to renal , gastrointestinal , and hepatic disease .
+653	In older children and adults , EBV primary infection often leads to classic infectious mononucleosis , which is characterized by malaise , headache , fever , pharyngitis , and cervical lymphadenopathy .
+654	In severe cases , especially in the elderly and in those with comorbid conditions , the infection can lead to impaired kidney and liver function leading to organ failure and death .
+655	Some patients may then develop acute respiratory distress syndrome ( ARDS ) and other serious complications which may potentially lead to multiple organ failure ( [ 1 ] ) .
+656	Rarely , patients will experience acute focal neurological deficits weeks to months after resolution of the rash , with myelitis , aseptic meningitis , meningoencephalitis or Guillain-Barré syndrome .
+657	Secondary bacterial pneumonia can follow the initial phase of viral respiratory infection or occur during the recovery phase .
+658	Secondary bacterial pneumonia can follow the initial phase of viral respiratory infection or occur during the recovery phase .
+659	Secondary infection can lead to a variety of more serious signs indicative of respiratory disease , sepsis , and shock .
+660	In the later stage of disease , some COVID-19 patients may develop into acute respiratory distress syndrome or even multiple organ failure .
+661	In the later stage of disease , some COVID-19 patients may develop into acute respiratory distress syndrome or even multiple organ failure .
+662	Acute bronchitis can progress to protracted bacterial bronchitis ( PBB ) .
+663	In HBV infection in older children , prodromal symptoms may include urticaria and arthralgia , which precedes a spectrum of clinical presentations ranging from acute viral hepatitis , severe or fulminant hepatitis , chronic persistent hepatitis , chronic active hepatitis to the asymptomatic chronic carrier state .
+664	This immune system disorder can lead to series of symptoms including fever , edema , and hypotension in mild cases .
+665	17 Patients may become systematically ill with fever , dehydration , hypovolemia , secondary bacterial infection , esophageal and pulmonary involvement , and complications and death from sepsis .
+666	Manifestations of MERS disease are similar to severe acute respiratory syndrome ( SARS ) with patients usually developing acute pneumonia that progresses to respiratory failure and acute respiratory disease syndrome [ 2 ] .
+667	The most common symptoms are fever and cough , which can progress to pneumonia , acute respiratory distress syndrome ( ARDS ) and/or end-organ failure .
+668	The most severe presentation is CMV pneumonitis , and patients are often severely ill .
+669	In severe cases , infection can cause pneumonia , severe acute respiratory syndrome , kidney failure and even death .
+670	Patients may develop pulmonary edema and acute respiratory distress syndrome ( ARDS ) .
+671	Less commonly , the virus may exhibit pneumotropism leading to severe interstitial pneumonia .
+672	The febrile disease may produce high mortality ( up to 95 % ) and appears in several clinical forms , including the subacute cardiac form described here , as well as an acute respiratory form with massive pulmonary edema .
+673	Viral reactivation can also occur in immunosuppressed patients , resulting in several clinical syndromes , including keratoconjunctivitis , gastroenteritis , hepatitis , and hemorrhagic cystitis , associated or not with pneumonia .
+674	Severe cases of MERS may require intensive care and mechanical ventilation , with a relatively large number of patients progressing to respiratory or renal failure .
+675	In the absence of appropriate treatment there may be rapid progression to respiratory failure , vascular collapse , purpuric skin lesions , necrotic digits , and death .
+676	Patients are often extremely ill , not only with respiratory compromise and even respiratory failure but also with nonrespiratory manifestations ; specifically , gastrointestinal , central nervous system , hepatic , and renal abnormalities may accompany the pneumonia .
+677	Patients are often extremely ill , not only with respiratory compromise and even respiratory failure but also with nonrespiratory manifestations ; specifically , gastrointestinal , central nervous system , hepatic , and renal abnormalities may accompany the pneumonia .
+678	In some cases , the disease progresses rapidly and patients develop acute respiratory distress syndrome , septic shock , uncompensated acidosis , and coagulation dysfunction within a few days [ 5 ] [ 6 ] [ 7 ] [ 8 ] .
+679	Some cases can develop into ARDS , or even death .
+680	Some cases can develop into ARDS , or even death .
+681	Without appropriate therapy , pleural effusions become infected with the organisms causing the underlying pneumonia and develop into the second stage or fibropurulent stage .
+682	Renal failure can develop as part of the critical illness , in particular renal tubular necrosis .
+683	Although calves can die because of acute , uncomplicated viral lesions , most fatal cases have a superimposed acute bacterial bron chopneumonia or lobar pneumonia .
+684	But in severe cases , patients can progress rapidly and develop to the acute respiratory distress syndrome , septic shock , metabolic acidosis and coagulopathy .
+685	But in severe cases , patients can progress rapidly and develop to the acute respiratory distress syndrome , septic shock , metabolic acidosis and coagulopathy .
+686	Localized peritonitis may have few or no systemic manifestations , whereas severe localized or generalized peritonitis often is accompanied by severe toxemia , sepsis , or both .
+687	In some cases symptoms may spread to include the lower respiratory tract and lungs , and result in bronchitis , bronchiolitis , or pneumonia [ 1 , 8 , 9 ] .
+688	In infants , early-onset disease occurs within the first days of life and is characterized by sepsis and pneumonia .
+689	When CNS disease occurs , it is usually characterized by hyperesthesia , seizures , cerebellar or vestibular disease , paresis , and chorea myoclonus that generally develop within 21 days of recovery from systemic disease .
+690	Disease is often asymptomatic or mild , but may cause generalized illness like influenza , meningitis , or encephalitis .
+691	Clinical complications of these reactions can be progressive sepsis and the development of multiple organ dysfunction syndrome , with enhanced susceptibility to infections .
+692	Unless treated with dextrose supplementation , these episodes may quickly progress to coma and death .
+693	Myocarditis can manifest in varying severity , ranging from a mild rise in myocardial enzymes to presenting with profound cardiogenic shock .
+694	Pneumonia is one of the most severe symptoms and can progress rapidly to acute respiratory distress syndrome .
+695	Severe acute respiratory syndrome patients may present with a spectrum of disease severity ranging from relatively asymptomatic infection to fulminant pneumonitis and death .
+696	In transplant recipients , the spectrum of PIV ranges from asymptomatic to respiratory failure and death .
+697	This phase usually progresses rapidly to a severe respiratory disease characterized by nonproductive cough and dyspnea .
+698	Late/Chronic Lyme disease is typically associated with arthritis involving the large joints , predominantly the knees , and/or severe neurologic problems from months up to a few years after the initial infection .
+699	Infection begins in the upper respiratory tract but becomes systemic , and many organs become infected .
+700	Approximately 1 - 2 % of patients subsequently develop a non-paralytic poliovirus infection ; in such cases the virus infects the central nervous system , causing aseptic meningitis accompanied by muscle cramps and back pain , which may persist for about 2 - 10 days .
+701	In some patients with myasthenia gravis , the condition develops in an accelerated or explosive fashion over days or weeks and leads to severe limb or oropharyngeal weakness or ventilatory failure .
+702	In more severe cases , the disease can lead to pneumonia , severe acute respiratory failure , kidney failure , and even death [ 5 ] .
+703	In more severe cases , the disease can lead to pneumonia , severe acute respiratory failure , kidney failure , and even death [ 5 ] .
+704	The clinical course of IAV infections in healthy individuals may vary from mild self-limiting disease to severe disease , which requires hospitalization with occasional lethal outcome .
+705	Primary pulmonary infections in the normal host are frequently asymptomatic but may regress or progress spontaneously , presenting as a severe pneumonia , or may remain stable for many years .
+706	The disease typically manifests as a severe pneumonia which often progresses to respiratory failure and death within 10 days ( case fatality rate up to 90 % in children ) .
+707	Recurrent respiratory tract infections may result in permanent lung damage in 20 - 40 % of patients , most commonly presenting with the development of bronchiectasis .
+708	In the clinical arena , however , sepsis can be indolent and develop slowly as the nidus of infection grows .
+709	Acute disease is characterized by undifferentiated fever , which can progress to severe complications , especially myocarditis and encephalitis [ 49 ] .
+710	In more advanced cases of disease , infants may present with progressive abdominal distention , evidence of peritonitis , frankly bloody stool and cardio-respiratory failure .
+711	The infection may progress rapidly causing airway obstruction or impending respiratory failure .
+712	The course of lesions can parallel that of the underlying systemic disease , and exacerbation may occur with tapering of immunosuppression .
+713	Subclinical liver disease may occur and overt disease ranges from mild transaminitis to hepatic necrosis with fulminant failure .
+714	The clinical syndrome of SARS often progresses to varying degrees of respiratory failure , with about 20 % of patients requiring intensive care .
+715	Although the disease tends to be very slowly progressive , infiltration of internal organs by lymphocytes may occur along with clinical signs of systemic disease , such as lethargy , inappetence , and weight loss .
+716	Hemorrhagic fever is very serious , and the condition is characterized by sudden onset of symptoms that rapidly progress to bleeding , shock and multiorgan failure with associated high mortality .
+717	VHF usually terminates in shock , generalized mucocutaneous hemorrhages , and multiorgan failure .
+718	VHF usually terminates in shock , generalized mucocutaneous hemorrhages , and multiorgan failure .
+719	The clinical presentations may vary from irritative ( upper respiratory infections and rashes ) to severe ( diffuse alveolar damage with ARDS , arthropathy , cardiomyopathy , fulminant hepatitis , hydrops fetalis , and aplastic crisis ) .
+720	Such reactivation can result in either a gastrointestinal illness with parasite migration and hyperinfestation syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) gram-negative bacteremia or meningitis .
+721	Early onset MLD progresses quickly and often fatal within a few years of onset .
+722	Respiratory distress can progress rapidly to the point of complete airway compromise and cardiorespiratory arrest .
+723	The cause of an exacerbation can include acute viral bronchitis , environmental pollutants , and allergic responses as well as bacterial infections .
+724	Although it is a self-limiting disease , some cases develop into refractory or fulminant pneumonia that can threaten the lives of children ( Waites and Talkington , 2004 ) .
+725	Although some cases have primary bacteremia , many others have a localized focus of infection , most often in soft tissues , that only becomes clinically apparent after the onset of shock .
+726	Disseminated disease includes infection of lung tissue resulting in VZV pneumonia with significant morbidity and mortality .
+727	The most severe complication of influenza is viral pneumonia , which can lead to the acute respiratory distress syndrome .
+728	Some cases may progress to severe dengue in which there can be bleeding , thrombocytopenia , ascites , continuous abdominal pain , restlessness , persistent vomiting and a sudden reduction in temperature .
+729	In some cases , regardless of age or comorbidities , severe disease and complications due to infection , including death , may occur .
+730	Symptoms become increasingly severe and can include jaundice , inflammation of the pancreas , severe weight loss , delirium , shock , liver failure , massive hemorrhaging , and multiorgan dysfunction .
+731	While the majority of these infections are selflimiting , however severe complications , as bronchiolitis and pneumonia , may occur particularly in children or elderly patients .
+732	Following an incubation period of a few days , the initial symptoms of CCHF are a non-specific febrile illness that can occur suddenly .
+733	Sterile pharyngitis manifesting as throat pain can occasionally precede the development of fever or rash by weeks , or even months , as a prodromal symptom and can often reoccur with disease relapses .
+734	However , immune-compromised individuals such as AIDS patients and persons undergoing cancer treatment may present severe forms of the disease , such as encephalitis and pneumonitis .
+735	Patients with fatal disease die of these conditions typically between day 6 and 16 after the onset of symptoms .
+736	Hepatocellular injury can be very severe in some patients , resulting in confluent hepatocellular loss and parenchymal micronodular transformation or even massive hepatic necrosis .
+737	Once pulmonary TB with concurrent ( chronic ) respiratory failure is exacerbated acutely by other factors , coma , shock , and life-threatening can occur .
+738	The common signs of infection include respiratory symptoms such as shortness of breath , breathing difficulties , dry cough , fever , and in some patients , severe acute respiratory syndrome , kidney failure , and death .
+739	Common presenting features of SARS are high fever , chills , rigor , malaise , nonproductive cough , lymphopenia and pulmonary infiltrates , followed by rapidly progressive respiratory failure in some cases .
+740	Typically , these are acute infections that occur mostly in young rams , and there may be severe and diffuse periorchitis .
+741	Before the onset of capillary leak sufficient to cause shock with resulting end-organ failure , patients may present with only fever and rash , sometimes with additional characteristic features such as conjunctivitis or mucositis .
+742	Acute infection mimics a viral flu and sometimes 166 lead to a debilitating , persistent inflammatory arthritis .
+743	However , in immunocompromised patients , it may be severe , chronic , and fatal .
+744	In HBV infection in older children , prodromal symptoms may include urticaria and arthralgia , which precede a spectrum of clinical presentations ranging from acute viral hepatitis , severe or fulminant hepatitis , chronic persistent hepatitis , and chronic active hepatitis to the asymptomatic chronic carrier state .
+745	CMV pneumonitis commonly presents as a primary pulmonary process characterized by fever , tachypnea , and progressive pulmonary distress .
+746	Serious cases can quickly progress to ARDS , septic shock , irreformable metabolic acidosis , coagulopathy and multiple organ failure .
+747	Clinical illness often is associated with immunodeficiency and resultant secondary infections , but several primary disease syndromes are attributed to the virus that include uveitis , enteritis , and renal disease .
+748	The virus infection begins in the upper respiratory tract , where immune responses are initiated , and then progresses to the lower respiratory tract where destruction of cells and tissues leads to bronchitis , bronchiolitis , and pneumonia , which is occasionally fatal .
+749	Myocarditis and pericarditis can also be present in the acute phase , whereas CAAs appear in the convalescence phase .
+750	Patients with compromised humoral immunity , such as those with agammaglobulinemia , who contract enteroviral infections may develop chronic meningitis and meningoencephalitis , often with a fatal outcome .
+751	Patients with compromised humoral immunity , such as those with agammaglobulinemia , who contract enteroviral infections may develop chronic meningitis and meningoencephalitis , often with a fatal outcome .
+752	Pneumonitis is an important complication , and commonly presents with insidious onset of fever , malaise , cough and dyspnoea with hypoxia .
+753	For those who receive infected donor organs , development of active infection is variable in presentation but can be very rapid in clinical progression .
+754	While children have no or mild symptoms of cold , most adults have symptoms and can develop complications such as fulminant hepatitis , up to 80 % of which can lead to death .
+755	Severe falciparum malaria can result in involvement of multiple organ systems , and deterioration can occur rapidly , resulting in seizures , multi-organ failure , and death .
+756	Although infections are usually limited to the upper respiratory tract and generally cause mild , self-limiting illnesses , a small percentage progress to the lower respiratory tract , where they can cause potentially life-threatening conditions , such as bronchiolitis and pneumonia .
+757	However , some severely affected patients show severe respiratory distress and complications , including respiratory failure with mechanical ventilation and subsequent bronchiolitis obliterans .
+758	Viral pneumonias often have seasonal predilection and may be preceded by a viral prodrome inclusive of fever , myalgia , Severe community-acquired pneumonia non-productive cough , and headache .
+759	Although acute complications of macroaspiration are largely due to a chemical injury pneumonitis ( Mendelson syndrome ) and/or infection by pathogenic aerobes in the oral flora , many of these episodes later result in the emergence of mixed aerobic and anaerobic pneumonia .
+760	Often the presentation may be that of a viral pneumonia , without the prominent features of cough and upper respiratory tract syndromes with rapid progression to acute respiratory distress syndrome ( ARDS ) .
+761	Seizures and loss of consciousness may be present in the terminal stages , and most pups die within 24 hours of onset of clinical signs .
+762	In these patients , infections may rapidly progress into life-threatening complications ( e.g. , systemic inflammatory response syndrome ( SIRS ) , ( severe ) sepsis , and septic shock ) .
+763	Inflammation associated with infection leads to widespread , multifocal , nodular lung disease .
+764	Although this constellation of signs and symptoms is frequently seen with influenza virus infection , other clinical presentations from asymptomatic infection to viral pneumonia also occur .
+765	In others , a severe illness including meningitis and encephalitis does however occur and can be fatal .
+766	In a small proportion of cases , a fulminant and often fatal hemorrhagic illness occurs with hematemesis , melena , epistaxis , and evidence of profound DIC .
+767	In severe and critical cases , acute respiratory disease can lead 41 to pneumonia , kidney failure , and even death .
+768	Most infections are selflimited cases of simple diarrhea , occasionally associated with systemic symptoms , but severe infections can occur .
+769	GBs associated with cMv infections has the predilection to affect female and younger patients , and is commonly associated with facial and bulbar palsies , respiratory failure , and severe sensory loss .
+770	Although it has a short disease course and is self-limited , it may be complicated by pneumonia and other serious complications in populations including the elderly , infants and young children , patients with cardiac or pulmonary diseases , patients with other chronic diseases , and patients with compromised immunity .
+771	However , the symptoms of progressive HIV infection sometimes include profound weight loss ( " slim disease " ) , and evidence of systemic immune activation .
+772	Survivors may have permanent lung injury often in the form of bronchiolitis obliterans .
+773	RVF in humans usually begins with a nonspecific influenza-like acute fever , but can progress to serious hemorrhagic fever in some cases .
+774	The disease is generally self-limiting , but serious or fatal sequelae , including pneumonia and subacute sclerosing panencephalitis ( SSPE ) , can occur .
+775	Continued antigenemia can lead to the induction of polysystemic , immune-mediated disease such as cyclic anemia , thrombocytopenia , polyarthropathy , uveitis , and vasculitis .
+776	The clinical manifestations of NEC are protean , and can range from mild gastrointestinal disturbance with abdominal distensions to frank peritonitis and intestinal perforation .
+777	The disease involves an initial febrile phase that is followed by interstitial pneumonia , leading to respiratory distress syndrome and death in a fraction of patients .
+778	The disease involves an initial febrile phase that is followed by interstitial pneumonia , leading to respiratory distress syndrome and death in a fraction of patients .
+779	The onset of CFRDM is usually insidious and associated with respiratory and nutritional deterioration .
+780	Pulmonary complications often contribute to the fatal outcome : They include extensive edema and alveolar hemorrhages in the context of an acute respiratory distress syndrome ( ARDS ) episode .
+781	Intractable diarrhea can lead to ascites and weight loss , followed by cachexia and death .
+782	Intractable diarrhea can lead to ascites and weight loss , followed by cachexia and death .
+783	If not recognized and treated appropriately , a mild infection can rapidly turn fatal .
+784	Secondary bacterial pneumonia occurs among older patients ( > 65 years ) with underlying pulmonary , cardiac , metabolic , or other disease , followed by a period of improvement within approximately 1 to 2 weeks and then a recrudescence of symptoms of fever with signs and symptoms of bacterial pneumonia .
+785	Radiographs and CT usually show focal lobar or multilobar pneumonia , but bacterial pneumonias in AIDS tend to be more aggressive with more rapid progression of disease , development of cavitation , lung necrosis , and empyema .
+786	In some cases , hepatic involvement is progressive , resulting in jaundice .
+787	In some cases , the conditions progress into multiple organ failure ( MOF ) with an extremely high mortality rate .
+788	This viral pneumonia is generally mild , and most pigs fully recover if the pneumonia is not complicated with other infections .
+789	In others , the infection produces much more severe disease , and can result in hospitalization , supplemental oxygen requirement , respiratory failure , and even death .
+790	Pulmonary manifestations include aseptic pneumonitis , interstitial lung disease , serositis with accompanying pleural effusion , and rarely ARDS [ 65 ] .
+791	Acute Respiratory Distress Syndrome ( ARDS ) can develop with virulent herpetic infection , and bacterial and fungal superinfections are both common and can be fatal when they supervene .
+792	While the majority of infected cases appear mild , in some cases individuals present respiratory complications with possible serious lung damage .
+793	Rarely , acute inflammatory myocarditis develops during the acute phase , with ECG abnormalities , cardiomegaly , and CHF .
+794	The most significant manifestation may be subacute measles encephalitis ( SME ) , though severe cases of pneumonia have been documented [ 2 ] .
+795	Most of these infections are short-lived and selflimited , but some can be severe enough to require hospitalization .
+796	In people who develop encephalitis , the initial viral prodrome is followed by confusion and somnolence , which may progress to coma .
+797	In young children , EBV infection frequently presents as an upper respiratory infection , but in adolescents and young adults , it can result in acute glandular fever with pharyngitis , splenomegaly , lymphadenitis , and profound reactive lymphocytosis .
+798	vere illness tend to have severe pneumonia , sometimes acute respiratory distress , which could lead to multiple organ failures and death .
+799	Viral pneumonia renders a host more susceptible to other infections , and severe bacterial pneumonias can develop concomitantly .
+800	In HFRS , the most severe and characteristic microscopic lesions involve the kidney and include microvascular inflammation , medullary interstitial hemorrhages , and acute tubular necrosis ; however , an interstitial pneumonitis can also be seen in some fatal cases .
+801	These patients may develop a skin rash , diarrhea , fever , and abnormal liver function accompanied by extensive hepatocellular damage .
+802	In others , the disease progresses to severe bronchiolitis and pneumonia , including submucosal edema and bronchiolar obstruction requiring oxygen , and in the worst cases , mechanical ventilation .
+803	Patients with more severe infections can present with more ominous symptoms such as seizures , encephalitis , or focal weakness .
+804	The disease usually progresses rapidly within the first week to respiratory failure .
+805	In fulminant disease , there is rapid progression to hepatic failure and encephalopathy .
+806	Some patients progress to an ARDS hyperinflammatory phase that is often marked by dyspnea , tachypnea , and hypoxemia .
+807	While fever may be the manifestation of a self-limited , trivial infection , it can also presage an infection that could be rapidly progressive and lethal .
+808	Diffuse necrotizing vasculitis and spread of virus into parenchymal organs , including the adrenal glands , kidneys , lungs , spleen , and liver , result in multifocal organ necrosis .
+809	In most instances , if unresolved , acute lesions rapidly progress to pulmonary abscesses .
+810	After a bacteremic event and multisystemic showering , pneumonia may persist as a focal infection and the chief clinical problem .
+811	End-stage cor pulmonale may lead to cardiomegaly , fluid retention , and hepatomegaly .
+812	End-stage cor pulmonale may lead to cardiomegaly , fluid retention , and hepatomegaly .
+813	Severe disease results in a rapid progression of respiratory failure that begins usually right after dyspnea ( breathing difficulties ) and hypoxemia .
+814	Although generally self-limited , relapses and chronic diarrhea are possible , as well as extraintestinal infection including bacteremia .
+815	In milder forms of the disease , patients may be relatively asymptomatic and may not demonstrate bacteria in their sputum , unless an acute infection ( exacerbation ) occurs .
+816	In pediatric patients , viral myocarditis can present as acute heart failure and cardiogenic shock , and in older patients , it presents often as chronic , slowly progressive heart failure and dilated cardiomyopathy .
+817	As these patients are under chronic immunosuppression , viral infections can easily progress to become fatal .
+818	At the onset of disease , there may be an initial weight gain , but animals can become lethargic and require close clinical management .
+819	However , older children and adolescents may have severe illness with fever , cough rhinorrhea , headache , chills , lymphopenia , dyspnea , hypoxemia , and/or respiratory failure requiring mechanical ventilation .
+820	Most respiratory tract infections are fairly mild , but they are highly infectious , and can sometimes result in severe symptoms requiring hospitalization , or even lead to death .
+821	Postnatal infection may lead to necrosis of intestinal epithelia and hematopoietic progenitor cells , the classic panleukopenia syndrome , with vomiting , diarrhea , severe depression , and anorexia .
+822	Most infections are self-limited cases of simple diarrhea , occasionally associated with systemic symptoms , but severe infections can occur .
+823	The clinical course may be quiescent with prolonged indolent infection , or the patient may present with fulminant respiratory failure and ARDS [ 132 , 180 ] .
+824	Depending on the degree of lung tissue damaged , the course may be self-limited or progress to severe acute lung injury and fulminant hypoxic respiratory failure [ 82 ] .
+825	This fatal disease may follow an acute , subacute , or chronic course and is frequently characterized by fever , diarrhea , weight loss , mucosal ulcerations of the GI tract , digital lesions , or dermatologic lesions .
+826	The progression of disease is variable ; some infants have minor symptoms that resolve spontaneously over a period of days in response to bowel rest , while others progress over hours with respiratory failure requiring intubation , hypotension requiring fl uid resuscitation and inotropic support and/or immediate surgical intervention .
+827	The signs and symptoms of pulmonary disease may vary greatly from weight loss , tuberculin skin test conversion , and low-grade fever to mass effect from mediastinal lymphadenopathy and fulminant disseminated pulmonary involvement with miliary infiltrates or , in rare cases , cavitation .
+828	Dengue is more likely to be severe upon infection with a second serotype different from an initial infecting serotype , and can be associated with plasma leakage , severe bleeding , respiratory distress , and organ impairment .
+829	Many patients have relatively mild symptoms , while certain high-risk groups , such as the elderly and immunocompromised , can develop multi-organ system complications that often results in death .
+830	Infection affects the larynx , trachea , and bronchi , although swelling and inflammation in the subglottic area leads to the characteristic clinical features of viral LTB .
+831	Infection affects the larynx , trachea , and bronchi , although swelling and inflammation in the subglottic area leads to the characteristic clinical features of viral LTB .
+832	Most patients have clinical and radiological features of pneumonia which is seen to rapidly progress to respiratory failure with manifestations of adult respiratory distress syndrome ( ARDS ) .
+833	A second form , postvaccinal encephalomyelitis , may present in 11 to 15 days after vaccination , similar to encephalitis with fever , mental status change , meningeal signs , seizures , and additional spinal cord dysfunction .
+834	In some patients with meningitis , particularly in Europe , where the disease is caused by a different species of spirochete , signifi ca nt neurologic abnormalities develop , including cranial neuritis which can present as an isolated facial palsy ( motor and sensory ) , radicular mononeuritis multiplex , or myelitis alone or in varying combinations .
+835	In the 20 % of infections that result in clinical disease , most result in a self-limited illness characterized by fever , headache , fatigue , malaise , muscle pain , and weakness .
+836	Approximately , 1 - 5 % of all Q fever cases may progress to a chronic infection , which often leads to lifethreatening endocarditis .
+837	Usual manifestations are fever , malaise and cough ; however , serious pneumonic infection may occur and this can become complicated by bacterial infection .
+838	Mucocutaneous disease often precedes the development of pneumonia , with nonspecific symptoms that include fever , cough , and dyspnea .
+839	While most people recover within one or two weeks without requiring medical treatment , influenza may cause lethal complications such as pneumonia .
+840	Such reactivation can result in either a diarrheal illness and parasite migration with hyperinfestation syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) gramnegative bacteremia or meningitis .
+841	A small proportion of these patients may progress to develop cardiopulmonary failure , which may be fatal .
+842	225 Disease progression can continue to pneumonitis or encephalitic manifestations , with the person succumbing to multiorgan failure .
+843	Disease is mostly limited to the upper airways and is self-limiting , but a small percentage can progress to lower respiratory tract infections ( LRTIs ) as bronchiolitis and pneumonia .
+844	The condition may progress to bronchopneumonia and , in the most severe instances , death [ 61 ] .
+845	In certain circumstances , infection not completely controlled may trigger an excessive immune response and local infection may progressively evolve into sepsis , septic shock , and organ failure .
+846	Infection is mostly polymicrobial and begins in the distal dependent airways as bronchopneumonia , but can progress to lobar consolidation .
+847	The disease mostly appears in the newborn ( death due to heart failure , often within the first 12 months of life ) , but may also become manifest in infants and adults .
+848	The disease can vary in severity from subclinical , very mild to fulminating liver necrosis , and death .
+849	In rare cases , the fever and headache may progress through nausea and vomiting to somnolence or delirium and coma with seizures , impaired sensorium , and paralysis being commonly observed .
+850	Excluding HIV with PCP , CMV CAP in compromised hosts , particularly in organ transplants , is usually severe and may be fatal .
+851	Primary infection later in life is often accompanied by infectious mononucleosis ( IM ) 14 , commonly referred to as " mono " and characterized by fever , tonsillitis , and fatigue .
+852	As the disease progresses in severity , there is disseminated intravascular coagulation , hypotensive ( septic and hypovolemic ) shock , ascites , peritonitis and intestinal perforation .
+853	Severe infestations can lead to right-sided heart failure and its pathologic sequelae of ascites , pleural effusion , hepatomegaly , and right heart and pulmonary artery enlargement .
+854	The accompanying adult respiratory distress syndrome can quickly progress resulting in rapid death of the patients ( 3,4 ) .
+855	Severe viral pneumonia can manifest as sepsis and respiratory distress requiring intensive care ( 11 ) .
+856	A symmetric pattern simulating pulmonary edema can occur with E-coli and pseudomonas pneumonias , which can rapidly involve the entire lungs .
+857	Neurologic symptoms such as weakness , lethargy , and disorientation may progress into seizures , coma , and even death if treatment is delayed .
+858	After an incubation period of 2 - 42 days ( usually 2 weeks ) , HFRS starts with a febrile , flu-like illness lasting 3 - 7 days , followed by hypotension and oliguria ( or even anuria ) that may result in fatal shock .
+859	Without treatment , the illness usually resolves within 3–5 days , but complications may happen , including the post-infectious syndromes of post-streptococcal glomerulonephritis and acute rheumatic fever .
+860	Symptomatic radiation pneumonitis is a risk factor for long-term lung dysfunction as the acute changes associated with this condition often evolve to pulmonary fi brosis .
+861	In severe cases , seizure and encephalitis can occur , often resulting in death .
+862	Other patients develop severe pneumonia , which can eventually cause acute respiratory distress syndrome ( ARDS ) and death .
+863	ARDS sometimes results from viral involvement of the lungs , subsequent to initial viral lung-infection-induced damage .
+864	In some patients , the signs may progress to a secondary bronchopneumonia .
+865	These children can develop lifethreatening complications in the immediate posttransplant period ( e.g. , diffuse alveolar hemorrhage , idiopathic pulmonary syndrome , various infections ) and in the later stages following transplantation ( e.g. , graft versus host disease , bronchiolitis obliterans ) , all of which can lead to respiratory failure refractory to conventional care .
+866	once the respiratory muscles are affected in advanced neuromuscular disease , respiratory failure may occur abruptly , due to an intercurrent illness , or slowly over months or years , finally culminating in hypercapnic respiratory failure .
+867	Younger children may have coryza with crusting below the nares , more generalized adenopathy , and a more chronic course , a syndrome known as streptococcosis .
+868	In most instances , infection is asymptomatic or associated with a transient influenza-like illness ; however , with immunosuppression in the context of HIV/AIDS , chemotherapy , or pregnancy , the parasite can present as a mass lesion in the brain , causing focal deficits and seizures .
+869	Though rarely fatal , in some cases infection can result in long-term symptoms such as paralysis , seizures and deafness .
+870	While the resultant respiratory disease is mild in the majority of patients , a subset of patients can develop severe disease with significant respiratory compromise that may require ventilation and intensive care .
+871	In more severe cases this can be accompanied by systemic symptoms such as fever , leukocytosis , hypoalbuminemia , dehydration , and electrolyte imbalance .
+872	Children with HID usually suffer from recurrent bacterial respiratory infections , resulting in progressive bronchiectasis and chronic lung disease .
+873	With progression to shock and generalized bleeding , there is often hematopoietic , neurologic and pulmonary involvement .
+874	Renal disease usually occurs in older children or young adults with long-term infection , but serious disease may also occur in young children .
+875	Secondary bacterial infection may exaggerate the symptoms and also cause pneumonia .
+876	AKI usually develops in patients with severe disease ( dengue hemorrhagic fever ) and is frequently associated with hypotension , rhabdomyolysis , hemolysis , or sepsis .
+877	While symptoms can be mild , influenza may result in severe illness and death .
+878	While symptoms can be mild , influenza may result in severe illness and death .
+879	Such infections are manifested by delayed fever , chills , diaphoresis , and hemolysis , often masked by underlying medical conditions .
+880	Some patients rapidly develop acute respiratory distress syndrome ( ARDS ) , acute respiratory failure , and even die .
+881	Metastatic infections such as endocarditis , arthritis , pericarditis , meningitis , or peritonitis can contribute to treatment failure and are more common in bacteremic pneumonia .
+882	In up to a third of patients following allogeneic HCT , infection can progress from an upper to a lower respiratory tract infection .
+883	In up to a third of patients following allogeneic HCT , infection can progress from an upper to a lower respiratory tract infection .
+884	In up to a third of patients following allogeneic HCT , infection can progress from an upper to a lower respiratory tract infection .
+885	It can develop into puerperal sepsis , which is a serious form of septicemia .
+886	The disease is not always severe and symptoms range from an ILI to severe pneumonia requiring mechanical ventilation .
+887	Although infection may be subclinical , symptomatic disease typically follows a predictable course .
+888	Shock ensues in severe cases and may be accompanied by liver failure , cerebral hemorrhage , anemia , dehydration , diarrhea , myocardial infarction , pulmonary edema , and pleural effusions ( 239 ) .
+889	Clinical presentations range from asymptomatic infection to acute diarrhea that may lead to death due to severe dehydration or other complications .
+890	Severe cases can progress to multi-organ dysfunction (MOD)/multiorgan failure ( MOF ) and death .
+891	In certain at-risk groups , particularly the elderly , NoV infection can result in a much more severe disease , with symptoms lasting as long as 6 weeks .
+892	In these cases , reactivation can involve the lungs ( cavitary , endobronchial , pneumonic , and/or bronchopneumonic ) and other organs including the spleen , liver , bone marrow , kidneys , CNS , and bones .
+893	Usually primary infections occur during the first 2 years of life and are symptomatic , causing from mild upper respiratory tract illness to severe ALRI , and in some cases pneumonia and bronchiolitis may occur simultaneously .
+894	The infection is usually subclinical , with no signs apparent ; however , strain of host , pregnancy , and an immunocompromised state predispose to more serious illness .
+895	Acute infection in adults results in infectious mononucleosis with fever , tonsillar infection , enlarged lymph nodes , hematologic and immunologic abnormalities , hepatitis or other organ involvement .
+896	EVD typically progresses rapidly with multisystem involvements , and in particular coagulopathy leading to severe hemorrhage .
+897	The hepatic manifestations in these disorders may range from mild enzyme abnormalities to significant liver injury and liver failure .
+898	SARS is characterized by high fever , non-productive cough or dyspnea and in many cases may progress to generalized , interstitial infiltrates in the lung , thus needing intubation and mechanical ventilation [ 2 ] .
+899	In general , infection is asymptomatic but becomes a problem in some immunocompromised hosts , causing hemorrhagic cystitis or kidney infection , leading to kidney transplant rejection .
+900	Severe pancytopenia can arise and sometimes lead to death .
+901	The primary site of infection for viruses in bronchiolitis is the lung , but extrapulmonary manifestations may also occur , including seizures , apnoeas , electrolyte imbalance , hepatitis and myocarditis .
+902	Although COVID-19 is largely asymptomatic or mild ( 80 % ) , it can sometimes lead to severe pneumonia and death .
+903	Also , more rarely , FES can occur in more severe forms such as the acute respiratory distress syndrome ( ARDS ) or in a fulminant form .
+904	Clinically , they can range from asymptomatic viral shedding to severe pneumonia or ARDS .
+905	Infection may manifest as an upper respiratory disease , which usually goes unnoticed ; however , sheep may develop pneumonia .
+906	Chronic aspiration often results in progressive lung disease , recurrent pneumonia , chronic airway inflammation , bronchiectasis , and respiratory failure .
+907	Infection rapidly spreads to the central nervous system , leading to paralysis and death .
+908	Bacterial pneumonia may present as a primary disease process , or as the final terminal event in individuals who are already debilitated .
+909	Depending on the duration of the infection , symptoms of disseminated intravascular coagulation ( DIC ) can also develop .
+910	Bacterial tracheitis may result from a secondary infection , most often due to Staphylococcus aureus or Streptococcus pneumoniae , and usually leads to a more toxic appearance , with higher fever and severe respiratory symptoms .
+911	In a subset of patients , by the end of the first week the disease can progress to pneumonia , respiratory failure and death .
+912	In a subset of patients , by the end of the first week the disease can progress to pneumonia , respiratory failure and death .
+913	In rare cases of severe EV71 infection , respiratory illness can lead to pulmonary edema , hemorrhage , and lung failure .
+914	Rapid progression to hypoxemic respiratory failure requiring intubation usually occurs within the first week after symptom onset [ 26 ] .
+915	Rapid progression to hypoxemic respiratory failure requiring intubation usually occurs within the first week after symptom onset [ 26 ] .
+916	However , in a small subset of patients IVI rapidly progresses to primary viral pneumonia ( PVP ) with respiratory failure ; a minority of patients require intensive care unit admission .
+917	Infection is characterized in severe cases by symptoms of lower respiratory tract infection , respiratory distress , as well as renal failure [ 20 ] .
+918	The disease may progress rapidly to a critical respiratory failure , requiring mechanical ventilation and lead to death in the ICU [ 5 ] .
+919	Meningococcal septicemia , which can begin as a nonspecific febrile illness , can rapidly ( within hours ) progress to multisystem organ failure and death .
+920	Clinical disease associated with influenza infection can range from asymptomatic infection to severe respiratory disease , including the onset of ARDS .
+921	Infection in immunocompromised patients ( including premature infants , recipients of solid-organ or HpC transplantation , and AIdS patients ) can lead to pneumonitis , hepatitis , retinitis and multisystem organ failure , which may result in death .
+922	In severe cases necrotizing fasciitis occurs with extensive destruction of the subcutaneous tissues , and is often associated with multiorgan failure .
+923	Such reactivation can result in either diarrheal illness or parasite migration with hyperinfection syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) gram-negative bacteremia or meningitis .
+924	4 , 7 Progressive pneumonia then follows with multiorgan failure and this may result in death with a case fatality rate of 30 % to 60 % .
+925	complications in AHNP and often occurs at the early stage of the disease , and may progress into adult respiratory distress syndrome ( ARDS ) [ 6 ] .
+926	Other common presentations may include pulmonary infiltration and impaired respiratory efficiency , with cough and dyspnoea in severe cases , or acute uveitis , which can progress to blindness .
+927	A subacute disease develops with progressive paralysis of the lower extremities associated with impotence , incontinence , and sensory symptoms , but usually minimal sensory findings .
+928	Anti-viral immune response is crucial to achieve pathogen clearance , however in some patients an excessive and aberrant host immune response can lead to an acute respiratory distress syndrome .
+929	Some patients develop adult respiratory distress syndrome ( ARDS ) , which can lead to confusion with other conditions such as hantavirus pulmonary syndrome and severe acute respiratory syndrome ( SARS ) .
+930	Fulminant pneumonia may progress to sepsis and death ( Fox , 1998a ) .
+931	Fulminant pneumonia may progress to sepsis and death ( Fox , 1998a ) .
+932	Many patients with MERS develop acute renal failure .
+933	The severe cases present with pneumonia , which can progress to acute respiratory distress syndrome .
+934	The severe cases present with pneumonia , which can progress to acute respiratory distress syndrome .
+935	Illnesses may be asymptomatic , mild , or severe ; however , immunocompromised patients and infants are at increased risk of severe morbidity and death .
+936	The most severe presentation is fulminant hepatic failure , which is marked by acute rise in liver enzymes , encephalopathy , coagulopathy , and often sepsis .
+937	In some cases , influenza A leads to secondary complications such as bronchitis and secondary pneumonia , which can be lifethreatening .
+938	Clinical presentation in patients with respiratory viral infections can range from completely asymptomatic to severe respiratory distress due to pneumonia .
+939	Although the disease is usually self-limited and can be treated with antivirals , severe complications can occur , particularly in neonates and immunosuppressed individuals , leading to risk of blindness with keratoconjunctivitis , and the potentially fatal meningitis and encephalitis .
+940	Bronchiectasis can be focal with recurrent wet or productive cough and infectious exacerbations , or it can be diffuse , resulting in generalized airway obstruction and destruction with eventual respiratory failure .
+941	Such reactivation can result in either a diarrheal illness and parasite migration with hyperinfestation syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) gram-negative bacteremia or meningitis .
+942	Such reactivation can result in either a diarrheal illness and parasite migration with hyperinfestation syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) Gram-negative bacteremia or meningitis .
+943	It can develop in the presence of severe septicemia and shock , particularly aft er pseudomonas septicemia in the neutropenic patient .
+944	Staphylococcus aureus pneumonia is usually a fulminant disease associated with rapid onset respiratory failure , frequently progressing to multiple organ dysfunction , shock , and death .
+945	In contrast to HSV where the predominant involvement occurs in the airways , CMV typically involves the pulmonary parenchyma , leading to interstitial pneumonitis or diffuse alveolar damage .
+946	The consequential decrease in lung function ranges in severity from subclinical to life-threatening or even fatal and can manifest in the acute setting or many years after completion of therapy .
+947	The consequential decrease in lung function ranges in severity from subclinical to life-threatening or even fatal and can manifest in the acute setting or many years after completion of therapy .
+948	These symptoms generally develop 3 days to 6 weeks following an upper respiratory infection or diarrheal type illness [ 6 ] .
+949	In advanced cases , dogs present with respiratory distress caused by a space-occupying mass and pleural effusion , exercise intolerance , and possibly regurgitation .
+950	In children , abrupt high fever is sometimes followed by CNS involvement , the manifestations of which can range from drowsiness and confusion to delirium and coma .
+951	The clinical manifestations of BOS are usually insidious , but there is a phenotype of rapidly progressive airfl ow obstruction which can lead to primary respiratory failure [ 43 ] .
+952	Liver involvement in nonhepatotropic viral infections can range from mild derangement of liver biochemistry to fulminant liver failure .
+953	Rarely , systemic involvement develops and may include encephalitis , granulomatous hepatitis , hepatosplenic infection , endocarditis , and osteomyelitis .
+954	Pulmonary fibrosis has an aggressive course and is usually fatal for an average of three to six years after the onset of symptoms .
+955	The manifestation of CRS varies from flu-like symptoms to severe lifethreatening conditions such as renal failure , cardiac dysfunction , and capillary leakage with pulmonary edema .
+956	Infected infants can be asymptomatic , have gastroenteritis , or have a fulminant sepsis picture .
+957	Although the majority of infections are asymptomatic or result in a self-limited illness , fatalities do occur , especially in neonates or individuals with B-cell immunodeficiency .
+958	Although many patients could recover during this stage , some patients develop progressive lung injury and early change of pulmonary fibrosis .
+959	Chronic diseases progress to extensive pulmonary fi brosis with honeycombing , and ( as with COPD ) pulmonary hypertension and cor pulmonale may develop .
+960	In severe cases , multiple organ failure occurs at the terminal stage .
+961	AFOP may have a subacute or more aggressive course with rapid progression to respiratory failure .
+962	After an incubation period of 2 to 3 days , patients who have pneumonic plague typically develop fulminant pneumonia , with malaise , high fever , cough , hemoptysis , and septicemia with ecchymoses and extremity necrosis .
+963	Clinically , primary influenza viral pneumonia begins like typical uncomplicated influenza disease in the upper respiratory tract , but the acute illness rapidly progresses with signs and symptoms of lower respiratory tract disease , including cough , dyspnea , and hypoxemia .
+964	The course of the disease is variable ; ataxia and paresis may develop rapidly to hind limb dragging or recumbency , or progress slowly and stabilize for several months or years , with possible acute relapsing episodes .
+965	Symptomatic infections may involve all parts of the respiratory tract and generally initiate in the upper respiratory epithelium .
+966	In rare cases , active disease may develop , which is clinically similar to reactivation TB .
+967	For inhalation and GI infections , nonspecific local symptoms are typically followed in several days by severe systemic illness , shock , and often death .
+968	Relapses , which are rare ( about 10 % of cases ) , usually occur in the first year after infection and are often milder in severity than is the initial disease .
+969	Once bronchiectasis sets in , hemoptysis , which can be mild to severe , can occur .
+970	Many patients progress to multiorgan failure involving the lungs , liver , and kidneys with evidence of hemophagocytosis .
+971	The signs associated with NE typically are rapidly progressive and most commonly include seizures , depression , circling , vestibulo-cerebellar signs , visual deficits , and ultimately death .
+972	The severity of this injury can range from mild , transient elevations in liver enzymes to acute liver failure .
+973	The vast majority of patients recover over a period of 2 to 4 weeks , but fatigue may persist for several months after infection .
+974	Clinical Signs Streptobacillosis generally has an acute phase with high mortality , followed by a subacute phase and finally a chronic phase that may persist for months .
+975	Such reactivation can result in either diarrheal illness or parasite migration with hyperinfestation syndrome ( characterized by hemorrhagic enterocolitis , hemorrhagic pneumonia , or both ) or disseminated infection with accompanying ( usually ) Gram-negative bacteremia or meningitis .
+976	Severe cases of VOD can lead to hepatorenal syndrome , causing multi-organ failure , hepatic encephalopathy , and death .
+977	In some individuals these symptoms may progress quickly to extreme shortness of breath and respiratory failure .
+978	The onset of viral pneumonia is usually gradual and occurs in the context of an upper respiratory tract illness ( URI ) in the patient or family members .
+979	Patients with severe MERS often present with pneumonic symptoms including fever , cough and dyspnea , with some progressing to respiratory failure and acute respiratory distress syndrome [ 13 , 14 ] .
+980	Viral pneumonia usually occurs in the context of a preceding upper respiratory tract illness with gradual increase in irritability , respiratory congestion , cough , posttussive emesis , and fever .
+981	Within this age group , the final stages of infection are commonly characterized by ataxia , nystagmus , running fits , intermittent convulsions , coma , and death .
+982	While the disease is generally self-limiting and is typically treated with supportive therapy , it can be difficult based on symptomology to differentiate it from early stage bacterial meningitis , which is a far more serious disease that can lead to death within hours or leave patients with permanent brain damage , hearing loss , and learning disabilities .
+983	Stenoses often manifest with progressive airflow obstruction that can be difficult to differentiate from other causes , such as acute rejection or BOS .
+984	Damage can range from asymptomatic elevations of aminotransferases to fulminant hepatic failure depending on the virus and the host 's immune response .
+985	Patients with severe disease develop many complications despite treatment ; often , the disease progresses to tubulointerstitial nephritis with progressive renal failure or to severe damage of the central nervous system .
+986	Some patients with severe leptospirosis have isolated pulmonary involvement with hemorrhage and acute respiratory distress syndrome ( ARDS ) .
+987	In the initial stage , viral pneumonia occurs , which may develop into viral and bacterial mixed pneumonia or secondary bacterial pneumonia .
+988	Additionally , the initial clinical picture can be complicated by pneumonia , acute respiratory distress syndrome , and sepsis in some patients .
+989	The disease caused by the virus manifests in most cases as a lower respiratory tract infection leading to fever , cough and dyspnea , while more severe cases can led to respiratory failure and/or multi organ failure .
+990	The disease caused by the virus manifests in most cases as a lower respiratory tract infection leading to fever , cough and dyspnea , while more severe cases can led to respiratory failure and/or multi organ failure .
+991	OHFV may cause a biphasic disease ; the initial phase is characterized by high fever , bleeding from the nose , mouth , and uterus .
+992	DAH generally develops in the immediate posttransplant period and is characterized by progressive dyspnea , cough , and hypoxemia with or without fever .
+993	In its most severe form , it often leads to multiorgan failure and death .
+994	In immunocompromised patients , children , or the elderly , it can cause a persistent dehydrating diarrhea that causes voluminous , inflammatory , or noninflammatory watery diarrhea ; weight loss ; and malnutrition .
+995	It often develops when there is an ongoing mucosal barrier injury that results from the toxic effects of chemotherapy allowing for either micro-or macro-translocation of bacterial organisms from the GI tract into the systemic system .
+996	AKI in the setting of tropical febrile illnesses can have additional manifestations related to other organ systems like the liver , nervous system , and heart , coagulopathy , and thrombocytopenia .
+997	Symptoms of SARS may be present even in asymptomatic patients , and foci can quickly increase in area or consolidate 1 - 3 weeks after the onset of symptoms , more often at 2 weeks of illness .
+998	Infection usually remains asymptomatic , but in immunocompromised hosts severe and life-threatening manifestations such as hyperinfection syndrome and disseminated disease might occur .
+999	Most patients experience self-limited illness , with fever , myalgias , and malaise followed by an immune-mediated aseptic meningitis .

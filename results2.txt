@@ -20,3 +20,982 @@ infected arg1:patients $usually $develop <>arg2:[entity]respiratory illness.
 18	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
 19	Humans infected with RVFV usually develop an acute febrile myalgic syndrome ; however , a small percentage of patients have a lethal illness that results in hepatic damage , hemorrhagic fever-like illness , encephalitis and/or retinal vasculitis [ 8 ] .
 20	In humans , infection is associated with fever and liver damage , but a subset of patients progress to hemorrhagic fever , encephalitis , ocular disease or death .
+21	After an incubation period of 9 - 12 days , MERS generally presents in humans as a lower respiratory infection with fever ( often with chills or rigors ) , dry or productive cough and dyspnea .
+22	Patients with bubonic plague usually develop symptoms of fever , headache , chills , and swollen , extremely tender lymph nodes ( buboes ) within 2 to 6 days after contact with the pathogen .
+23	Symptomatic CHIKV infection often manifests itself by short-lived fever and recurrent joint pain , which can last for months to years ( 10 ) .
+24	Pneumonia caused by SARS-CoV typically has an insidious onset , and respiratory symptoms worsen slowly but steadily during the first 10 to 15 days [ 10•• ] .
+25	Those infected with SARS suffer fever , cough , muscle aches , and shortness of breath and often progress to severe lung inflammation .
+26	RVFV infection in humans usually causes a self-limiting , acute and febrile illness ; however , a small number of cases progress to neurological disorders , partial or complete blindness , hemorrhagic fever , or thrombosis .
+27	Human leptospirosis presents with a variety of signs and symptoms , including general febrile disease an influenza-like illness , and results in liver or kidney failure .
+28	Pigs that are infected with TGEV usually present symptoms such as vomiting , dehydration , and severe diarrhea .
+29	After an incubation period of 2–7 days , symptomatic patients develop rapid onset fever , maculopapular rash , arthralgia , and conjunctivitis , often associated with headache and myalgias .
+30	Young rats are especially susceptible to SDA , and the infection can occur in the lower respiratory tract , resulting in pneumonia .
+31	Affected cats typically become acutely ill with fever , pallor , and icterus and usually die within 2 to 3 days .
+32	In immunocompetent individuals , adenovirus infections often manifest as upper respiratory tract infections , pharyngoconjunctival fever , or diarrhoea .
+33	CHIKV infection usually leads to the development of CHIKF and is characterized by an abrupt onset of fever , headache , fatigue , nausea , vomiting , rash , myalgia , and severe arthralgia .
+34	Varicella pneumonia develops insidiously , usually a few days after the onset of rash , and can progress to respiratory failure and ARDS [ 56 , 57 ] .
+35	Following an incubation period of 2 - 6 days , WNV infection manifests as fever , headache , weakness , and myalgias/ arthralgias ; gastrointestinal symptoms and a maculopapular rash sometimes occur as well .
+36	VEEV infection in humans typically causes nonlethal , incapacitating symptoms including fever , headache , malaise , myalgia , sore throat , and vomiting .
+37	RVF in humans usually begins with a nonspecific influenza-like acute fever , but can progress to serious hemorrhagic fever in some cases .
+38	Anicteric leptospirosis , also called Pretibial fever or Fort Bragg fever , has a septic phase characterized by high fevers , headaches , myalgias of the lower back and calf muscles , anorexia , nausea , vomiting , and abdominal pain .
+39	Infection in humans is often highly fatal , and clinical manifestation is characterized by fever , headache , visual and motor skill dysfunction , acute respiratory illness , and encephalitis .
+40	After a 2 - 4 week incubation period , patients with infectious mononucleosis usually experience an abrupt onset of malaise , fatigue , fever , and headache , followed closely by pharyngitis .
+41	Clinically , PrV infection may resemble rabies ; infected dogs exhibit pharyngeal paralysis , profuse salivation and , occasionally , convulsions .
+42	Bubonic plague in humans is usually characterized by fever ( 2–7 days postexposure ) and the formation of large , tender , swollen lymph nodes , or buboes .
+43	Cats with FIP develop lesions accompanied by necrosis and pyogenic granulomatous inflammation in several organs , including the liver , lungs , spleen , and central nervous system [ 14 ] .
+44	Fever , absolute lymphopenia , inappetence , jaundice , and abdominal effusion appear 2 - 3 weeks after infection in around 80 % of cats and rapidly increase in severity over the next one to two weeks and would prove fatal if no interventions were taken ( Kim et al. , 2016 ; Pedersen et al. , 2015 ) .
+45	Approximately 20 % of infected individuals show acute clinical signs , which include lethargy and photophobia followed by convulsions and paralysis .
+46	Infection of kittens or adult cats results in clinical signs of fever , lethargy , vocalization , weakness , and inappetence , which may progress to profound dehydration , vomiting , sometimes watery to hemorrhagic diarrhea , and rapid loss of weight .
+47	In humans , infection is usually self-limiting , but a small percent of cases ( 1 - 2 % ) can progress to severe hepatitis with hemorrhagic manifestations .
+48	When naive horses are infected by the virus , mortality can reach up to 50 % of affected horses , and clinical signs range from weakness and anorexia to severe acute ataxia or recumbency .
+49	In rats , infection is usually asymptomatic although nonspecific clinical signs , such as weight loss and dyspnea , may be observed .
+50	LASV infection severities range from asymptomatic infection to fatal HF ( Fisher-Hoch et al. , 1995 ) and commonly resulting from other viral infections , nonspecific symptoms beginning several days after infection include fever , headache , arthralgia , myalgia , and severe asthenia .
+51	The initial clinical symptoms of MERS-CoV infection can range from asymptomatic to low-grade fever , cough , sore throat , myalgia , and less frequently diarrhea and vomiting .
+52	CCoV infection is generally restricted to the alimentary tract , leading to the onset of clinical signs typical of gastroenteritis including loss of appetite , vomiting , fluid diarrhea , dehydration , and , only very rarely , death .
+53	Most individuals infected with MERS-CoV develop a severe respiratory illness accompanied by cough , fever , shortness of breath , and pneumonia .
+54	Clinical signs of CPV-2 infection include lethargy , anorexia , vomiting , bloody diarrhea , fever , and dehydration , and the clinical course is often protracted .
+55	The BRDC of feedlot calves is characterized by fever , dyspnea , inflammatory and necrotizing lung lesions leading to bronchopneumonia , weight loss , and death .
+56	The most common clinical picture after adenovirus infection of the respiratory tract is mild self-limiting upper respiratory disease with nasal congestion , coryza and cough [ 106 , 113 ] .
+57	Usually , RSV infection begins in the upper respiratory tract with nasal congestion and pharyngitis and is associated with fever of variable intensity .
+58	The clinical manifestations of hantavirus infection follow a long incubation period ( 7 - 25 days ) and are characterized by a prodrome of fever , chills , myalgia , and gastrointestinal symptoms .
+59	Infection with PEDV is characterized by acute enteritis , vomiting , diarrhea , and dehydration .
+60	Patients with HME can develop aseptic meningitis and meningoencephalitis or progress to respiratory and renal insuffi ciency .
+61	Pneumonic plague typically begins following an incubation period of just 2 - 3 days , when patients experience the abrupt onset of high fever , chills , and rapidly developing tachypnea and dyspnea .
+62	Most horses have a mild illness that resolves within 1 to 2 weeks , but death can occur either from secondary bacterial bronchopneumonia or from severe viral infection involving damage to heart , gastrointestinal tract , kidney , and other parenchymal organs , as well as severe ocular and pulmonary lesions .
+63	Cats with acute leukemia usually show signs of severe anemia ( pale mucous membranes ) , splenomegaly , and febrile episodes .
+64	HeV infection in horses yields a predominantly respiratory syndrome initially with elevated heart rate and fever which can rapidly progress to more severe respiratory disease .
+65	Patients infected with E coli may develop an acute onset of watery diarrhea , which may progress to bloody diarrhea , abdominal cramps , and vomiting .
+66	Affected pigs commonly develop anemia and secondary infections , especially bacterial pneumonia .
+67	The clinical manifestations of inhalational anthrax generally evolve to a fulminant presentation with progressive respiratory failure and shock .
+68	Although most human flavivirus infections are asymptomatic or have an undifferentiated febrile illness , a small percentage of affected individuals develop acute fever that can progress to severe clinical manifestations such as hemorrhage , vascular leakage and encephalitis [ 15 ] .
+69	Rabbits infected with RDHV often develop acute necrotizing hepatitis and disseminated intravascular coagulation in the liver , spleen , kidney , and other solid organs [ 1 ] .
+70	The outcome of HRSV infection usually involves mild upper respiratory tract infections ; however , more severe conditions , such as pneumonia and bronchiolitis occur in 25 - 40 % of children ( Meissner , 2003 ) .
+71	Symptoms in humans are usually mild and include febrile illness resembling the flu , with a small percentage developing serious clinical manifestations such as retinal lesions , meningoencephalitis , hepatitis , severe hemorrhagic fever , coma and death .
+72	Acute disease is characterized by undifferentiated fever , which can progress to severe complications , especially myocarditis and encephalitis [ 49 ] .
+73	Severe cases in adults usually result in dyspnea after 1 week of onset , which can quickly progress to acute respiratory distress syndrome ( ARDS ) , septic shock , difficult to correct metabolic acidosis , and coagulation dysfunction [ 11 ] .
+74	After incubation period of 2 - 14 days patients initially present with influenza-like symptoms , fever , and cough that can progress to atypic pneumonia and respiratory failure .
+75	Infected animals show severe apathy , anorexia , weakness , and marked salivation or serous nasal discharge before they become moribund and die [ 9 ] .
+76	After an initial incubation period of 3 - 21 days , the disease progresses quickly to fever , intense fatigue , diarrhea , anorexia , abdominal pain , hiccups , myalgia , vomiting , confusion , and conjunctivitis ( 14 ) which may lead to the loss of vision ( 15 ) .
+77	Infected individuals who die within 10 days of the onset of symptoms show diffuse alveolar damage with a mixed alveolar infiltrate , lung edema and hyaline membrane formation [ 4 ] .
+78	After an incubation period of 2 - 4 days , infection presents with high fever , headache , myalgias , and arthralgias , and can resemble dengue .
+79	Clinical Signs Mice infected with M. coccoides may remain clinically normal or develop febrile , hemolytic anemia and splenomegaly , which can be fatal .
+80	These symptoms generally develop 3 days to 6 weeks following an upper respiratory infection or diarrheal type illness [ 6 ] .
+81	The illness caused by Shigella and enterohemorrhagic E. coli is explosive and starts with fever , vomiting , severe abdominal cramping , bloody diarrhea , and systemic manifestations such as hypotension , and circulatory collapse if not treated rapidly .
+82	CHIK infection produces a self-limiting illness in humans that is often characterized by sudden onset of fever , headache , fatigue , nausea , vomiting , rash , myalgia , and severe and very painful polyarthralgia , which lasts for 1 - 10 days .
+83	Pertussis usually presents with nonspecific upper respiratory tract infection symptoms for 1 to 2 weeks ( catarrhal stage ) , after which the paroxysmal and sometimes uncontrollable cough develops [ 26 ] .
+84	Following a brief incubation period ( usually < 7 days ) , CCHFV infection initially causes non-specific symptoms , including a rapid onset high-grade fever , fatigue , and myalgia , frequently accompanied by vomiting and diarrhea .
+85	FCV infections typically cause acute URI and acute stomatitis characterized by oral musocal and lingual ulceration .
+86	After a 2-to 4-week incubation period , patients with infectious mononucleosis usually experience an abrupt onset of malaise , fatigue , fever , and headache , followed closely by pharyngitis .
+87	Dogs with peracute IHA often manifest malaise , lethargy , and sometimes fever for 1±3 days prior to the actual hemolytic episode .
+88	NV infection usually courses as a self-limited diarrhea and is characterized by vomiting , but in special cases , it can lead to severe dehydration and death .
+89	Approximately 5 - 15 % of infected cats develop feline infectious peritonitis , which is usually fatal [ 17 , 18 ] .
+90	Individuals with SARS usually develop a high fever followed by severe clinical symptoms .
+91	PEDV-infected piglets usually show typical enteric signs , including profuse watery diarrhea , weight loss , and loss of milk uptake , entailing high mortality .
+92	Some patients with severe leptospirosis have isolated pulmonary involvement with hemorrhage and acute respiratory distress syndrome ( ARDS ) .
+93	Carried by the multimammate rat ( Mastomys natalensis ) , most infected patients are asymptomatic , but if illness occurs the initial presentation includes fever , weakness , headaches , vomiting , and muscle pains .
+94	Fever , chills , headache , and weakness occur with acute onset , and can transition to the septicemic form of the plague [ 42 ] in a quarter of patients .
+95	Ferrets with EcE show general clinical signs including lethargy , anorexia and vomiting , and characteristic signs with foul-smelling , green mucous-laden diarrhea [ 12 ] .
+96	The most common of the WNV infections in humans are subclinical , but some patients develop clinical signs and symptoms such as biphasic fever , malaise , headache , nausea , anorexia , vomiting , myalgia , and arthralgia .
+97	In humans , Marburg virus disease ( MVD ) typically begins with high fever accompanied by a severe headache , chills , myalgia and malaise .
+98	Pneumonia caused by PRDC is characterized by slow growth , decreased feed effi ciency , lethargy , anorexia , fever and cough .
+99	The clinical symptoms of MERS include severe pneumonia and sometimes acute renal failure ( Eckerle et al. , 2013 ) .
+100	Usually presenting as an upper respiratory tract infection with rhinorrhea , sinus congestion and a sore throat , RSV infection can progress to bronchiolitis , pneumonitis , and pneumonia .
+101	Acute infection during adulthood is self-limiting and results in flu-like symptoms that can progress to hepatocellular involvement as observed with the development of jaundice .
+102	Acute Chagas disease is associated with fever , facial edema , generalized lymphadenopathy , and hepatosplenomegaly .
+103	Affected animals usually die without prior signs , or they may develop dyspnea , tachypnea , dry rales , crepitations , and lethargy ( Eckhoff et al. , 1998 ) .
+104	Acquired forebrain diseases affecting young cats such as FIP and non-suppurative meningoencephalitis usually have a subacute onset and a rapidly progressive ( or regressive ) clinical course .
+105	Neurologic complications and manifestations of COVID-19 , including neuropathies , seizures , strokes and encephalopathy usually occur in severe established cases of COVID-19 infection who primarily present with respiratory distress .
+106	Outbreaks of gastrointestinal infection resulting from exposure to NLVs are characterized by diarrhea and sudden projectile vomiting .
+107	After about one-week incubation period , the Ebola virus disease is characterized by a sudden onset of high fever leading to multiple hemorrhages and to widespread organ failure .
+108	In adults , infection results in fever as well as upper and lower respiratory tract symptoms including cough and breathlessness , which can rapidly deteriorate to severe acute respiratory distress syndrome .
+109	In acute disease , immature schistosomula pass through the lung and can lead to fever , eosinophilia , and pulmonary infiltrate .
+110	Typical symptoms of respiratory infections develop one to two days after viral inoculation and include nasal discharge , sneezing , sore throat , cough , headache and general weakness .
+111	Ferrets with systemic coronavirus disease typically display nonspecific clinical signs , including lethargy , vomiting , diarrhea , anorexia , weight loss , and loss of body condition .
+112	Infection usually leads to an acute , often lethal diarrhea in piglets .
+113	Following an incubation period of a few days , the initial symptoms of CCHF are a non-specific febrile illness that can occur suddenly .
+114	Severe cases of human infection begin with fever , chills , headache , and vomiting and then rapidly progress to disorientation , seizure and coma owing to encephalitis .
+115	Patients of mild COVID-19 may present with fever , fatigue , dry cough , but severe infection may progress rapidly to acute respiratory distress syndrome , septic shock , intractable acidosis and coagulopathy [ 4 ] .
+116	While the majority of EAV infections are asymptomatic , acutely infected animals may develop a wide range of clinical signs , including pyrexia , limb and ventral edema , depression , rhinitis , and conjunctivitis .
+117	Although subclinical infections are encountered more commonly than are clinical outbreaks , the epizootic respiratory or septicemic disease can progress rapidly ( often within 24–72 hr ) and produce high mortality .
+118	The clinical characters of PED include severe enteritis , vomiting , acute diarrhea , anorexia , dehydration , and death ; these can occur [ 2 ] in pigs of all ages .
+119	RSV-related encephalitis usually develops within 1 to 2 days after the onset of clinical symptoms , such as high fever , cough , and fatigue .
+120	Infection of the respiratory tract by influenza virus classically results in acute onset of systemic and respiratory symptoms such as fever , cough , sore throat , nasal congestion , headache , myalgias , or malaise [ 32 ] .
+121	The clinical manifestations of inhalational anthrax generally evolve to a fulminant septic picture with progressive respiratory failure .
+122	The clinical manifestations of inhalational anthrax generally evolve to a fulminant septic picture with progressive respiratory failure .
+123	Cats infected with C. felis exhibit vague , nonspecific signs such as lethargy , anorexia , pallor , icterus , or respiratory distress .
+124	Many rabbits infected with E. cuniculi are asymptomatic , but neurologic signs can include convulsions , tremors , torticollis , paresis , and coma .
+125	Clinically , horses and donkeys affected with the respiratory form of EVR exhibit fever , anorexia , conjunctivitis , cough , and nasal discharge .
+126	Varicella pneumonia presents about 1 - 6 days after the onset of rash with cough , dyspnea , fever , and sometimes chest pain and hemoptysis ( Mohsen and McKendrick 2003 ) .
+127	Infection by this virus mainly causes sudden high fever , rashes , headache , and severe joint pain that can last for several months or years .
+128	Most respiratory virus infections in neonates are confined to the upper respiratory tract and the first clinical symptoms are usually rhinorrhea , congestion and a cough ( 14 ) .
+129	Among immunocompetent adults , RSV infection usually manifests with rhinorrhea , pharyngitis , cough , bronchitis , headache , fatigue and fever .
+130	When it occurs , disease is usually seen in young animals , especially after disruption of host defense mechanisms , such as concurrent infection , experimental manipulation , or a change in environment .
+131	After becoming infected , only a minority of COVID patients develop bilateral pneumonia and hypoxemia [ 10 ] .
+132	Larval ascariasis causes Löffler 's syndrome , consisting of wheezing , pulmonary infiltrations , and a moderate eosinophilia [ 15 ] .
+133	In horses , AHSV infection induces lesions in the circulatory and respiratory system , resulting in hemorrhages and effusions .
+134	Acute forms are usually seen in young animals that develop high fever , depression , and recumbency .
+135	Patients with MERS-CoV infection usually present with acute respiratory signs and symptoms including fever , cough , headache , myalgia , and sometimes nausea , vomiting , or diarrhea .
+136	In adults , infections due to adenovirus are characterized by sore throat and gradual onset of fever .
+137	In susceptible species , PrV infection is often fatal , and animals die from central nervous system disorders [ 10 ] .
+138	Infection is characterized in severe cases by symptoms of lower respiratory tract infection , respiratory distress , as well as renal failure [ 20 ] .
+139	Acute BVDV infections can cause different clinical pictures , including transient pyrexia , leucopenia , oculonasal discharge , respiratory distress , diarrhea , and reproductive failure ( Brownlie et al. , 1984 ; Bolin et al. , 1985 ) .
+140	Approximately 1 - 2 % of patients subsequently develop a non-paralytic poliovirus infection ; in such cases the virus infects the central nervous system , causing aseptic meningitis accompanied by muscle cramps and back pain , which may persist for about 2 - 10 days .
+141	Young animals occasionally develop a fatal bronchopneumonia after infection , but natural infections are not usually lifethreatening .
+142	Infected puppies often have severe anemia and eosinophilia .
+143	HeV-infected horses develop acute , febrile respiratory disease that is sometimes accompanied by facial swelling , ataxia and , terminally , copious frothy nasal discharge 31 .
+144	In immunocompetent adults , primary infection with HHV-6 can produce a mononucleosis-like illness and , more rarely , severe disease , including encephalitis [ Stoeckle , 2000 ] .
+145	The clinical symptoms of SARS are those of a lower respiratory tract infection and are accompanied by damage to the lungs [ 6 , 9 , 10 ] .
+146	Infants with myocarditis usually have symptoms that include poor feeding , fever , irritability , and listlessness .
+147	Infants with myocarditis usually have symptoms that include poor feeding , fever , irritability , and listlessness .
+148	In young pups , sometimes in combination with other pathogens , CCoV infection may cause severe diarrhoea , vomiting , dehydration , loss of appetite , and , occasionally , death .
+149	Influenza are usually characterized by fever , myalgia , headache and dry cough , most of which are self-limiting but may also progress to severe conditions , such as pneumonia , myocarditis and death(16 , 17 ) .
+150	Severe seasonal influenza can occur when viral infection spreads from the upper to the lower respiratory tract to produce primary influenza pneumonia , characterized by respiratory distress , hypoxemia , hypotension and bilateral interstitial infiltrates ( Wright and Webster , 2001 ) .
+151	When cytopathic BDV is superimposed on persistent infection , affected sheep develop chronic diarrhea , wasting , nasal discharge , and polypnea .
+152	Infected healthy individuals are usually asymptomatic ; however , it can cause watery or chronic diarrhea , abdominal cramping , failure to thrive , and cachexia .
+153	In humans , adenovirus infection can results in fever , pharyngitis , conjunctivitis , bronchitis and pneumonia .
+154	Common clinical signs include diarrhea and vomiting , which can lead to dehydration and electrolyte imbalance in infected animals .
+155	Certain strains of leptospirosis will typically present with aseptic meningitis ; however , most cases present in conjunction with systemic disease and severe involvement of other organs such as lung , liver , and kidney .
+156	Hantavirus pulmonary syndrome is characterized by fever , chills , and severe myalgia , which progress to variably severe respiratory compromise and hemodynamic instability .
+157	Ebola virus infection usually causes fever , headache , myalgias , and weakness early in the course of illness .
+158	PRRSV causes common clinical signs such as anorexia , fever , and lethargy .
+159	Dogs with pure hepatosplenic lymphoma usually have nonspecific signs such as lethargy , inappetence , and weakness .
+160	Pigs affected by SIV usually show an abrupt outbreak of respiratory symptoms characterized by abdominal breathing and coughing , fever , depression , and increased mortality due to secondary bacterial infections [ 1 ] .
+161	This infection with MAP often occurs during the first months of life and elicits a slowly progressive inflammatory response in the gastrointestinal tract , not clinically apparent for months or years .
+162	After an incubation period of 1 - 2 weeks , monkeypox is characterized by a prodrome of headache , fever , fatigue , and backache , followed by a characteristic rash .
+163	Intestinal lesions in these infected animals are characterized by diffuse or multifocal hemorrhagic necrotizing enteritis and bloody fluid distension [ 6 ] .
+164	The clinical manifestations of uncomplicated influenza infections consist of abrupt onset of fever , headache , myalgia , cough , sore throat , and rhinitis [ 17 , 18 ] .
+165	Severe acute infections are characterized by ruffled fur , hunched posture , and labored respiration due to interstitial pneumonitis , followed by death within 24 hours .
+166	In visceral leishmaniasis , an incubation period of 10 days to 1 year is followed by low-grade recurrent fevers , malaise , wasting , anemia , and hepatosplenomegaly .
+167	In non-pregnant animals , the infection is present as a febrile systemic disease that is often accompanied by respiratory symptoms .
+168	After an incubation period of 1 - 2 days , influenza often begins with the abrupt onset of fever , headache , myalgias , and malaise .
+169	CMV pneumonitis has an insidious onset , which is manifested by constitutional symptoms and fever , with a later progression to dyspnea and tachypnea .
+170	The most common clinical manifestations of MERS include flu-like symptoms such as fever , sore throat , nonproductive cough , myalgia , shortness of breath , and dyspnea , which rapidly progress to pneumonia [ 25 , 21 ] .
+171	CSD is characterized by formation of a pustule at the site of inoculation ( a cat scratch ) within 14 days , followed by development of local lymphadenopathy and malaise 1 to 3 weeks after the scratch ( or bite ) , which can persist for weeks to months .
+172	Cats with ascites usually present with nonspecific clinical signs , such as anorexia or lethargy .
+173	Clinical signs in acutely infected calves include yellow watery faeces , reluctance to feed , dehydration , and in severe cases can result in death [ 22 ] .
+174	Clinical signs in human infections commonly involve conjunctivitis , which usually is transient and self-limiting .
+175	In humans , the disease symptoms may range from subclinical to epidemic leptospirosis , associated with pulmonary hemorrhage , renal failure , and jaundice .
+176	Peracute leptospirosis is characterized by shock , vascular collapse , and rapid death .
+177	Affected animals usually die without prior signs , or they may show dyspnea , tachypnea , dry rales , crepitations , and lethargy ( Eckhoff et al. , 1998 ) .
+178	The first manifestation of infection is a febrile illness , with respiratory symptoms , headaches and myalgia , followed by progression to acute respiratory distress and progressive respiratory failure ( Peiris et al. , 2003 ) .
+179	Clinical toxoplasmosis usually occurs a few weeks to a few months after transplantation and is manifested by necrotizing pneumonitis , myocarditis , and encephalitis .
+180	Patients infected with SARS-CoV-2 develop symptoms of fever , cough and fatigue that can quickly progress to pneumonia .
+181	Infection results in mild influenza-like symptoms , which typically resolve in 3 - 5 days without complications [ 16 , 17 ] .
+182	In older children and adults , EBV primary infection often leads to classic infectious mononucleosis , which is characterized by malaise , headache , fever , pharyngitis , and cervical lymphadenopathy .
+183	Approximately 20 - 25 % of infected individuals have symptoms of infection , which are typically mild and last 2 to 7 days [ 51 ] .
+184	Bubonic plagues is characterized by initial lymphadenitis , most commonly inguinal , followed by the development of a systemic illness , which may include secondary plague pneumonia .
+185	In dogs , acute graft-versus-host disease develops about 2 weeks after grafting and is characterized by erythroderma , jaundice , diarrhea , and gram-negative infections .
+186	Patients with severe MERS often present with pneumonic symptoms including fever , cough and dyspnea , with some progressing to respiratory failure and acute respiratory distress syndrome [ 13 , 14 ] .
+187	In some cases , infection progresses to the central nervous system ( CNS ) and neurological symptoms , such as confusion , ataxia , and seizures , manifest .
+188	Although all ages are susceptible to infection , clinical signs are usually seen in young and immunosuppressed birds .
+189	Clinically , Ebola patients undergo severe vomiting and diarrhea with massive fluid losses and become very dehydrated , with a mortality that varies from 25 % to 75 % .
+190	The early symptoms of bubonic plague are characterized by headache , shaking chills , fever , malaise and pain in the affected regional lymph nodes with a sudden onset of the disease ( WHO , 2002 ; Perry and Fetherston , 1997 ) .
+191	Clinical signs of acute BVDV infection may include fever , diarrhea , rapid respiration , inappetance , depression , lymphopenia , and thrombocytopenia [ 15 ] .
+192	Common symptoms of NiV infection in humans are similar to that of influenza such as fever and muscle pain and in some cases , the inflammation of the brain occurs leading to encephalitis .
+193	Most adults and children present mild flu-like symptoms , but some may rapidly develop acute respiratory distress syndrome ( ARDS ) , respiratory failure , arrhythmias , acute cardiac injury , shock , multiple organ failure and death ( 1 , 18 ) .
+194	Primary oral infection with HSV , usually type 1 , typically causes acute gingivostomatitis , ulcers , fever , cervical lymph node enlargement and irritability .
+195	Robust , hearty calves , usually less than 10 days of age , develop hemorrhagic , necrotic enteritis and enterotoxemia , often with abdominal pain [ 8 , 9 ] and nervous signs .
+196	Severe cases are characterized by rapid change , abrupt onset of fever , petechial or purpuric rash , hemodynamic signs of sepsis , vasomotor collapse , and shock [ 44 ] .
+197	SARS is characterized by high fever , malaise , rigor , headache and dyspnoea and may progress to generalized interstitial infiltrates in the lungs requiring artificial ventilation .
+198	Clinically , dogs with canine influenza are lethargic , inappetent , and hyperthermic and frequently cough and show nasal discharge .
+199	Following an incubation period of 2 - 14 days , initial symptoms of MERS are similar to many common viral respiratory infections and include fever , rhinorrhea , sore throat , and muscle aches .
+200	A majority of the cases result in upper respiratory tract infections , with fever , cough , sore throat , headache , and malaise , but some cases may progress to tracheobronchitis or pneumonia ( Denny et al. , 1971 ) .
+201	CHIKV infection is clinically characterized by the sudden appearance of high fever , rash , headache , nausea , vomiting , myalgia and arthalgia or severe joint pain .
+202	Immunocompetent hosts usually develop self-limiting diarrhea .
+203	Immunocompetent hosts usually develop self-limiting diarrhea .
+204	Some cases of viral pneumonia have a rapid and relentless fatal course , with generalized alveolar and interstitial opacities , development of the adult respiratory distress syndrome ( ARDS ) , and progressive respiratory failure .
+205	The disease may be fatal in 1-to 2-day-old ferret kits secondary to bronchiolitis , pneumonia , and aspiration of material from the upper respiratory tract [ 57 , 61 , 62 ] .
+206	HMPV infection in adults usually presents with mild common cold-like respiratory symptoms such as rhinorrhoea , cough and sore throat ( Stockton et al. , 2002 ; Falsey et al. , 2003 ) .
+207	In pythons , nidovirus infection induces an inflammation of the upper respiratory and alimentary tract which can develop into a severe and often fatal proliferative pneumonia .
+208	At the beginning of the illness , patients may experience low-degree fever or flu-like symptoms , but suddenly , severe respiratory failure ( SRF ) emerges [ 1 ] .
+209	In domestic swine , the incubation period ranges from 5 to 15 days , and the clinical features of ASF include fever ( 41 - 42 C for about 4 days ) , diarrhea , inappetence , incoordination , prostration , coma , and death .
+210	Rabbits with multicentric lymphoma often exhibit nonspecific general signs , such as anorexia , lethargy , emaciation , pallor , diarrhea , and rhinitis .
+211	Symptoms of HeV and NiV infection of humans can be respiratory , including hemorrhage and edema of the lungs , or encephalitic , resulting in meningitis .
+212	After a few weeks to several months incubation , BDV can cause locomotor and sensory dysfunction followed by paralysis and death .
+213	The incubation periods of these diseases are generally thought to range from 5 to 19 days ( shorter in the case of parenteral exposure such as via needle stick injury ) , after which time patients develop fever and malaise , accompanied by headache , myalgia , vomiting , and diarrhea .
+214	Most clinical presentations of BVDV infection are mild , consisting of lethargy , anorexia , fever , diarrhea , and decreased milk production in lactating cows .
+215	In humans , infection of the respiratory tract can lead to pneumonia , secondary pneumonia and overwhelming immune responses , followed by multiorgan failure in rare cases .
+216	Patients with severe acute respiratory illness caused by MERS-COV infection exhibit symptoms like coughing , fever , shortness of breath , diarrhoea , nausea/vomiting , highly lethal pneumonia , and kidney infection in most severe forms [ 5 ] .
+217	Hospitalized patients with H7N9 virus infection usually present with fever and cough , with early sputum production , and the illness progresses rapidly to severe pneumonia , moderate-to-severe ARDS , and shock .
+218	Many dogs have insidious onset of weight loss , fever , coughing , and dyspnea due to pulmonary involvement .
+219	The onset of pulmonary melioidosis is typically accompanied by a high fever , headache , anorexia , and general muscle soreness .
+220	In the epizootic subtype , early symptoms occur within one to 5 days after infection and include fever , depression , abnormal heart rate , weakness , and ataxia .
+221	Clinically , PRRS in nursery and young growing animals is characterized by sneezing , fever , anorexia , dyspnea , cough , and occasional death .
+222	Ferrets with pneumonia exhibit typical clinical signs such as labored breathing , dyspnea , cyanotic mucous membranes , increased lung sounds , nasal discharge , fever , lethargy , and anorexia .
+223	In the most serious cases , infection progresses into acute respiratory distress syndrome ( ARDS ) with diffuse alveolar consolidations ( diffuse patchy-like lesions ) [ 4 ] .
+224	Clinically , acute viral encephalitis and ADEM usually manifest with fever , severe headache , neck stiffness , alterations of consciousness , focal neurological signs , and often seizures , especially in children .
+225	Patients infected with MERS-CoV typically show signs of respiratory illness ( 2 ) and sometimes diarrhea .
+226	Human infection with VSV can either be asymptomatic or may lead to disease symptoms , which include myalgia , headache , and fever that resolve in 3 - 5 days without complications .
+227	Some cats show lethargy , fever , anorexia , diarrhea , stomatitis , weight loss , and/or lymphadenopathy during the acute phase .
+228	However , systemic illness such as pyrexia , anorexia , lethargy and/or pneumonia can occur during the viraemic phase and is usually associated with immune dysfunction and death .
+229	Early signs of infection are non-specific and flu-like , and may include sudden onset of fever , asthenia , diarrhea , headache , myalgia , arthralgia , vomiting , and abdominal pains ( Bwaka et al. 1999 ) .
+230	However , the disease usually progresses rapidly within the first week to respiratory failure in both infected adults and children [ 7 , 24 ] .
+231	In a minority of infected individuals , encephalitis or encephalomyelitis occurs and may lead to neck stiffness , confusion , tonic-clonic seizures , somnolence , coma and death .
+232	A significant proportion of patients with SARS have a fulminant course characterized by high fever , rapidly progressive diffuse pneumonitis and respiratory failure [ 3 ] .
+233	Primary HHV-6 infection causes undifferentiated febrile illness and exanthem subitum ( roseola infantum or sixth disease ) , an acute illness with high fever and rash that typically resolves in three to seven days [ 49 ] .
+234	In non-immunocompromised individuals , after an incubation period of 4 - 5 days , an astrovirus infection will induce a mild disease , characterized by mild and short watery diarrhea for two to three days , followed by nausea , vomiting , and abdominal pain , which usually resolves spontaneously .
+235	hMPV infections in children are usually mild and self-limiting , but in elderly and immunocompromised patients , the clinical course can progress to acute respiratory distress syndrome ( ARDS ) [ 6 ] .
+236	While symptoms in humans are usually mild and include febrile illness resembling the flu , a small percentage may develop serious clinical manifestations such as retinal lesions , meningoencephalitis , hepatitis , severe hemorrhagic fever , coma , and death .
+237	Typical clinical cases are first appear during the postweaning period , but most deaths from FIP occur in cats 3 - 16 months of age [ 6 ] .
+238	Foals that develop diarrhea associated with E. coli septicemia are typically seriously ill , with marked fevers , depression and signs of endotoxemia .
+239	The clinical course of SARS consists of initial onset of fever , followed by the development of respiratory symptoms that may progress to acute respiratory distress syndrome in some patients [ 2 , 5 ] but may be quite self-limiting in others .
+240	The incubation period is typically 24–48 h and the disease is characterized by acute-onset vomiting ( projectile vomiting ) and watery diarrhea .
+241	VZV pneumonia develops 2 to 7 days after the onset of rash and is characterized by fever , cough , tachypnea , chest pain , and hemoptysis .
+242	Many cases of ECoV are self-limiting with transient clinical signs , however fatalities , endotoxemia and hyperammonemia can occur ( Fielding et al. , 2015 ) .
+243	Human dengue infection is characterized by the abrupt onset of fever , intense headache , myalgia , arthralgia , retro-orbital pain , anorexia , gastrointestinal disturbances , and rash .
+244	Human dengue infection is characterized by the abrupt onset of fever , intense headache , myalgia , arthralgia , retro-orbital pain , anorexia , gastrointestinal disturbances , and rash .
+245	The acute febrile phase of illness tends to resolve within 3 - 5 days ; however , malaise and general fatigue may persist for several days and sometimes weeks post infection .
+246	Affected animals often become recumbent and anorexic and die within 1 to 3 weeks of onset of clinical signs .
+247	Bacterial meningitis or meningoencephalitis is rare in dogs and usually rapidly disseminates leading to serious illness and death ( Radaelli and Platt 2002 ) .
+248	PVM is most often subclinical in immunocompetent mice although in immunodeficient mice , it can cause chronic wasting with cyanosis and dyspnea ( Percy and Barthold , 2007 ) .
+249	During pregnancy , HEV infection can take a fulminant course , resulting in fulminant hepatic failure , membrane rupture , spontaneous abortions and stillbirths .
+250	The most common problem in dogs between weaning and 6 months is enteritis ( Houston et al. , 1996 ; Parrish et al. , 1982 ; Pollock and Coyne , 1993 ) , with clinical signs of lethargy , anorexia , vomiting and hemorrhagic diarrhea .
+251	Severe patients rapidly develop pneumonia during the first week of illness , and progress to respiratory failure during the second week [ 1 , 2 ] .
+252	In addition to diarrhea , affected foals typically display clinical signs of sepsis .
+253	In addition to diarrhea , affected foals typically display clinical signs of sepsis .
+254	SARS-CoV infection in humans typically causes an influenza-like syndrome such as malaise , rigors , tiredness and high fevers .
+255	In the immune competent host , symptoms associated with infection are usually self-limited , including cough , pharyngitis , keratoconjunctivitis , gastroenteritis , and fevers .
+256	Rarely , young children or immunocompromised people develop fatal myocarditis or meningoencephalitis ( Kirchhoff , 1993 ) .
+257	Respiratory disease induced by PRRSV can vary from clinically nonapparent and mild to severe , acute pneumonia with clinical disease characterized by labored and accentuated abdominal respiration , tachypnea , and fever .
+258	Abortion is a frequent outcome in naïve pregnant mares and congenital infection in neonatal foals is characterized by severe , fulminating interstitial pneumonia [ 9 ] .
+259	The disease is often mild and recovery rapid ( 1 - 3 weeks ) , however in some cases interstitial pneumonitis or severe bronchopneumonia develop which can be fatal ( Appel and Binn , 1987 ) .
+260	Patients with pulmonary cryptococcosis can present with symptoms of acute onset of fever , productive cough , respiratory distress , chest pain , and weight loss [ 14 ] .
+261	The flu-like symptoms of COVID-19 usually appear 5 - 6 days after infection and include coughing , sore throat , fever , muscle and body aches [ 6 ] , and even loss of smell or taste in some cases [ 7 ] .
+262	Enteric infection in dogs is usually self-limiting and typically produces either no clinical signs or only mild enteritis [ 26 ] .
+263	Uncomplicated West Nile fever typically begins with sudden onset of fever , headache , lymphadenopathy , and myalgia , often accompanied by gastrointestinal symptoms .
+264	Pneumonic plague leads to purulent , exudative bronchopneumonia that is usually fatal if untreated [ 42 ] .
+265	The onset of influenza is typically abrupt , and the illness is characterized by the predominance of systemic symptoms , including fever , prostration , myalgias , and malaise .
+266	Symptomatic CHIKV infections result in a severe arthritis , which can persist for months following resolution of the fever and rash [ 197 , 198 ] .
+267	Although seldom fatal , CTF can cause serious disease in humans ( fever , chills , headache , retroorbital pain , photophobia , myalgia , abdominal pain , and generalized malaise ) with prolonged convalescence .
+268	Although seldom fatal , CTF can cause serious disease in humans ( fever , chills , headache , retroorbital pain , photophobia , myalgia , abdominal pain , and generalized malaise ) with prolonged convalescence .
+269	In adults , Zika virus can cause neurological complications , including but not limited to Guillain-Barré syndrome , which is an acute , progressive neuropathy that can result in paralysis [ 10 , 11 ] .
+270	Ferrets 1 to 3 years of age commonly develop mediastinal or muticentric lymphoma , and present with the above signs , or may have muscle wasting , occasional vomiting , and respiratory difficulty [ 31 ] .
+271	Clinically , VEEV is indistinguishable from dengue and other arboviral diseases , often humans infected with VEEV symptoms appear within 2 - 5 days , and range from febrile , or flu-like symptoms , such as malaise , fever , chills , and myalgia , to coma and death are registered in ~1 % of cases [ 3 ] .
+272	The clinical signs of Pasteurella multocida ( PAR ) typically begin at 1 to 3 months of age and consist of sneezing and snuffling , which progresses to more violent sneezing with mucopurulent nasal discharge .
+273	There is a variety of clinical signs , and strains vary in virulence [ 21 ] , but severe infection can lead to abortions in pregnant mares or neonatal foal death .
+274	Infection of humans with SARS-CoV typically causes an influenza-like syndrome of malaise , rigors , fatigue and high fevers .
+275	Acute pharyngitis caused by adenovirus typically is associated with fever , erythema of the pharynx , enlarged tonsils with exudate , and enlarged cervical lymph nodes .
+276	Most patients with progressive disseminated Histoplasmosis present with fever , chills , weight loss , cough and progressive dyspnea [ 18 ] .
+277	Affected foals usually demonstrate signs ranging from sepsis to sepsis syndrome , including fever , diarrhea , depression , and hypotensive shock .
+278	HSV infection usually presents with oral or genital mucocutaneous lesions , occasionally pneumonitis , tracheobronchitis , esophagitis , hepatitis , encephalitis , or disseminated infection ( Green et al. 2004 ) .
+279	Affected animals usually die of cardio-respiratory failure within 2 to 5 days of onset of clinical signs ; however , progression can be slower ( up to 2 wk ) in some cases .
+280	In contrast to the relatively harmless disease caused by these human coronaviruses , SARS is characterized by high fever , malaise , rigor , headache , non-productive cough , or dyspnea and may progress to generalized , interstitial infiltrates in the lung , requiring intubation and mechanical ventilation [ 9 ] .
+281	Infection of ZV results in a self-limiting mild illness characterized by rash , fever , conjunctivitis , arthralgia , and arthritis [ 3 ] .
+282	Clinical cryptosporidiosis is mostly seen in calves up to six weeks of age and the most prominent clinical symptoms are watery diarrhea , inappetence , depression , and sometimes death ( Robertson et al. , 2014 ) .
+283	Patients with severe cases usually develop pneumonia or acute respiratory distress syndrome ( ARDS ) , a condition that may require mechanical ventilation and intensive care unit treatment [ 3 ] .
+284	Some patients with BCC develop a life-threatening , sometimes necrotizing , pneumonia , associated with bacteremia and severe respiratory failure .
+285	This encephalitis is characterized by tremor , paralysis , and convulsions and my not appear until weeks or months after acute infection .
+286	The primary , and often only , clinical signs of PEDV are acute watery diarrhea and vomiting ( Geiger and Connor , 2013 ) .
+287	Patients with symptomatic EPEC infection typically experience diarrhea , vomiting , malaise , and fever .
+288	The initial symptoms of rapidly-lethal infections such as meningitis , encephalitis and bacteraemia can resemble those of influenza [ 8 ] .
+289	Infection in humans can present as a rapidly progressive severe meningoencephalitis often resulting in death .
+290	Following an incubation period from 1 to 6 days , patients develop fever , crampy abdominal pain , and diarrhea , which often contains blood and mucus .
+291	Patients with AVRS typically develop symptoms 1 - 4 days after infection .
+292	Uncomplicated disease in adult animals is generally transient ( less than 5 days till recovery ) and restricted to the upper respiratory tract .
+293	Infection of adult pigs generally produces a nonfatal disease characterized by flu-like symptoms , including mild interstitial pneumonia , elevated temperature , and inappetance .
+294	In severe cases , dyspnea and hypoxemia usually occur 1 week after infection [ 4 , 37 ] .
+295	Acute swine influenza virus infection causes interstitial pneumonia and bronchiolitis , with cough , dyspnea , fever , and lethargy as clinical manifestations , although recovery is usually rapid .
+296	Mild infections may be self-limiting in few days , but in some cases the respiratory symptoms can develop into acute respiratory distress syndrome ( ARDS ) with a high risk of death from multiorgan failure .
+297	PED is characterized by vomiting , watery diarrhea and dehydration , which are usually followed by death in suckling piglets [ 3 ] .
+298	BVDV infection causes various clinical symptoms such as diarrhea , respiratory disorders , and immunosuppression .
+299	The disease in neonatal kids is characterized clinically by fever , conjunctivitis , ocular and nasal discharges , dyspnea , anorexia , abdominal pain , weakness , and death , usually within 1 - 4 days after onset of clinical signs .
+300	Cats with the effusive form of FIP usually progress more quickly and often die within 2 months of initial clinical signs .
+301	Cats with disseminated sporotrichosis are often febrile , depressed , and anorexic .
+302	Humans develop typical poxvirus lesions ( vesicle and pustule formation ) , usually on the hands , but otherwise experience a mild illness .
+303	In nonhuman primates , the disease is often mild and is characterized by nonspecific upper respiratory signs , including coughing , sneezing , and mucopurulent oculonasal discharge .
+304	Dogs often develop severe dyspnoea and die within 24 - 48 h of first showing clinical signs of respiratory disease ( Kim et al. , 2007 ) .
+305	During pregnancy , severe pneumonia can develop in approximately 10 % of varicella cases .
+306	BVDV infected animals may develop fever , mild diarrhea , and leukopenia .
+307	Within this age group , the final stages of infection are commonly characterized by ataxia , nystagmus , running fits , intermittent convulsions , coma , and death .
+308	Patients infected with SARS-CoV-2 can be asymptomatic or experience a flu-like disease 1 , with fever , fatigue , cough , and dyspnea .
+309	Clinical signs of canine parvovirus usually appear 5 days after inoculation by the fecal-oral route and are characterized by anorexia , fever , depression , and vomiting .
+310	Patients with symptomatic EPEC infection typically experience diarrhea , vomiting , malaise and fever .
+311	Smallpox begins with a febrile prodrome a few days before the rash that may also be accompanied by chills , head and body aches , nausea , vomiting , and abdominal pain [ 41 ] .
+312	Coxsackie-virus B virus infection is usually more severe in newborns than in older children and adults , often causing fulminant myocarditis , encephalitis , hepatitis , and death .
+313	Usually , T. gondii pneumonia manifests with fever , dyspnoea and non-productive cough .
+314	Although pulmonary infection occurs in only 5 - 25 % of infected newborns , it tends to produce a fulminant and progressive course ( Dominguez et al 1984 ; Hubbell et al 1988 ; Kohl 1997 ) .
+315	The symptoms of disseminated toxoplasmosis are nonspecific ; the lungs and central nervous system are often involved , and hepatitis , myocarditis , and chorioretinitis may develop [ 108 ] .
+316	Clinical symptoms usually comprise mild and nonspecific febrile illness ; in some cases , severe hemorrhagic disease can develop ( Wang and Crameri 2014 ) .
+317	Patients with SARS usually develop high fever followed by severe clinical symptoms , which include acute respiratory distress syndrome with diffuse alveolar damage ( DAD ) , and ultimately die .
+318	The most common symptoms of coronavirus infection are nasal catarrh and a sore throat , and the illness typically lasts approximately 6 - 8 days ( Kaye et al. , 1971 ) .
+319	Clinical manifestations ( cough , fever , and malaise ) are typically mild , but infants are susceptible to serious lower respiratory tract infections [ 3 ] .
+320	As an acute viral infection , Ebola hemorrhagic fever ( EHF ) typically leads to a sudden onset of fever , weakness , and extreme muscle pain and headache .
+321	Most cattle with BVDV have mild pulmonary lesions or normal lungs grossly and histologically unless an opportunistic bacterial pneumonia has developed .
+322	In cats , Microsporum canis usually causes a mild , self-limiting infection and a low-grade immune response , with multifocal alopecia and scaling , typically on the face , head and feet .
+323	Most cattle with BVDV have mild pulmonary lesions or normal lungs grossly and histologically , unless an opportunistic bacterial pneumonia has developed .
+324	The clinical symptoms associated with HMPV infection are indistinguishable from those of RSV infection [ 146 ] and range from common cold to pneumonia .
+325	Symptoms in domestic cats following FECV infection may range from subclinical to a mild diarrhea in uncomplicated cases [ 66 ] .
+326	In healthy adults , infection is characterized by low-grade fever , malaise , and nasal symptoms .
+327	Clinically apparent infection is characterized by retarded growth , ruffled fur , soft feces or diarrhea , rectal prolapse , and moderate mortality in older suckling or recently weaned mice ( Barthold et al. , 1978 ) .
+328	Clinically apparent infection is characterized by retarded growth , ruffled fur , soft feces or diarrhea , rectal prolapse , and moderate mortality in older suckling or recently weaned mice ( Barthold et al. , 1978 ) .
+329	In the clinic , COVID-19 patients most commonly present with fever , cough and dyspnea , and from there the disease can progress to acute respiratory distress syndrome , lung consolidation , cytokine release syndrome , endotheliitis , coagulopathy , multiple organ failure and death .
+330	In the clinic , COVID-19 patients most commonly present with fever , cough and dyspnea , and from there the disease can progress to acute respiratory distress syndrome , lung consolidation , cytokine release syndrome , endotheliitis , coagulopathy , multiple organ failure and death .
+331	Rarely , however , acutely infected animals may suffer from high grade fever and bleeding in internal organs .
+332	Infection is characterized by acute flu-like symptoms , causing severe atypical pneumonia with diffuse alveolar damage , and death within two weeks in severely infected patients .
+333	In mild cases , SARS-Cov-2 infection can cause fever , fatigue and dry cough , while severe cases frequently cause pneumonia , respiratory and kidney failure .
+334	These foals usually present with an acute onset of severe respiratory distress within a few days of birth and infection can be lethal ( 24 , 106 ) .
+335	In healthy , immunocompetent adults , pulmonary viral infections typically produce a mild and self-limited upper respiratory tract infection .
+336	Cats with fluid overload usually develop pulmonary or subcutaneous edema preferentially to pleural and peritoneal effusions .
+337	Travellers with East African disease often have a very short incubation period ( few days ) and present acutely with fever , a transient morbilliform rash , and meningoencephalitis , with progressive neurologic involvement over 1 - 4 weeks .
+338	Many patients begin with mild or no symptoms and develop severe cases a week to two weeks after infection .
+339	As a result of the airborne method of transmission as well as affinity for pulmonary ACE2 receptors , the infection usually presents with mild respiratory and systemic symptoms .
+340	This contagious disease , commonly seen in young dogs , is often self-limiting , although a wide range of respiratory signs can be found , from mild illness to severe pneumonia leading to death .
+341	Dogs suffer from a dry hacking cough , which is usually cleared in 1 - 3 weeks , however , severe bronchopneumonia can develop ( Appel , 1987 ) .
+342	In psittacine birds , adenovirus infection manifests as depression , anorexia , diarrhea and cloacal hemorrhage [ 39 ] .
+343	Laminitis develops within 1 to 3 days of onset of diarrhea in approximately 10 % of cases and can occur in any horse with enterocolitis , but is most common in horses with Potomac horse fever ( equine neorick ettsiosis ) .
+344	The most common infection , seasonal influenza , is usually a mild , self-limited febrile syndrome , but it can be more severe in infants , the elderly , and immunodeficient persons , in whom it can progress to severe viral pneumonitis or be complicated by bacterial superinfection , leading to pneumonia and sepsis .
+345	After an incubation period of 1 or 2 days , influenza usually presents acutely with fever , headache , malaise , and myalgias along with cough and sore throat .
+346	Salmonellosis typically causes an acute colitis characterized by profuse watery diarrhea , endotoxemia , and coagulopathies with many severe sequelae , such as laminitis and acute renal failure .
+347	Zika virus infection usually causes mild symptoms , such as rash , fever , headache , and joint pain , but severe symptoms in some cases , such as Guillain-Barré syndrome , meningo-encephalitis and myelitis .
+348	Cryptosporidial diarrhea in immunocompetent foals generally de velops before 4 weeks of age and is usually self-limiting and lasts for 1 to 8 days .
+349	In severe cases , the illness can quickly progress to severe atypical pneumonia , acute respiratory distress syndrome and severe hypoxemic respiratory failure [ 20 , 26 , 28 , 29 , 69 ] .
+350	Infections with STM are characterized by severe necrotic enteritis in the ileum and large intestine .
+351	The typical clinical presentation of adults infected with CHIKV includes fever , rash , arthralgias and severe myalgias .
+352	Signs of VSV infection in livestock are usually restricted to the occurrence of vesicular lesions around the mouth , nose , teats , and coronary bands of the hooves that typically resolve in 7 - 10 days without serious consequence .
+353	Typically , a group of cats develop an infectious type of enteritis , which clears up in most but becomes chronic in a small proportion .
+354	HSV-related hepatitis has a high ( > 80 % ) mortality and resembles septic endotoxic shock ; jaundice is not always present ( Kusne et al. , 1991 ) .
+355	CAEV infection can result arthritis , leukoencephalomyelitis , pneumonia , mastitis , and chronic weight loss .
+356	The peracute form of clostridial infection is characterized by the rapid onset of severe depression , abdominal pain , profuse and bloody diarrhea , and neurologic signs .
+357	Common presenting features of SARS are high fever , chills , rigor , malaise , nonproductive cough , lymphopenia and pulmonary infiltrates , followed by rapidly progressive respiratory failure in some cases .
+358	Infections in humans are associated with a febrile pulmonary disease characterized by cough , rash , and chest pain .
+359	In acute disease , immature schistosomula pass through the lung , and can lead to fever , eosinophilia and pulmonary infiltrate .
+360	Ferrets with CDV may initially present with clinical signs similar to influenza but go on to develop a severe crusting dermatitis on the face and other areas of the body as well as marked hyperkeratosis of the footpads .
+361	Untreated cases of Shigella dysentery may become severe and cause anorexia , hemolytic-uremic syndrome , dilation of large intestine , kidney damage , weight loss , and seizures ( Sur et al. , 2004 ) .
+362	Persistent infection can occur in horses , characterized by recurring cycles of viremia and clinical symptoms , including fever , anemia , ventral edema , thrombocytopenia and general wasting ( Leroux et al. , 2004 ) .
+363	CHIKV generally causes a fever that resolves within several days , a maculopapular rash , and a characteristic arthralgia that can be extremely painful and may persist for months .
+364	Illness due to yellow fever virus usually begins after an incubation period of 3 to 6 days , with acute onset of headache , fever , chills , and myalgia .
+365	In severe cases of COVID-19 , patients experience rapid disease progression and can quickly progress to acute respiratory distress syndrome ( ARDS ) [ 2 ] .
+366	In early infection , patients present with conjunctival injection , mild hypotension , flushing , and petechial rash ; in later stages of the disease , frank mucous membrane hemorrhage with shock and generalized bleeding may occur .
+367	CMV pneumonitis commonly manifests with insidious onset of fever , malaise , cough , and dyspnea with hypoxia .
+368	The disease in humans includes systemic viral replication , immunosuppression , and abnormal inflammatory response , and is manifested by the abrupt onset of fever , chills , myalgia , headache , anorexia , and conjunctival suffusion .
+369	Coxsackievirus B virus infection is usually more severe in newborns than in older children and adults , often causing fulminant myocarditis , encephalitis , hepatitis and death .
+370	Cats infected with avirulent FCoV-strains usually develop mild enteritis , while virulent FCoV-strains can cause progressive and usually fatal vasculitis known as feline infectious peritonitis ( FIP ) [ 1 ] .
+371	Chickenpox is usually a self-limited disease lasting 4 - 5 days with fever , malaise , and a generalized vesicular rash of blister-like lesions .
+372	Chickenpox is usually a self-limited disease lasting 4 - 5 days with fever , malaise , and a generalized vesicular rash of blister-like lesions .
+373	Clinical Signs Natural infection in immunocompetent adult mice is usually self-limiting and subclinical .
+374	Acute viral croup manifests in the form of a viral prodrome characterized by clear rhinorrhea , lowgrade fever , sore throat ( in older children ) and cough [ 22 ] .
+375	Patients infected with SARS-CoV initially present with myalgia , headache , fever , malaise and chills , followed by dyspnea , cough and respiratory distress as late symptoms [ 14 , 15 ] .
+376	These infections are often associated with nausea , vomiting , diarrhea , and other gastrointestinal symptoms like dysentery or bleeding diarrhea and may last for 5 or 7 days .
+377	CCoV infection is usually asymptomatic and disease signs vary greatly , but they occur most commonly in young pups ( Carmichael and Binn , 1981 ) .
+378	The vast majority of EAV infections are subclinical , but acutely infected animals may develop a wide range of clinical signs including pyrexia , depression , anorexia , dependent edema ( scrotum , ventral trunk , and limbs ) , stiffness of gait , conjunctivitis , lacrimation and swelling around the eyes ( periorbital and supraorbital edema ) , respiratory distress , urticaria , and leukopenia ( Timoney and McCollum , 1993 ) .
+379	Lethargy and off feed with or without fever is a symptom typical of the major disease concerns that can enter the stud [ 14e17 ] .
+380	Ferrets with mycobacterial infections can have a variety of clinical symptoms , which may include weight loss , lymph node enlargement , conjunctival lesions , splenomegaly , and pneumonia .
+381	Infection with CHIKV often results in acute illness characterized by the classic triad of fever , arthralgia , and rash , and it can become chronic in a subset of patients .
+382	Most respiratory viral infections produce nonspecific acute symptoms such as fever , nonproductive cough , dyspnea and hypoxemia [ 7 ] .
+383	HuCV infection is characterized by the acute onset of vomiting or diarrhea , or both .
+384	Infection of humans usually manifests as a severe upper respiratory disease [ 16 ] .
+385	Cats that develop FIP inevitably die of their disease in days , weeks or months .
+386	In an immune-competent host , Toxoplasma infection is often asymptomatic , but patients can have fever , chills , and lymphadenopathy .
+387	Typical clinical signs of respiratory infection with PRRSV are tachypnoea or dyspnoea that can be accompanied by an increased respiratory effort , lethargy , fever and occasionally coughing , sneezing and chemosis ( Rossow et al. , 1994 ; Opriessnig et al. , 2002 ) .
+388	Clinically , affected cats can be asymptomatic or have signs of hepatic failure including hypoproteinemia , serous or chylous abdominal effusion , elevated liver enzymes ( aspartate aminotransferase , alanine aminotransferase ) , and icterus ( Terrell et al. , 2003 ) .
+389	The incubation period of Ebola ranges from 2 to 21 days , and can present initially with nonspecific symptoms such as fever , chills , myalgia , malaise , respiratory and gastrointestinal symptoms followed later by hemorrhagic symptoms in severe cases .
+390	The clinical symptoms of CHIKV infection include severe and sometimes prolonged incapacitating arthralgia .
+391	Adenoviral infections are characterized by bronchopneumonia , which can be severe , leading to acute respiratory failure .
+392	Clinically , varicella pneumonia presents 2 - 5 days after the onset of fever , vesicular rash ( chickenpox ) , and malaise and is heralded by the onset of pulmonary symptoms ( 2 , 28 ) including cough , dyspnea , pleuritic chest pain , and even hemoptysis .
+393	It usually causes a mild dengue-like illness with possibly fever , joint pains , rash , and/or swollen lymph nodes ( 170 ) .
+394	Approximately 10 % of children with fulminant meningococcemia develop renal failure , which usually occurs 24 - 48 h after the onset of illness ( 9 ) .
+395	Affected animals usually die within a few hours of infection , and these animals only rarely have clinical signs such as dullness , recumbency , and dyspnea .
+396	Acute infection in healthy individuals is usually asymptomatic , but infection in immunocompromised individuals can result in severe disease with CNS involvement , myocarditis and pneumonia .
+397	The human infection is characterized by fever , headache , lymphopenia , myalgia , malaise , and severe neurological signs such as fatal encephalitis .
+398	Common symptoms in people infected with SARS-CoV-2 virus include respiratory symptoms , fever , cough , and in more severe cases , infection can lead to pneumonia and severe acute respiratory syndrome [ 4 , 5 ] .
+399	Neurological complications such as febrile and afebrile seizures , encephalitis , and meningitis sometimes occur after primary HHV-6 infection Hall et al , 1994 ; Jones et al , 1994 ; Suga et al , 1993 ; Yanagihara et al , 1995 ; Zerr et al , 2002 ) .
+400	CaHV-1-induced generalized disease is characterized by loss of appetite , abdominal pain , soft feces or diarrhea , ataxia , serosanguineous nasal discharge , and mucosal hemorrhages .
+401	Patients infected with COVID-19 typically present with fever , cough , dyspnea , and myalgia , and the infection may cause severe pneumonia .
+402	Patients infected with COVID-19 typically present with fever , cough , dyspnea , and myalgia , and the infection may cause severe pneumonia .
+403	SARS-CoV initially causes lower respiratory tract disease , which can lead to a progressive and potentially lethal atypical pneumonia with clinical symptoms that include fever , malaise , lymphopenia , and in some cases also diarrhea .
+404	Survivors of NiV infection develop symptoms of neurological malfunction such as encephalopathy , cerebral atrophy , change in behavior , ocular motor palsies , cervical dystonia , weakness and facial paralysis , which remain for several years ( Sejvar et al. 2007 ) .
+405	In chronic salmonellosis , the clinical signs may persist for weeks or months and include soft feces , anorexia , and loss of condition .
+406	This infection usually begins as a viral-like illness or croup with stridor but progresses rapidly with high fever , toxicity and worsening respiratory distress .
+407	Symptoms of TBEV infection can include fever , malaise , meningitis , and encephalitis .
+408	In the subacute stage of infection , animals die from myocarditis-induced congestive heart failure [ 13 , 15 ] .
+409	Advanced CCHFV infections are characterized by more severe symptoms including liver failure , petechiae as well as gastrointestinal and cerebral hemorrhage resulting in death ( Whitehouse , 2004 ) .
+410	Granulomatous enteritis can produce vomiting , anorexia , and diarrhea in the affected ferret [ 10 , 11 ] .
+411	Rotavirus infections usually result in diarrhea , accompanied by emesis and low-grade fever .
+412	The typical presentation of MERS is a severe acute respiratory illness with a fever , cough , and shortness of breath that can progress to pneumonia and kidney failure [ 10 ] .
+413	Clinical manifestations of IBVinfected chickens include respiratory , renal , and reproductive diseases and are often coupled with secondary infections such as airsaculitis and oviduct salpingitis .
+414	The disease typically manifests as a severe pneumonia which often progresses to respiratory failure and death within 10 days ( case fatality rate up to 90 % in children ) .
+415	Canine leptospirosis is typically associated with acute cholestatic hepatic disease and acute renal failure .
+416	In young piglets , especially under 3 weeks of age , as well as other susceptible species , PHEV infection is often fatal because of the central nervous system disorders .
+417	In a neonate with enteroviral infection , clinical manifestations can range from mild gastroenteritis to a severe and fulminant sepsis-like syndrome or meningitis and encephalitis .
+418	The disease caused by the virus manifests in most cases as a lower respiratory tract infection leading to fever , cough and dyspnea , while more severe cases can led to respiratory failure and/or multi organ failure .
+419	The disease caused by the virus manifests in most cases as a lower respiratory tract infection leading to fever , cough and dyspnea , while more severe cases can led to respiratory failure and/or multi organ failure .
+420	Dogs may develop bronchopneumonia , conjunctivitis , photophobia , and a transient corneal opacity , " blue eye " , which may occur after clinical recovery as result of anterior uveitis and oedema [ 9 , 10 ] .
+421	Symptomatic illness usually develops 1 to 3 weeks after exposure and may mimic acute gastroenteritis with fever , nausea , vomiting , and watery diarrhea .
+422	The clinical symptoms of norovirus infection include vomiting , diarrhea , abdominal cramps , and nausea , usually lasting 2 - 4 days .
+423	The symptoms of calicivirus infection are generally mild and of short duration but can be as severe as those of rotavirus infection ( Cubit & 1990 ) .
+424	Most animals with liver neoplasia present with nonspecific clinical signs such as anorexia and weight loss .
+425	ALI can progress to ARDS , which is characterized primarily by an acute onset , bilateral infiltrates on chest radiograph , hypoxemia , fever , and leukopenia ( Bauer et al. 2006a ) .
+426	Naturally occurring bubonic plague occurs when infected fleas bite a human and typically results in enlarged lymph nodes ( bubo ) and severe sepsis .
+427	The clinical signs of disease in mice infected by aerosol are ruffled fur , lethargy , and hunching progressing to death ( Charles et al. , 1995 ; steele and Twenhafel , 2010 ; steele et al. , 1998 ) .
+428	Fever is the most common clinical sign for SARS-CoV infection [ 14 ] , and lower respiratory tract symptoms develop several days after disease onset .
+429	Although the primary clinical presentation is a systemic or pulmonary illness , which is unlikely to be solely or initially neurological [ 15 ] , all 3 forms of anthrax can be complicated by meningitis , mostly in the second stage of the disease [ 30 ] .
+430	In humans , the clinical manifestations of IAV infection range from mild disease to severe pneumonia .
+431	In severe cases , dyspnea occurs more than a week later and ARDS , septic shock , difficult to correct metabolic acidosis , and coagulation dysfunction rapidly develop ( 7 ) .
+432	The most common clinical signs of histoplasmosis in cats are multisystemic , including depression , weight loss , anorexia , dyspnea or lameness .
+433	Although most patients infected with this mosquito-borne RNA virus remain asymptomatic , clinical disease may manifest as abrupt onset of headache , malaise , gastrointestinal disturbances , generalized adenopathy , retroorbital pain , and , rarely , rash .
+434	Clinical symptoms associated with hMPV infection are similar to those caused by human respiratory syncytial virus ( RSV ) infection , and range from upper respiratory tract disease to severe bronchiolitis and pneumonia [ 2 ] .
+435	Common clinical signs caused by enteric AstV infection in humans include vomiting and diarrhea .
+436	After an incubation period of around 24 h , the disease has a sudden onset with nausea , vomiting , diarrhea , abdominal cramps , fever , headache , chills , myalgia , or sore throat .
+437	Outbreaks of CCHF are focal in nature , and clinically they present with fever , malaise , and prostration , to severe and fatal hemorrhagic disease .
+438	Severe patients usually experience dyspnea within one week , and gradually develop refractory hypoxemia , acute respiratory distress syndrome , septic shock , acidbase metabolic imbalance and other manifestations [ 11 ] .
+439	Marburg disease is a viral disease with sudden onset of generalized illness , malaise , fever , myalgia , headache , diarrhea , vomiting , rash , and hemorrhages .
+440	Infections are manifest most commonly as explosive outbreaks of acute respiratory disease with fever , anorexia and weight loss , lethargy , nasal and ocular discharge , coughing and dyspnea [ 23 ] .
+441	SARS starts with flu-like symptoms , such as fever , myalgia , somnolence , gastrointestinal symptoms , cough and sore throat , and eventually develops into pneumonia with severe respiratory failure [ 3 , 46 ] .
+442	Animals with FCGS usually present with a poor body condition , dysphagia and mild to moderate anorexia [ 2 ] .
+443	Symptoms in humans occur 1 - 2 weeks after contact with infected calves , and diarrhea may be accompanied by vomiting , severe abdominal cramps , lassitude , fever , and headache .
+444	Humans infected with VEEV display symptoms ranging from fever , headache , sore throat , malaise , myalgia , and vomiting to a severe neurological disease and coma [ 16 , 18 , 21 , 22 ] .
+445	SARS is characterized by high fever , malaise , rigor , headache and non-productive cough or dyspnea and may progress to generalized interstitial infiltrates in the lung , requiring intubation and mechanical ventilation [ 3 ] .
+446	HAV infection often presents with a prodromal period characterized by nausea , vomiting , anorexia , fever , malaise and abdominal pain .
+447	Dogs that become infected by CPV show illness within 3 - 7 days , presenting with severe gastroenteritis , lethargy , vomiting , fever , and diarrhea ( usually bloody ) ( 10 ) ( 11 ) ( 12 ) .
+448	Ferrets with this virus usually present with generalized signs of illness ( lethargy , weight loss ) as well as neurologic signs such as paresis or tremors .
+449	Susceptible dogs ( titer < 1 : 4 ) develop widespread centrilobular to panlobular hepatic necrosis , which is often fatal .
+450	At an early stage , infected patients generally present with mild upper respiratory infection symptoms similar to the common cold .
+451	Cats with right heart failure usually develop pleural effusion .
+452	The main clinical symptoms include fever , cough , shortness of breath , myalgia , and 10 - 20 % of patients develop acute respiratory distress syndrome after 8 - 14 days of the illness ( 3 ) .
+453	In its typical course , measles spreads primarily to children by the respiratory route and causes a systemic febrile infection with a rash that usually resolves in 1 - 2 weeks with no serious consequences .
+454	In approximately half of infants younger than 8 months , the infection spreads to the lower respiratory tract , resulting in life-threatening bronchitis , bronchiolitis , bronchopneumonia and croup ( Ginsberg , 1990 ) .
+455	In naïve ferrets , infection results in profuse greenish , mucoid diarrhea with high morbidity and low mortality .
+456	Clinical signs include pneumonia , hepatitis , encephalitis , and vasculitis in brain capillaries and can be observed even in inoculation in serial passages ( Karst et al. 2003 ; Wobus et al. 2006 ; Scipioni et al. 2008b ) .
+457	Symptoms in humans occur 1 to 2 weeks after contact with infected calves , and diarrhea may be accompanied by vomiting , severe abdominal cramps , lassitude , fever , and headache .
+458	In foals presenting alive the clinical signs are often nonspecific , including lethargy , anorexia , dehydration , icterus , fever , colic , diarrhea , and seizures followed by the rapid onset of recumbency , weakness , coma , and death .
+459	In the immunocompromised or immunologically naïve host , infection produces skin lesions that persist for longer periods , and may be associated with hepatitis , cholangitis , pneumonitis , uveitis , or cause a sepsis-like syndrome with disseminated intravascular coagulation [ 24 ] .
+460	Dogs with gastrointestinal histoplasmosis are typically presented with mild fever , anorexia , lethargy , weight loss , vomiting , diarrhea , hematochezia , and tenesmus .
+461	Viral enteritides are usually acute , self-limiting infections that resolve over a matter of a few days to 1 to 2 weeks .
+462	When the virus is onset , the infected individual show symptoms in a varied range of intensities and may develop severe acute respiratory syndrome .
+463	While most acute infections with uncomplicated infectious agents are sub-clinical , they can cause respiratory disease characterized by a cough , fever , and nasal discharge [ 4 ] .
+464	In humans , the symptoms associated with CHIKV are nausea , fever , joint pain , vomiting , rashes , and persistent arthralgia .
+465	Ehrlichiosis , a tick born disease known as Human Granulocytic Ehrlichiosis , which is caused by intracellular bacteria , presents with myalgia , fever and nausea , and can affect the central nervous system .
+466	Contagious caprine pleuropneumonia is characterized by severe dyspnea , nasal discharge , cough , and fever ( McMartin et al. , 1980 ) .
+467	Influenza is usually an acute , self-limited respiratory tract infection that begins with the sudden onset of high fever , followed by inflammation of the upper respiratory tree and trachea , with coryza , cough , headache , prostration , malaise and other signs and symptoms that persist for 7 - 10 days .
+468	In humans , MERS is mostly known as a lower respiratory tract ( LRT ) disease involving fever , cough , breathing difficulties and pneumonia that may progress to acute respiratory distress syndrome , multiorgan failure and death in 20 % to 40 % of those infected .
+469	Symptoms of this disease include fever , shortness of breath , cough , and a non-negligible proportion of infected individuals may develop severe forms of the symptoms leading to their transfer to intensive care units and , in some cases , death .
+470	The most common complications of swine influenza are secondary bacterial pneumonia and PRDC [ 3 , 12 ] .
+471	HSV infection induces local skin or mucosa membrane lesions , these usually resolve within a few days to several weeks .
+472	Coronavirus infections in humans usually lead to respiratory symptoms , such as nasal stuff , sore throat , cough and fever .
+473	Generalized lymphosarcoma is a manifestation of FeLV in cats , and involvement of liver and mesenteric lymph nodes results in gastrointestinal tract signs , such as vomiting , anorexia , chronic diarrhea and weight loss .
+474	Symptoms in humans include respiratory or eye infections and intestinal or digestive illness that rarely lead to mortality [ 21 , 22 ] .
+475	Most infected infants remain asymptomatic , but clinical conjunctivitis and pneumonia each occur in about 15 % of exposed infants ( Schacter et al. , 1986 ) .
+476	Acute mastitis usually results in abnormal appearance and composition of milk , heat , pain , and swelling in the mammary gland and systemic signs ( fever , anorexia ) .
+477	After an incubation of 2 - 21 days , these patients usually develop fever , chills , anorexia , headache , and myalgia .
+478	Encephalitis caused by enterovirus A71 infection usually has brainstem clinical features and high mortality [ 86 , 90 ] .
+479	Typical clinical findings with enteroviral infections are myocarditis and pleurodynia , which can cause epidemics , especially in the summer and fall .
+480	After an incubation period of 9 - 35 days , HCPS is characterized by abrupt onset of fever and other constitutional symptoms .
+481	In addition to enteric manifestations of disease , infected calves are frequently septicemic , which results in more severe clinical signs .
+482	Mousepox usually takes one of three clinical courses : acute asymptomatic infection , acute lethal infection , or chronic infection with low mortality .
+483	In an uncomplicated IBV-infected chick , clinical signs such as gasping , coughing , tracheal rales and nasal discharge persist for only 5-to-7 days and disappear within 2 weeks [ 3 , 22 ] .
+484	Acute BVD infection is characterized by diarrhea , pyrexia , depression , anorexia , decreased milk production , oral ulcerations , hemorrhagic syndrome , and lymphopenia/leucopenia leading to immunosuppression [ 2 ] .
+485	Infectious viral agents usually cause acute infection in immunocompetent mice , followed by complete recovery without clinical signs .
+486	Unlike Old World primates and man , callitrichids infected with either measles or the closely related Paramyxovirus saguinus usually develop a GI syndrome characterized clinically by diarrhea , dehydration , and progressive lethargy .
+487	In dogs CCoV generally causes mild , self-limiting infections restricted to the gastrointestinal tract .
+488	In most cases , however , no symptoms appear until the adult parasite begins to produce eggs in the lung , which induces cough and hemoptysis .
+489	Acute infections are characterized by high fever , anorexia , erythema , respiratory distress , reproductive failure in pregnant females and death [ 20 ] .
+490	Generally , infection causes a mild , self-limiting gastroenteritis , although infection can result in nephritis , hepatitis , and encephalitis in certain host species .
+491	The bubonic plague begins as painful adenopathy 2 to 10 days after the infecting flea bite [ 41 ] , usually in the groin , axilla , or cervical region .
+492	The clinical signs of BDV infection can range from a fatal meningoencephalitis to minor behavioral problems and persistent asymptomatic infection .
+493	Young or immunocompromised cats with cryptosporidiosis will have profuse , watery diarrhea and mesenteric lymphadenopathy due to intestinal hypersecretion and malabsorption .
+494	Young or immunocompromised cats with cryptosporidiosis will have profuse , watery diarrhea and mesenteric lymphadenopathy due to intestinal hypersecretion and malabsorption .
+495	In infants , early-onset disease occurs within the first days of life and is characterized by sepsis and pneumonia .
+496	Dengue can cause myocardial impairment , arrhythmias and , occasionally , fulminant myocarditis [ 24 ] .
+497	Usually 1 to 20 days following a virus-like illness , the disease develops with fever , obtundation , seizures , and focal neurological signs .
+498	The primary clinical signs of FPV infection include fever , depression , anorexia , vomiting , diarrhea , and acute death .
+499	Although infections can be subclinical , CPV can cause gastroenteritis , dehydration , immune suppression and death , and disease typically occurs in dogs under 6 months of age .
+500	Disseminated histoplasmosis is a disease predominantly of young dogs that are usually presented with weight loss , generalized lymphadenopathy , and often diarrhea with blood , and tenesmus .
+501	The clinical features of viral LRTI typically begin with mild symptoms progressing in severity to respiratory distress and lung tissue damage [ 20 ] .
+502	Severe and critically affected patients develop bilateral viral pneumonia , which is categorized as hypersensitivity pneumonitis [ 6 ] .
+503	Localized infections in the joints and lungs are frequent in foals that survive for several days .
+504	Infections are most often asymptomatic , but can also manifest as diarrhea , sick rodent syndrome , decreased reproductive indices , and death [ 11 ] .
+505	Most horses have a mild illness which resolves within 1 - 2 weeks , but death can occur either from secondary bacterial bronchopneumonia or from se vere viral infection involving damage to brain , heart , gas trointestinal tract , kidney , and other parenchymal organs , as well as severe ocular and pulmonary lesions .
+506	The ZIKV infections are typically asymptomatic , but in some cases the disease courses with fever , joint pain , maculopapular rash , and red eyes [ 93 ] .
+507	Clinical symptoms of PEDV include severe diarrhea , dehydration , and vomiting , with high mortality in suckling piglets ( Pensaert and de Bouck , 1978 ; Pijpers et al. , 1993 ) .
+508	Primary HHV-6B infection causes most cases of exanthem subitum ( roseola or sixth disease ) , a common childhood febrile illness ; in severe cases , convulsions or seizures may occur .
+509	Diarrhea can be fatal to neonatal calves due to dehydration and acidosis that may result in anorexia and ataxia [ 10 ] .
+510	SARS is a lifethreatening form of atypical pneumonia characterized by high fever , malaise rigor , headache , chills , cough , and progressive radiographic changes of the chest and lymphophenia .
+511	Porcine hemagglutinating encephalomyelitis is an acute and highly contagious disease that is caused by PHEV and leads to vomiting , depression , pallor , and dehydration as well as neurologic signs , such as abnormal gait , dullness , anorexia , tremors , and nystagmus .
+512	The neonate with bacterial pneumonia usually develops tachypnea and respiratory distress in the first few hours of life with or without septicemia or meningitis or both .
+513	The most important clinical and pathological manifestation of HeV infection in horses and humans is severe interstitial pneumonia caused by viral infection of small blood vessels .
+514	In young piglets as well as in the other susceptible species , PRV infection is often fatal , and animals die from central nervous system disorders [ 20 ] .
+515	Clinical features are highly variable and may range from asymptomatic infection through acute respiratory syndrome to fatal encephalitis in humans and respiratory diseases in swine ( Harcourt et al. , 2001 ) .
+516	The infected dogs develop an acute gastroenteritis characterized by loss of appetite , vomiting , fever , diarrhea ( from mucoid to haemorrhagic ) and leucopenia [ 1 ] .
+517	Viral croup has an incubation period of 2 - 6 days and typically starts with a prodrome of rhinorrhea , congestion , and low grade fever [ 3 ] .
+518	Naive cattle exposed to a type 2 strain may develop severe interstitial pneumonia , thrombocytopenia , bone marrow necrosis , diarrhea , and acute death , sometimes without having mucosal erosions .
+519	The clinical symptoms of MERS-CoV infection , especially in early stages of the infection , are typically nonspecific and can resemble a number of acute respiratory tract infections .
+520	Chikungunya infections are characterized by fever , headache , rashes , and debilitating arthralgia that can continue for years after infection .
+521	In severe cases , the illness progresses to pulmonary edema , with respiratory failure and shock [ 90 ] .
+522	Clinical infection in calves is characterized by non-specific diarrhea , dehydration , depression , anorexia and abdominal pain .
+523	Symptomatic infections with B. microti are generally mild and selflimiting , producing flu-like symptoms that appear 1 - 6 weeks postinfection .
+524	Patients present with acute onset of unilateral or bilateral parotitis ; infection may be complicated by orchitis , oophoritis , pancreatitis , mastitis , meningitis , and encephalitis [ 117 ] .
+525	Initial infection with VZV leads to the clinical syndrome of chickenpox in most susceptible hosts , although infection can be subclinical , especially in young children .
+526	The disease typically infects canines ( 78 ) and is usually transmitted by animal bites , causing a lethal encephalitis .
+527	Clinical presentation of infected individuals involves acute pneumonia , sometimes accompanied by renal disease [ 7 ] .
+528	Primary infection with one DENV serotype usually produces self-limiting Dengue fever ( DF ) .
+529	Primary infection with one DENV serotype usually produces self-limiting Dengue fever ( DF ) .
+530	Clinically , primary influenza viral pneumonia initially manifests like a typical uncomplicated URTI , but the acute infection rapidly progresses to the lower respiratory tract , accompanied by signs and symptoms of pneumonic involvement like cough , dyspnea , and hypoxemia .
+531	SARS is characterized by high fever , non-productive cough or dyspnea and in many cases may progress to generalized , interstitial infiltrates in the lung , thus needing intubation and mechanical ventilation [ 2 ] .
+532	Acute infection with melioidosis can produce fever and general muscle aches , and may progress rapidly to infect the bloodstream .
+533	The clinical presentations of EVD begins with an abrupt onset of fever and are characterized , initially , by a nonspecific flu-like illness such as fever , headache , malaise , myalgia , sore throat and gastrointestinal symptoms such as nausea vomiting , diarrhea and abdominal pain .
+534	Pigs infected with highly virulent CSFV may have a high fever , depression , incoordination , reddening of the skin , diarrhea , respiratory distress , and death with widespread hemorrhage resulting from severe necrotizing vasculitis .
+535	After infection , an average incubation time of 10 days is usually followed by general flu-like symptoms , including fever , malaise , and headache .
+536	The major clinical symptoms of PED are severe enteritis , vomiting and watery diarrhea [ 4 ] .
+537	Symptoms of YF begin 3 - 6 days after infection and include fever , chills , headache , and myalgia and may progress to jaundice , hemorrhagic complications , shock , multisystem organ failure , and death .
+538	After a short incubation period of 2 - 7 days , persons with symptomatic chikungunya virus infections experience fever , chills , headache , nausea , vomiting , maculopapular rash , and intense myalgias and arthralgias , hallmarks of the condi-tion .
+539	Although animal hosts may be asymptomatic , human infection with SARS-CoV results , after a 2 - 7-day incubation period , in an initial flu-like illness with fever , cough , sore throat , myalgia , and lethargy .
+540	Acute infections present with a flu-like illness that can progress to severe pneumonia and acute hepatitis .
+541	Clinically , aseptic meningitis presents with the abrupt onset of fever , headache , and meningeal signs , including nuchal rigidity , photo-or phonophobia , and nausea/vomiting .
+542	Usually , respiratory problems manifest about one week after virus entry and dyspnea ranges from effort dyspnea to dyspnea occurring at rest [ 16 , 17 ] .
+543	At the extremes of age , influenza can manifest as malaise , lethargy , or altered mental status ( 9 , 13 ) .
+544	Approximately 15 - 20 % of hospitalized Lassa fever patients die from the illness , generally within 2 weeks after the onset of symptoms due to multi-organ complication and failure involving the liver , spleen or kidneys .
+545	In adult , RSV infection usually leads to self-limited upper respiratory illness [ 136 ] .
+546	Although CHIKV infections are rarely fatal , the disease can evolve into a chronic stage , which is characterized by persisting polyarthralgia and joint stiffness .
+547	Neurologic symptoms usually develop after a minor infection or vaccination , with a latency period of 2e30 days .
+548	SARS is characterized clinically by fever followed by respiratory signs and symptoms which may lead to rapidly progressive respiratory failure .
+549	The first sign of illness in most cases of SARS is fever , headache , malaise , or myalgia , and then majority of patients present severe atypical pneumonia .
+550	Transient paralysis occurs in birds between 5 and 18 weeks of age and consists of vasculitis and edema that induce flaccid paralysis ( Schat and Nair , 2013 ) .
+551	Clinically , RVFV induces a gamut of symptoms ranging from febrile illness to retinitis , hepatic necrosis , hemorrhagic fever , and death .
+552	Enteritis is characterized by acute , severe diarrhea , vomiting , panleukopenia , and rapid dehydration .
+553	Canine distemper is one of the lethal infectious diseases in dogs and other Canidae ( Takayama et al. , 2009 ; Hirama et al. , 2004 ; Ohashi et al. , 2001 ) , and is presented with fever , pneumonia , bronchitis , leukopenia , severe diarrhea and sometimes encephalitis .
+554	Primary septicemic plague results from the direct inoculation of Y. pestis bacilli into the bloodstream , presenting as a febrile sepsis syndrome similar to other gramnegative bacteremias with delirium , hypotension , and nausea .
+555	Secondary pneumonic plague is due to dissemination of Y. pestis into the lungs during either the bubonic or septicaemic phases and occurs in approximately 10 % of patients [ 41 ] .
+556	Uncomplicated cases begin with a sudden onset of fever ( > 39(C ) , headache , myalgia , and often gastrointestinal symptoms ; a maculopapular rash and lymphadenopathy may also occur in half of these patients [ 193 , 194 ] .
+557	Infants with postnatal CMV infection from breast milk feedings typically become ill after the first month of life and may present with apnea and bradycardia , thrombocytopenia , neutropenia , hepatitis , viral sepsis syndrome , necrotizing enterocolitis , or pneumonitis .
+558	Hepatomegaly and elevated serum aminotransferases , which are usually mild , are common in dengue virus infections ( Wahid et al. , 2000 ) .
+559	Pulmonary tularemia is characterized by patchy inflammation and consolidation of the lung parenchyma , sometimes with the enlargement of hilar lymph nodes and the development of pleural effusions .
+560	After viral infection , symptoms of encephalopathy commonly occur , including acute intracranial hypertension , conscious disturbance , and convulsion .
+561	Infected humans generally develop a febrile illness , with a subset progressing to severe neurological disease .
+562	Symptoms of JEV infection include fever , meningoencephalopmyelitis , aseptic meningitis , seizures or poliomyelitis-like paralysis ( Solomon et al. , 1998 ; Solomon and Vaughn , 2002 ) .
+563	As with other hosts , infestation of marmosets with Sarcoptes scabiei may cause severe clinical signs , including intense pruritus , anorexia , weakness , and emaciation [ 2 ] .
+564	A rapidly progressive necrotizing gingivitis and stomatitis known as noma ( cancrum otis ) is most often described in SRV-infected animals while other common opportunistic infections such as disseminated CMV , oral and esophageal candidiasis , intestinal cryptosporidiosis can be observed in either SRV or SIV-infected animals ( Lowenstine , 1993 ) .
+565	Primary infection later in life is often accompanied by infectious mononucleosis ( IM ) 14 , commonly referred to as " mono " and characterized by fever , tonsillitis , and fatigue .
+566	In bovine animals , onset of disease is rapid and the clinical signs include depression , anorexia , diarrhea and dehydration .
+567	In severe cases , fever is associated with severe dyspnea , respiratory distress , and tachypnea [ 12 ] .
+568	Infected patients experience mild to severe manifestations , such as fever , dry cough , dyspnoea , abdominal pain , and diarrhea .
+569	Tularemia can be a severe illness characterized by sudden onset of high fevers , malaise , and headaches with a 3-to 5-day incubation period and a 1 % to 3 % mortality [ 28 ] .
+570	CIV typically causes mild clinical respiratory signs , including lethargy , cough , nasal and ocular discharge , and occasionally more severe clinical signs associated with pneumonia .
+571	Clinical Signs Infected rabbits may not develop clinical signs , but immunocompromised hosts can develop severe interstitial pneumonitis ( Dei-Cas et al. , 2006 ; Sheldon , 1959 ) .
+572	Children younger than 3 years of age may have an atypical presentation of GABHS infection called streptococcosis , which is characterized by fever , mucopurulent or serous rhinitis , and adenopathy , followed by irritability , loss of appetite and lethargy .
+573	Uncomplicated influenza infection is characterized by fever , chills , headaches , dry cough , pharyngeal pain , nasal obstruction , hoarseness , myalgia , malaise , anorexia , and ocular symptoms .
+574	Autosomal dominant acute necrotizing encephalopathy commonly occurs in children and is characterized by sudden encephalopathy symptoms 2 - 3 days after the onset of febrile illness .
+575	In acute schistosomiasis , patients present with dyspnea , wheezing , dry cough , abdominal pain , hepatosplenomegaly , myalgia , and eosinophilia [ 54 ] .
+576	Patients with Cryptococcus neoformans meningitis and meningoencephalitis present with fever , headaches , and impaired mental status due to intra-cranial hypertension .
+577	Symptoms in children include flu-like syndrome , fluctuating fever , pneumonia , and upper respiratory signs ( cough , sore throat , stuffy nose , sneezing , and rhinorrhea ) [ 3 , 4 , 8 ] .
+578	Patients develop ulcers around the mouth , edema , petechiae , ecchymosis , gingival bleeding , and hepatitis , which may become fulminant [ 8 ] .
+579	Early after infection , within a few weeks to months , an acute febrile illness characterized by malaise , pharyngitis , lymphadenopathy , maculopapular rash , and headache may occur .
+580	The initial signs and symptoms of LCMV infection include fever and headaches that come on insidiously , resolve for 2 - 4 days , only to return with increased intensity .
+581	In humans , the disease usually manifests as a fever , skin rash and arthralgia .
+582	The onset of meningoencephalitis usually occurs 1 to 4 weeks after the first symptoms ( which may be very mild or subclinical ) , and in some cases neurological complications can manifest beyond 60 days after the initial symptoms of RVF .
+583	Although yersiniosis can cause various symptoms in humans depending mainly on the age of the infected individual , the most common symptoms include fever , abdominal pain , and diarrhea .
+584	While the initial pulmonary infection is usually asymptomatic , cryptococcosis can cause serious symptoms of brain and spinal cord disease , such as headaches , dizziness , sleepiness , and confusion .
+585	While the initial pulmonary infection is usually asymptomatic , cryptococcosis can cause serious symptoms of brain and spinal cord disease , such as headaches , dizziness , sleepiness , and confusion .
+586	RSV infection among young children and older individuals usually starts with an upper respiratory tract illness with nasal congestion and a cough .
+587	The clinical syndrome of influenza is characterized by the rapid onset of constitutional symptoms , including fever , chills , prostration , muscle ache , and headache , concurrent with or followed by upper and lower respiratory tract symptoms .
+588	As with influenza and respiratory syncytial virus ( RSV ) infections , the majority of CoV infections usually lead to an asymptomatic or mild flu-like syndrome .
+589	LRT infections often result in more serious syndromes such as bronchitis , bronchiolitis , and pneumonia with symptoms including fever , weakness , coughing , wheezing , and shortness of breath [ 7 ] .
+590	Not all cases of URI can present as a typical response to a primary viral infection of initial upper respiratory symptoms followed by local and systemic inflammation ( e.g. , fever , aches ) ( Gleeson et al. , 2002 ) .
+591	Chronic infection leads to long standing or intermittent diarrhea , weight loss , hypoproteinemia , and failure to thrive .
+592	In cats , this organism generally induces a mild , nonsuppurative meningitis or encephalitis , whereas affected dogs typically develop a granulomatous reaction in the brain and meninges .
+593	Severe flavivirus infections are generally characterized by encephalitis or haemorrhagic symptoms .
+594	The clinical signs of influenza in pigs are similar to those in humans with high herd morbidity [ nearly 100 % ] and low mortality [ < 1 % ] , but pneumonia can occur and recovery usually after a week [ 15 ] .
+595	Pulmonary tularemia is characterized by patchy inflammation and consolidation of the lung parenchyma , sometimes with enlargement of hilar lymph nodes and development of pleural effusions .
+596	Pulmonary tularemia is characterized by patchy inflammation and consolidation of the lung parenchyma , sometimes with enlargement of hilar lymph nodes and development of pleural effusions .
+597	The symptoms of these severe infections include headache , high fever , neck stiffness , stupor , disorientation , coma , tremors , convulsions , muscle weakness , and paralysis .
+598	While symptoms in humans are usually mild and resemble a flulike illness , a small percentage of patients ( ~2 % ) may develop serious disease , which includes retinal lesions , meningoencephalitis , hepatitis , severe hemorrhagic fever , coma and death .
+599	Rarely , severe viral infection causes damage to brain , heart , gastrointestinal tract , kidney , and other parenchymal organs as well as severe ocular and pulmonary lesions .
+600	Occasionally , clinically affected animals may develop malodorous , fatty stool to watery diarrhea , flatulence , abdominal cramping and distension , anorexia , and weight loss [ 5 , 7 , 9 ] .
+601	Acute myocarditis is typically sporadic , although clusters have been reported during outbreaks of viral disease [ Helin et al. , 1968 ; Woodruff , 1980 ] .
+602	Symptoms of coronavirus include fever , cough , sneezing , shortness of breath , headaches , body aches , and can cause severe medical complications such as pneumonia and kidney failure .
+603	Acute systemic disease caused by EAV infection can result in respiratory disease , paralysis and abortion ( Mumford 1985 ) .
+604	In young and adult dogs , it causes a severe acute leukopenia and enteritis leading to death by dehydration and shock in a large proportion of cases ( Carmichael , 2005 ) .
+605	After infection with NiV the majority of young pigs typically develop mild clinical signs such as increased body temperature and mild respiratory difficulties [ 71 ] .
+606	Avian influenza strains , when they do produce symptomatic disease in humans , often result in rapid progression to severe respiratory distress and respiratory ( as well as other organ ) failure .
+607	Foals with C. perfringens , type C infection can develop rapidly progressive obtundation and colic and may die before the onset of diarrhea .
+608	Patients infected with SARS-CoV-2 develop varying degrees of symptoms , ranging from a fever or mild cough , to pneumonia , to more severe or even death [ 3 ] .
+609	As the disease progresses , neurologic signs , including head tremors , blindness , and ascending paralysis , have been described ; the affected rabbit often dies within 3 or 4 days [ 5 , [ 11 ] [ 12 ] [ 13 ] .
+610	Dry cough and fever are the most common symptoms of COVID-19 infection , which can progress to pneumonia , acute respiratory distress syndrome ( ARDS ) and end-organ failure [ 1 ] .
+611	With Aspergillus tracheobronchitis , infection is restricted to the tracheobronchial tree and manifests with a severe unremitting cough and pyrexia .
+612	After the initial mosquito bite , symptoms of chikungunya fever infection generally start in 4 - 7 days , and usually occur in two phases : an acute followed by a second persistent ( chronic ) stage that causes disabling polyarthritis [ 5 ] .
+613	During this initial stage , or the acute phase , the animals may exhibit mild to moderate clinical signs , such as fever , transient generalised lymphadenopathy , anorexia , and lethargy [ 4 , 18 , 20 ] .
+614	Symptoms of NiV infection develop with instances of recurring mild fever progressing to a severe case of acute respiratory distress syndrome , acute encephalitis , altered sensorium and disorientation [ 60 ] .
+615	In some patients , a rapidly progressive and disseminated infection ( sometimes referred to as the streptococcal toxic shock syndrome ) occurs involving the bloodstream , lungs , central nervous system , and skin [ 68 ] .
+616	Immune-compromised individuals can develop dissemination of larvae systemically , causing various clinical symptoms .
+617	The most common symptoms of natural EAV infections in horses are anorexia , depression , fever , conjunctivitis , edema of the limbs and genitals , rhinitis , enteritis , colitis , and necrosis of small arteries .
+618	Acute enteric salmonellosis in adult horses causes profuse diarrhea , dehydration , severe depression , and weakness .
+619	After an incubation period of one to three days , symptoms of TGEV-associated disease emerge that include watery diarrhea , typical foul smelling yellowish-green feces that often contains flecks of undigested milk , vomiting , and loss of appetite .
+620	Within several weeks to months of the infection , many persons develop an acute self-limited flulike syndrome .
+621	Primary clinical symptoms of the PEDV infection include acute diarrhea , vomiting , weight loss , and dehydration [ 4 , 5 ] .
+622	The most common symptoms of severe hMPV infection include bronchiolitis and pneumonia , which usually results in hospitalization [ 1 ] .
+623	After an incubation period of 1 - 3 weeks , infected individuals abruptly develop fever , retrosternal pain , sore throat , back pain , cough , abdominal pain , vomiting , diarrhea , conjunctivitis , facial swelling , proteinuria , and mucosal bleeding .
+624	Acute NVE frequently progresses over days to weeks and are commonly due to virulent organisms such as Staphylococcus aureus or group B Streptococci [ 3 ] .
+625	Infection typically results in cold-like symptoms but can lead to more serious respiratory illnesses and , in extreme cases , death .
+626	Immunocompetent patients develop a profuse diarrhea accompanied by epigastric cramping , nausea , and anorexia ( Ortega , 2007 ) .
+627	Occasionally in healthy individuals , but much more often in the very young , the elderly , and the immunocompromised , acute seasonal influenza develops into hemorrhagic bronchitis and viral pneumonia , characterized by dyspnea , hemoptysis , pulmonary edema and cyanosis .
+628	Usually primary infections occur during the first 2 years of life and are symptomatic , causing from mild upper respiratory tract illness to severe ALRI , and in some cases pneumonia and bronchiolitis may occur simultaneously .
+629	After sufficient exposure to COVID-19 infected agents , symptoms present as fever , cough , fatigue , anorexia , shortness of breath , sputum production and myalgias [ 4 ] .
+630	Clinical signs usually take place shortly after infection ( between 2 and 14 days depending on the dose and infection route ) and include hyperthermia and vesicular lesions in various areas such as feet and tongue .
+631	In type 1 infections , clinical signs include conjunctivitis , pseudomembrane formation in the larynx , and death .
+632	DENV infection is typically self-limiting ; however , in some cases of infection , the disease manifests a more complicated and severe form where patients may suffer from plasma leakage and shock syndrome .
+633	Subclinical infections are usually limited to the mesenteric lymph nodes and can resolve or progress ( Pedersen and Black , 1983 ; Legendre and Bartges , 2009 ; Pedersen , 2009 ) .
+634	Viral GE is manifested by the acute onset of diarrhea often accompanied by nausea , vomiting , fever and abdominal pain .
+635	Campylobacteriosis in humans is usually manifested as an acute , selflimiting enterocolitis , which is often preceded by fever , headache , myalgia , and malaise , while other common symptoms include abdominal pain , cramps , and diarrhea ( inflammatory or noninflammatory ) .
+636	Most of these infections are confined to the upper respiratory tract ( URT ) leading to symptoms of common cold , coryza , and cough and are often accompanied by fever with fatigue and loss of appetite in some cases .
+637	Patients with acute HIV infection often have flulike symptoms such as fever , headache and rash , which usually resolve spontaneously .
+638	Humans infected with CHIK virus produce an illness often characterized by sudden onset of fever , headache , fatigue , nausea , vomiting , rash , myalgia , severe arthralgia , and polyarthralgia ( typical clinical sign of the disease is very painful ) .
+639	The clinical course of rabies in rabbits is nonspecifi c , but affected animals are generally depressed and weak and exhibit paralytic signs .
+640	Acute ETEC cases show obvious watery diarrhea , progressive dehydration , and weakness over 12 to 48 hours .
+641	Cattle and wild ruminants are thought to be reservoirs of BTV , but sheep suffer a more apparent clinical disease characterized by fever , edema , excessive salivation , frothing , and hyperemia of the nasal and buccal mucous membranes .
+642	In rare cases , immunocompromised macaques may experience a severe necrotizing pancreatitis that may be associated with diarrhea and death .
+643	Staphylococcal TSS is characterized by the sudden onset of high fever , chills , headaches , vomiting , diarrhea , and muscle aches .
+644	This infection usually begins as a viral croup but progresses rapidly with high fever , toxicity , and worsening respiratory distress .
+645	Common clinical symptoms among infected humans include watery diarrhea , abdominal cramps , nausea , dehydration , weight loss , and a low grade fever .
+646	Symptomatic RSV reinfections in immunocompetent adults often consist of URTIs lasting 2 - 5 days .
+647	An acute infection presents with the abrupt onset of fever , chills , headache , muscle aches , joint pain , dry cough , and progressive weakness .
+648	EVD is characterized by sudden onset of fever ( > 40 ° C ( 104 ° F ) ) , generalized weakness and anorexia , myalgia , headache and sore throat [ 42 , 46 , 47 ] .
+649	Severe cases of COVID-19 progress rapidly to acute respiratory distress syndrome , septic shock , and metabolic acidosis , which is difficult to correct , and coagulopathy [ 10 ] .
+650	Acute CHIKV disease presents with rapid onset of fever and rash , with severe joint swelling and arthralgia .
+651	ZIKV infections in humans are mostly asymptomatic ; however , a small percentage of patients may show clinical symptoms such as fever and rash , which resolve within a week or less .
+652	Primary pneumonic plague is classically described as presenting with abrupt onset of fever and fulminant progression of respiratory symptoms , characterized by hemoptysis and respiratory distress within 2 - 3 days .
+653	Among other common infantile febrile diseases , adenoviral infection is characterized by prolonged fever , conjunctivitis , lymphoadenopathy , and mucous membrane changes , high erythrocyte sedimentation rate ( ESR ) , and C-reactive protein ( CRP ) and may closely mimic KD , especially in infants ( Rocholl et al. , 2004 ; Shike et al. , 2005 ) .
+654	Varicella pneumonia usually occurs 3 - 5 days after onset of the rash , presenting with oral lesions , increased dyspnea , cough with bloodtinged respiratory secretions , and pleuritic chest pain .
+655	Upon inoculation by the oronasal route , ferrets develop severe pulmonary and neurological disease within 6 - 9 days including fever , coughing , and dyspnea .
+656	Some cats , however , may develop a transient fever that lasts for 1 to 5 days and mild mesenteric Iymphadenopathy . 30 If the infected cat is unable to mount an effective cellmediated immune response and produces coronavirus antibodies that do not neutralize the virus , infection progresses rapidly into a fulminating form of FIP disease .
+657	The HPeV-1 infection is mostly represented by a mild respiratory or gastrointestinal infection , but sometimes becomes clinically severe , leading to sepsis-like illness and central nervous system infection in infants .
+658	In immunocompromised individuals , infection with one of the four human coronaviruses-human coronavirus NL63 ( HCoV-NL63 ) , human coronavirus 229E ( HCoV-229E ) , human coronavirus OC43 ( HCoV-OC43 ) , and human coronavirus HKU1 (ECoV-HKU1)-usually results in cold-like symptoms .
+659	However , few MERS patients show no fever or cough at all and present with walking pneumonia at early stages , which can progress rapidly .
+660	SIV infection is characterized by fever , inactivity , decreased food intake , respiratory distress , coughing , sneezing , conjunctivitis , and nasal discharge .
+661	Disease is usually progressive , and mortality rates are high because affected cats usually warrant euthanasia within a week to 6 months [ 78 , 79 ] .
+662	The major symptoms of LRI due to M. pneumoniae , C. pneumoniae , and C. burnetii ( Q fever ) are fever and cough that persist for more than 7 to 10 days .
+663	In more severe cases , spread of the virus to the pulmonary parenchyma causes clinical worsening within 12 -36 h with worsening dyspnea , tachypnea , cyanosis and hypoxemia [ 66 , 67 ] .
+664	Clostridial diarrhea is usually self-limiting after a few days , but in some animals diarrhea can persist chronically for weeks to months .
+665	Marburg disease typically begins , following a 3 - 9-day incubation period , with the onset of fever , headache , myalgia , and gastrointestinal symptoms ( vomiting and diarrhea ) .
+666	Acute pulmonary histoplasmosis in returning travelers typically presents as a flu-like illness with high-grade fever , chills , headache , nonproductive cough , pleuritic chest pain , and fatigue .
+667	CNS infection leads to viremia and spread of virus to other susceptible organs such as the liver ( Lavi et al , 1988 ; Lavi et al , 1986 ) .
+668	In healthy individuals , PV-B19 infection via the respiratory route leads to erythema infectiosum ( Fifth disease ) , usually a mild and selflimited childhood disease that manifest itself in adults with fever , rash , myalgia , and arthropathy .
+669	Natural FeLV infection is characterized by leukopenia , lymphopenia and variable degrees of anemia [ 1 ] .
+670	Most cases of leptospirosis are self-limited , but the complications can include : uveitis , myocarditis , hemorrhage due to DIC , rhabdomyolysis that may result in renal failure , acute respiratory distress syndrome ( ARDS ) , septic shock and multiple organ failure .
+671	After a 2 - 10 day incubation period , the usual presentation of SARS begins with fever , headache , and malaise followed by cough and progressive dyspnea .
+672	PEDV infection in piglets up to 1 week of age causes severe watery diarrhea and vomiting for 3 - 4 days followed by extensive dehydration and electrolyte imbalance leading to death .
+673	Symptoms of influenza can start abruptly 1 to 2 days after infection [ 73 ] .
+674	Infections caused by PIV are usually mild , ranging from asymptomatic shedding to the common cold , croup and bronchiolitis .
+675	Infections that cause massive destruction of the epithelium , such as IFV , usually result in severe acute exacerbations with non-classical symptoms of chronic airway inflammatory diseases .
+676	Cytomegalovirus usually causes an asymptomatic enteric infection , but some individuals develop focal ulcerations in the colon or jejunum and present with bloody diarrhea and abdominal pain .
+677	The majority of patients show influenzalike symptoms but few develop hemorrhagic fever , neurological symptoms , and ocular disease [ 2 ] .
+678	Pulmonary tularemia can progress rapidly and lead to acute respiratory failure and death ( Oyston et al. , 2004 ; Titball et al. , 2003 ) .
+679	Within 2 to 14 days following a tick bite , the illness will abruptly begin , with a combination of nonspecific symptoms including fever ( usually 100 % of cases ) , malaise , severe frontal headache , myalgias , and vomiting with or without abdominal pain [ 62 , 63 , 68 ] .
+680	Humans infected with TB may present initially with fever , fatigue , night sweats , and weight loss during the early period of infection and then with cough , chest pain , and hemoptysis as the disease progresses .
+681	The most prevailing symptoms at the onset of disease , after an incubation period of approximately 5.2 days , are Fever , cough , dyspnea , myalgia , headache , and diarrhea [ 5 ] .
+682	The onset of FIP can be acute , although most cats have a chronic progressive course over 1 week to 3 months .
+683	Primary infections with paramyxoviruses are usually symptomatic and present as URTI beginning 2À8 days after infection through the nose or eyes .
+684	Conjunctivitis and edema of the eyelids are the most consistent ocular manifestations , and animals may develop a mucopurulent blepharoconjunctivitis .
+685	Chronic infection leads to chronic or intermittent diarrhea , weight loss , hypoproteinemia , and failure to thrive .
+686	After recovering from ECE , some adult ferrets develop persistent , intermittent malabsorption with diarrhea .
+687	Intracerebral inoculation of adult immunocompetent mice typically results in tremors , convulsions , and death due to meningoencephalitis and hepatitis .
+688	One to three days after infection , URTI frequently begins as a sore or scratchy throat followed by nasal obstruction and rhinorrhea with cough , headache , malaise , and sometimes fever .
+689	Bacterial bronchopneumonia usually occurs within 7 to 10 days after acute IBR infection when bacteria complicate the viral illness .
+690	Uncomplicated influenza is characterized by the abrupt onset of malaise , headache , myalgia , and fever , followed by sore throat and nonproductive cough .
+691	C. parvum infections are characterized by watery diarrhea and abdominal cramping for 2 to 3 weeks .
+692	Felines are generally asymptomatic but may develop nonspecific clinical signs , including fever , weight loss , dyspnea , polypnea , jaundice , abdominal discomfort , uveitis , or retinochoroiditis , if the disease manifests as toxoplasmosis ( Dubey and Lappin , 2006 ) .
+693	MAYV infection can result in an acute febrile illness lasting 3 to 5 days with symptoms including rash , headache , nausea , vomiting , and diarrhea .
+694	The most common presentation of toxoplasmosis is myocarditis and dissemination as opposed to encephalitis ( 45 ) .
+695	Infected macaques develop fever and mild edema followed by anorexia , dehydration , adipsia , proteinuria , cynosis , skin petechia , bloody diarrhea , nose bleeds , and occasional hemorrhages in the skin .
+696	Viral pneumonia accompanied by toxemia can develop within 24 h following the onset of influenza , usually influenza Type A infection .
+697	The clinical features of the illness caused by hMPV infection range from a mild upper respiratory tract infection to life-threatening severe bronchiolitis and pneumonia .
+698	Illness in humans is generally mild and consists of an upper respiratory tract infection .
+699	Individuals infected with MERS can be asymptomatic , while others may experience the following symptoms : fever , coughs , shortness of breath , diarrhea , and pneumonia .
+700	In severe cases , dyspnea and/or hypoxemia usually occur one week after the onset of the disease , and in severe cases , it rapidly progresses to acute respiratory distress syndrome , septic shock , metabolic acidosis that is difficult to correct , and bleeding and coagulation dysfunction .
+701	When clinical signs do appear , they are often of a multifactorial etiology such as respiratory infection with Sendai virus and the bacteria M. pulmonis in rodents .
+702	Naturally infected horses exhibiting such abnormalities usually recover , but the disease may progress to paralysis and death .
+703	Ebola virus disease has a prolonged convalescence period , which is characterized by extensive sloughing of skin and hair loss most likely due to necrosis of sweat glands .
+704	When it does occur , Salmonella enterocolitis is characterized by acute watery or mucoid diarrhea ( containing blood in severe cases ) , vomiting , tenesmus , fever , anorexia , lethargy , abdominal pain , and dehydration .
+705	Infection is usually characterized by fever , dry cough , myalgia , and mild sore throat , which progresses to atypical pneumonia .
+706	Symptomatic dengue virus infection usually involves fever , arthralgia , and rash , but severe dengue ( formerly called dengue hemorrhagic fever or dengue shock syndrome ) involves hemorrhagic manifestations , hypotension , and shock that may be fatal .
+707	Salmonella infections in cats are usually subclinical , but can present with a fulminant gastroenteritis similar to panleukopenia .
+708	When clinical signs do appear , they are often of a multifactorial etiology such as respiratory infection with Sendai virus and the bacteria M pulmonis in rodents .
+709	Bloody diarrhea is a manifestation of invasive intestinal infection and is associated with intestinal damage and nutritional deterioration , often with systemic manifestations including fever .
+710	Patients with COVID-19 exhibit respiratory symptoms such as fever , cough , and shortness of breath 74 as primary manifestations [ 5 , 6 ] .
+711	During cross-species transmission , human disease can range from the asymptomatic to mild conjunctivitis to fulminant pneumonia and death .
+712	Up to 4 % of rarer cases of CNS involvement usually follow acute febrile phases , with associated severities of neurological disease ranging from somnolence and mild confusion , to seizures , ataxia , paralysis , and coma , with mortality rates ranging as high as 35 % in infected children and 10 % in infected adults ( Bowen et al. , 1976 ) .
+713	Clinical infection with HMPV results in initial upper respiratory tract symptoms such as cough , rhinorrhea , and fever and can progress to lower respiratory tract symptoms of shortness of breath and wheezing .
+714	In severe outbreaks , affected animals exhibit anorexia , dehydration , and watery to mucoid diarrhea and mortality can be quite high .
+715	Secondary pneumonic plague develops via hematogeneous spread of the bacilli to the lungs and manifests as dyspnea , chest pain , hemoptysis , and/ or severe bronchopneumonia .
+716	The disease often presents as an acute flu-like illness with fever , frontal headache with retro-orbital pain , and chest pain with a nonproductive cough and pneumonia , resolving within 2 weeks of infection .
+717	The clinical signs of P. multocida ( PAR ) typically begin at 1 - 3 months of age and consist of sneezing and snuffling , which progresses to more violent sneezing with mucopurulent nasal discharge .
+718	Influenza initially causes upper respiratory tract infections which can spread to the lower respiratory tract and cause severe desquamation of bronchial or alveolar epithelium .
+719	Death often occurs in the second week of illness because of severe viremia [ 27 , 29 ] .
+720	Usually yellow fever initially presents as an acute , flu-like illness of sudden onset with fever , myalgia and headache , which can not be distinguished easily from other acute infections such as severe malaria , leptospirosis , fulminant viral hepatitis or Dengue hemorrhagic fever .
+721	Although the infection is mild in most of the affected individuals , it may cause severe clinical manifestations such as acute respiratory distress syndrome or cytokine storm leading to death .
+722	Clinical deterioration and death occur rapidly and at a few days earlier in MERS than in severe acute respiratory syndrome ( SARS ) [ 3 ] .
+723	In growing pigs , PRRSV causes an interstitial pneumonia ( Collins et al. , 1992 ) resulting in fever , lethargy , and respiratory distress .
+724	Bubonic plague in humans is usually characterized by fever after an incubation period of 2 - 7 days and the development of a large , tender , and swollen lymph node called buboe .
+725	Bubonic plague in humans is usually characterized by fever after an incubation period of 2 - 7 days and the development of a large , tender , and swollen lymph node called buboe .
+726	The Middle East respiratory syndrome corona virus infection typically begins with fever , cough , dyspnea , and that rapidly progress to pneumonia requiring ventilatory and other organ support .
+727	In multicentric lymphoma , animals usually present with enlarged lymph nodes and nonspecific signs such as anorexia , weight loss , polyuria , polydypsia , and lethargy .
+728	The clinical symptoms observed are severe pneumonia and destruction of splenic and liver tissues that cause fatal disease in most cases [ 31 ] .
+729	Most infections lead to an acute illness characterized by fever , muscular pain , headache , anorexia , nausea and/or vomiting , often with bradycardia .
+730	The symptoms of POWV infection may include fever , headache , vomiting , weakness , confusion , seizures , and memory loss with a case fatality rate of 10 % [ 54 ] .
+731	In naturally occurring disease , the majority of infected cats develop severe anemia and die within 5 days .
+732	Severe patients often have dyspnoea and/or hypoxemia 1 week after onset , after which septic shock , ARDS , difficult-to-correct metabolic acidosis , and coagulation dysfunction develop rapidly .
+733	While VEEV causes high-titered viremia in equines , resulting in encephalitis with a mortality rate between 30 to 90 % , disease in humans is usually self-limited and consists of fever , chills , malaise , and severe headaches , with 1 to 4 % progressing to severe encephalitis [ 2 ] .
+734	Usual clinical manifestations of COVID-19 infection include fever , fatigue , myalgia , headache , diarrhea , dry cough , dyspnea that may lead to acute respiratory distress syndrome and death ( 1 ) .
+735	Flaccid paralysis occurs if the anterior horn cells are affected , and is associated with polio , enterovirus-71 and flaviviruses [ 10 , 12 ] .
+736	Symptoms of coronavirus appear in the lungs with pneumonia , which is usually associated with mild cold in most people .
+737	Primary infection ( Valley Fever ) is usually mild and self-limiting , but may progress into a systemic mycosis producing oral lesions , generalized lymphadenopathy , and miliary pulmonary lesions .
+738	Severe BRDC is often preceded by infection of the respiratory epithelium with viruses like BVDV-1 , BRSV , BHV-1 , or bovine coronavirus ( Frank et al. , 1993 ) .
+739	Toxoplasmosis in immunocompetent hosts is either asymptomatic or associated with nonspecific clinical symptoms such as pyrexia , lymphadenopathy , malaise , and myalgia ( Smith and Evans , 2009 ) .
+740	Turkey coronaviral enteritis is characterized by anorexia , watery droppings , marked dehydration , and decreased body weight gain ( Gonder et al. , 1976 ) .
+741	Turkey coronaviral enteritis is characterized by anorexia , watery droppings , marked dehydration , and decreased body weight gain ( Gonder et al. , 1976 ) .
+742	Neuroinvasive disease occurs in less than 1 % of infected patients as meningitis or encephalitis , which can be complicated by acute asymmetric flaccid paralysis .
+743	1,2 Infection by SARS is usually characterized by high fever , malaise , rigor , headache , nonproductive cough and may progress to generalized , interstitial infiltrates in the lung .
+744	After an incubation period of 2 - 14days , patients develop an acute febrile syndrome asso-ciated with unspecific symptoms such as headaches , arthralgia , pruritic rash , no purulent conjunctivitis , myalgia , anorexia , asthenia , dysesthesia and retro-orbital pain [ 1 , 15 , 17 , 18 ] .
+745	Without effective antimicrobial treatment , bubonic plague patients typically become increasingly toxic , with fever , tachycardia , lethargy leading to prostration , agitation and confusion , and , occasionally , convulsions and delirium .
+746	Without effective antimicrobial treatment , bubonic plague patients typically become increasingly toxic , with fever , tachycardia , lethargy leading to prostration , agitation and confusion , and , occasionally , convulsions and delirium .
+747	In young children , EBV infection frequently presents as an upper respiratory infection , but in adolescents and young adults , it can result in acute glandular fever with pharyngitis , splenomegaly , lymphadenitis , and profound reactive lymphocytosis .
+748	RSV infection is an acute infection and virus shedding usually resolves within days to weeks .
+749	Symptoms of RV infection include gastroenteritis , leading to dehydrating diarrhea and death in some cases ( for reviews see [ 1 , 2 ] ) .
+750	Rarely , the rash of VZV can be accompanied by potentially lifethreatening noncutaneous manifestations , including encephalitis , pneumonitis , myocarditis , and hepatitis , especially in immunocompromised patients , neonates , and adults .
+751	In humans the disease is often associated with benign fever but can lead to more complicated cases such as retinal vasculitis , encephalitis , neurologic deficits , hepatic necrosis , or fatal hemorrhagic fever ( Flick and Bouloy , 2005 ; Geisbert and Jahrling , 2004 ; Meegan , 1979 ) .
+752	Disease in humans is usually mild , and is characterized by acute fever , with arthralgia , myalgia , and rash .
+753	Disease in humans is usually mild , and is characterized by acute fever , with arthralgia , myalgia , and rash .
+754	MERS affects the respiratory system and most MERS patients develop severe acute respiratory illness with fever , cough and shortness of breath .
+755	Unilateral or bilateral symptoms generally occur 5 to 14 days after the RVFV infection , but can be more delayed , and may include decreased visual acuity , scotoma , acute hemorrhagic conjunctivitis and retro-orbital pain [ 85 ] .
+756	SARS is characterized by high fever , malaise , rigor , headache and non-productive cough or dyspnea and may progress to generalized interstitial infiltrates in the lung , requiring intubation and mechanical ventilation [ 1 ] .
+757	However , dromedaries infected with MERS-CoV develop pyrexia with mild upper respiratory signs , consisting of serous to purulent nasal discharge [ 18 ] .
+758	As in the case of viral diarrhea , the onset of bacterial illness is usually acute and presents with fever and sometimes vomiting .
+759	As in the case of viral diarrhea , the onset of bacterial illness is usually acute and presents with fever and sometimes vomiting .
+760	Typically , BCoV infection in calves causes profuse watery diarrhea , and the feces can contain blood .
+761	Cats infected with feline coronaviruses may show mild to severe enteritis , but they usually recover without complications .
+762	In infants and young children , the infection can take a much severer course and can be associated with croup-like symptoms .
+763	Classical swine fever is characterized by a peracute to acute disease pattern , which may be accompanied by respiratory or gastrointestinal disorders .
+764	Most cases of in fl uenza are self-limiting and are characterized by the sudden abrupt onset of fever , malaise , headache and a non-productive cough .
+765	Bison are known to be 1000 times more susceptible , compared with cattle , to clinical SA-MCF,32 and bongos have been recently reported to acquire fatal MCF from Nubian ibexes.22 , 32 The clinical presentation of MCF is variable but usually includes profuse nasal and ocular discharge , corneal opacity , diarrhea , enlarged lymph nodes , fever , anorexia , and often death within 24 to 72 hours .
+766	Pneumonia and ARDS typically develop late in the course of infection , between 5 and 10 days from the onset of symptoms [ 4 ] .
+767	Clinically , RSV infection of the upper respiratory tract causes coryza , cough , hoarseness , rhinitis , and conjunctivitis .
+768	Untreated infections usually become chronic , with weight loss , anorexia , and loss of production in dairy animals .
+769	Infection of the liver results in rapidly lethal hepatitis within 6 - 7 days [ 16 ] .
+770	Clinical Signs YLDV infection of nonhuman primates is characterized by the development of circumscribed , oval-to-circular , elevated red lesions usually on the eyelids , face , body , or genitalia that regress spontaneously in 3 - 4 weeks .
+771	EV generally cause severe illnesses in young infants such as viral sepsis , aseptic meningitis , encephalitis , or myocarditis .
+772	Infected cats typically have a prolonged , asymptomatic bacteremia , but uveitis and endocarditis have been reported .
+773	Although most cases of dengue fever have a mild or subclinical course , the typical symptoms of the full-blown disease consist of fever , retrobulbar headache , rash , severe arthralgia ( hence ' break-bone fever ' ) , diarrhea , nausea , vomiting , and abdominal pain .
+774	Severe pneumonia usually occurs when commensal bacteria from the nasopharynx invade the lower airways of cattle after stressful conditions and viral infections .
+775	When infected with SARS-CoV , common marmosets exhibit fever , diarrhea , multifocal pneumonitis and hepatis .
+776	Neonates and foals can present with an acute onset of respiratory distress as a result of a rapidly progressive bronchointerstitial pneumonia or with a pneumoenteric syndrome , which can be fatal ( 9 , 47 , 106 ) .
+777	Typical signs of the classical form of CSF appear after an incubation period of 2 - 4 days and include anorexia , hyperthermia , and depression , followed by pneumonia caused by opportunistic infections , vomiting , and diarrhea or constipation .
+778	In severe cases , malaria may present with shock , renal failure , hypoglycemia , and pulmonary edema .
+779	Chronic diarrhea and wasting are the most common clinical signs in SIV-infected macaques ( Baskin et al. , 1988 ) .
+780	Ebola fever is a viral disease with sudden onset of generalized illness , malaise , fever , myalgia , headache , diarrhea , vomiting , rash , and hemorrhages .
+781	The infection is limited to respiratory epithelial cells ( Lotz and Peebles , 2012 ) , and the disease is mostly characterized by coughing , sneezing and fever .
+782	Cats with URTD are commonly presented to veterinary practitioners and show symptoms such as lethargy , pyrexia , anorexia , sneezing , nasal discharge , ocular discharge , conjunctivitis and keratitis [ 14 , 19 ] .
+783	Primary RSV infections may lead to severe bronchiolitis and pneumonia [ 5 ] .
+784	MERS-CoV infection results in fever , cough sore throat , headache , and occasionally results in nausea , vomiting , and diarrhea .
+785	Shigellosis has rarely been reported in common marmosets [ 3 , 55 ] but can produce signs of bacillary dysentery , including bloody diarrhea , dehydration , anorexia , and depression , which can rapidly progress to death .
+786	Acute Q fever typically presents as an influenza-like illness , but severe infections , like pneumonia and/or hepatitis , may also occur [ 2 , 3 ] .
+787	Giardiasis in humans is characterized by chronic or intermittent diarrhea , bloating , abdominal cramping , anorexia , fatigue , and weight loss .
+788	Giardiasis in humans is characterized by chronic or intermittent diarrhea , bloating , abdominal cramping , anorexia , fatigue , and weight loss .
+789	IBV infection is manifested clinically in chickens in the form of respiratory distress , kidney failure , a drop in egg production and the production of malformed eggs [ 21 ] .
+790	Among the most common juvenile infections of puppies and kittens are canine parvovirus and feline panleukopenia ; these lead to diarrhea , vomiting , and anorexia , all of which predispose to severe dehydration and hypovolemia .
+791	Following a 7-to 19-day incubation period , monkeypox infection of humans is characterized by fever , malaise , headache , severe backache , prostration , and occasional abdominal pain ( Damon , 2011 ; Sejvar et al. , 2004 ) .
+792	Clinical illness appears in 10%-15 % of infected patients , primarily those with immature or impaired host defenses such as the fetus , newborn infant , or immunosuppressed patient [ 13 ] .
+793	Enteric replication of feline coronaviruses commonly results in fever , vomiting , and mucoid diarrhea .
+794	An infection with TBEV mostly causes flu-like symptoms such as fever , headache , nausea , vomiting and fatigue but can also result in a variety of neurological diseases including meningoencephalitis .
+795	H5N1-infected patients usually have high fever , few respiratory symptoms , pulmonary infiltrates , and lymphopenia ; a small number have shown acute respiratory distress syndrome and sepsis [ 3 ] .
+796	Most patients infected with coronaviruses develop a mild flu-like disease , in which the most common symptoms are fever and cough .
+797	With M bovis infection , however , many calves develop chronic , multifocal , caseous necrosis within the cranial lung lobes ( caseonecrotic bronchopneumonia ) .
+798	Puppies infected at birth or postnatally up to age 3 weeks may develop a systemic disease that is usually fatal .
+799	Viremia with rashes and fever usually lead to death of cells lining joints , causing arthritis and joint pain .
+800	Rarely , the rash of VZV can be accompanied by potentially life-threatening noncutaneous manifestations , including encephalitis , pneumonitis , myocarditis , and hepatitis , especially in immunocompromised patients .
+801	SARS is characterised by symptoms that include a temperature over 38 ° C , dry cough , myalgia , and mild sore throat , which progresses to atypical pneumonia .
+802	Rotavirus infection usually results in acute gastroenteritis characterized by vomiting and severe watery diarrhea , often leading to dehydration ( Kapikian et al. , 2001 ) .
+803	PED is characterized by severe diarrhea , vomiting , and dehydration followed by high mortality in suckling piglets ( 50 - 100 % ) .
+804	Acute FCV is known to induce vesicular disease , which typically manifests as oral and lingual ulcerations [ 53 ] .
+805	In severe cases , patients present with dyspnea and/ or hypoxemia 1 week after the onset of the disease , and rapidly deteriorate to acute respiratory distress syndrome ( ARDS ) , septic shock , metabolic acidosis , and coagulation abnormalities .
+806	Susceptible horses , usually younger , show clinical signs 2 to 3 weeks after viral infection of birds .
+807	Disease is characterized by cough , fever and sore throat and may result in virus-induced pneumonia and progressive respiratory failure owing to alveolar damage caused by the virus .
+808	Early clinical symptoms of infection include fever , fatigue , nausea , and mild hemorrhaging ( petechiae ) , usually in skin or mucosal tissues [ 27 , 28 ] .
+809	In neonates , the infection is non-viremic , have very short incubation period , and manifests profuse diarrhea and severe dehydration .
+810	Infected piglets often present with weakness , watery diarrhea , severe respiratory symptoms , and even death ( Burkard et al. , 2018 ) .
+811	Hemorrhagic fever with renal syndrome is characterized by fever and myalgia , which develop days or weeks ( incubation period 5–42 days ) after exposure to rodents .
+812	RSV infection starts with a short course of upper respiratory symptoms such as rhinitis , however severe symptoms such as bronchiolitis and pneumonia are commonly observed in premature infants , the elderly and in immunocompromised patients [ 10 ] .
+813	Children infected with coronavirus often present with fever , cough and breathing difficulties .
+814	Tularemia typically presents with an abrupt onset of nonspecific flu-like symptoms including fever , headache , sore throat , cough , myalgias , abdominal pain , nausea/vomiting , and diarrhea .
+815	A typical influenza infection is often characterized by sudden onset of fever , chills , headache , malaise and myalgia , followed by prominent upper respiratory tract symptoms , such as rhinorrhea , cough , sore throat and inflammation of the upper respiratory tract .
+816	Clinical signs of disease in dogs starts with fever , anorexia , and vomiting .
+817	After a similar incubation period , children with this infection usually present with fever , dry cough and a runny nose .
+818	After an incubation period of 2 to 10 days , most victims present with fever , headache , chills , myalgia , nausea , vomiting , and diarrhea .
+819	After 2 - 10 days of incubation , patients develop fever , chills , headache , and malaise , followed by ulceroglandular , glandular , oculoglandular , oropharyngeal , pneumonic , or typhoidal syndromes .
+820	Clinical signs in humans follow a 3-to 10-day incubation period and include fever , vomiting , arthralgia , and rash .
+821	Clinical signs in humans follow a 3-to 10-day incubation period and include fever , vomiting , arthralgia , and rash .
+822	Clinical signs in humans follow a 3- to 10-day incubation period and include fever , vomiting , arthralgia , and rash .
+823	Gross lesions in pigs infected with cytomegalovirus are usually only seen in piglets less than 3 weeks of age with generalized disease , and may include catarrhal rhinitis , hydrothorax , hydropericardium , pulmonary and subcutaneous edema , and renal petechiae .
+824	This infection induces mild , watery diarrhea that lasts 2e3 days , associated with vomiting , fever , anorexia , and abdominal pain .
+825	Septicaemic plague can occur without the bubonic illness in 10 to 20 % of cases and is a severe illness that can lead to profound multi-organ failure [ 43 ] .
+826	The clinical presentation in humans ranges from a mild flu-like illness to a severe illness with jaundice , meningitis , renal failure , pulmonary hemorrhage .
+827	The clinical features are usually mild , and most infected children have an anicteric illness with flu-like symptoms or gastroenteritis with lethargy , nausea , vomiting , abdominal pain , and anorexia .
+828	Fevers usually develop abruptly , accompanied by malaise , headache , nausea , conjunctival injection , and myalgias , as is seen with other flaviviruses .
+829	In horses , HeV infection presents more commonly as an acute respiratory syndrome ( Mackenzie and Field , 2004 ) .
+830	In most immunocompetent individuals , HEV tends to cause an acute infection that resolves spontaneously .
+831	Late/Chronic Lyme disease is typically associated with arthritis involving the large joints , predominantly the knees , and/or severe neurologic problems from months up to a few years after the initial infection .
+832	Typically brucellosis infects organs ( lung , liver , spleen ) , bone marrow , bones , or central nervous system and is an insidious infection , presenting primarily with constitutional symptoms and organomegaly .
+833	Dogs with mediastinal lymphoma often present with respiratory signs ( dyspnea and exercise intolerance ) secondary to pleural effusion or cranial vena caval syndrome .
+834	Occasionally , HSV viremia results in visceral involvement , affecting mainly three organs : the esophagus , lungs , and liver .
+835	Although Mycoplasma causes pneumonia , the infection is often characterized by its extrapulmonary manifestations such as upper respiratory tract symptoms , including sore throat and earache ( with hemorrhagic or bullous myringitis ) .
+836	Most remnant-infected patients who survive often suffer permanent neurological deficits , including seizures , paralysis and mental retardation [ 207 , 208 , 215 ] .
+837	Upper respiratory involvement often precedes the onset of pneumococcal pneumonia , which is characterized by fever , chills , malaise and sweating .
+838	Salmonella enterocolitis is characterized by acute watery or mucoid diarrhea ( containing blood in severe cases ) , vomiting , tenesmus , fever , anorexia , lethargy , abdominal pain , and dehydration .
+839	After an asymptomatic incubation period of 1 - 2 weeks , patients show signs of fever , headache , stupor , and generalized motor seizures , especially in children .
+840	The acute form of the disease usually affects finishing pigs and gilts ( 4 - 12 months of age ) and is manifested as severe intestinal hemorrhage .
+841	In immunocompetent individuals , RVs typically induce the common cold with nasal congestion and rhinorrhea , coughing , sneezing , sore throat and malaise , and spontaneous resolution within 1 - 2 weeks [ 142 ] .
+842	For example , acute post-infectious measles encephalomyelitis ( APME ) is characterized by abrupt onset of fever , seizures and multifocal neurological signs one to two weeks after appearance of the measles rash and is fatal in 10 - 20 % of patients .
+843	Cowpox virus infection in humans is usually characterized by single lesions on the infection site ( face , hands , arms ) , but it sometimes spreads and cause secondary lesions and complications and can be especially severe in immunocompromised persons ( 6 , 16 , 23 ) .
+844	In rats , infection is usually asymptomatic although nonspecific clinical signs , such as weight loss and dyspnea may be observed ( Otto et al. , 2015 ) .
+845	Animals with peracute leptospirosis are characterized by septicemia , shock , vascular collapse , and rapid death .
+846	In man , S. typhimurium infection usually leads to a self-limiting gastroenteritis .
+847	The signs of acute BRSV range from inapparent to fulminant .
+848	The signs of acute BRSV range from inapparent to fulminant .
+849	Rhinovirus infection , after 1 to 4 days of incubation , is characterized by nasal obstruction and discharge , sneezing , scratchy throat , mild cough and malaise .
+850	Most infected humans present with meningoencephalitis and associated symptoms , including headache , nausea , staggering gait , dementia , irritability , confusion , and blurred vision ( Li and Mody , 2010 ) .
+851	Newborn and young foals up to 8 days of age also often have this form of the disease , characterized by depression , anorexia , and diarrhea .
+852	The majority of infections remain asymptomatic ; however , in cases of heavy infection , patients may develop diarrhea , often alternating with constipation , epigastric pain , nausea and vomiting , and hemorrhage , secondary to intestinal obstruction and mucosal injury .
+853	Within several weeks to months of the infection , many people develop an acute self-limiting flu-like syndrome .
+854	Symptoms associated with the infection are usually mild ( e.g. , cough , subfebrile temperature ) , but more severe disease also occurs ( e.g. , bronchitis , pneumonia ) [ 9 , 10 ] .
+855	Clinical disease in humans is characterized by a short febrile illness and lymphadenopathy followed by the development of pock lesions ( Wachtman and Mansfield , 2012 ) .
+856	In the early stages , the clinical symptoms of COVID-19 are similar to common flu or pneumonia , which only present as fever and/or a cough ( 3 ) .
+857	Postnatal infections of 2-to 6-month-old kittens result in the classic form of feline panleukopenia , characterized by fever , loss of appetite , depression , haemorrhagic diarrhoea , vomiting , and dehydration .
+858	In most children influenza infection results in acute self-limiting upper respiratory tract ( URT ) symptoms , however , systemic manifestations are not uncommon [ 21 ] .
+859	Clinically , the acute disease is characterized by diarrhea and fever for a period of 1 - 2 weeks , followed by recovery or death .
+860	Typical symptoms of malaria include fever and headache , which , in severe cases , can progress to coma and eventually death .
+861	Clinical symptoms of coronavirus infections can range from relatively mild ( similar to the common cold ) to severe ( bronchitis , pneumonia , and renal involvement ) .
+862	Suckling rabbits typically present with severe yellow diarrhea and high mortality .
+863	Mumps infection is frequently accompanied by a nonspecifi c prodrome consisting of lowgrade fever , malaise , headache , myalgia , and anorexia followed within 48 h by the development of parotitis .
+864	Because of their impaired GI motility , birds with PDD often develop secondary bacterial and fungal GI infections .
+865	Clinically varicella hepatitis may manifest as a symptomatic or subclinical aminotransferase elevation coincident with the onset of varicella , or , especially in the immunocompromised host , as fulminant hepatic failure leading to death [ 20 , 31 ] .
+866	The onset of pneumonia caused by M. pneumoniae usually is not well demarcated , but malaise , headache , sore throat , fever , and photophobia occur early , and sometimes subside when gradually worsening , nonproductive cough ensues .
+867	Rotaviruses affect the mature epithelial cells on the tips of the small intestinal villi , leading to mild to moderate villus atrophy and watery to mucoid diarrhea which typically resolves within 8 - 10 days .
+868	In the early phase of FIP disease , cats with the effusive form may be presented with nonspecific signs , such as nonresponsive fever , anorexia , lethargy , weight loss , and pale mucous membranes .
+869	Patients usually present with a rapidly progressive pneumonia that can result in respiratory failure and acute respiratory distress syndrome .
+870	PAM has an acute onset , usually fatal , necrotizing , and hemorrhagic meningoencephalitis ( Carter 1970 ; Martinez and Visvesvara 1997 ) .
+871	Most patients develop mild to moderate flu-like symptoms , however some cases progress to severe pneumonia and acute respiratory distress syndrome ( ARDS ) that can be fatal [ 4 ] .
+872	According to the coronavirus strain , death may occur with only few clinical signs apart from upper respiratory tract sneezing ( Gough et al. 1996 ) .
+873	Disseminated disease may present with pneumonia and hepatitis with hypothermia , apnea , nasal congestion , tachypnea , cyanosis , poor feeding with emesis , hypotension , neutropenia , hematuria , and hypotonia [ 4 , 22 ] .
+874	Clinically , the disease occurs in feeder pigs and is characterized by fever , inanition , and yellow watery diarrhea that may contain blood and mucus , especially in the later stages .
+875	For inhalation and GI infections , nonspecific local symptoms are typically followed in several days by severe systemic illness , shock , and often death .
+876	Viral gastroenteritis is characterized by watery diarrhea , vomiting , headache , fever , chills , and abdominal pain .
+877	In cats , acute necrotizing pancreatitis is associated with anorexia , lethargy , hyperglycemia , icterus , and sometimes acute death .
+878	Bacterial pneumonia secondary to influenza is often observed in pigs [ 12 ] .
+879	The early symptoms of SARS-CoV disease usually include fever , chills , rigors , myalgia , and headache .
+880	The most severe manifestations of disease occur in immunocompromised people and women infected for the first time during pregnancy , including miscarriage , stillbirths , and fetal deformities [ 27 , 33 ] .
+881	Mice infected with E. coccoides may remain clinically normal or develop febrile , hemolytic anemia and splenomegaly , which can be fatal .
+882	Acute Lyme disease is a flu-like illness that develops after a 7 - 10-day incubation period and is generally accompanied by a characteristic annular rash ( erythema migrans ) that appears where the infecting tick has attached .
+883	In severe cases of COVID 19 , the patient develops severe respiratory distress ( respiratory rate > 30 breaths/min ) , RNAaemia , secondary bacterial infection , and/or acute cardiac injury [ 5 ] .
+884	Spontaneous pneumocystosis can occur at weaning , evolves during 7 - 10 days , and induces lung lesions and blood biochemical profile changes ( Dei-Cas et al. , 2006 ; Soulez et al. , 1989 ) .
+885	In humans , primary infection with toxoplasma may , on occasion , produce a mononucleosis-like illness characterized by lymphadenopathy , fever , malaise , liver function abnormalities , and , occasionally , myocarditis .
+886	PHE occurs in older pigs , such as young gilts and boars , and is manifested primarily by bloody diarrhea and sudden death .
+887	Adenovirus infection typically causes respiratory illnesses such as a common cold , croup , bronchitis , or pneumonia .
+888	Clinical signs associated with peracute BVD include severe diarrhea , pyrexia , thrombocytopenia , hemorrhagic disease , and death .
+889	Pneumonitis is the most common presentation in CMV disease following lung transplantation , although hepatitis , gastroenteritis , or colitis can also occur ( Shreeniwas et al. 1996 ) .
+890	Clinical symptoms include diarrhea , abdominal pain , headache , malaise , and vomiting , though vomiting is less common in astrovirus infection than in rotavirus or calicivirus infections [ 11 , 22 ] .
+891	In patients having confirmed SARS-CoV-2 infection , 15 - 42 % have severe symptoms and some progress to acute respiratory distress syndrome ( ARDS ) , which can be fatal [ 8 , 9 ] .
+892	When cats are initially exposed to FCoV , they may be asymptomatic or have diarrhea and/or upper respiratory signs .
+893	Ebola has an incubation period of 2 - 21 days ( mean 8 - 10 days ) , after which patients develop fever , headache , myalgia , and gastrointestinal symptoms .
+894	In children , ARS presents with acute onset of severe symptoms with fever > 39 ° C , purulent rhinorrhea and facial pain , or , more commonly , as a prolonged URI with chronic cough and nasal discharge .
+895	Though most animals eventually recover from FMD , the disease can lead to myocarditis and death , especially in newborn animals [ 1 ] .
+896	Most infections are asymptomatic or unrecognized , but the spectrum of clinical severity also includes flu-like symptoms , ranging to more severe illness and death in the immunocompromised [ 16 ] .
+897	Influenza infection is characterized by the abrupt occurrence of fever , headache , myalgia , and dry cough .
+898	CHIKV causes acute flu-like symptoms and in many cases prolonged musculoskeletal and joint pain .
+899	Most respiratory viral infections produce acute symptoms such as fever , non-productive cough , dyspnea , and hypoxemia .
+900	Although clinical signs depend on the age and the immune status of infected animals , symptoms such as dyspnea , clonic muscular gasping , and cyanosis of comb and wattles are suggestive of the disease and usually appear after an incubation period of around 5 days .
+901	Cats infected with FPV commonly display anorexia , vomiting , diarrhea , neutropenia , and lymphopenia , with a high fatality rate ( Truyen and Parrish , 2013 ; Stuetzer and Hartmann , 2014 ) .
+902	Clinical signs in PEDV infected pigs include severe diarrhea and vomiting leading to dehydration , electrolyte imbalance and death .
+903	Ebola is often characterized by the sudden onset of fever , intense weakness , muscle pain , headache , and sore throat .
+904	Typically , fever starts suddenly , and temperature rapidly reaches 39 ° C or more , with associated shivers 4 , 13 .
+905	CCV infection in dogs is usually self-limited and infected animals usually recover after a brief period of illness .
+906	Coccidiosis causes diarrhea , which may be severe , resulting in weight loss , dehydration and anemia .
+907	Coccidiosis causes diarrhea , which may be severe , resulting in weight loss , dehydration and anemia .
+908	In children above 3 years of age and adults , HRSV illness is usually mild to moderate , with upper respiratory tract symptoms , including coryza , cough , sore throat , and hoarseness , often accompanied by low-grade fever .
+909	Septicemic salmonellosis occurs in pigs 1 - 4 months of age and is characterized by fever , depression , skin color changes , diarrhea , and rapid death .
+910	The primary manifestation of SARS-CoV infection in adults is febrile LRI , with diffuse lung involvement and profound hypoxia .
+911	While adenovirus infection usually results in mild disease symptoms that are promptly resolved , adenovirus infection of immunocompromised individuals can result in severe disease symptoms , such as pneumonia , encephalitis , and even death ( Krilov 2005 ) .
+912	Clinically calves suffer from acute , watery , dehydrating diarrhea and may succumb to infection .
+913	In cats , FCV infection is usually inapparent or associated with mild upper respiratory disease and/or signs of oral ulceration .
+914	At the time of dissemination , humans typically present with fever , chills , and malaise .
+915	Although the infection is generally mild and self-limiting , patients of every age can develop severe or extrapulmonary disease .
+916	Symptomatic disease develops in approximately 40 % of individuals infected by C. immitis , presenting as a flulike syndrome .
+917	Infected patients develop a febrile illness with headaches vomiting and diarrhea , as well as reduced levels of consciousness , seizures , and photophobia .
+918	The clinical signs of disease in adult cows are quite mild and include fever , a drop in milk yield , and diarrhea with peak viremia 4 - 7 d post-infection [ 112 ] .
+919	Infected macaques develop fever and mild edema followed by anorexia , dehydration , adipsia , proteinuria , cynosis , skin petechia , bloody diarrhea , nose bleeds and occasional hemorrhages in the skin .
+920	Diarrhea can occur at the terminal stages of the disease ( Hofing and Kraus , 1994 ) .
+921	Diarrhea can occur at the terminal stages of the disease ( Hofing and Kraus , 1994 ) .
+922	Croup is the main clinical manifestation of infection with parainfluenza viruses , especially HPIV1 and 2 , and these infections may extend to the lower respiratory tract and result in pneumonia [ 94 ] .
+923	In puppies and dogs with immunosuppression or other concurrent diseases , CIRDC can be complicated by bronchopneumonia , resulting in more severe signs such as dyspnoea , weight loss , pyrexia and even death ( Radhakrishnan et al. , 2007 ) .
+924	Hyperinfection syndrome develops due to accelerated autoinfection and typically presents as intestinal or pulmonary failure .
+925	Pneumonia can occur a few days after the development of rash and fever and can lead to respiratory failure .
+926	Cats in the acute phase of FIV infection may be febrile or show generalized peripheral lymphadenopathy .
+927	After a 2 - 4 days incubation period , patients with HPIV infections may develop rhinitis , pharyngitis , laryngotracheobronchitis ( croup ) , bronchiolitis , or pneumonia .
+928	Kittens artificially infected with FIV initially exhibit few clinical signs , most notably anemia , lymphopenia , neutropenia and lymphadenopathy .
+929	In humans , infection is characterized by a short febrile illness accompanied by constitutional signs .
+930	Acute infection of cattle with BoHV-1 generally results in inflammatory disease within the upper respiratory tract , nasal cavity , and ocular cavity , which leads to erosion of the mucosal surface .
+931	The majority of cattle with malignant catarrhal fever have prominent ocular lesions including corneal edema , corneal neovascularization , and anterior uveitis .
+932	The clinical presentation of MERS-CoV infection ranges from asymptomatic to very severe disease , and the classical presentation includes fever , cough chills , sore throat , myalgia , and arthralgia .
+933	BRSV infection leads to sudden fever , rhinitis , cough , respiratory distress , abdominal breathing , and decreased appetite [ 3 ] .
+934	Seizures , drowsiness and lethargy , and absence of oral lesions are associated with severe enteroviral infection in children ( 79 ) .
+935	Symptomatic patients usually present with fever , dry cough , and shortness of breath , which may appear 2 to 14 days after infection .
+936	About 1 % of patients have neurological complications , but these vary from Guillian-Barre syndrome and acute cerebellar ataxia ( usually associated with autoimmune responses ) to meningitis , encephalitis , and myelitis typical of direct infections ( Gautier-Smith , 1965 ) .
+937	Infection is usually limited to the upper respiratory tract , and progression into the lower respiratory tract can result in serious complications of infection , including hospitalization for pneumonia and bronchiolitis .
+938	COVID-19 is characterized by fever , cough , dyspnea and myalgia 2 , but in some patients the infection results in moderate to severe acute respiratory distress syndrome ( ARDS ) , requiring invasive mechanical ventilation for a period of several weeks .
+939	Uncomplicated influenza illness is characterized by the abrupt onset of constitutional and respiratory signs and symptoms , including fever , myalgia , headache , malaise , nonproductive cough , sore throat , and rhinitis .
+940	In adults with S-OIV , pneumonia presents as an infl uenza-like illness with a temperature higher than 39 ° C ( 102 ° F ) accompanied by prominent myalgia [ 1 ] .
+941	Although babesiosis resolves without sequelae in most patients , infections can be life threatening especially in asplenic or other immunocompromised states [ 9 , 11 , 28 ] .
+942	Symptoms caused by adenovirus infection range from the common cold syndrome to pneumonia , croup , and bronchitis [ 49 ] , [ 63 ] .
+943	RV disease is characterized by watery diarrhea , often accompanied by fever , vomiting and nausea , leading to rapid dehydration that can be fatal in the absence of medical intervention .
+944	EVD is characterized by the sudden onset of fever , intense weakness , muscle pain , headache , and sore throat .
+945	Clinical symptoms mostly described in conjunction with an HBoV infection are wheezing , fever , bronchiolitis and pneumonia [ 28 , 49 , 36 , 50 ] .
+946	Clinical signs include pyrexia , diarrhea , reduced production , and highly morbid disease but cause low mortality of infected animals [ 6 ] .
+947	Acute bilateral lymphadenitis is most often caused by the common upper respiratory tract viral infections , including rhinovirus , parainfluenza virus , influenza virus , RSV , coronavirus , and adenovirus [ 38 ] .
+948	The main pathogenic feature of hemoplasmas is hemolysis , and clinical signs such as lethargy , anorexia , pale mucosal membranes , pyrexia , jaundice and pigmenturia may be present in severely affected animals [ 1 ] .
+949	Influenza can cause a primary viral hemorrhagic pneumonia characterized by progressive dyspnea and leukocytosis , potentially progressing to respiratory failure and acute respiratory disease syndrome .
+950	Infections involving the central nervous system , such as meningitis and meningoencephalitis , are most common and present with headaches , fever , meningismus , altered mental status , and possibly focal neurologic deficits including cranial nerve palsies and seizures ( Patel and Paya 1997 ) .
+951	Because of the pulmonary tropism of the virus , pneumonia is often encountered in symptomatic patients .
+952	The pneumonic plague usually manifests after an incubation period of 2 to 3 days with fulminant pneumonia , malaise , high fever , cough , hemoptysis , and septicemia with ecchymoses , and extremity necrosis .
+953	The severe form of human disease , caused by infection with viruses such as Russian spring-summer encephalitis virus , is characterized by gradual onset of symptoms which include anorexia , fever , headache , nausea , vomiting , and photophobia .
+954	Infections of immunodeficient mice often manifest as conjunctivitis , otitis , or multiorgan abscess formation ( Figure 1 ) ( Percy and Barthold 2001a ) .
+955	In weaned foals , PE causes diarrhea and hypoproteinemia , occasionally resulting in death [ 3 ] .
+956	Piglets commonly develop diarrhea 3 - 10 days after they are weaned , a clinical condition called PWD .
+957	COVID-19 infections are characterized by inflammation of the lungs and other organs that ranges from mild and asymptomatic to fulminant and fatal .
+958	COVID-19 infections are characterized by inflammation of the lungs and other organs that ranges from mild and asymptomatic to fulminant and fatal .
+959	The manifestation of the COVID-19 infection is highly nonspecific , including respiratory symptoms , fever , cough , dyspnea , and viral pneumonia [ 20 ] .
+960	The incubation period of SARS is 4 - 6 days and initial clinical symptoms and signs are systemic symptoms , such as fever , chills , myalgia , and malaise .
+961	Usually , infection leads to a severe , rapidly progressing and often fatal generalized febrile disease with typical lesions on oral mucous membranes [ 1 , 7 ] .
+962	Depending on the species involved human infections usually manifest as one cutaneous or visceral larva migrans that forms a painless nodule in the later course of disease .
+963	Typhoid fever is a clinical syndrome characterized by marked hectic fever , persistent bacteremia , hepatosplenomegaly , and abdominal pain .
+964	Symptoms of the disease may be mild but may also have a form of severe gastritis and enteritis , disappearing within 1 - 3 weeks [ 137 , 141 , 166 ] .
+965	In humans , these infections are usually characterized by the development of proliferative cutaneous or subcutaneous self-limiting lesions and , in a laboratory animal setting , most frequently result from a nonhuman primate or small ruminant exposure .
+966	Affected dogs typically start to develop clinical signs in the first 2 to 5 months of age .
+967	Granulomatous amebic encephalitis ( GAE ) , a subacute to chronic disease of compromised hosts caused by multiple species of Acanthamoeba as well as B. mandrillaris , generally causes death in weeks to months .
+968	Infection in humans occurs via mosquito bite or exposure to animal tissues during the processing or handling of infected animals , and typically results in a relatively mild febrile illness .
+969	In adults , most infections are mild , but in immunocompromised individuals , the infection can progress to a lower respiratory tract illness including pneumonia and cause prolonged illness and even death [ 3 , 67 , 69 ] .
+970	Following infection with Burkholderia pseudomallei , dogs develop pyrexia , lethargy , scrotal swelling , edema of one or more limbs , and lameness .
+971	The peracute form is most common in cattle and sheep and is characterized by sudden onset of staggering , dyspnea , trembling , collapse , and convulsions leading to death .
+972	However , approximately 10 - 20 % of patients with KD may go on to develop recrudescent or persistent fever .
+973	After recovering from ECE , some adult ferrets develop a persistent , intermittent malabsorption syndrome with diarrhea .
+974	In some species , such as marmosets and colobus monkeys , measles infection is more severe resulting in primary giant cell pneumonia followed by secondary bacterial bronchopneumonia ( Jones et al. 1997 ) .
+975	Food-borne botulism usually has an onset of symptoms 12 to 36 hours after exposure ; symptoms rapidly progress over the next 12 hours .
+976	In symptomatic patients , the clinical manifestations of the disease usually start after less than a week , consisting of fever ( body temperature 37 to 38 • C ) , cough , nasal congestion , and fatigue ( 2 ) .
+977	HSCT recipients with RVIs typically develop upper respiratory tract infection initially .
+978	The infected dogs develops acute gastroenteritis , which is characterized by vomiting , fever , diarrhoea ( from mucoid to haemorrhagic ) , haemorrhagic enteritis , myocarditis and leucopoenia [ 6 , 7 ] .
+979	The characteristic symptoms of EVD are nonspecific and include sudden onset of fever , weakness , vomiting , diarrhea , headache , and a sore throat , while only a fraction of the symptomatic individuals present with hemorrhagic manifestations [ 14 ] .
+980	Today , most COVID-19 patients show symptoms of viral pneumonia such as fever , fatigue , dry cough , and lymphopenia [ 4 ] .
+981	The earliest neurological symptom in human beings is usually pain , paraesthesia , or pruritus at the site of infection because of viral replication in local dorsal root ganglia and associated ganglionitis .
+982	Infection with HEV occasionally results in liver failure [ 1 ] .
+983	Macaques and other species of Old World primates commonly develop a mild upper respiratory infection although asymptomatic infections occur .
+984	In young children , the typical infectious mononucleosis syndrome is caused by Epstein-Barr virus and is clinically characterized by sore throat , fever and lymphadenopathy , occasionally with characteristic palatal petechiae .
+985	PHEV predominantly affects 1 - 3 week-old piglets [ 1 ] , with clinical piglets vomiting , exhaustion and obvious neurological symptoms as the main feature .
+986	Patients may have gastrointestinal symptoms such as nausea , vomiting , diarrhea , and abdominal pain , making a correct clinical diagnosis even more challenging.49 If not treated early with appropriate antibiotics and aggressive supportive care , septicemic plague is usually fulminating and fatal .
+987	Cats usually develop severe illness with unspecific clinical signs like fever , lethargy , prostration , vomiting and anorexia , dehydration , regional or generalised lymphadenopathy , splenomegaly , tongue and oropharyngeal ulceration and jaundice [ 49 , 72 , 73 ] .
+988	AGMs infected with sArs-CoV have no overt clinical signs but DAD and pneumonitis has been documented ( McAuliffe et al. , 2004 ) .
+989	Symptoms of Chikungunya infections include abrupt onset of fever with acute arthralgia and arthritis that can last for a very long time .
+990	Fulminant psittacosis can be manifested as severe pneumonia with rapid progression , acute respiratory distress syndrome , sepsis , and multiple organ failure .
+991	After an incubation period of 3 to 8 days , the symptoms of the KFD begin suddenly with fever , headache , severe muscle pain , cough , dehydration , gastrointestinal symptoms , and bleeding abnormalities .
+992	Clinical signs of PED are seen in piglets within 7 days of birth and present as vomiting and aqueous diarrhea .
+993	The main symptoms in primary HSV infection are fever , malaise , and painful oral or genital lesions .
+994	Reactivation or primary HSV infection results in oral or genital mucocutaneous lesions , occasionally causes pneumonitis , tracheobronchitis , esophagitis , hepatitis , or disseminated infection [ 1 , 30 ] .
+995	Severe acute infection is characterized by ruffled fur , hunched posture , and labored respiration due to interstitial pneumonitis and leads to death in 24 hr .
+996	Infected individuals initially experience fever , myalgias , and chills .
+997	Clinical signs of distemper are often unapparent or initially mild during this time , and disease is characterized by mucopurulent oculonasal discharges , conjunctivitis , respiratory distress , anorexia , vomiting , diarrhea and dehydration , and cutaneous rash .
+998	Endocarditis and myocarditis may develop in some cases , and dyspnea , cyanosis , weight loss , and sudden death are typical clinical signs ( Higgins and Gottschalk , 1999 ; Staats et al. , 1997 ) .
+999	After exposure to SARS-CoV-2 , the majority of patients recover with little or mild symptoms that include cough and fever [ 10 ] .

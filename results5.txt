@@ -1,5 +1,5 @@
 arg1:[e]paracetamol is $not useful for treating arg2:[e]asthma.
-However , while tocilizumab is a promising agent against COVID-19 , it is not an appropriate agent in patients with active or latent tuberculosis , bacterial and fungal infections , multi-organ failure , and gastrointestinal perforation [ 7 ] .
+0	However , while tocilizumab is a promising agent against COVID-19 , it is not an appropriate agent in patients with active or latent tuberculosis , bacterial and fungal infections , multi-organ failure , and gastrointestinal perforation [ 7 ] .
 1	There are cases of ADEM or even fulminant presentation such as AHL where steroids alone are not sufficient for suppressing inflammation and improving clinical findings .
 2	Thus , ribavirin may not be useful for treating SARS infections because of its questionable efficacy and because of its known toxicity ( reviewed by van Vonderen et al. , 2003 ; Lai , 2005 ) .
 3	In general , steroid therapy is not recommended in the clinical treatment of SARS-CoV-2 [ 103 ] .
@@ -20,3 +20,982 @@ However , while tocilizumab is a promising agent against COVID-19 , it is not an
 18	While FAM is standard therapy for established BOS , recent data argue strongly against using azithromycin as prophylaxis against BOS due to decreased survival due to a higher rate of hematologic relapse [ 83 ] .
 19	Although a number of antivirals are available for influenza infections ( e.g. , M2 and neuraminidase inhibitors ) , these drugs have only modest efficacy and their use is further limited by resistance that is either preexisting or is rapidly induced during treatment ( 192 ) .
 20	Although immunosuppression is a mainstay of treatment for autoimmunity , IPEX treatment is frequently limited by insufficient response to therapy or side effects of immune suppression .
+21	There has traditionally been no specific treatment for CCHF , though ribavirin has demonstrated both in vitro and in vivo activity [ 40 ] .
+22	Although biologic therapies provide a valuable treatment option in UC , they are not clinically effective in all patients and are also associated with secondary loss of response .
+23	Currently , there is no vaccine to prevent RSV , and the only accepted therapy ( ribavirin ) is seldom used due to its teratogenicity , its limited antiviral effect , and its controversial clinical effectiveness ( 41 , 76 , 85 ) .
+24	Treatment with M2 inhibitors , such as amantadine , is generally not used in transplant recipients because of widespread resistance , the association with prolonged shedding of virus and increased adverse effects [ 6 , 30 ] .
+25	Nevertheless , there is currently no definitive benefit proven for antiviral treatment outside of these specific circumstances , as it comes at a cost and may be associated with side effects ; for example , zanamivir can induce bronchospasms in patients with chronic respiratory disease and asthma .
+26	Specific antiviral therapies for the common cold have shown some promise , but their efficacy is limited by the myriad of potential viral causes of the common cold and also by side effects [ 27 ] .
+27	As a result , corticosteroids may not be a standard choice in patients with influenza A infection [ 113 , 114 ] .
+28	However , the possibility of IFN-α-induced flares that precipitate liver failure means that IFN-α is contraindicated in advanced cirrhosis .
+29	Although the combination therapy is effective for hepatitis C , ribavirin can induce hemolytic anemia that may necessitate dose reduction or even discontinuation of the therapy [ 20 ] .
+30	Yet with an unfavorable toxicity profile , cidofovir remains an imperfect treatment , with deaths reported secondary to disseminated adenoviral infection in treated patients [ 67 ] .
+31	Even highly active antibacterial agents have limited efficacy in advanced bacterial pneumonia [ 33 ] .
+32	Furthermore , steroids and immunosuppressive drugs are not universally effective , with partial or no response in many cases .
+33	Treatment of LT recipients who developed CRE or CRKP infections is quite complicated , often requires combination antimicrobial therapy , and can also be associated with drug toxicity .
+34	Although treatment with IVIG is an effective therapy for KD , not all children respond to it , and its mechanisms of action remain not fully established [ 4 ] .
+35	However , for recalcitrant AD , continuous use of systemic immunosuppressive agents is limited by severe adverse effects , especially for children .
+36	PAMI treatment is challenging as IL-1 inhibitors can alleviate the inflammatory symptoms but not hematologic features .
+37	Treatment of MTB after SOT poses special challenges because of potential interactions between anti-MTB drugs and immunosuppressive medications and potential hepatotoxicity .
+38	The use of corticosteroids for the treatment of COVID-19 is controversial due to their negative impact on anti-viral immune responses [ 109 ] .
+39	Switching to oral corticosteroids [ 16 ] is not recommended during SARS-CoV-2 infection and may worsen the disease in dysimmune motor neuropathies [ 17 ] .
+40	However , HAART is associated with potentially deleterious sequelae , making timing of the therapy very controversial in patients with active sepsis ( 19 ) .
+41	Alternative antiviral therapies are needed due to troubles in maintaining adequate stocks of plasma and the absence of effective interventions for treated patients that progress to a neurologic-hemorrhagic phase [ 3 , 4 ] .
+42	Although lopinavir/ritonavir have been adopted for the treatment of SARS , as they lack elements of specificity towards CoV protease , their efficacy is not expected to be sufficient to control viral infection .
+43	Most patients afflicted with HIV-associated AIDs including inflammatory musculoskeletal involvement respond well to conventional therapy such as NSAIDs , narcotic drugs , and DMARDs , but refractory cases may need the use of biological agents , especially TNF inhibitors [ 60 ] .
+44	Although ribavirin has been approved for the treatment of HRSV infection , its clinical use has been limited by its side effects combined to its minor clinical efficacy .
+45	Although the main treatment option for CCHF is supportive therapy , ribavirin inhibits viral replication in vivo and has been shown to reduce death in murine models .
+46	The benefit or otherwise of antiviral drugs or glucocorticoids has not been established for treatment of SARS [ 20 ] .
+47	However , for its undesiderable side effect like anemia , the use of ribavirin may not be convenient in patients who are already very compromised such as those with COVID-19 [ 13 ] [ 14 ] [ 15 ] .
+48	A significant proportion of HIV-associated AIDs including inflammatory musculoskeletal involvement respond well to conventional therapy such as NSAIDs , narcotic drugs and DMARDs , but refractory cases may need the use of biological agents , especially TNF inhibitors [ 133 ] .
+49	While VZIG is clearly efficient in post-exposure prophylaxis , it is not beneficial for therapy of already established VZV infection [ 54 ] .
+50	Unfortunately , efficacy for this class of drugs is limited due to the rapid development of antiviral resistance and the lack of effect against FLU-B [ 3 , 20 ] .
+51	Although often used , systemic corticosteroids may increase the risk of mortality and morbidity ( e.g. secondary infections ) in severe influenza and other viral infections , especially if there is delay or lack of effective antiviral therapy .
+52	Although often used , systemic corticosteroids may increase the risk of mortality and morbidity ( e.g. secondary infections ) in severe influenza and other viral infections , especially if there is delay or lack of effective antiviral therapy .
+53	Steroids are also a used treatment in SARS-CoV-2 CRS , but there are several concerns about toxicity in patients already affected by comorbidities or advanced age , that precludes it use in a relevant number of cases [ 2 ] .
+54	Although these agents have been efficacious in experimental animal studies and reduce HBV DNA levels in patients with chronic HBV infection , long-term treatment is required , which in turn has been associated with the development of resistant mutations in HBV DNA polymerase ( with the exception of adefovir ) .
+55	For example , the unfavorable toxicity profile of ribavirin including teratogenicity limits its use to treat ZIKV infections in pregnant women .
+56	Although pulmonary toxicity in conjunction with FOLFOX therapy is uncommon ( ≤ 1.5 % ) [ 15 ] , it can be lethal despite the immediate discontinuation of the chemotherapeutic drugs and the initiation of immunotherapy ( i.e. , corticosteroids ) .
+57	In such instances , steroids are the mainstay of any treatment plan however its use during COVID-19 infection is controversial as it slows the elimination of the virus .
+58	Currently , there is a paucity of safe and effective antiviral drugs for the treatment of VHF .
+59	However , it has also been noted that initiation of IVIg treatment before Day 5 of fever can sometimes result in refractory KD and this may mandate additional therapy .
+60	In fulminant cases , immunosuppressive therapy with steroids , and cyclophosphamide , or rituximab may be needed to control life-threatening vasculitis prior to antiviral treatment [ 111 ] .
+61	However , the available clinical evidence is insufficient to support the efficacy of glucocorticoids in the treatment of COVID-19(World Health Organization,2020 ; Russell et al.,2020 ) .
+62	However , these agents have a downside in that they are not that effective in controlling MS disease activity .
+63	Case reports and animal data suggest that ribavirin and IgIV can be considered for the management of severe cases of hMPV but supportive care remains the mainstay of treatment ( 1 , 43 ) .
+64	The current treatment options for COVID-19 are limited and may not be effective-a randomized trial of lopinavir/ritonavir , a common HIV medication , had no clinical benefit , while clinical trials of hydroxychloroquine , Remdesivir , and Tocilizumab are ongoing [ 9 ] .
+65	The most effective treatment for patients with SARS-CoV infection is the combination of ribavirin and steroids ; however , this treatment is associated with a number of side effects .
+66	One side effect of ribavirin treatment , however , is hemolytic anemia [ 87 ] , so ribavirin may be contraindicated in patients with acute and chronic myocarditis .
+67	Current treatment plans for RSV are of limited benefit and include bronchodilators , corticosteroids , and antibiotics [ 57 ] for bacterial co-infections .
+68	Currently available drugs to treat HCMV infection are not approved to treat pregnant women due to their potential high toxicity .
+69	Of note , some patients remain refractory to immunoglobulin therapy and continue to suffer from upper respiratory tract infections [ 181 ] .
+70	Although immune-modulating therapies such as steroids , plasma exchange ( PE ) , IVIG and immunosuppressive drugs are routinely used , many patients are refractory to treatment .
+71	Ribavirin , the only therapeutic option for LCMV disease , is not generally recommended in pregnancy due to findings of teratogenicity in animal models [ 22 ] .
+72	Aminoglycoside monotherapy for the treatment of pneumonia is not recommended due to poor lung penetration and alveolar concentration , prompting higher antibiotic dosing that potentially can lead to nephro-and ototoxicity [ 1 , 27 ] .
+73	Early studies report hydroxychloroquine may actually substantially worsen outcomes in COVID-19 + patients , so it is difficult to recommend them as prophylactic therapy or treatment at this time [ 3 ] .
+74	Overall , there is no unique reason to expect that patients with COVID-19 infection will benefit from corticosteroids , and such treatment may be harmful [ 75 ] .
+75	Immune thrombocytopenia develops in about 20 % of patients [ 71 ] [ 72 ] [ 73 ] [ 74 ] [ 75 ] [ 76 ] and may respond relatively poorly to ITP therapies , although recent experience with rituximab and mycophenylate have been encouraging .
+76	As was mentioned earlier , systemic glucocorticoids are currently contraindicated in SARS-CoV-2 infection , as they may prolong viral clearance .
+77	However , treatment success specifically for BO often does not persist , and other immunosuppressive drugs or immunomodulatory approaches become necessary .
+78	Whereas first-generation Jakinibs including tofacitinib have shown efficacy in the treatment of inflammatory conditions like RA , nonselective pan-JAK blockade can be associated with unwanted adverse effects such as cytopenias .
+79	Vancomycin and daptomycin are the recommended first-line therapies for MRSA bacteremia and infective endocarditis [ 7 ] ; however , alternative therapies may be needed for strains with reduced susceptibility or resistance to antibacterial agents , potential toxicities , and even general lack of efficacy in certain patient populations .
+80	Because BOOP occurs as a result of an inflammatory response to lung injury , a good treatment response is seen with broadspectrum anti-inflammatory agents , such as corticosteroids and immune-modulatory macrolides [ 6 ] .
+81	In particular , corticosteroids are not approved for treating COVID-19 or any viral pneumonia [ 175 ] .
+82	However , ribavirin is only marginally effective against the SARS virus , and shows serious adverse side effects Stroher et al. , 2004 ) .
+83	Moreover , many patients do not tolerate cART because of its severe side effects , and it is unaffordable for patients in developing countries [ 56 ] .
+84	For critically ill influenza patients , antiviral treatment options are limited because no parenteral drug is available and no drug has been proved to be effective once life-threatening disease occurs .
+85	For critically ill influenza patients , antiviral treatment options are limited because no parenteral drug is available and no drug has been proved to be effective once life-threatening disease occurs .
+86	Moreover , the use of ribavirin is still limited because beneficial effects on clinical outcomes remain unproved ( Ohmit et al. , 1996 ; Snell , 2001 ) .
+87	Steroids are also not recommended for the treatment of MERS-CoV [ 21 ] .
+88	Consequently , corticosteroids are not suggested to systemically use in SARS-CoV-2 infected patients [ 34 , 35 ] .
+89	In fact , antiretroviral therapy used by HIV positive patients may be protective from COVID-19 infection or serious complications , and there is interest in using HIV antiretroviral therapy to treat severe COVID-19 , although very recently lopinavir-ritonavir has shown no benefit [ 17 ] .
+90	Unfortunately , the use of first line ganciclovir-based drugs or second line foscarnet and cidofovir can result in substantial hematotoxicity and nephrotoxicity [ 9 ] .
+91	However , overall supportive evidence is lacking [ 91 , 94 , 95 , 99 , 101 , 102 , [ 109 ] [ 110 ] [ 111 ] and antiviral resistance may emerge even with higher doses of oseltamivir [ 112 ] .
+92	Nevertheless , there is building evidence that biologic therapies , particularly IL-1 inhibitors , are a welcome addition to corticosteroids and CsA in treating MAS associated with sJIA [ 17 ] .
+93	Currently , there are no antiviral drugs approved for clinical use in HRV infections although a few agents have been advanced to clinical trials and shown modest results in decreasing either symptom severity or viral activity .
+94	Preemptive therapy may not be completely effective in CMV D+/R− liver transplant recipients because the replication kinetics of CMV in immune defi cient individuals is very rapid [ 66 ] .
+95	Unfortunately , IFNB treatment is not successful in all MS patients and often produces undesirable side effects .
+96	Whether ribavirin is indicated for RSV URI remains controversial ; some centers ( including the author 's ) administer it in the presence of lymphopenia ( lymphocyte count < 0AE3 · 10 9 /l ) when the risk of progression is particularly high Chemaly et al , 2006 ) .
+97	Due to the difficulty in distinguishing viral and bacterial etiologies of CAP , especially in young children , antibiotics often are overprescribed for viral LRTI [ 35 ] .
+98	Long-term glucocorticoids may be effective in the treatment of radiationassociated lung injury in which COP is the leading pulmonary involvement ; however , symptoms and radiographic abnormalities , as well as immunologically mediated lymphocytic alveolitis frequently recur with discontinuation of therapy [ 20 , 21 ] .
+99	Unfortunately , this therapy has a wide spectrum of toxic side effects and is only effective in a subset of patients .
+100	Influenza infections have been successfully treated with neuraminidase inhibitors ( oseltamivir or zanamivir ) ; however , the efficacy of these agents for influenza pneumonia has not been established , and immunocompromised patients are highly susceptible to emergence of antiviral drug resistance , most probably due to prolonged viral shedding .
+101	Finally , ribavirin is not effective in the treatment of filovirus infections ( reviewed by Bausch et al. , 2008 ) or for the treatment of Japanese encephalitis , yellow fever or other flaviviral infections ( see articles by Gould et al. , 2008 ; Monath , 2008 ) .
+102	Nevertheless , there is no consensus in the dosage and type of CSs therapy among different clinical trials , and the induction of immunosuppression by steroids might worsen , instead of treating LRTI .
+103	However , therapeutic antiviral options are still limited and vaccines are often not available , which makes supportive treatment crucial in the clinical management of these often lifethreatening infections .
+104	The risks of TRM and graft-versus-host disease ( GVHD ) may discourage physicians from recommending allo-HSCT to RA patients unless all other standard treatments have proven to be noneffective [ 64 ] .
+105	Because of immune suppression , treatment with a steroid in MERS can result in delayed viral clearance and increased mortality and influenza infection [ 15 ] .
+106	Although this may seem a paradox , immunosuppressive drugs are used to treat ITP associated with CVID .
+107	However , highdose intravenous HBIG is expensive and may not provide additional benefit compared to the use of oral antiviral agents alone , especially in low-risk patients .
+108	Although there is rationale for IVIG use in these syndromes based in theory , several lines of laboratory investigation , and retrospective clinical series , no definitive clinical trial has been conducted and there remains clinical equipoise as to whether IVIG should be used in the treatment of TSS and STSS [ 81 ] .
+109	However , treatment of PYR has been associated with a number of doselimiting toxicities e.g. , myelosuppresion [ 76 ] .
+110	Treatment Antiviral therapy with acyclovir , ganciclovir , or cidofovir is generally ineffective as monotherapy in infectious mononucleosis and EBV-HLH [ 228 ] .
+111	The standard care for HCV is a combination therapy with PEGylated IFN-α and ribavirin , but ribavirin/IFN treatment is not effective enough for some HCV genotypes and shows serious side effects , such as influenza-like symptoms , mental health problems , and hematological abnormalities .
+112	Tocilizumab appears to be not as effective for ICANS , likely because it does not cross the blood-brain barrier and targets the IL-6 receptor with no direct IL-6 lowering effect , leading to elevated systemic IL-6 levels after therapy without CNS protection [ 38 , 40 , 72 ] .
+113	Therefore , according to the WHO , corticosteroid treatment is not routinely recommended as a therapeutic option for COVID-19 pneumonia outside of clinical trials [ 80 ] .
+114	However , to achieve high efficacy , ribavirin needs to be administered early during infection intravenously and is often associated with side effects .
+115	However , the duration of antiviral therapy in immunosuppressed hosts depends on clinical and radiological resolution , the degree and duration of immunosuppression , and therefore maintenance therapy is sometimes needed after the initial response .
+116	In case of severe pneumonia , discontinuation of MPA has also been proposed as a first step due to its low viral safety profile , while mTORi can lead to interstitial pneumonia which can not be easily distinguished from SARS-CoV-2-induced lung disease .
+117	However , the clinical utility of ribavirin may be limited due to the risk of hemolytic anemia and teratogenicity [ 166 ] .
+118	However , the development of potential toxicity and teratogenicity when used in the later stage of disease drives us to think that Ribavirin is not a potent therapeutic against Lassa fever ( Fisher-Hoch et al. 1992 ; Kochhar 1990 ) .
+119	Although influenza antivirals are usually preferred within 48 h of the onset of clinical symptoms , lung and other solid organ transplant patients have improved outcomes even with later treatment initiation ( Kumar et al. 2010 ) .
+120	Primary monotherapy with echinocandins is not recommended due to low treatment response rates in patients with IPA [ 13 , 20 ] .
+121	The addition of HBIG to oral antiviral agents may not provide additional benefit in this setting [ 32 ] .
+122	Licensed specific antiviral therapy is not available for HPeV or enterovirus infections , despite their relatively high incidence in neonatal encephalitis and systemic infections ( 58 ) .
+123	The toxicity of some agents ( such as cidofovir , foscarnet , and ribavirin ) may complicate management , notably in the face of reduced renal function in patients receiving calcineurin inhibitors as part of the immunosuppressive regimen .
+124	The toxicity of some agents ( such as cidofovir , foscarnet , and ribavirin ) may complicate management , notably in the face of reduced renal function in patients receiving calcineurin inhibitors as part of the immunosuppressive regimen .
+125	Due to the narrow administration window , current antiviral therapies are often inadequate .
+126	In addition , although these drugs are needed to help control the immune response associated with clinical FIP , they also may cause susceptibility to bacterial infections due to myelosuppression and general immunosuppression .
+127	Thus , ribavirin is a controversial drug [ 26 , 27 ] with low efficacy and significant toxicities .
+128	However , ribavirin is only marginally effective against the SARS virus , and shows serious adverse side effects ( Cinatl et al. , 2003 ; Stroher et al. , 2004 ) .
+129	However , although type I IFNs have been approved for diverse indications including genital warts , viral hepatitis , hairy cell leukemia and chronic myelogenous leukemia , their use in the clinic is limited due to the frequent and severe adverse effects ( including flu-like disease and depression ) they exhibit .
+130	Altogether , the clinical use of tegobuvir is limited in that advanced DAAs offer pan-genotypic activity with better efficacy .
+131	Accordingly , HCV and herpesvirus infections are treatable with IFN ( Oberman and Panet , 1988 ; Nguyen et al. , 2014 ) , although this can carry significant side effects .
+132	Although NSAIDs , including aspirin , have been effective in systemic JIA , they are rarely effective in AoSD ; only 20 % of patients have achieved control with this therapy [ 1 , 102 , 103 ] .
+133	However , these clinical benefits are sometimes limited because some patients demonstrate persistent tissue inflammation despite treatment with high doses of GC .
+134	Treatment with new agents such as protease inhibitors appears to be efficient but presents with issues of resistance in the long run ( 138 ) .
+135	However , immune-checkpoint blockade is associated with potentially serious side effects , including those requiring ICU-level resources and need for high-dose glucocorticoids [ 41 ] , which may be in short supply in the current environment .
+136	Currently , there is no effective medicine for the treatment for COVID-19 patients , which can , in some patients , lead to lethal lung failure .
+137	Although available anti-viral drugs as cidofovir ( ADV ) and Rituximab ( EBV ) , their effi ciency is impaired in absence of specifi c immune reconstitution and toxicity remains a concern .
+138	Reports of oseltamivir resistance in HPAI H5N1 as well as in seasonal human influenza strains suggests complementary treatment options are necessary [ 135 , 136 ] .
+139	In addition , treatment of recurrent HCV infection after liver transplantation is often compromised by enhanced adverse effects and limited efficacy of interferon-based therapies .
+140	Currently , TCM therapy is not as potent as HAART in inhibiting HIV replication .
+141	However , discontinuation of ICIs in patients with COVID-19 infections is not recommended due relatively better outcomes than in those patients who are immunosuppressed from chemotherapy [ 46 ] , [ 54 ] .
+142	Due to the narrow therapeutic window for the administration of anti-flu drugs , typically within 2 days of the onset of symptoms , and the association of excessive inflammatory responses with severe influenza pneumonia , the treatment of influenza pneumonia can not rely solely on antiviral drugs .
+143	Antiviral treatment for other viral illness either have been studied inadequately , carry inappropriately high side-effect profiles , or are ineffective in otherwise healthy individuals [ 161 ] .
+144	Although some drugs can reduce viral load ( AZT and PMEA ) , there are no studies showing a proven clinical benefit long term , or resolution of infection , and long-term use is hindered by side effects .
+145	In contrast to hydroxychloroquine , tocilizumab may be a useful agent in severe cases who have not responded to conventional therapy ( chloroquine/hydroxychloroquine and antivirals ) and those patients with elevated levels of IL-6 [ 3 ] .
+146	However , under certain conditions , with a worsening of the course and expected delay in marrow recovery , use of these agents may be appropriate with pneumonia , hypotension , or shock , severe cellulitis or sinusitis , systemic fungal infections , or multiorgan dysfunction secondary to sepsis .
+147	For the SARS-CoV , anecdotal reports suggest that steroid treatment may be of benefit ( 26 ) .
+148	However , some patients are refractory to SPT or have relapse after SPT , resulting in renal impairment .
+149	Preferred PCP prophylaxis is TMP-SMZ ( AII ) ; however , if TMP-SMZ is administered before engraftment , the associated myelosuppression could delay engraftment , and patients might experience sensitivity to the drug .
+150	Although the initial experience had suggested that linezolid might have more hematological side effects ( especially thrombocytopenia ) compared with the other antimicrobial agents , recent reports in both children and adults suggest that the toxicity profile is not worse than that of vancomycin ( 44 , 45 ) .
+151	Case reports and animal data suggest that ribavirin with or without immunoglobulin can be considered for the management of severe cases of hMPV ( 1,70 - 72 ) but supportive care remains the mainstay of treatment .
+152	In addition , treatment for MERS is typically started only in a late disease stage , when immunopathology predominates and antiviral drugs are likely to provide little benefit .
+153	While the nonspecific anti-inflammatory effects of corticosteroids may offer some benefit in patients with ARDS [ 16 ] and appear to benefit those with sepsis [ 17 ] , most of these patients have bacterial infections and receive appropriate antibiotic therapy .
+154	Although continuation of ART has been performed safely [ 13 , 84 ] , interruption of antiviral therapy may be necessary in severe or unresponsive cases .
+155	While the prognosis of early onset toxicity is generally good and corticosteroids are beneficial , lateonset toxicity has a poorer outcome and often progresses despite therapy with steroids [ 48 , 49 ] .
+156	21 Azoles are fungistatic and rely on an intact immune system to remove the infectious agent , so they may not be effective as a single modality in immunosuppressed patients .
+157	However , development of resistance and virologic failure occur more frequently with rilpivirine than with efavirenz ( Cohen et al. , 2011 ; Molina et al. , 2011 ) .
+158	Beyond supportive care , treatment options for human patients with H5N1 avian influenza remain limited and are empiric ; some H5N1 viruses are resistant to older antiviral agents such as amantadine and rimantadine [ 4 , 5 ] , and the clinical efficacy of neuraminidase inhibitors such as oseltamavir and zanamavir has not yet been confirmed in prospective studies .
+159	It is difficult to make a clear recommendation about whether corticosteroids should be used to treat SARS-associated lung injury in any stage of illness , particularly as the drug is immunosuppressive and may delay viral clearance if given before viral replication is controlled [ 21 ] .
+160	However , experience with nonpandemic infl uenza indicates that oseltamivir must be given early during symptom development for it to have any substantial biological effect ( 30 ) ; modest delays may vitiate the treatment effectiveness ( 31 ) .
+161	However the benefits of ribavirin treatment have not been examined under the strict conditions of a randomized clinical trial and the drug is not approved for the treatment of CCHF by the US Food and Drug Administration [ 71 ] .
+162	Corticosteroid therapy can ameliorate the symptoms but is not generally recommended because EBV infection is usually a self-limited disease and there are theoretic concerns of suppression of immune responses with a viral infection , which can potentially cause malignant disease .
+163	Since numerous viruses cause URTI , antiviral therapy is impractical .
+164	∑ In more severe cases and/or those resistant to other therapies , systemic CSs are required for transient relief [ 103 ] .
+165	In patients with respiratory failure due to PcP , systemic corticosteroids may be beneficial in AIDS patients , but data are conflicting in non-HIV patients [ 162 , 163 ] .
+166	The current standard treatment for adenovirus is cidofovir , but outcomes are not optimal [ 91 ] .
+167	There is increasing evidence that persistent abatacept infusions correct the autoimmune phenotype in LRBA patients ; however , not all symptoms are responsive [ 4 ] .
+168	Nevertheless , long-term treatment with low-dose acyclovir or ValACV can still be effective treatments for recurrent HSV [ 141 , 142 ] .
+169	Although ribavirin has been used to treat CCHF , its efficacy and utility in clinical settings remain under debate , and no licensed vaccines or alternative therapeutic options are available to prevent disease or treat patients .
+170	However , intravenous ribavirin does not show any benefits for the treatment of any of the VHFs caused by filoviruses , or in infections with RNA viruses causing severe encephalitis [ 15 , 67 ] .
+171	The utility of CMVIG in organ transplant settings has been lessened by the availability of potent small molecule anti-CMV drugs , such as ganciclovir , valganciclovir , foscarnet , and cidofovir , even though these drugs have significant toxicities ( Biron 2006 ) .
+172	The high risk of toxicity due to ribavirin therapy outweighs its potential benefits and it is no longer being pursued as a potential treatment option for SARS-CoV-2 ( 8) .
+173	Moreover , its use in this setting is complicated by toxicity , treatment failures , and frequent recovery of drug-resistant virus ( about 32 % ) .
+174	Additionally ribavirin is highly teratogenic and can not be used for the treatment of pregnant women , who suffer disproportionately severe effects from HEV infection and currently have no treatment options other than supportive care [ 6 ] .
+175	However , many of these systemic antiviral therapies lead to the risk of significant side effects .
+176	Nevertheless , many patients with uncertain diagnoses may still warrant early antiviral therapy , because HHV-6 encephalitis can progress rapidly , with potentially devastating consequences [ 8 ] .
+177	Compared to monotherapy , the incidence of pneumonitis with combination therapy may be as high as 10 % and the time to onset is usually sooner [ 84 ] .
+178	However , the systemic symptoms associated with severe viral infections , e.g. influenza , are associated with interferons , so careful dosing may be required .
+179	The only available therapy for SARS-CoV is a combination of ribavirin and corticosteroids , which is effective — but only at concentrations that produce severe side effects .
+180	The treatment of MS has always been hampered by the untoward adverse effects caused by immunosuppression with agents such as natalizumab [ 128 ] .
+181	Therefore , adamantines are not recommended for treatment of novel influenza A virus infections [ 16 ] .
+182	A pitfall of using some DAAs is the emergence of resistance mutations which can undermine their effectiveness , although combinational therapy is a proven option in HIV and HCV therapy to circumvent this .
+183	Ganciclovir is the treatment of choice for invasive CMV disease , though treatment can be limited by leukopenia , particularly problematic among the HSCT population [ 35 ] .
+184	In addition , cidofovir treatment is frequently associated with severe nephrotoxicity , even when used as recommended with intravenous normal saline hydration and the renoprotective agent probenecid [ 46 ] .
+185	Unfortunately , ganciclovir is associated with myelosuppression .
+186	Consequently , valacyclovir , although under study for use among HSCT recipients , is presumed to be less effective than ganciclovir against CMV and is currently not recommended for CMV disease prevention ( DII ) .
+187	As mentioned previously , ribavirin is known to induce toxicity and severe side effects in pediatric patients , discouraging its use in these populations .
+188	Although CQ and HCQ both have the potential to act against SARS-CoV-2 , CQ , particularly at a higher dose , is associated with a higher risk of toxicity and should not be recommended for critically ill patients with COVID-19 [ 11 ] .
+189	The current front-line agents treating emerging viral epidemics ( i.e. ribavirin , interferon , lopinavir/ritonavir , and corticosteroids ) often do not improve outcomes over supportive care ( Zumla et al. , 2016 ) .
+190	For initial-onset VKH disease , it is increasingly thought that corticosteroid therapy is not sufficient and additional non-steroidal immunosuppressive therapy is needed .
+191	For initial-onset VKH disease , it is increasingly thought that corticosteroid therapy is not sufficient and additional non-steroidal immunosuppressive therapy is needed .
+192	Although antiviral drugs are available , viral reactivation and shedding can occur in many who are asymptomatic , and an effective vaccine remains elusive [ 87 ] .
+193	Relative contraindications to ribavirin PEP include severe anemia or hemoglobinopathy , pregnancy and breast-feeding , coronary artery disease , renal insufficiency , decompensated liver disease , and known hypersensitivity [ 39 ] .
+194	Current therapeutic options ( i.e. ribavirin and interferon-a ) have severe side effects and treatment failure has been reported .
+195	Although oral antiviral therapies are effective at stopping HBV replication , they do not cure the disease .
+196	In the absence of azoles , the lack of alternative oral antifungal agents is particularly challenging for PIDD patients such as those with CGD who require long-term suppressive antifungal treatment .
+197	Thus , highdose corticosteroids are not recommended as treatment of sepsis ( EI ) .
+198	Ribavirin is also utilized as a treatment against RSV infections in high-risk young children , but is not very efficient and induces severe adverse effects ( Graham and Anderson , 2013 ; Rosenberg et al. , 2005 ) .
+199	In contrast to HFRS , therapy for HPS with ribavirin has not demonstrated much benefit [ 59 , 60 ] .
+200	However , because of its high cost and potential toxicity , such as pancytopenia , lactic acidosis and peripheral neuropathy , long-term treatment with linezolid is not always straightforward .
+201	Glucocorticoids are in general use as broad-spectrum , antiinflammatory agents , yet overall analysis suggests that they have only limited benefit for the treatment of severe hRSV-associated inflammation [ 40 ] .
+202	In some human conditions , e.g. , inflammatory bowel disease , corticosteroids are very effective in controlling acute disease exacerbations , but fail as prophylactic agents with continuous use [ 111 ] .
+203	Literature data support that corticosteroids do not add clinical benefits in the treatment of COVID-19 infection ( Ling et al. , 2020 ) .
+204	AZA in combination with steroids can lead to lower doses of steroids required , more effective treatments , and less side effects [ 102 ] although in 10 - 20 % of patients who are resistant to therapy , higher doses of steroids may be required despite use of AZA .
+205	Although combined use of ribavirin and IVIG has not been supported by a randomized trial , this expensive treatment is reserved for select patients with RSV-related LRTIs and severe immune deficiency [ 103 , 104 ] .
+206	However , paradoxical skin manifestation and inflammatory arthralgia/arthritis may occur upon vedolizumab therapy .
+207	Application of ribavirin for the treatment of such severe infections has not become widespread because of concerns regarding adverse effects and lack of specificity and efficacy ( Kilgore et al. , 1997 ; McCormick et al. , 1986 ; Monath , 2008 ) .
+208	Moreover , although DAAs are highly effective , HCV can not be cleared in some difficult-to-treat patients .
+209	Use of fluconazole in the absence of a polyene is not recommended given the fungistatic nature of this drug , poor success , higher relapse rates , and increased resistance in relapse when used as monotherapy for induction [ 62 , 77 ] .
+210	Furthermore , treatment of recurrent HCV infection after LT is compromised by enhanced adverse effects and limited efficacy of interferon-based therapies .
+211	At present , there is no single specific anti-viral therapy available against COVID , and the treatment is mostly supportive .
+212	Moreover , patients who are unresponsive to or do not fit for splenectomy , have limited options including cytotoxic or immunosuppressive medications such as azathioprine , cyclophosphamide , or cyclosporine , with a response rate of 40 - 60 % and associated side effects ( 52 ) .
+213	However , current evidence in patients with SARS and MERS suggests that corticosteroids had no effect on mortality , but instead delayed viral clearance [ 11 , 12 ] .
+214	However , IFN treatment is compounded by side effects , such as influenza-like symptoms , anorexia and depression , which require dose adjustment or even discontinuation of therapy .
+215	Ribavirin has shown some efficacy in animal model systems of RVF but is only indicated under compassionate use guidelines in the event of emergency [ 78 ] .
+216	Gastrointestinal toxicity significantly limits the initial tolerance to protease inhibitors , often requiring dose escalation and sequential addition of other medications , such as nucleoside analogue RTI .
+217	Unfortunately , the long-term use of HBIG is associated with high costs , and HBIG has been less effective in patients with high viral loads [ 134 ] .
+218	Although there are no clinical data to guide therapy , ribavirin appears to have in vitro activity against hMPV equivalent to that of RSV [ 176 ] .
+219	However , ADV-resistant HBV remains a problem as these patients do not respond well to TDF .
+220	While resistance to NA inhibitors has been observed in some influenza virus strains , they are still highly effective in the majority of patients [ 60 ] .
+221	Toxicities associated with PD-1/PDL-1i agents may be slower to resolve than with ipilimumab , and long-term follow-up is therefore advised [ 23 ] .
+222	Similar to cyclophosphamide , lack of large scale randomized prospective trials limit widespread adoption of cyclosporine A for treatment of AE-IPF .
+223	In fulminant cases immunosuppressive therapy with steroids , and cyclophosphamide , or rituximab may be needed to control life threatening vasculitis prior to antiviral treatment ( 144 ) .
+224	However , corticosteroids may provide benefi t to certain subgroups of patients such as those with acute onset of wheezing and those who meet the criteria for ALI/ARDS [ 59 ] .
+225	However , patients receiving tocilizumab are often at an increased risk of serious infections ( bacterial , viral , invasive fungal infections , and tuberculosis ) and hepatitis B reactivation [ 33 ] .
+226	Still , caution is warranted as major adverse effects of tocilizumab include infection , infusion reactions , dyslipidemia , neutropenia , and potential malignancy [ 6 ] .
+227	Anecdotal reports suggest that cidofovir may have activity against adenovirus , but its use must be balanced with the associated risk of nephrotoxicity [ 146 , 147 ] .
+228	However , corticosteroids may have adverse effects , an increased risk of secondary infection and delayed viral clearance .
+229	Currently , there are no proven effective preventive or therapeutic options for HEV infection , although small series reported a benefit of ribavirin with or without interferon .
+230	However , IFN-a alone or in combination with ribavirin often leads to a range of side effects , and the sustained virological response rate after combination therapy of pegylated IFN-a and ribavirin is , 50 % , particularly for those infected with HCV genotype 1 or 4 .
+231	Although we have treated the more severe adolescent cases with ribavirin , there is increasing evidence that this drug is ineffective against the SARS coronavirus .
+232	Due to the difficulties in differentiating ( idiopathic ) AE-IPF from bronchopulmonary infection occurring in the course of IPF with potential overlap , broad-spectrum antibiotics are often administered in subjects with acute worsening of dyspnea [ 80 ] .
+233	If viral replication in the brain is involved , effective antiviral treatment may not be possible , since neuraminidase inhibitors do not cross the blood-brain barrier ( as do the adamantanes ) , and resistance to the adamantanes and lack of effect against influenza B viruses generally precludes their use .
+234	Nonetheless , the current battery of antivirals available in clinical practice for the treatment of pneumonia is limited [ 5 ] .
+235	However , cidofovir is only moderately effective at controlling adenovirus and it is associated with significant renal toxicity .
+236	Additionally , the use of potent antiretroviral combination therapy may itself lead to hematological toxicities .
+237	Although there is sufficient evidence that antivirals decrease viral loads , their use in SCAP is still a matter of controversy [ 50 ] .
+238	Although ribavirin is known to have a broad-spectrum antiviral activity against several respiratory viruses , it has limitations due to its controversial efficacy and toxicity ( Kneyber et al. , 2000 ) .
+239	Based on the pathophysiology of the disease , there may be a role for targeted therapies such as IL6 or TNF alpha inhibition , but studies on these targeted biologics are limited , with only one pediatric case series being reported to have benefit from the use of tocilizumab when administered with corticosteroids [ 51 ] .
+240	However , pooling of published studies suggests that treating URTID in HSCT and leukemia at risk for LRTID and treating manifest LRTID with ribavirin and intravenous immunoglobulin ( IVIG ) improves outcome [ 14 , 33 , 38 ] .
+241	Furthermore , steroids , sirolimus , hydroxychloroquine , and other immunosuppressants are used but may not prevent long-term deterioriation of this potentially fatal disease .
+242	Ganciclovir resistance is associated with high morbidity and mortality , and there are few options when it comes to treatment [ 145 ] .
+243	However , antiviral drugs are effective in providing protection against CMV disease .
+244	While the intensity of side effects associated with erlotinib and many other anti-cancer agents may be acceptable in malignant disease , it may preclude their use for a not quite as immediately life threatening condition such as chronic HCV infection .
+245	Although active against HIV in vitro and in vivo [ 2 ] , ribavirin is not widely used in the treatment of HIV infection .
+246	Antiviral therapy with acyclovir or ganciclovir remains controversial as these agents are not active against the latent form of EBV found in PTLD .
+247	One therapeutic drawback is the hemolytic effect that complicates ribavirin therapy , particularly in patients with functional renal impairment .
+248	The WHO currently recommends against the routine use of corticosteroids in the treatment of patients with COVID-19 , due to the potential for delayed viral clearance and other adverse effects such as avascular necrosis and psychosis ( Table 2 ) ( 22 ) .
+249	Lamivudine and the other antiviral nucleos(t)ides for the treatment of HBV often have anti-HIV properties and may result in the development of HIV resistance if given as monotherapy in HBV-HIV coinfected patients .
+250	Since palivizumab has safety and efficacy concerns such as anaphylaxis and hypersensitivity reactions , palivizumab is not recommended for the therapeutic-treatment post-RSV infection [ 10 ] .
+251	However , side effects of ribavirin , such as anaemia , limit its widespread use [ 71 ] .
+252	High-dose corticosteroid therapy is effective in 56 % of purely hematological forms of TTP [ 31 ] , although its efficacy has not been clearly demonstrated by randomized trials .
+253	High-dose corticosteroid therapy is effective in 56 % of purely hematological forms of TTP [ 31 ] , although its efficacy has not been clearly demonstrated by randomized trials .
+254	Treatment of active MTb in all solid organ recipients poses a challenge for drug dosing , due to the strong interaction between rifampin ( and other rifamycins ) and calcineurin inhibitors or rapamycin .
+255	Although vancomycin is often indicated for these infections , it is associated with infusionrelated reactions and renal toxicity .
+256	Although there are many therapeutic options for viral infections , currently available antiviral agents are not yet fully effective , probably due to the high rate of virus mutation .
+257	However , the use of ribavirin therapy in patients with SARS is associated with significant toxicity , including hemolysis ( 76 % of patients ) and a decrease in hemoglobin of 2 g/dL ( 49 % of patients ) , elevated transaminase levels ( 40 % of patients ) , and bradycardia ( 14 % of patients ) [ 9 ] .
+258	There is no effective antiviral therapy for HPS , with a controlled trial of IV ribavirin in North America showing no benefit .
+259	At present , the treatment of AHF is limited to ribavirin and immune plasma [ 8 , 9 ] .
+260	However , even though effective , the combination clindamycin-quinine has been associated with significant drug-related toxicities , such as hearing loss , tinnitus , vertigo , and diarrhea .
+261	However , none of these therapies have shown a clear benefit in the treatment of SARS-CoV-2 , and neither the WHO nor the US CDC recommends any specific treatment in children [ 25 , 109 ] .
+262	Remdesivir is one of the most promising drugs for treatment of COVID-19 , but its efficacy may be limited by its poor physicochemical properties and poor tissue distribution/ penetration in the target organs ( lung , spleen , lymph nodes , blood vessels , and others ) .
+263	Given that broad-spectrum antibiotics exacerbate CDI , treatment of the disease is complicated with the administration of very few antibiotics , such as metronidazole and vancomycin , appearing to be effective ( Kuijper et al. , 2007 ) .
+264	Cidofovir , which has limited in vitro activity against JC virus , has not shown any benefit in clinical trials of patients with HIV infection and PML [ 255 ] .
+265	Despite encouraging reports utilizing defibrotide for established severe VOD following HSCT , 29 the mortality remains high and effective prophylactic strategies are needed .
+266	Corticosteroids have been used in several viral respiratory infections ( influenza , SARS-CoV , and MERS-CoV ) demonstrating a limited benefit and , in some cases , delaying viral clearance and increasing mortality [ 13 ] .
+267	Even though colistin is often active against this pathogen and generally the backbone for most treatment regimens , associated heteroresistance ( 23 ) , suboptimal efficacy , and high toxicity make colistin a less than ideal option .
+268	A further challenge in treating immunosuppressed patients with influenza infection is the prolonged viral shedding , raising concerns for drug resistance against antivirals such as oseltamivir [ 5 , 14 ] .
+269	Specific antiviral treatment is not available for PIV infection but ribavirin has in vitro activity and has been used to treat lung transplant recipients with lower tract disease ( 8) .
+270	Not only is the efficacy of steroid therapy unproven in SARS , its timing and dosage regimens are also controversial .
+271	Although letermovir is well tolerated in the setting of mild-to-moderate hepatic and renal impairment , it should be used with caution in severe hepatic impairment ( ChildPugh Class C ) and insufficient data exist to guide dose adjustments if the creatinine clearance is < 10 mL/min [ 18 , 19 ] .
+272	The major limitation of cidofovir therapy is the high risk of nephrotoxicity , which limits its use and duration of therapy , especially in high-risk or immunocompromised patients [ 36 ] .
+273	Due to its limited effective therapeutic window of opportunity , broad spectrum antiviral agents might not be sufficient to treat severe MERS-CoV patients .
+274	In fact , for most respiratory viruses , therapy is mainly supportive , and no specific antiviral is approved .
+275	92 Factors such as the inconvenience of administration and toxicity also compromise its therapeutic potential in severe RSV infections .
+276	Current treatment of SARS with antiviral agents such as ribavirin and corticosteroids have not achieved very satisfactory results .
+277	Even with multiple drug therapy , prognosis is poor [ 100 , 102 ] .
+278	Unfortunately , limited options currently exist for managing these viral infections ( e.g. , neuraminidase inhibitors for influenza , ribavirin for RSV ) and therapy is primarily supportive .
+279	Patients may have worsening symptoms or viral titers when resistance emerges as well [ 23 ] .
+280	Despite this growing evidence supporting the use of Bu/Flu in transplantation for myeloid leukemias , concerns persist that this regimen is not suffi ciently myeloablative to be curative in a disease such as JMML .
+281	For cases with MRMP infection , secondary treatment options are limited due to adverse effects of tetracycline or fluoroquinolones , especially in children [ 43 ] .
+282	However , treatment with infliximab is expensive and has associated toxicities .
+283	However , clinical evidence does not support the use of corticosteroid treatment for SARS-CoV-2 lung injury [ 42 ] .
+284	In these cases , intravenous peramivir therapy might also be considered , but it is only approved for uncomplicated influenza and no consensus has been reached on the appropriate dosing and duration of treatment [ 5 ] .
+285	Compared to a delayed therapy , cidofovir significantly slows down the progression of the infection [ 88 ] ; however , cidofovir is not recommended as first-line therapy due to its side effects .
+286	Furthermore , most antivirals are not curative and produce major side effects .
+287	There is no specifi c treatment , though several antivirals including ribavirin , ganciclovir , cidofovir , and vidarabine have been tried in small populations with modest success [ 11 ] .
+288	Antiviral therapies may be beneficial in some cases of ALF such as nucleos(t ) ide analogues for hepatitis B , ribavirin for hepatitis E [ 18 ] and acyclovir and valganciclovir for herpes and CMV disease .
+289	There is currently no effective treatment for JC virus infection , although one report suggested CNS viral clearance with high dose IVIG .
+290	However , pre-transplant antiviral therapy may be difficult to tolerate and less effective in patients with decompensated cirrhosis .
+291	Clindamycin alone ( 30 - 40 mg/kg per day in three divided doses ) may be used for suspected PRSP ; however , the drug will likely not be effective for the multidrug-resistant serotypes [ 69 , 81 , 88 ] .
+292	However , use of anti-TNF therapy is complicated by loss of response .
+293	The clinical efficacy of corticosteroids in treating COVID-19 is currently unclear , with some groups advising against their use ( Russell et al. , 2020 ) .
+294	There is no approved antiviral treatment ; however , evidence indicates that Lassa responds to ribavirin if administered at early onset of symptoms .
+295	However , IFN-β may not be the most effective when other strong anti-cytokines storm exist , and others have been approved for CAR-T Cell-related cytokine storms , such as Tocilizumab [ 12 ] .
+296	Although a mainstay of combination therapy with an amphotericin B formulation for HIV-positive patients with cryptococcal meningitis , concurrent use of flucytosine is often poorly tolerated in HSCT recipients given the potential for marrow suppression .
+297	Although small molecule antiviral regimens are available against influenza , they have limited efficacy and some are already rendered useless due to resistant viral mutations [ 1 ] .
+298	However , adjunctive corticosteroid therapy has several weaknesses such as a narrow treatment window and borderline effects on neurologic sequelae .
+299	The choice of immunosuppressant agent is always difficult , as ILD has also been associated with alkylators ( i.e. , cyclophosphamide ) , methotrexate , and mycophenolic acid .
+300	However , sustained virologic suppression is not maintained after withdrawal of the agents , and long-term , indefinite therapy is often required .
+301	Antiviral anti-influenza drugs , such as amantadine , may be effective but have extensive adverse effects [ 44 ] .
+302	There is concern that the use of corticosteroids may have deleterious effects ( i.e. , inhibition of immune response and pathogen clearance ) in patients with COVID-19 [ 83 ] .
+303	Corticosteroids have no proven benefits and may be harmful in severe malaria ; however , the use of corticosteroids in unresolving ARDS ( > 7 days ) remains controversial [ 18 ] .
+304	The efficacy of eculizumab for desensitization and treatment of AMR is unclear as complexed by patient characteristics and other therapeutic modalities [ 56 ] .
+305	If patients do not tolerate antiviral therapy well or if the treatment is ineffective , however , some patients may require low-to-moderate doses of prednisone to control the disease .
+306	Patients with CF and ABPA often require prolonged therapy with oral corticosteroids , which is associated with severe side effects .
+307	However , studies have shown that response to interferon-alpha treatment is only 50 % in some cases even when combined with other antiviral treatment ( Manns et al. 2001 ) .
+308	Second line therapies involving sunitinib and regorafenib are also not effective due to multiple reasons including cytotoxicity and limited clinical response .
+309	One of the major challenges in the current management of KD is the treatment of patients who fail to respond to initial therapy with IVIG .
+310	No data are available regarding the efficacy of antiviral treatment for MPV , although cidofovir and vaccinia immune globulin can be used for patients with severe MPV infection or patients with MPV who are immunodeficient [ 127 , 128 ] .
+311	However , ribavirin at nontoxic concentrations has little in vitro activity against SARS-CoV [ 11 ] and has many side effects [ 8 ] .
+312	The use of immunoglobulin and antiviral agents is controversial because there are no definitive data that they provide any benefit , and some have associated toxicities .
+313	IVIGs have been used in some patients with severe infections , but no specific antiviral therapies are available [ 3 , 147 ] .
+314	There has been some success in repurposing existing antiviral therapies such as the investigational agent Remdesivir in COVID-19 patients 3 , but antiviral agents tend to be more effective when applied early in the disease course .
+315	Treatment of GPA requires the use of immunosuppressive agents ( cytotoxic medications and systemic corticosteroids ) that carry the risk of serious adverse side effects .
+316	In patients who develop mild toxicity , discontinuation of bleomycin may lead to a reversal of the abnormalities [ 32 ] , but some patients will have persistent radiographic or pulmonary function abnormalities [ 9 , 107 , 164 ] .
+317	Currently , there is no clear evidence for the use of steroids in SARS-CoV-2 infections and their use is highly debated , particularly with respect to the window of treatment , dose and management of patients in cases of bacterial co-infection .
+318	Ribavirin has broad antiviral activity in vitro that includes RSV , hMPV , PIV , and influenza , but there are scarce data to demonstrate clinical use .
+319	In rare instances , patients with COVID-19 may develop rhabdomyolysis or acute liver injury , which would require prompt statin discontinuation .
+320	However , antiviral agents given after progression of RSV from upper to lower respiratory infection and suppression of viral replication alone may not always prevent progressive pulmonary dysfunction associated with RSV disease that likely contributes to the severe morbidity and mortality observed [ 5 , 6 ] .
+321	26 , 45 , 73 , 74 , 79 , 80 Yet cumulative evidence , albeit not from clinical trials , suggests a better outcome when ribavirin is used in HCT recipients with early disease or URTI .
+322	Given the blood concentration/IC 50 ratio of~30 , calculated on trough levels for mycophenolate with interferon beta-1b , sub-therapeutic immunosuppressive doses may still have antiviral efficacy , especially if used in combination with other drugs such as hydroxychloroquine or lopinavir .
+323	In some situations , empiric regimens may lack activity against an underlying microbe , leading to treatment failure , disease progression , and consequent adverse outcomes ( 5 , 9 ) .
+324	However , in cases of severe infection , initiation of oseltamivir beyond 48 h of symptom onset may still provide benefit ( 146 ) .
+325	Although ribavirin exerts broad-spectrum activity in vitro , its clinical use is , as discussed , limited to only a few viral infections .
+326	Some success has been described with the use of IVIg and Rituximab , but there is no established treatment protocol for this condition .
+327	Although both IVIg and gancyclovir have been used in the treatment of EBV-LPD , their efficacy is uncertain .
+328	HCV has limited therapeutic options , including a combination therapy of PEGylated interferon-α and ribavirin , which is not effective against certain HCV genotypes [ 158 ] .
+329	Therapeutic management is challenging : steroids are partially effective ; patients respond poorly to disease-modifying therapies , such as methotrexate , mycophenolate mofetil , antimalarials , infliximab , and rituximab [ 3 , 6 , 7 ] .
+330	No effective anti-JCV agents are currently available , and the prognosis for PML is poor ( 13 ) .
+331	3 , 26 Approved second-line therapy for CMV infections include foscarnet and cidofovir , but both agents have potential to cause nephrotoxicity as well as other adverse effects .
+332	Existing clinical data have not confirmed the beneficial effect of corticosteroids in treatment of respiratory infections due to SARS-CoV , or MERS-CoV ( 12 ) .
+333	Although supportive care is usually all that is needed in nonnervous system IRIS , immunomodulatory treatment including short periods of therapy with corticosteroids has been suggested to help resolve NeuroIRIS [ 99 ] , which usually has a good clinical outcome unless the underlying clinical disorder ( ie , progressive multifocal leukoencephalopathy ) continues to progress .
+334	Previous studies in patients with SARS , MERS and even influenza have shown that they offer no benefits and may even delay viral clearance .
+335	However , 10 - 20 % of KD patients do not respond to IVIG and require additional treatment .
+336	However , emergence of resistance to antivirals remains a challenge , given long-term treatment is required for most patients .
+337	However , the combination of ganciclovir and intravenous immunoglobulin has shown some improvement of survival and is the recommended treatment for CMV pneumonitis in bone marrow transplant recipients [ 60 ] .
+338	Despite the good clinical response observed in many patients , TNFα blockade does not offer a curative treatment ; approximately one-third of patients do not respond and loss of efficacy is frequently observed ( 3 ) .
+339	In the absence of clinical trial results , it is still difficult to put remdesivir into large scale clinical use [ 33 ] .
+340	The effects of Sirolimus on the immune system in chemotherapy naïve children who have not received other immunosuppressive agents are not well understood , and there is variability in the approach to fever and PCP prophylaxis .
+341	In immunocompetent patients , current antiviral treatment options are limited , generally reserved for severely ill patients , and based on anecdotal data .
+342	Other antiviral therapeutic options early in the course of the disease , such as the use of lopinavir/ritonavir in combination , have been tried , but definitive evidence of efficacy is lacking [ 18 ] .
+343	Specific therapeutic options for MER-CoV infections are limited and their efficacy is not well established [ 38 ] .
+344	Current therapies for RA are anti-inflammatory and/or immunosuppressive , and the vast majority of patients require chronic treatment with the risk of adverse effects such as severe infections and possibly malignancy .
+345	Scientific support for the antiviral efficacy of umifenovir is sparse , however , and it has not been approved by the FDA for the treatment of influenza .
+346	If an infection has a viral cause , antibiotics are useless and unlikely to provide clinical benefit to patients ( 53 , 54 ) .
+347	Recent studies using imipenem , however , suggest at least similar response rates compared to combination therapy even in documented infections .
+348	The effectiveness of brincidofovir against EBOV is still not discernable as clinical , animal , and in vitro data are currently withheld [ 139 ] .
+349	Currently , there is no specific antiviral therapy that has been proven effective for the treatment of PML .
+350	There is no evidence that ribavirin is effective in the treatment of coronaviruses or SARS [ 15 , 34 , 35 ] .
+351	Additionally , ribavirin can exacerbate hemolytic anemia or renal manifestations during its first weeks of therapy .
+352	Because of large overlap in symptoms and clinical presentation between bacterial and viral LRTI , antibiotics are inappropriately prescribed to patients with viral infection .
+353	However , recent studies have suggested that acute hepatitis B may benefit from administration of lamivudine [ 102 ] .
+354	One option treatment is Lactulose ( nonabsorbable disaccharide ) but it has controversial efficacy in ALF , and it is associated with bowel distention , dehydration secondary to diarrhea , and hypernatremia .
+355	However , sirolimus can not be used as initial immunosuppression because clinical trials identified an increased risk of hepatic arterial and venous thromboses and incisional hernias due to poor wound healing [ 13 ] .
+356	Steroid treatment is believed to play an immunosuppressive role and to confer clinical benefits in the treatment of SARS , though randomized clinical trials to support its clinical efficacy are not available .
+357	Ribavirin still is the only antiviral agent approved for the treatment of RSV infection , but due to efficacy and toxicity issues , it has only limited utility .
+358	However , the use of ECP is suggested as second-line therapy , together with mammalian target of rapamycin inhibitors , MMF , IL-2 receptor antibodies , and anti-TNF antibodies [ 3 ] .
+359	Although , as described above , clinical providers have used oral and aerosolized ribavirin to treat PIV [ 122 ] , the available data on their use for this infection remain controversial .
+360	Current IDSA guidelines suggest that corticosteroids may be beneficial in cryptococcal meningitis in patients who have cryptococcomas with mass effect , acute respiratory distress syndrome , or IRIS [ 4 ] .
+361	Antivirals themselves have significant side effects , and their use may induce organ rejection [ 4 ] .
+362	Antivirals themselves have significant side effects , and their use may induce organ rejection [ 4 ] .
+363	Ribavirin is the only approved antiviral against RSV , but its efficacy is controversial and its use is limited to treatment of high-risk patients .
+364	Although the recent open label study from Wu and colleagues showed a benefit for corticosteroids , the consensus is that these should not be used based on clinical experience in SARS-CoV , MER-CoV and other infections including influenza and respiratory syncytial virus infection , where collectively there is evidence for delayed viral clearance [ 20 , 55 ] .
+365	Pulmonary side effects of this emerging therapy include pulmonary edema , pneumonitis , and subsequent respiratory failure , often severe enough to require mechanical ventilation [ 38 ] .
+366	Unfortunately , neurologic symptoms can develop even at therapeutic levels of tacrolimus .
+367	Despite their reported efficacy , it is likely that influenza viruses will gradually develop resistance to these drugs [ 32 ] .
+368	Cidofovir is an antiviral agent active against BKV but its experience in BKV-associated HC is anecdotal and the optimal dose schedule of the drug has not been determined .
+369	Antibiotic treatment may induce rapid defervescence for patients with M. pneumoniae pneumonia , but some patients show progressive pneumonia despite early treatment with adequate antibiotics [ 80 ] .
+370	Currently , there are no approved antiviral agents for the treatment of severe AdV pneumonia , and limited data on the clinical response to antiviral therapy in immunocompromised patients are available [ 6 , 8 ] .
+371	Prior experience in SARS and severe influenza suggest that CP may be considered for patients who are deteriorating ( despite other specific and supportive therapy ) and in whom the virus remains detectable ( Hung et al. 2011 ; Luke et al. 2006 ; Cheng et al. 2005 ; Kong and Zhou 2006 ; Yeh et al. 2005 ) .
+372	The role of glucocorticoids remains controversial in the management of miliary TB complicated by ARDS [ 33 , 34 ] .
+373	Observations from many centers indicate that a substantial number of patients who develop clinical BOS respond to azithromycin and may have their lung function stabilized or signifi cantly improved ( see Chap . 15 ) , such that some patients may no longer meet FEV 1 criteria for BOS after responding to the drug [ 86 , 87 ] .
+374	Given the questionable efficacy and high cost of palivizumab , mainly for adult patients , routine use of it is not encouraged in the adult immunocompromised population [ 102 ] .
+375	However , the administration of antibiotics will not be effective in the case of viral sepsis and can be associated with adverse effects .
+376	For example , even aggressive immunosuppression is not sufficient to treat progressive MS .
+377	Monotherapy with IV ribavirin may be more toxic in these patients than has been previously reported in patients with hemorrhagic fevers [ 113 , 114 ] .
+378	Although , in a recent report , severe IrAE can appear early during the treatment course [ 20 ] ( within 40 days with Ipilimumab and anti-PD1-/PDL1 and 14.5 days with combination treatment ) , late complications of CPI may occur , sometimes up to 1 year after the start of the PDL1 , and clinicians must remain aware of possible complications during follow-up [ 21 ] .
+379	IFN therapy has proven to be of little value in this setting [ 46 , 88 ] .
+380	In these cases surfactant therapy is often less useful and does not achieve the clinical improvement usually seen in iRDS [ 28 , 29 ] .
+381	A role for antiviral agents remains unproven , but several case reports have described in vitro activity against ADV with ribavirin .
+382	Although metronidazole has been widely used in this context , recent studies have indicated poor efficacy , likely because of parasitic resistance .
+383	In most severe cases the administration of ribavirin has been reported , but its efficacy and benefits have not still been demonstrated ( Falsey , 2012 ) .
+384	Ribavirin has been used to treat CCHF patients under compassionate use protocols with some success since 1985 [ 140 ] , especially if given early in the course of the infection , but many studies with apparently beneficial results lack controls .
+385	In elderly patients , in whom pulmonary MAC infection frequently develops , various side effects , such as gastrointestinal disorder , make long-term therapy difficult [ 276 ] .
+386	Treatment with fidoximicin for recurrent CDI has been proven effective in the general population , but there is no data specific to patients with liver disease [ 28 ] .
+387	However , ribavirin is associated with many side-effects and teratogenicity [ 24 ] , which limits its widespread use .
+388	However , antibacterial treatment may worsen diarrhea secondary to EHEC ( eg , E coli 0157:H7 ) , which usually presents with noninflammatory , bloody diarrhea .
+389	There is no currently approved antiviral treatment , although cidofovir has been shown to be effective in vitro and in animal models ( 168,169 ) .
+390	Though potentially successful , peginterferon and ribavirin are known to cause various side-effects in HCV patients .
+391	Although effective , these drugs have limitations such as a reduced window of opportunity , potential to produce drug-resistant viruses , and high cost ( Palivizumab ) .
+392	Rarely , resistance may emerge , limiting the efficacy of individual neuraminidase inhibitors , typically during the course of treatment of influenza in the setting of prolonged shedding .
+393	Unfortunately , curative therapy is not possible in many patients either because disease-specific therapy may not be available , available disease-specific therapies may have failed , or due to late presentation with established cirrhosis .
+394	Treatment for HMPV essentially remains supportive , although ribavirin was shown to be active against RSV and HMPV [ 1 ] .
+395	There are currently no FDA-approved antivirals for the treatment of RVF .
+396	In addition , current standard of therapeutic formula consisting of Pegylated IFN combined with ribavirin and an NS3/4A inhibitor is ineffective or only partially effective .
+397	High levels of immunosuppression make antiviral therapy ineffective , and these treatments are poorly tolerated .
+398	However , alternative therapies that were explored for resistant patients lack data from randomized , controlled studies , which makes the treatment of refractory KD difficult .
+399	Several adjunctive pharmacologic interventions have been studied for their immunomodulatory effects , including macrolides , corticosteroids , cyclooxygenase-2 inhibitors , sirolimus , statins , anti-influenza immune plasma , and vitamin C , but none is recommended at present in severe RVIs .
+400	Unfortunately , many patients are inherently resistant or develop resistance to PIs .
+401	However , thrombocytopenia is a common side effect of IFN treatment , often leads to discontinuance without insufficient therapeutic effect .
+402	Rituximab is relatively successful as a treatment for B-cell malignancies , but the mAb is not effective in all patients where variable degrees of tumor resistance occur .
+403	Available animal data suggest that the most effective reactivation prevention strategy will be early prophylaxis [ 59 ] , but this approach would see 2/3 of critically ill patients without reactivation receiving potentially toxic medications .
+404	Less often , drug-induced fibrosis complicates treatments with gemcitabine , mercaptopurine , methotrexate and rituximab [ 11 ] .
+405	Cidofovir may be a therapeutic alternative , but some resistant HHV-6 isolates have been identified ( Bonnafous et al. , 2008 ) .
+406	However , clinical data supporting the use of ribavirin to treat CCHF are inconsistent ; some studies report benefits whereas others report no benefit , and meta-analyses of multiple studies suggest that the efficacy of ribavirin is poor or inconclusive [ 69 ] [ 70 ] [ 71 ] .
+407	Although use of corticosteroids might be beneficial in reducing inflammation-induced lung injury , evidence from SARS and MERS patients shows no or little improvement in mortality rates , with a delay in viral load clearance ( 6 , 7 ) .
+408	Although acyclovir medication effectively reduces VZV reactivation , strategies for long-term prophylaxis remain controversial , since antiviral protection is not complete and disease may occur several years after HSCT .
+409	However , the clinical benefit by the systemic administration of IFNb itself is limited because of its short half-life and sever systematic side effects such as hepatic dysfunction and thrombocytopenia .
+410	Hence , SGLT2 inhibitors may need to be stopped in patients developing COVID-19 infections especially if these are moderate or severe [ 5 , 6 ] .
+411	Natalizumab has been used in the management of Crohn 's disease but it carries the risk of inducing PML owing to reduced T cell immunosurveillance in treated patients .
+412	7,10 The adverse effects of ribavirin are significant , particularly hemolytic anemia and electrolyte disturbances such as hypokalemia and hypomagnesemia ; hence , empirical therapy with ribavirin is not warranted .
+413	Trials are still ongoing to validate the use of antiviral and immunomodulatory therapies against this disease , but the use has been limited by the associated adverse events [ 15 ] .
+414	The efficacy of steroids in treatment of SJS and TEN remains to be elucidated , but this class of drugs remains the standard of care as first-line therapy in TEN after or in addition to supportive care [ 54 ] .
+415	High-dose corticosteroids may be indicated with more advanced disease , as drug-induced NSIP can lead to mortality if it is not treated promptly , but in milder cases , symptoms can subside after simple drug withdrawal [ 36 ] .
+416	However higher dosage of oseltamivir ( 150 mg BID ) and increased duration of therapy may be applied in severe cases with evidence of clinical progression [ 1 ] .
+417	If there is no response to reduction in immunosuppression , preemptive treatment with rituximab can prevent PTLD ( BII ) [ 263 ] .
+418	By contrast , ribavirin has been shown to be effective treatment for some of the viral hemorrhagic fevers , such as Lassa fever , and despite the risks , treatment of pregnant women may be warranted given the severity of illness .
+419	Because FIP is an immune-mediated disease , in addition to anti-viral drugs to control viral replication , the treatment of this disease also requires IFN , immune inhibitors , or cytokine antagonists to achieve a better prognosis .
+420	An unresolved issue specific to patients with the immune ataxias is whether their therapies should be stopped , including intravenous immunoglobulin ( IVIg ) , corticosteroids , plasma exchange , mycophenolate , and rituximab .
+421	Patients with FA undergoing HSCT may experience increased toxicity related to either their underlying disease , or the effects of medications , resulting in the inability to tolerate prophylactic medications or sideeffects from anti-microbial therapy .
+422	However , many patients with late HAT develop ischemic cholangiopathy which requires subsequent re-transplantation [ 120 ] .
+423	No randomized controlled trials have been performed although data from adult lung transplantation has indicated a potential response to aerosolized , intravenous , and oral ribavirin ( Glanville et al. 2005 ; Pelaez et al. 2009 ; Li et al. 2012 ) .
+424	Although steroids are effective in the treatment of IgG4-related diseases , there are some reports on relapses with their treatment , and cases are often difficult to differentiate from malignant diseases .
+425	In addition , many immune diseases , and antibody-mediated lung disorders in particular , are refractory to treatment with nonspecific immunosuppressive regimens ( e.g. , glucocorticoids ) .
+426	Additionally , there is uncertainty about absorption of antituberculosis medications , and drug interactions with antiretroviral therapy are still of concern , mainly when rifampicin and protease inhibitors are prescribed simultaneously [ 8 , 10 ] .
+427	Although , intravenous glucocorticoids were commonly used in patients with severe SARS or MERS pneumonia , their efficacy remains controversial and their use to treat SARS-CoV-2 infection is also controversial .
+428	Corticosteroids are the mainstay of treatment for acute GVHD , and the prognosis of steroid-refractory disease is poor [ 69 , 73 ] .
+429	Treatment of RVI is limited and some infections , such as RSV , have a high mortality rate despite standard antiviral therapy .
+430	Current agents for the prevention and treatment of GVHD have limited efficacy and often toxic side effects are observed .
+431	Control of influenza with antiviral drugs lowers the risk of complications [ 96 ] but drug resistance can develop , with adamantanes no longer recommended for use [ 20 ] .
+432	However , patients with advanced coma grades do not benefi t from NAC and typically require emergency liver transplantation [ 39 ] .
+433	Although suppression of the host inflammatory response may confer some therapeutic benefit , anecdotal experience with corticosteroids did not improve the clinical outcome in H5N1 infection ( Oner et al. , 2006 ) .
+434	However , the use of steroids in sepsis remains a source of controversy , as steroids may result in poor glucose control , immunosuppression ( at high doses ) , poor wound healing , and critical illness myoneuropathy .
+435	The most eff ective prophylactic therapy is TMP-SMZ but its administration is often associated with intolerance and toxicity .
+436	Weakness in host immune response associated with chronic HBV infection makes it virtually impossible to achieve sustained , complete viral clearance , even after long-term suppression of HBV DNA replication with lamivudine or telbivudine , presumably because these therapies fail to reduce high viral antigenemia believed to mitigate T cell response in chronically infected patients and thereby help HBV avoid immune clearance .
+437	While extensively tested , ribavirin is not FDA approved for EBOV [ 65 ] .
+438	Many patients with UL 97 mutations , and some with UL54 mutations , respond to therapy with cidofovir or foscarnet ; however , drug toxicity is the major obstacle to treatment .
+439	Bisphosphonates have an established role in severe or symptomatic hypercalcemia , but often it is challenging to administer them upfront for MM patients due to the renal function-based dose limitation [ 19 ] .
+440	Although NAI resistance remains problematic and may be reduced with combination therapy , treatment with multiple NAIs can inhibit antiviral efficacy ( Duval et al. 2010 ) .
+441	The current standard of care for multisystem LCH is empirically derived chemotherapy with vinblastine and prednisone but cures fewer than 50 % of patients , and optimal therapies for relapse and neurodegenerative disease remain uncertain [ 121 ] .
+442	To date a proven therapy or vaccine to prevent adenoviral hepatitis does not exist , but ribavirin may be helpful in selected cases ( Wulffraat et al. , 1995 ) .
+443	Because of the sporadic nature of many high consequence pathogens , the incidence of these agents is not predictable and therefore phase III efficacy trials are not feasible .
+444	Some case reports/ series suggest other immunosuppressive therapies , such as TNF-receptor blockade , imatinib and extracorporeal photopheresis ( ECP ) , may be effi cacious [ 26 ] .
+445	PTCy may be associated with high rates of severe acute GVHD if used alone , with 4 of 5 patients receiving single-agent PTCy succumbing to fatal , steroid-refractory GVHD in 1 single-center report [ 14 ] .
+446	Similar responses have been reported to treatment with corticosteroids in various studies ; however , steroids are not currently recommended for the routine management of HIVAN .
+447	Other prophylactic regimens for PCP are generally not as effective and also lack the protection that TMP-SMX provides against some bacteria and Nocardia [ 45 , 61 ] .
+448	Nonetheless , the current battery of antivirals available in clinical practice for the treatment of pneumonia is limited ( Ruuskanen et al. 2011 ; Rudan et al. 2008 ) .
+449	Nevertheless , corticosteroids are often used in viral pneumonia , particularly when specific conditions and comorbidities are present ( asthma exacerbation , chronic obstructive pulmonary disease , septic shock refractory to fluid resuscitation and vasopressor administration ) .
+450	In contrast to HBeAg-positive disease , peg-IFN-a , alone or in combination with ribavirin , has limited effect in patients with late stage HBeAg-negative disease , where the HBV mutation has resulted in loss of HBeAg expression [ 60 ] .
+451	However , renal dysfunction can progress from acute to chronic with the use of calcineurin inhibitors ( tacrolimus ) , prompting many groups to switch to mTOR inhibitors such as sirolimus and everolimus [ 66 ] , including one case where conversion to belatacept and sirolimus was successful when the patient was facing multiple rejection episodes with renal failure [ 84 ] .
+452	While specific treatment with amphotericin B is usually sufficient to control HLH , fatal outcomes have been seen with undiagnosed Leishmania cases treated as HLH [ 188 ] .
+453	While ribavirin was previously used as an antiviral treatment for RSV , it is now considered ineffective .
+454	Overall , the nephrotoxicity and lack of definitive clinical trials to show efficacy with cidofovir therapy in adenovirus infection has deterred its routine use in patients .
+455	As in most cases of ALI , treatment of SARS is largely supportive ; there is no known effective targeted therapy , and there is no clear role for corticosteroids .
+456	Given that 3-to 10-timeshigher levels of inflammatory cytokines and chemokines were observed after MERS-CoV infection than after no infection ( 3 ) , statins may not be very effective for late-stage patients .
+457	The disadvantage of current antiviral therapy is the specificity for influenza and the need for initiation of treatment within 48 hours of onset of infection .
+458	Because no antiviral drug is currently approved for the treatment of PIV disease , ribavirin and IVIG are often used off-label in PIV LRTD cases .
+459	All of the available CMV antivirals have the potential for serious side effects that require close monitoring .
+460	In contrast to IL-1 and IL-6 inhibitors , anti-TNF-α agents typically have less sustained effect on systemic symptoms , but they may have a limited role for the chronic inflammatory polyarthritis .
+461	Recent data also suggest that vancomycin may not be the optimal antibiotic due to poor tissue penetration .
+462	The pharmacotherapy for SARS with anti-inflammatory steroids is controversial and largely anecdotal [ 69 ] .
+463	Therapy for CGD related colitis has been challenging ; either due to lack of sustained response , or severe infectious complications .
+464	Cidofovir is a broad-spectrum antiviral drug that has in vitro activity against monkeypox virus [ 102 ] , but because of its relative toxicity , it can be considered only in severe cases of human monkeypox virus infection .
+465	However , experimental drugs and drug combinations such as remdesivir , lopinavir-ritonavir , or lopinavir-ritonavir and interferon Beta-1b are under investigation and may be considered for compassionate use in severely ill patients [ 8 ] .
+466	Cidofovir , a nucleoside analog , can be considered for second-line preemptive therapy , but careful monitoring of renal function is required , and it should be noted that crossresistance with ganciclovir can occur ( BII ) [ 241 ] [ 242 ] [ 243 ] .
+467	However , approximately 10 - 20 % of patients with KD fail to respond to initial to IVIG treatment [ 2 , 3 , 34 ] , and the more severely affected patients do not response to additional doses of IVIG .
+468	The alternative neuraminidase inhibitors can also induce resistance and only provides rather modest clinical outcomes [ 4 ] .
+469	The use of ARBs in SARS-CoV-2 infection may be hampered by their blood pressure lowering effect , hyperkaliemia and liver or kidney dysfunction .
+470	However , intravesical BCG is often poorly tolerated , leading to early treatment interruption in many patients .
+471	However , because of its multi-targeted nature , sorafenib use in patients is clearly associated with hand-foot syndrome , gastro-intestinal disturbance , and vascular events , rendering it somewhat difficult to use even in the best of circumstances .
+472	However , antiviral agents are available for treating influenza , and this pathogen is frequently associated with acute bronchitis .
+473	However , strong arguments from both acquired immunodefi ciency syndrome prospective studies and HSCT retrospective series suggest that TMP-SMX is the best prophylactic regimen [ 43 , 72 ] , any alternative to TMP-SMXdapsone , atovaquone , or pentamidine-being inferior [ 71 ] .
+474	For example , patients with MERS have been treated with ribavirin and IFN-α despite the lack of clinical trials exploring the effectiveness of this treatment combination .
+475	Uncontrolled data suggest that high-titer antibody preparations or palivizumab may be required if such adjunctive therapy is given ( DeVincenzo et al , 2000 ; Boeckh et al , 2001 ; Small et al , 2002 ) .
+476	However , safety concerns with combination therapy remain , as the accumulation of 11 in erythrocytes can lead to hemolytic anemia .
+477	Therapy with a respiratory fluoroquinolone alone is not established for severe CAP [ 229 ] , and , if the patient has concomitant pneumococcal meningitis , the efficacy of fluoroquinolone monotherapy is uncertain .
+478	HLH patients require immediate immunosuppression with corticosteroids to prevent further progression of organ failure [ 92 ] .
+479	While corticosteroids are a mainstay of treatment of IR-related pneumonitis [ 43 ] , steroids can prolong immunosuppression ; increase risk of infections ; delay viral clearance ; and increase viral pneumonitis mortality [ 44 , 45 ] .
+480	Fortunately , ganciclovir resistance is still rare ( Martin et al. , 2008 ) , so that the more toxic alternatives cidofovir and foscarnet are rarely needed .
+481	Nevertheless , there are numerous case reports suggesting that G-CSF may , in rare cases , produce more severe adverse effects , including interstitial pneumonitis when given with cytotoxic chemotherapy and adult respiratory distress syndrome ( ARDS ) .
+482	Despite reports of the broad in vitro antiviral activity of ribavirin , its clinical application for influenza has been limited , due to toxicity and limited evidence of clinical efficacy .
+483	17 Specific antiviral therapies for the common cold have shown some promise , but their efficacy is limited by the myriad of potential viral causes of the common cold and also by side effects .
+484	Bortezomib is now used as an anticancer drug , but there are some problems associated with its use , including bortezomib resistance , severe toxicities , or a lower therapeutic effect in some individuals with solid tumors .
+485	Pending for confirmatory studies to definitely solve this essential issue [ 85 ] , combination therapy remains recommended in patients with septic shock but should not be routinely prescribed for the definite treatment of those with other severe infections , including sepsis without circulatory failure [ 26 ] .
+486	Yet other patients with severe presentation progress to respiratory failure and respiratory death despite drug discontinuation [ 92 ] .
+487	However , therapeutic targeting of pro-inflammatory cytokines ( e.g. , IL-1 , IL-6 ) to treat underlying rheumatic diseases that often result in MAS ( e.g. , sJIA ) makes fever not an absolute finding in all cases .
+488	Topical clindamycin and oral tetracyclines are gold standard for prevention and management of EGFRi-induced PPE , however monotherapy antibiotic use may contribute to antibiotic resistance and to refractory cases of PPE that do not respond to antibiotics .
+489	However , under certain circumstances , such as in immune compromised patients , antiviral drugs are crucial to treat acute lifethreatening cases .
+490	Unfortunately , there is no preventative vaccine to protect against HCV infection , and the available IFN-based standard of care therapy ( pegylated IFN-α plus ribavirin ) is costly , poorly tolerated , associated with significant side effects , and only effective in a fraction of chronically infected individuals .
+491	However , rapid initiation of immunosuppressive treatment is required in more severe forms of SD ( notably , lupus and vasculitis ) .
+492	40 , 58 Furthermore , the use of ribavirin , and hence also its combination with interferon-a2b , may be limited in the clinical setting , because a significant proportion of patients with MERS-CoV infection have developed acute renal failure often requiring renal replacement therapy .
+493	In patients with respiratory failure , the use of systemic corticosteroids is controversial , as recent ( non-randomized ) studies did not show a clinical benefit ( Moon et al , 2011 ) or were associated with increased mortality ( Lemiale et al , 2013 ) .
+494	Another troublesome consequence seen with the use of mTOR inhibitors is bone marrow suppression ( namely leukopenia and anemia ) , which may be ameliorated via dose reduction and treatment ( i.e. , filgrastim [ Neupogen ] injection , iron supplementation , and transfusion ) .
+495	Prolonged use of erlotinib is associated with severe toxicities , including cardiotoxicity , interstitial lung disease , and acneiform rash , as well as significant expense to the patient , likely precluding long-term administration of this medication [ 41 ] .
+496	Although at present these viruses are susceptible to zanamivir , the resulting increased use of zanamivir monotherapy may well lead to the development of resistance [ 6 ] .
+497	Immunocompromised patients often require prolonged therapy with ganciclovir , increasing the chances of toxicity and development of resistance .
+498	In vivo , T-cell depletion with antithymocyte globulin ( ATG ) is an effective strategy for decreasing the incidence of cGvHD but may include side effects such as high risk of infection and relapse .
+499	In addition , many of these agents lose efficacy over time owing to immunogenicity [ 3 ] and the intravenous or subcutaneous administration of these agents is an obstacle for some patients .
+500	Moreover , lack of effective antiviral drugs against COVID-19 remains a serious concern , making it unlikely that such lifethreatening complications may be resolved with medication in the short run .
+501	However , applying primaquine at a broad scale is complicated due to the severe toxicity in a subset of patients with an inherited glucose-6-phosphate dehydrogenase ( G6PD ) deficiency [ 35 ] .
+502	However , these systemic antifungal agents may have considerable side effects ( such as vomiting and teratogenicity with griseofulvin ) .
+503	Currently , only few antiviral agents are available for the treatment of MERS , but their effects have been greatly impaired by low antiviral activity , poor metabolic stability , and serious adverse effects .
+504	However , current FDA-approved anti-inflammatory drugs , such as corticosteroids and statins , have failed to show benefit during severe IAV infection [ 49 , 50 ] .
+505	In that case , antiviral therapies might not be effective because of the potential problems with cytokine storm , bacterial overinfection , and hypoxemia .
+506	Current management of RSV includes bronchodilators , corticosteroids , antibiotics and supportive care [ 2 ] , but their efficacy is not satisfactory .
+507	One disadvantage to loperamide is that it may interact with ART agents , such as ritonavir and saquinavir , which can limit its use for long-term therapy [ 62 , 67 ] .
+508	One side effect of ribavirin , however , is drug resistance [ 8 ] , hemolytic anemia [ 9 ] , and it is licensed only for the treatment of respiratory syncytial virus and hepatitis C virus infections [ 10 ] .
+509	Although itraconazole is a recommended alternative treatment for mild to moderate disease or when amphotericin B is unavailable [ 13 ] , in Vietnam both mild and severe cases are commonly treated with oral itraconazole because amphotericin B is often not available or is too expensive .
+510	Because RA-ILD is a heterogeneous spectrum of histopathologic patterns beyond UIP ( IPF ) , experience extrapolated from management of idiopathic ILD suggests that some forms , including NSIP and OP , may respond to glucocorticoid therapy [ 145 ] .
+511	Chloroquine shows a potential antiviral effect in vitro , however , there is a lack of in vivo data to support therapeutic treatment for SARS-CoV-2 infection .
+512	Despite weak empirical evidence and the lack of success of several large clinical trials in bronchiectasis , antibiotics remain a therapeutic option for the treatment of bronchiectasis associated infection in selected patients [ 32 , 49 ] .
+513	Although the overall application of canakinumab for AoSD is still limited , the reported response of systemic features and arthritis is rapid and sustained over many months to years in most patients , frequently allowing for tapering of steroids [ 98 ] [ 99 ] [ 100 ] .
+514	Despite its FDA approval , convincing data describing the clinical efficacy of this agent are lacking and a consensus on the treatment of RSV disease does not currently exist ( 60 , 62 ) .
+515	The role of the antiviral agents acyclovir and ganciclovir are unproven , although many transplant clinicians use them in the treatment of EBV infection .
+516	Compared with other available treatments , the riskbenefit profile for intramuscular corticosteroids is poor [ 97 ] .
+517	While the possible antiviral activity of indomethacin , a nonsteroidal anti-inflammatory drug , against SARS has been reported ( Amici et al. 2006 ) , now there is a concern in the use of these pharmacological drugs in patients with COVID-19 .
+518	While use of intravenous acyclovir and ganciclovir therapy for patients with the early stages of B virus disease , including patients with early signs of CNS disease has been associated with increased survival for some patients , antiviral therapy has not been effective in patients with advanced encephalomyelitis [ 101 ] .
+519	Some reports have suggested that ribavirin is effective in preventing the progression of LRTI when combined with high-titer immunoglobulin , palivizumab , or other treatment options during the URTI period .
+520	Treatment with systemic steroids represents the first-line therapy for GvHD , but is associated with increased incidence of infection and relapse .
+521	However , high dosage CCS is not recommended in COVID-19 pneumonitis , limiting potential benefits from their administration in patients with concurrent COVID-19 and pulmonary irAE .
+522	Corticosteroids are indicated for suspected drug-associated ILD ; however , the outcome is variable unless the patient develops respiratory failure , in which case the mortality is high .
+523	Most patients with cardiogenic shock complicating COVID-19 illness die despite aggressive treatment , as one case series from China reported 83 % mortality despite ECMO use [ 107 ] .
+524	Treatment options are limited by the lack of effective agents and RCTs , although some centers consider treating HPIV URTID in patients with risk factors for LRTID and HPIV LRTID , with ribavirin and/or IVIG [ 8 , 18 , 31 , 36 , 37 , 48 , [ 61 ] [ 62 ] [ 63 ] [ 64 ] .
+525	The efficacy of Ribavirin in the treatment of PIVs is limited and can be contradictory [ 18 ] .
+526	Especially in the era of novel drugs , the evidence in favor of TPE is limited [ 21 , 29 , 63 ] unless there is evidence of IgM or IgA paraproteinemia-associated hyperviscosity syndrome .
+527	There are concerns about its use in the context of advanced cirrhosis or fulminant liver failure [ 19 ] .
+528	Furthermore , anecdotal reports show decreased HPIV shedding and clinical improvement when infected immunocompromised patients have been treated with ribavirin .
+529	It is also hypothesized that patients with severe COVID-19 infection may have a severely compromised immune response and could be treated by monalizumab , interferon α , chloroquine , and other antiviral agents [ 21 ] .
+530	HCMV is one of the leading causes of morbidity and mortality post SCT in particular in pts transplanted for advance CML and pts with graft vs. host disease ( GVHD ) While , preemptive antiviral therapy has reduced the occurrence of HCMV disease post SCT , the use of all currently available antiviral drugs is often limited by toxicity , low oral bioavailability , and drug resistance .
+531	The safety and efficacy of these medications remains unclear , and some drugs ( such as lopinavir-ritonavir and arbidol ) may cause serious adverse reactions .
+532	In steroid-resistant disease [ 3 ] , treatment effects are insufficient , hospitalizations extend over months , and patient recovery is complicated by nosocomial infections .
+533	While the lopinavir-ritonavir protease inhibitor and a CQ/HCQ sulfate autophagy inhibitor have been shown to be effective against SARS-CoV , MERS-CoV , or SARS-CoV-2 in in vitro culture ( 5 ) , several reports have already described no benefit for clinical improvement of COVID-19 patients .
+534	However , some severe cases require corticosteroids , plasmapheresis , haemodialysis or cyclophosphamide , and death is reported in $ 10 % of the cases despite treatment .
+535	However , only with bacteremic P. aeruginosa pneumonia has combination therapy ( generally with an aminoglycoside and a β-lactam ) been shown to be superior to monotherapy.81 , 82 One practical problem to this approach is the aminoglycosides themselves , a class of antibiotics with a narrow therapeutic-to-toxic ratio , and a high incidence of nephrotoxicity , particularly in elderly patients .
+536	Patients who develop PTLD after HCT are often treated with rituximab but may need additional chemotherapy [ 300 , 301 ] .
+537	Likewise , other than neuraminidase inhibitors ( NAIs ) for influenza , the available therapeutic options are supportive rather than curative .
+538	Many available antiviral drugs do not provide cures for infections but merely alter the clinical course of disease .
+539	No licensed anti-arenavirus vaccines are available , and current anti-arenavirus therapy is limited to the use of ribavirin , which is only partially effective and is associated with anemia and other side effects .
+540	Nevertheless , ribavirin therapy remains recommended in high-risk patients for whom HRSV infection is associated with significant rates of mortality , such as bone marrow transplant recipients ( Moscona , 2000 ; Englund et al. , 1988 ) .
+541	However , some patients , in particular elderly patients , can not receive cisplatin due to renal insufficiency .
+542	Despite its severity , with a mortality rate estimated to be 29 % , it is most often observed in very immunocompromised patients and the role of rituximab in disseminated VZV infection is controversial [ 62 ] .
+543	Currently , no specific antiviral therapy against ZIKV is available , and treatments are palliative and mainly directed toward the relief of symptoms , such as fever and rash , by administering antipyretics , anti-histamines , and fluids for dehydration .
+544	Likewise , current anti-mammarenavirus therapy is limited to an offlabel use of the nucleoside analogue ribavirin that is only partially effective and can cause significant side effects [ 19 ] [ 20 ] [ 21 ] .
+545	There is minimal anecdotal data and no controlled trials for the treatment of HHV-7 although anti-CMV drugs such as ganciclovir , foscarnet and cidofovir may be effective .
+546	Rifamycin-based regimens are difficult given the potential hepatotoxicity , as well as the significant drug interactions , especially with concomitant use of a calcineurin or an azole .
+547	Systemic steroids and immunosuppression are not currently recommended for COVID-19 patients as it may exacerbate COVID-19-associated lung injury ( 44 ) .
+548	However , clinical data are now clear that patients derive no benefit from corticosteroids in the management of SARS , MERS , or COVID-19 but have instead demonstrated evidence of increased risk of harm including prolonged mechanical ventilation , avascular necrosis , delayed viral clearance , and secondary infections .
+549	However , not all combination therapies , for instance the combination of oseltamivir with zanamivir or simvastatin with oseltamivir , are superior to monotherapy [ 102 , 379 , 380 ] .
+550	Importantly , vancomycin penetrates poorly into lung parenchyma [ 100 ] and treatment failures can occur in up to 20 % of MRSA pneumonia when used as monotherapy [ 101 ] .
+551	Currently , there is a limited choice of therapeutic compound and no available vaccine for RSV infection .
+552	Current treatment of HFRS is often limited to the administration of Ribavirin and primary supports [ 21 , 32 ] .
+553	Acyclovir resistance has been rarely reported in some strains ; foscarnet , cidofovir , and topical trifluridine may be considered for treatment of resistant virus , although careful monitoring of renal function is required [ 1 , 2 , 20 , 65 ] .
+554	Targeted therapy is not available for most viruses that cause URI .
+555	There is no U.S Food and Drug Administration-approved vaccine for LASV , and the only treatment option for Lassa fever is the nucleoside analog drug ribavirin , which is most effective when given in the early stage of the disease ( 5 ) .
+556	Short-duration high-dose glucocorticoid therapy is ineffective in acute respiratory distress syndrome [ 8 ] , and steroid usage in SARS has been questioned [ 12 ] .
+557	General recommendations for treatment are limited in view of the largely benign course , the lack of effective antiviral agents , and appropriate clinical studies [ 21 , 75 , 77 , 78 ] .
+558	Although steroids are efficacious and widely used in other forms of vasculitis , their use in KD is very limited .
+559	However , this approach is not effective in all patients and second line treatment options are less well studied , particularly in the pediatric population .
+560	Another major drawback is the development of resistance against ICS in a subset of patients , which necessitates the use of higher doses , and , eventually , oral CS administration is needed to systemically suppress the uncontrolled inflammation [ 62 , 97 , 98 ] .
+561	The use of steroids in non-GVHD cases remains somewhat controversial since there is mixed data regarding their efficacy [ 9 , 55 ] .
+562	Specific therapeutic agents with proven efficacy against RSV are still not available [ 1 , 5 ] .
+563	Administration of the antiviral drug ribavirin can be beneficial in the treatment of HFRS , but not HPS ( Bi et al. , 2008 ) .
+564	Cidofovir does not have survival benefit in the treatment of JCV infection in AIDS patients [ 27 ] .
+565	While hydroxychloroquine demonstrates high antiviral activity in-vitro , underpowered clinical trials have indicated virologic control but no significant effect on clinical outcomes in patients with severe disease .
+566	Since previous studies reported a high rate of coronary alterations in patients treated with corticosteroids , there has been some reluctance to use this therapy either as first-line treatment or as additional therapy in children who do not respond to IVIG ( Wooditch et al. , 2005 ) .
+567	TRALI is not responsive to diuretics , and the role of corticosteroids remains unclear ( Peter et al. 2008 ) ; the majority of patients recover with supportive care .
+568	Clinical trials with levovirin in HCV patients were unsuccessful , suggesting that the immunomodulation observed in vitro is insufficient to produce clinical effects [ 42 ] .
+569	However , antiviral treatment could still be of benefit if there is ongoing viral replication [ 26 ] .
+570	However , DLI may result in significant complications including graft versus host disease and bone marrow aplasia and using escalating doses protocols , responses may be protracted .
+571	Emerging strains resistant to ganciclovir pose a therapeutic challenge for which foscarnet or cidofovir may become alternative antiviral agents [ 58 ] .
+572	While inhaled amphotericin has recently been linked to a decrease in posttransplant Aspergillus , amphotericin-resistant strains have emerged indicating that intervention is not benign ( Peghin et al. 2016 ) .
+573	The use of antimicrobials that do not penetrate the blood-brain barrier remains uncertain with few cases having neurological recovery without antibacterial therapy and some patients having temporary clinical improvement with such therapy .
+574	Tuberculosis treatment is especially challenging in critically ill patients due to potential for poor gastric absorption and the high rates of organ dysfunction and drug toxicity in this subset of patients .
+575	Despite these immunotherapies ( with steroids usually being the first-line treatment ) , acute GVHD still persists in a fair percentage of cases and many die , frequently of infections , thus the need for alternate secondary therapies [ 107 , 108 ] .
+576	However , when rituximab is used as maintenance monotherapy in indolent non-Hodgkin lymphoma , the risk of severe bacterial infections increases , with one report noting that 19 % developed bacterial infections and 1 - 4 % grade III-IV infections [ 3 ] .
+577	Antiviral therapies have helped manage the disease ; however , they have several disadvantages , including a low rate of response and toxicity .
+578	It is thus now considered standard of care that antiviral therapy with a second generation NA ( tenofovir or entecavir ) be used in this situation , but 25 % of patients will die without LT despite displaying an adequate virological response [ 36 , 37 ] .
+579	Patients who do not respond to glucocorticoids will require alternative immunosuppressive agents ( Baughman 2004 ) .
+580	No antiviral therapy for the treatment of hMPV is available , although ribavirin has shown some effectiveness in vitro .
+581	Many patients experience repeated reactivations and thereby need repeated courses of preemptive therapy increasing the risk for side effects .
+582	However , considerable challenges remain for the treatment of viral infections including increased understanding of the pharmacodynamics of CQ , achievement of sufficient plasma concentrations in patients , and toxicity concerns [ 60 ] .
+583	There is a general need for antibiotic combination treatment because all monotherapies are characterized by unacceptably high relapse rates ( 111 , 112 ) .
+584	There is no proven effective antiviral therapy for adenovirus infections , though some studies report positive outcomes with treatment with cidofovir .
+585	Unfortunately , no drug has been officially approved for the treatment of this global pandemic , although drugs such as hydroxychloroquine and remdesivir are under clinical investigation [ 8 ] .
+586	However , reports about treatment success are con-troversial and therapy-limiting side effects have been reported in SARS patients [ 2 ] .
+587	However , its effectiveness in modulating severe acute and chronic GVHD is offset by a higher rate of infectious complications , including CMV and EBV reactivation [ 20À22 ] .
+588	Of note , steroids are even being used for patients with COVID-19 who experience acute respiratory distress syndrome ( ARDS ) [ 10 ] .
+589	Most influenza infections are self-limiting and manageable with symptomatic treatment , and antiviral therapy might not be necessary in most patients .
+590	Also , stopping and restarting some biologic agents may result in reduced efficacy [ 3 , 4 ] .
+591	Nevertheless , recovery has been documented with symptom management in place of nucleoside analogs due to a delay in diagnosis being reached after the resolution of symptoms ( 376 ) , limiting the desire for using nucleoside analogs as anti-viral compounds .
+592	Noncorticosteroid therapies , such as cyclosporine , rituximab , and macrolides , have been associated with anecdotal success in small case series of steroid-refractory patients but are not typically used [ 53 ] [ 54 ] [ 55 ] [ 56 ] .
+593	Nevertheless , foscarnet is active against HHV6A , HHV6B , and HHV7 in vitro , whereas unlike HHV6B , both HHV6A and HHV7 may be relatively resistant to ganciclovir.166 , 167 , 168 , 169 Cidofovir may be a therapeutic alternative , but some resistant HHV6 isolates have been identified.170 Although in vitro studies and anecdotal reports in the transplant setting seem to suggest some beneficial effects in human infections,150 , 169 antiviral therapy against HHV6 or HHV7 has not yet been evaluated in controlled trials .
+594	Although RSV remains the main concern in this frequent respiratory illness , the prevalence of dual RSV/RV and RV infection is high and permitted to reconsider the use of corticosteroids [ 30 ] .
+595	Thus not only is the efficacy of steroids unproven in SARS , its timing and dosage regimens are also controversial .
+596	Two studies of itraconazole prophylaxis in the allogeneic HCT setting suggest a potential for benefit to prevent IA [ 78 , 79 ] , but limitations include poor tolerability and concerns about toxicity .
+597	Aerosolized ribavirin is not indicated for RSV treatment in adults and is associated with concerns regarding difficulty of administration , adverse effects , and high cost [ 8 , 9 ] .
+598	As well as these side effects , corticosteroids have strong immunosuppressive effects , raising concerns regarding their use in acute infections , despite their potential effect in controlling excessive inflammatory response .
+599	The reduction of immunosuppression required to induce remission often results in graft loss , and conversion from CNI to mTOR inhibitor ( which possesses anti-VEGF activity ) has had some signifi ca nt success [ 23 ] , although this is not universal .
+600	Despite an initial belief that ribavirin was efficacious , it now appears that this drug is not effective in treating SARS .
+601	However , patients can experience significant toxicities when given the drug alone or in combination with an interferon , including but not limited to haemolytic anaemia and metabolic abnormalities .
+602	However , not all patients respond to induction therapy with these agents , and of those initially responding , up to 40 % ultimately lose response due to suboptimal drug exposure ( e.g. , caused by immunogenicity ) , side effects , or other poorly characterized mechanisms .
+603	Hence , there are reservations with the use of IVIg for any treatment , including that for EV71 .
+604	Although Type I IFN remains a promising treatment , its beneficial effect in severe and fatal MERS-CoV patients might be limited due to the timing of the drug administration as it has a narrow effective therapeutic window of opportunity [ 21 ] .
+605	Current management of COVID-19 is mainly supportive , even though the medical literature has reported several rescue strategies which might minimize the mortality rate in those who have severe pulmonary complications .
+606	At this moment , treatment is limited to the nonspecific antiviral ribavirin , shown to be partially effective in LASV infections [ 141 ] , and the use of favipiravir is still under investigation [ 142 , 143 ] .
+607	Ritonavir has been mentioned as the first line of antiviral therapy in protocols , but a clinical trial on 199 patients shows that the outcome of using this combination therapy in severe COVID-19 cases is not different than standard treatment ( 4 ) .
+608	The main treatment strategy for AZA-associated pulmonary toxicity is AZA discontinuation , although mechanical ventilation or high-dose steroid therapy must be considered when severe hypoxemia or acute respiratory failure is present [ 20 ] .
+609	Lethal toxicity associated with IFN-α regimen is rare and severe toxicity due to IFN-α is manageable if recognized expeditiously [ 276 , 277 ] .
+610	In terms of treatment , although ribavirin has been used empirically to treat SARS , it has not been studied systematically to determine whether it is effective treatment [ 27 ] .
+611	Unfortunately , improvement in the prognosis of patients treated with AGs is overshadowed by frequently occurring toxic side effects that render them last-resort antibiotics .
+612	Current therapies used to treat HEV infections including ribavirin and interferon-alpha have severe side effects and are contra-indicated in pregnant woman .
+613	Currently , there is no specific antiviral therapy against EV-D68 available and treatment is primarily supportive .
+614	Moreover , ribavirin has shown poor efficacy when used as monotherapy .
+615	Although ganciclovir has been used for CMV prophylaxis , it causes myelosuppression .
+616	Of note , studies also suggest that increased oseltamivir dosing does not provide additional clinical benefit in obese adults , including extreme obesity ( BMI > 40 ) [ 93 , 94 ] .
+617	Supportive measures including lung protective ventilation and NA inhibitors are the mainstay of therapy for severe influenza infection , resulting in respiratory failure and ALI .
+618	Although efficacy has not been confirmed , steroids are often used to manage RSV infection .
+619	In contradistinction , for nonasthmatics , the role of systemic corticosteroids in the management of severe influenza infections remains unclear and may even be harmful [ 27 , 28 ] .
+620	Whatever the explanation , the need for early administration is a limitation for therapy since this means a potential lack of efficacy in the setting of advanced disease .
+621	78 , 82 Presently , there is no specific therapy for this viral infection although immunotherapy and ribavirin have been used with varying degrees of success .
+622	While these approaches are sometimes effective in suppressing MS progression or exacerbation , they also make patients susceptible to developing opportunistic infections , including PML .
+623	Although both have been tried in the past , neither ribavirin nor ganciclovir has demonstrated significant efficacy ; consequently , neither agent is recommended [ 53 ] .
+624	Immunosuppressive agents can be an effective treatment option , but are associated with serious and potentially life-threatening systemic adverse events ( AEs ) such as renal and hepatic failure and bone marrow suppression [ 9 , 16 ] .
+625	76 , 80 Although PTLD is often EBV associated , there is no role for antivirals .
+626	Consequently , glucocorticoid therapy remains to be proven as an effective therapy for ARDS and is not recommended for treatment unless it is known to be secondary to a steroid-sensitive insult .
+627	Despite its widespread emergence and high morbidity , antiviral medication is not available and the current treatment consists of administration of nonsteroidal anti-inflammatory drugs to alleviate pain .
+628	However , most international guidelines suggest treating adenovirus infections after allogeneic HSCT , first-line treatment generally being cidofovir until a defined reduction in viral load is reached ; however , treatment success is estimated at approximately 70 % .
+629	Corticosteroids are generally contraindicated in the treatment of COVID-19 [ 16 ] , but the underlying cytokine storm has provided the basis for therapeutic attempts with selective immunosuppressants such as TNFα inhibitors , Janus kinase inhibitors , anti-IL-1 agents , and anti-IL-6 drugs such as tocilizumab [ 17 , 18 ] .
+630	97 Treatment with ribavirin or intravenous immune globulin ( IVIG ) remain controversial in the setting of viral respiratory disease and are only used in select populations with severe RSV and human parainfluenza virus ( HPIV ) disease .
+631	However , recovery is usually slow and patients may need second-line therapy ( Vincent et al. , 2011 ) .
+632	However , in selected populations such as premature infants , antibody therapy may be cost effective [ 85 ] .
+633	Furthermore , this drug has limited efficacy and the sustained virological response rate is of 40 - 50 % in genotype HCV-1 infected patients , and of 80 % in those infected with genotypes 2 and 3 [ 41 , 42 ] .
+634	13 Although supportive measures may be in place , hMPV treatment remains a challenge , because the only in vitro , active drug choice is ribavirin for inhibition of hMPV replication .
+635	Experience of using cyclosporine in the treatment of RA-ILD is limited and not recommended currently due to its poor safety profile and absence of proven benefit on pulmonary or joint disease .
+636	In terms of invasive aspergillosis ( IA ) , amphotericin B has been the first-line therapy for aspergillosis for many years , but is associated with serious side effects , such as nephrotoxicity .
+637	Although the other two drugs also have been proven to be effective for treating HSV infection , they are reserved for confirmed cases of ACV resistance due to their nephrotoxicity ( Galdiero et al. , 2013 ) .
+638	Although anti-viral agents have been shown to be effective in children and adults , there are no agents with proven efficacy or safety in infants , and the available formulations limit their use in pre-term infants .
+639	Unfortunately , until now there is no licensed vaccine or approved targeted therapies for prevention or treatment of CCHF , although supportive care and Ribavirin can help a lot to treat the disease .
+640	Where the clinically more severe Weil 's disease is manifest , patients may require organ support , and there is little evidence that antibiotic use is of any benefit at this stage [ 56 ] .
+641	Antiviral therapy is not available for most viruses that cause viral URTIs .
+642	Treatment with corticosteroids , hydroxychloroquine , or azithromycin may be associated with clinical improvement of patients with genetic disorders of surfactant metabolism , but it is uncertain whether this is entirely due to the therapy or in part to the natural history of the disease , and there are no proven curative therapies except for lung transplantation in the terminal disease phase ( Deterding 2010 ; Nogee 2010 ; Thouvenin et al. 2010 ) .
+643	In addition , both ribavirin and PEG-IFNa are contra-indicated in pregnant women and other specific patient populations , leaving no available treatment options for these people .
+644	2 However , the current mode of treatment is not equally effective for all HCV genotypes and significant side effects are still observed .
+645	Reduction of immunosuppression , the mainstay for management in renal transplantation , is not an option in the allogeneic HSCT due to the risk of triggering or exacerbating graft-versus-host disease .
+646	However , dose intensification is limited most often by severe myelosuppression with the subsequent risk of fever and infections .
+647	The only licensed drug for use in infected individuals is ribavirin , a nucleoside analog , but its efficacy is very limited [ 121 ] .
+648	Anti-IL-6 drugs are being widely used experimentally and as off-label therapy for patients with COVID-19 who are sick and deteriorating but have a reasonable chance of recovering , but they are still unproven and unapproved for this use .
+649	Anti-IL-6 drugs are being widely used experimentally and as off-label therapy for patients with COVID-19 who are sick and deteriorating but have a reasonable chance of recovering , but they are still unproven and unapproved for this use .
+650	Although these medications have led to a significant improvement in prognosis , JDM management remains challenging due to the adverse effects associated with conventional therapies and the occurrence of refractory disease .
+651	19 , 102 Inhalational neuraminidase inhibitors such as zanamivir and laninamivir are unlikely to be helpful in patients with respiratory failure .
+652	Although acyclovir and its prodrug , valacyclovir , are well tolerated the relatively poor in vitro activity against CMV has led most clinicians to rely on ganciclovir which has much greater intrinsic anti-CMV activity .
+653	There are no therapies currently approved by the United States Food and Drug Administration for HIV-HCV co-infection , and the most recent NIH Consensus Development Conference Statement in 2002 recommended that treatment should be considered on a case-by case basis , particularly in those with stable HIV infection and wellcompensated liver disease [ 51 ] .
+654	Immunosuppressive therapy has been disappointing in PBC [ 24 ] , although anecdotal cases and observations made after liver transplantation suggest that corticosteroids could be beneficial if administered before ductopenia is too advanced .
+655	The use of inhaled ribavirin has not been proven effective in immunocompetent children , while there are data to suggest efficacy in the adult HSCT population [ 164 , 168 ] .
+656	Although they can be effective , trimethobenzamide can have several serious side effects , and it is not clear that ondansetron offers a benefit over other therapies like promethazine ( 65 ) .
+657	27 , 80 Ganciclovir-resistant CMV infections have been associated with high rates of treatment toxicity , relapsed CMV infection , and mortality , 98 and there is a clear need for novel , nontoxic anti-CMV agents , particularly ones with activity against resistant strains .
+658	Hydroxychloroquine and corticosteroids have been used in the management of ABCA3-associated disease , yet their efficiency in treating the disorder is unclear [ 23 ] .
+659	However , widespread use of ribavirin continues in Hong Kong , where AEs comparable to the Canadian experience have not been reported and where continued use has been justified by the potential nonspecific immunomodulatory activity of the drug and in vivo activity in the mouse hepatitis coronavirus model [ 10 ] .
+660	Furthermore , with a few rare exceptions ( e.g. Arcanobacterium haemolyticum , Neisseria gonorrhoeae and Fusobacterium spp . ) anti-microbial treatment is not benefi cial for bacterial causes of tonsillitis except GABHS given that there is not a signifi ca nt reduction in the rate of complications or in duration of clinical symptoms [ 7 ] .
+661	There is no convincing data supporting ribavirin treatment for severe RSV infection , while there are concerns about its toxicity .
+662	Some TDT patients do not tolerate either mono or combined therapy , resulting in worsening iron overload and in poor prognosis in term of life expectancy .
+663	Owing to the paucity of clinical efficacy data and side effects of treatment , off-label use of either drug for adenovirus treatment is generally reserved for disseminated Emerging Respiratory Viruses Other than Influenza infections in immunocompromised patients .
+664	Although remdesivir is still a promising treatment for COVID-19 patients , the current clinical studies with IV administration alone are unlikely to achieve excellent clinical efficacy .
+665	Not all patients are responsive to supportive management or to a combination of high dose steroids and ribavirin , which have been used widely as the first-line treatment in Hong Kong [ 6 , 7 ] .
+666	The myelosuppression of MMF is dose-dependent and is related to the trough level of the active metabolite , mycophenolic acid ; however , brief discontinuations of the drug can lead to organ rejection , especially in the era of steroid-sparing regimens [ 41 , 42 ] .
+667	Although the efficacy of this antiviral against RSV infection is proven , due to the considerable cost of palivizumab , the usage is limited to the high-risk populations ( Shahabi et al. , 2017 ) including infants and young children ( Centers for Disease Control and Prevention , 2018b ) .
+668	Current therapeutic approaches includes drugs to manage the hyperinflammatory status , as tocilizumab , a monoclonal anti IL-6 antibody [ 3 ] and corticosteroids [ 4 ] and drugs that shows an anti-viral activity , such as chloroquine and hydroxychloroquine [ 4 ] , lopinavir/ritonavir [ 4 ] ( with recent findings by Cao et al. reporting no clinical benefit beyond standard care ) and remdesivir [ 4 ] .
+669	Ribavirin is an effective early treatment for yellow fever under compassionate use protocols , but fails to improve survival of dengue infections in nonhuman primates ( NHP ; [ 92 , 103 ] .
+670	Methotrexate may have a role for induction of remission in patients with limited WG [ 180 ] , but is less commonly used as an induction agent in children with AAV .
+671	Corticosteroids have not been successful in the treatment of respiratory distress or lung fibrosis in MERS-CoV [ 31 , 32 ] .
+672	However , when the disease progresses to MCL , treatment is prolonged , and toxicity from such long-duration drug use is a common occurrence ( Marsden 1986 ; Amato et al. 2008 ) .
+673	Vaccine and specific viral therapies for rhinoviruses are not currently available , and treatment is primarily supportive [ 15 ] .
+674	Thus , the field lacks strong evidence to support the use of IVIG for the treatment of coronaviruses , such as SARS-CoV , SARS-CoV-2 , and MERS .
+675	Overall , available data suggest that azithromycin treatment of severe asthma , while controversial , may benefit those with confirmed atypical bacterial infection [ 97 ] .
+676	The historical standard for antifungal prophylaxis for allogeneic transplant recipients has been fl uconazole , but this agent does not provide anti-mold activity [ 11 - 13 , 74 , 75 ] .
+677	Currently approved therapies using interferon and pegylated interferon in combination with ribavirin can achieve only limited virologic response rates in a significant patient population ( e.g. those infected with HCV genotype 1 ) and have been shown to have side effects ( Chen & Tan , 2005 ) , necessitating development of new antiviral drugs .
+678	Despite this , treatment failure has been reported with TMP/ SMZ in 10 - 40 % of patients [ 2 ] .
+679	Although good evidence supports the efficacy of antiviral drugs in treatment of influenza-related pneumonia , treatment of RSV infections in adults with ribavirin is controversial .
+680	There is controversy about the role of peramivir in the management of variants that are resistant to oseltamivir as in vitro and in vivo models have given conflicting results [ 175 ] [ 176 ] [ 177 ] .
+681	The reason for antiviral failure may be that most of the symptoms and signs of acute EBV are not directly due to viral cytopathology in infected tissues , but to immunopathic responses to EBV-infected cells , particularly EBV-infected B-lymphocytes and also the levels of acyclovir achieved in the oropharynx , particularly after oral administration of the drug are inadequate as compared to titres that are produced by acyclovir given intravenously [ 1 ] .
+682	Although the antiviral drug ribavirin is widely used based on its in vitro activity , clinical evidence is inconclusive .
+683	However , given high mortality despite the use of remdesivir , it is clear that treatment with an antiviral drug alone is not likely to be sufficient .
+684	Uncontrolled trials and anecdotal reports suggest that adjunctive immunotherapy with IFN-γ may be useful in the management of MDR-TB [ 37 ] .
+685	Most cases of IFN-induced interstitial lung disease respond to diminution of drug dosage , drug removal , and corticosteroid therapy [ 336 ] .
+686	If delivered early enough , anti-TNF therapy can be effective in animal models of systemic inflammation , but early treatment is difficult to achieve in humans .
+687	Even though case reports suggest a potential benefit of this agent in this clinical setting , the lack of randomized controlled trials greatly limits the value of available favorable data [ 76c ] .
+688	Though FAM has been shown to decrease the progression of BOS , mortality due to progressive lung disease remains high , and patients typically present to the ICU with respiratory failure .
+689	Given the overlap with these cytokine storm disorders , drugs such as siltuximab , anakinra , corticosteroids , and tocilizumab may be effective for controlling the COVID-19-related cytokine storm [ 7 ] .
+690	Currently used antiviral treatments for MeV infections are limited to ribavirin and/or immune serum globulin [ 4 , 27 ] , which show variable efficacy against different MeV strains .
+691	Antiviral agents are nonspecifi c and therefore show limited effi cacy together with signifi ca nt toxicity .
+692	Therapy of RSV disease by any antiviral agent is challenging because it is a rapid acute infection , and by the time the onset of disease is recognized , it may be too late to alter the course of disease by reducing viral load .
+693	Optimal therapy may be a combination of amphotericin B and fluconazole , but the mortality rate is high in neutropenic patients despite therapy ; high-dose voriconazole may be effective in patients with disseminated or hepatosplenic Trichosporon species infection [ 84 ] .
+694	The outcome of BKV nephropathy is unpredictable , and stabilization of renal function may occur regardless of whether maintenance immunotherapy is altered or not [ 160 ] .
+695	However , continuous global immunosuppression may cause severe side effects , including tumors and infections .
+696	However , continuous global immunosuppression may cause severe side effects , including tumors and infections .
+697	Although another global immunosuppressant rapamycin , a typical mTOR inhibitor , can spare Tregs ( 7 , 8) , it may still cause same side effects as other global immunosuppressive agents do .
+698	Targeted therapies with known cardiovascular toxicities ( especially VEGF inhibitors ) may need to be temporarily withheld until the patient has recovered fully from COVID-19 , especially since there is a concern that myocardial dysfunction may be an important contributing factor to mortality from COVID-19 [ 9 ] .
+699	Furthermore , use of Ribavirin is associated with significant toxicity , including hemolysis resulting in discontinuation of its use .
+700	Maintenance treatment with CyA , however , is hampered by the well known risks of long-term CyA therapy including arterial hypertension , renal insufficiency , hyperlipidemia , hirsutism , infection , and malignancy .
+701	However , numerous side effects limit the overall tolerability of IFN-α , particularly in patients with cirrhosis [ 85 ] [ 86 ] [ 87 ] .
+702	The use of glucocorticoids for treatment of coronavirus infections remains somewhat controversial , as early use of systemic glucocorticoids has been shown to increase viral load and potentially worsen disease course in patients with SARS , and early data shows that may also be the case in patients with SARS-CoV-2 .
+703	The therapeutic efficacy of amantadine is unclear in human influenza because of limited studies , but there have been reductions in fever and illness by one day seen in adults and children [ 17 ] .
+704	Despite its efficacy , T-20 resistance occurs due to extended exposure , poor bioavailability , large-dose requirements , and cross reaction with preexisting antibodies in the patient .
+705	However , IFN therapy is also associated with significant side effects that limit its use [ 70 ] .
+706	Despite its therapeutic advantage , rituximab has been associated with serious infections and CRS .
+707	Additionally , side effects and the risk to cause birth defects limit the use of currently approved antivirals against HCMV .
+708	However , drugresistant viruses often appear after long-term treatment by nucleoside/nucleotide analogs and fewer than 40 % of patients benefit from IFN therapy .
+709	However , given the high rate of response to DAAs and the availability of multiple products on the market , IFN-λ has lost its predictive value , and testing for it before treatment is no longer recommended except in specific situations where a DAA and IFN combination may still be warranted ( 94 ) .
+710	70 , 72 The dose of ribavirin can be reduced when used together with IFN-a2b 70 but it is associated with multiple side effects including haemolysis , electrolyte imbalances and liver impairment , which can occur in up to 61 % of treated patients .
+711	Unfortunately , there are currently no effective therapies for the treatment of TRALI and therefore management remains primarily supportive with oxygen supplementation and ventilator support when needed [ 151 ] .
+712	Due to its potential risks and unknown benefit , IVIG is not recommended to treat MERS-CoV patients .
+713	However , steroid use is associated with many adverse events , especially with the cumulative dose due to the recurrent nature of AECOPD .
+714	However , steroids have a variable response rate ( 35 - 70 % ) and for those steroidrefractory patients , second-line treatment is delayed which may significantly impact outcome .
+715	[ 16 ] [ 17 ] [ 18 ] Interestingly , data from murine studies suggest that lowdose IFN can be more effective than higher doses , [ 19 ] [ 20 ] [ 21 ] indicating that low-dose oral IFN may be effective despite the disappointing previous experience .
+716	Another issue with the NA inhibitors currently approved in the United States is that they are only FDA-approved for uncomplicated influenza infections .
+717	For primary effusion lymphomas , resistance to traditional chemotherapy is common , and response rates are lower [ 121 ] .
+718	The experience with ribavirin for PIV infections in organ transplant recipients is limited [ 105 , 106 ] .
+719	There are currently no approved preventive vaccines nor antiviral drugs , and although the nucleoside analog ribavirin ( with or without intravenous immunoglobulin ) has been used therapeutically , results have been inconsistent , with considerable associated toxicities ( eg , hemolytic anemia and cytopenias ) [ 23 , [ 26 ] [ 27 ] [ 28 ] [ 29 ] [ 30 ] [ 31 ] .
+720	Although the use of IgIV and ribavirin are not associated with benefit in the management of PIV infections in stem cell transplant recipients , ribavirin has in vitro activity and has been used to treat lung transplant recipients with lower tract disease ; some experts also consider the use of IgIV and corticosteroids as well ( 51 , 52 , 65 , 69 ) .
+721	Antiviral therapy with acyclovir or ganciclovir is controversial and no evidence supports its efficacy ( Taylor et al. 2005 ) .
+722	Application of ribavirin is further limited by its side effects ( De Franceschi et al. , 2000 ; Empey et al. , 2010 ) .
+723	However , one quarter of patients with PSV are resistant [ 75 ] to current treatment , and half of them suffer from disease recurrence despite at least 2 years of therapy .
+724	Standard use of IVIG in adult and pediatric sepsis has not demonstrated mortality benefit , although select patients with severe hypogammaglobulinemia may benefit [ 86 ] .
+725	However , T20 becomes ineffective in 20 % of AIDS patients due to acquired resistance to T-20 resistant during the treatment course .
+726	Despite early optimism and approval on May 1 st , 2020 of remdesivir for emergency use in hospitalized patients with COVID-19 , no other specific antiviral treatment has been proven to be effective in randomized , placebo-controlled trials ( 5 , 6 ) .
+727	However , even this observation has not been consistent across animal and human models , and biologic plausibility arguments suggest that ARBs may be helpful in treating COVID-19 ( 14 , 20 ) .
+728	Corticosteroids for the primary treatment of severe KD IVIG resistance occurs in up to 20 % of cases , and these patients are at increased risk of developing CAA unless they receive additional treatment .
+729	There are currently no antivirals with proven efficacy approved for the treatment of PIV infections .
+730	Although Flolan and Iloprost offer major benefits in PAH and are the current drugs of choice in North America and Europe , respectively , for class IV PAH , they are not curative and have major adverse effects and cost implications .
+731	Long-term use of these agents is also associated with the development of resistance , loss of clinical response , hepatitis flares , and even death .
+732	Patients with COVID-19 are often treated with a corticosteroid despite the lack of clinical evidence for the efficacy of such treatment .
+733	Despite the magnitude of RSV disease , treatment has been limited to supportive measures , bronchodilators , epinephrine , and ribavirin [ 75 ] .
+734	Currently , there is no antiviral therapy available for use in humans with CCHF .
+735	Limited studies with antiviral agents such as vidarabine are inconclusive , but immediate recognition and treatment is essential to have any possibility of success ( Creevy , June 2013 tion ( Hozbor et al. , 1999 ) .
+736	Table 1 Steroid-responsive conditions which may present with severe acute respiratory distress syndrome Some diseases , such as granulomatosis with polyangiitis leading to diffuse alveolar hemorrhage , require additional immunosupressive treatment with cyclophosphamide or rituximab [ 7 ] .
+737	The other pitfalls of primaquine are quick metabolism , degradation to inactive carboxyprimaquine and altering the treatment outcome depending on CYP 2D6 enzyme activity [ 36 , 37 ] .
+738	Some pneumonia patients with CAP in developed countries , especially elderly patients with underlying diseases , experience treatment failure with a high mortality of 15%-20 % , despite early application of antimicrobials [ 78 , 79 ] .
+739	Empirical antifungal therapy is still considered by many as a standard of care for patients with refractory fever but it inevitably results in massive overuse of costly and potentially toxic antifungal drugs in patients who do not actually have invasive fungal disease .
+740	Owing to the rapid development of resistance , RIF can not be used as a single agent for therapy of bacterial meningitis .
+741	It is possible that acyclovir may hasten improvement in those that are less ill and do not require ventilation ( 35,38 ) but despite the recognition of limited efficacy it is still widely recommended as early primary therapy ( 39,41 ) .
+742	While prompt administration of corticosteroids is necessary in the case of pembrolizumab-induced pneumonitis , this strategy may result in worse outcomes in patients affected by COVID-19 .
+743	Other therapeutic options in patients with multiresistant CMV disease are leflunomide and artesunate ; however , experience with these agents is very limited .
+744	In contrast , oral ganciclovir should not be used for the treatment of CMV disease because of the limited absorption and poor bioavailability .
+745	Patients treated for anti-NDMAR encephalitis in the acute phase generally have good outcomes , but 50 % may experience complications from chronic use of immunotherapy [ 55 ] .
+746	Antiviral therapy is a possible strategy for treating IBV infection , although there are few effective antiviral drugs available .
+747	What is notable , a major drawback to the use of TMP-sulfa combinations in immunocompromised patients is the occurrence of hypersensitivity reactions to the sulfa drug that can be severe enough to require discontinuation of treatment , when the side effects can not be managed with steroids [ 44 , 45 ] .
+748	Although generally considered the first-line agent , treatment with ganciclovir is limited by myelosuppression and is considered contraindicated in the pre-engraftment phase of transplant and in neutropenic patients .
+749	HSV infections can be treated with antiviral agents like acyclovir [ 154 ] but drug therapy is associated with toxic side effects , emergence of drug resistance strains , narrow spectrum , and drug treatment is effective only during initial stages of infection [ 155 ] .
+750	While TMP-SMX is the preferred therapy , alternative regimens may be necessary due to sulfa allergy or failure to respond to intravenous TMP-SMX after 1 week .
+751	Despite its favourable hematological profile with grade 3 or 4 hematologic toxicity occurring in only 2 - 6 % of patients receiving rituximab alone , data from clinical trials indicate that protocol adjustments and dose reductions are needed to decrease the hematologic toxicity when rituximab is administered in combination with fludarabine [ 2 ] .
+752	Although treatment with neuraminidase inhibitors ( oseltamivir or zanamivir ) is recommended in all patients with suspected or confirmed influenza requiring hospitalization [ 92 ] their use in non-severe influenza could be more harmful than beneficial because of the possibility of selection of resistant mutants [ 93 ] .
+753	However , the potential role of combined antiviral treatment is limited to certain manifestations of herpesvirus infections , e.g. CMV disease in immunocompromised patients or neonatal and cerebral herpes simplex virus ( HSV ) infections .
+754	Clinical studies on SARS-CoV and MERS-CoV have also shown inconclusive effects of IFN in combination with antivirals on disease outcomes , which is likely due to varied timing of administration and also comorbidities .
+755	Though ribavirin is the only approved anti-viral agent for treating arenaviruses in the USA ; however , it exhibits undesirable secondary reactions [ 32 , 51 ] .
+756	Currently , there is no treatment with demonstrated efficacy for AE-IPF : empirical high-dose corticosteroid therapy is generally used , with or without immunosuppressive agents , with limited evidence .
+757	Although such approaches have proven effective in many cases and at least in the short term , many patients eventually develop drug-resistant infections .
+758	Thus , in a transplant setting , the consensus is that steroid avoidance or slow tapering of the dose is associated with reduced HCV recurrence [ 39 , 40 ] , whereas boluses for treating acute rejection can increase the viral load [ 31 ] .
+759	Although dual therapy is very effective , development of concomitant ceftriaxone and azithromycin resistance is likely to emerge [ 39 ] .
+760	Moreover , most of the best available anti-viral agents are not helpful in the treatment of COVID-19 .
+761	Some patients fail to respond to initial immunosuppressive agents but respond to second line drugs such as cyclosporine , tacrolimus or mycophenolate mofetil [ 22 ] .
+762	Clinically , many ongoing viral infections and diseases inconsistently respond to IFN therapy and frequently recur after IFN treatment is stopped .
+763	Studies in mouse models have also shown inconsistent efficacy of ribavirin .
+764	Although the pathological features and clinical progression of COVID-19 resemble those seen in other coronavirus infections for which various standardised steroid protocols have been proposed , recent WHO guidance on the clinical management of COVID-19 advises against corticosteroids , unless indicated for another reason [ 21 ] .
+765	50 , 52 Combinations of Peg-IFN with NAs like lamivudine or telbivudine are not recommended because of a low off-treatment response for the former and due to recipients developing polyneuropathy for the latter .
+766	There are increasing data indicating that linezolid is effective for S. pneumoniae infections whereas daptomycin is not used to treat pneumonia because it is inactivated by pulmonary surfactant [ 141 ] .
+767	There are few antiviral drugs for treating influenza , and the emergence of antiviral resistance has further limited the available therapeutic options .
+768	Although antibacterial prophylaxis is standard of care after HCT , increasing antimicrobial resistance limits the efficacy of several existing oral prophylactic regimens [ 30 ] .
+769	Not all manifestations will return upon rechallenge , and there are guidelines to reexpose patients to the drug [ 160 ] .
+770	Intravenous ribavirin has also been used for treatment ; the benefi t of this agent must be weighed against the potential for the development of complication , specifi cally hemolytic anemia [ 65 ] .
+771	In addition , due to resistance , a combination of antivirals is needed for life-threatening infections .
+772	Although no approved antiviral drug is available , adjunctive therapy with leflunomide , cidofovir , quinolones , or intravenous immune globulin ( IVIG ) may be beneficial , especially in patients with progressive allograft dysfunction .
+773	Acetaminophen-induced ALF without renal impairment is commonly associated with hypophosphatemia , which may require therapy [ 113 ] .
+774	Although steroids are often used in desperate and life-threatening situations , no benefit has been proven for this disease or related conditions such as ARDS or other viral pneumonias .
+775	M2 inhibitors are only efficient against IAV , and they have shown serious side effects and low efficacy since most of the currently circulating IAV have acquired resistance to them [ 55 ] .
+776	Remdesivir is not expected to be widely available as an experimental drug for treating a vast number of patients ( 77 ) .
+777	In addition , there are few available antiviral agents , and when these are used therapeutically , they are not as rapidly and clinically effective as we have come to expect from antibacterial therapies .
+778	Ribavirin and IFNalpha-2 combination therapy has limited , but variable , effectiveness , depending on the HCV genotype and the host immune response [ 9 , 10 ] .
+779	Currently available antivirals and vaccines have limited efficacy in the treatment and prevention of influenza virus infection [ 8 ] .
+780	However , its pharmacokinetics in adults and children with CF is controver-sial ; linezolid dosing may need to be increased to 3 times per day in these patients .
+781	Immunosuppressive drugs , such as prednisone ( 4 mg/kg administered orally every 24 hours ) or cyclophosphamide ( 2.5 mg/kg administered orally for four consecutive days every week ) , may slow disease progression but do not produce a cure .
+782	However , the management of HBV after renal transplantation has given encouraging results with lamivudine , adefovir , and entecavir [ 116 ] .
+783	Therapy remains challenging due to poor BM function and high risk of organ toxicity , especially liver failure and lung fibrosis .
+784	Although palivizumab is safe and well-tolerated for prophylactic use , its use is limited to high-risk infants due to the high costs and the need for monthly intramuscular injections during the RSV season [ 9 ] .
+785	Nonetheless , antimicrobial chemotherapy has repeatedly been shown to confer benefit in patients with moderately severe features of AECB .
+786	Although often active against carbapenemresistant A. baumannii , tigecycline is also suboptimal primarily due to low blood levels , toxicity concerns , and suggestion of excess associated mortality ( 26 ) .
+787	New direct-acting antivirals ( DAAs ) for the treatment of HCV are expected to eliminate the need to elevate CD4 count prior to HCV treatment , but careful consideration of drug interactions between DAAs and ARTs is necessary when treating both infections [ 46 ] .
+788	Although it is a rare outcome , palbociclib can induce severe lymphopenia and severe cellular immunodeficiency , leading to life-threatening opportunistic infections .
+789	For example , treatment of acyclovir-resistant HSV or ganciclovirresistant CMV infections requires the use of intravenous foscarnet or cidofovir , both of which are associated with nephrotoxicity .
+790	Currently , no specialized medication is available for the treatment of SARS-CoV-2 infection , and supportive measures remain the mainstay of COVID-19 treatment .
+791	IM is predominantly a self-limited disease , and studies have failed to detect any benefit of using antiviral agents .
+792	In general , lifethreatening infections such as HCMV pneumonitis and A/H5N1 infections must be treated with antivirals despite the lack of clinical trials in some settings .
+793	In addition to the relative poor efficacy , safety of pegylated IFN is another concern in patients with decompensated cirrhosis .
+794	In such cases , small-molecule inhibitors of the viral NA are among the few treatment options for patients .
+795	One case series has demonstrated reversal of immunoparalysis with IFN therapy [ 26 ] ; however , IFN therapy has greater toxicity than GM-CSF therapy .
+796	Furthermore , antivirals are not invariably effective in severe influenza , such as that caused by H5N1 viruses .
+797	Furthermore , antivirals are not invariably effective in severe influenza , such as that caused by H5N1 viruses .
+798	However , despite success in HCV therapy , the modest efficacy observed following IFN-α administration requires Ribavirin and , even in combination , only a slim majority of patients respond .
+799	However , there is a high failure rate in steroid-associated ON patients [ 4 ] .
+800	H5N1 patients with diarrhea may require higher dosing of antivirals , and documentation of viral dissemination ( viremia , cerebrospinal fluid , brain , intestinal tract ) in fatal cases suggests that intravenous treatment may be needed [ 4 , 6 , 55 ] .
+801	Nevertheless , some experts consider ribavirin for the treatment of severe forms of LRT disease in SOT recipients [ 17 ] .
+802	Although interferon has shown anti-FHV-1 activity in vitro [ 19 ] , there is no evidence to date supporting its effectiveness for treatment of clinical signs of URI .
+803	Although their effectiveness has been proven , raising drug-resistant HBV strains is fast , therefore limiting the use of these antivirals .
+804	Antibody responses to enterovirus are serotype-specific , and because of this , IVIG may not be clinically useful in all cases [ 202 ] .
+805	However , neither the vaccine nor HBIG are effective in treating persistent HBV infection ( Tsuge et al. , 2016 ) .
+806	Although acyclovir crosses the placenta and can be found in the umbilical cord blood and other fetal tissues , actually there is no evidence of benefit on preventing congenital varicella syndrome [ 37 ] .
+807	A consistent benefit has not been observed in clinical studies , and currently ribavirin is not considered to be a drug of choice for influenza A infection .
+808	However , optimal mycological response for micafungin against Candida spp . has been observed in patients with AUC 0 - 24 /MIC ratios of > 3000 [ 105 ] .
+809	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+810	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+811	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+812	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+813	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+814	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+815	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+816	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+817	However , increasing evidence suggests that variable pharmacokinetics may be critical to efficacy of MMF .
+818	Currently , there is no effective antiviral drug available to treat patients with EV71 infection .
+819	A few studies have shown that ribavirin is not beneficial in the therapy of PIV in HSCT patients [ 102 , 104 ] .
+820	However , no conservative or medical therapy has been proven to benefi t patients with GI-FHON , and surgical treatment is inevitable in most symptomatic cases [ 84 ] .
+821	Aerosolized ribavirin is the first choice treatment for immunocompromised adults with respiratory syncytial virus infections , but the addition of an immunomodulator ( intravenous immunoglobulins , corticosteroids and palivizumab ) may provide a survival benefit over ribavirin alone [ 104 ] .
+822	Infections are even more problematic when steroid-refractory disease necessitates the use of potent immunosuppressive regimens such as cyclophosphamide , alemtuzumab , or anti-thymocyte globulin .
+823	In anthrax meningitis , steroids have been reported to improve survival [ 26 ] ; however , their use is controversial in adults , but it has improved outcome in children .
+824	However , the benefits obtained with belimumab are modest and only attained in patients with mild disease who are already receiving standard therapy [ 130 ] .
+825	If deteriorating , Covid-19 can lead to sepsis , septic shock , and multiple organ dysfunction syndrome , with mechanical ventilation or extracorporeal membrane oxygenation having low therapeutic efficacy ( 3 ) .
+826	Steroidrefractory disease is more commonly seen in NSIP than in OP and may require further therapy with intravenous corticosteroids and/or cytotoxic therapies [ 51 ] .
+827	However , the mainstay of therapy in patients with HPIV infection is considered to be the reduction of immune suppression , which includes corticosteroids use ( 9 ) .
+828	Specific treatments such as the use of corticosteroids to control the inflammatory response , and antivirals , particularly the combination of lopinavir/ritonavir and ribavirin have been used , but are unproven to improve outcomes [ 1 ] .
+829	Although nucleos(t)ide analog inhibitors can be highly effective in preventing liver disease progression , these drugs are not curative and require long-term use , which is associated with a risk of drug-resistance and side-effect .
+830	However , the peak plasma concentrations of benztropine may be too low to be effective for treating an acute infection [ 103 ] .
+831	Treatment of NTM lung disease is challenging , with limited numbers of active antibiotics and requirements for long courses of potentially toxic drugs .
+832	Furthermore , treatment with individual antiviral agents does not lead to perfect inhibition because of limitations related to viral resistance .
+833	Treatment of patients with MERS has proven challenging , with no specific antiviral therapy of proven efficacy available to date .
+834	Even highly active antibacterial agents have limited efficacy in advanced bacterial pneumonia .
+835	In addition , resistance typically emerges rapidly when the conventional direct-acting antivirals are used as monotherapy [ 245 ] .
+836	Further , both classes of approved anti-viral drugs are only effective if administered within 36 - 48 h of symptom onset having narrow therapeutic value [ 5 ] .
+837	Ribavirin is the only licensed antiviral treatment for RSV ( in the USA and Europe ) , but is reserved for only the sickest patients and its efficacy and safety remain controversial .
+838	16 , 17 In this context , glucocorticoids are not routinely recommended in treatment of SARS-CoV-2 pneumonia .
+839	Although anaphylaxis is not the most common form of HSR , it may limit the clinical usage of biologic agents .
+840	Interferon , an effective therapy for the hepatitis B and C viral infections , can not be employed as a potential approach for the HAAA because of its mylosuppressive effects [ 21 ] .
+841	Treatment of skin drug reactions has the additional challenge of the unknown effects of systemic steroids , which has been a mainstay of treatment for these conditions in COVID-19 positive patients [ 16 ] .
+842	Doubts were raised regarding the clinical effectiveness of LPV/r [ 11 ] and several clinical trials are underway to evaluate the efficacy of other novel antivirals ( e.g. remdesivir ) and selective cytokine blockade ( e.g. tocilizumab ) [ 12 ] .
+843	No vaccines or specific antiviral therapeutics are currently available , and supportive measures are the primary method of treatment , with particular attention to hydration , cardiovascular support and supplemental oxygen ( 5 , 70 ) .
+844	Disadvantage of IVIG is that it is not curative and often poorly tolerated .
+845	However , glucocorticoid administration also has the potential to worsen outcome through excessive immune suppression , so their use has been advocated only for specific infectious diseases under certain circumstances .
+846	However , immunosuppression or , more precisely , immunomodulation , is believed to be an effective therapy at the second stage of SARS .
+847	The possible use of nonsteroidal anti-inflammatory agents has come into question for possibly aggravating pulmonary symptoms , 20 while broad-spectrum immune suppressors , such as corticosteroids , 21 would not be advisable given that an intact immune system is necessary to fight the infection and it may even lead to increased plasma viral load .
+848	The possible use of nonsteroidal anti-inflammatory agents has come into question for possibly aggravating pulmonary symptoms , 20 while broad-spectrum immune suppressors , such as corticosteroids , 21 would not be advisable given that an intact immune system is necessary to fight the infection and it may even lead to increased plasma viral load .
+849	Rituximab can be effective , but treatment often requires reduction of immunosuppression which can lead to graft rejection .
+850	There is a debate about the appropriateness of chloroquine as treatment for unresolved , non-steroidal anti-inflammatory drugresistant arthritis [ 43 ] .
+851	HAART is the cornerstone of treatment [ 5 ] , but severe clinical presentations can require chemotherapy , such as anthracyclines or paclitaxel [ 5 ] .
+852	At present , there are no antiviral therapies of proven efficacy for other severe RVIs .
+853	Currently , the only efficient therapy against BKV nephritis appears to be a reduction/change of immunosuppressive agents , and this may increase the inherent risk of rejection .
+854	Treatment of FIP remains a challenge , and there are few controlled studies of antiviral drug use .
+855	Because the infectious agents responsible for OM are both viral and bacterial , antibiotic therapy , although appropriate for bacterial infection , is not universally effective .
+856	Due to such high levels of resistance , the adamantanes are no longer recommended for treatment of influenza A [ 15 ] .
+857	Treatment of CCHF is mostly supportive , though Ribavirin has shown benefits in in vitro studies and is also recommended for post-exposure prophylaxis [ 79 , 80 ] .
+858	Still , the use of corticosteroids may be indicated in patients who develop ARDS or refractory septic shock , and those with underlying respiratory conditions such as asthma or chronic obstructive pulmonary disease ( COPD ) ( 22 ) .
+859	However , NA inhibitors are the only type of antivirals approved for the prophylaxis and treatment of IBV infections [ 81 ] , although data from clinical trials have shown that oseltamivir is less effective against IBVs than against IAVs [ 82 ] .
+860	The applicability of highly efficient anticytomegaloviral agents like ganciclovir and foscarnet is often limited due to the toxicity of the drugs and the development of drug-resistant HCMV .
+861	The controversy on the use of these agents for EBV/PTLD arises because although these agents can suppress EBV lytic infection , Infections After Organ Transplantation they seem to be of limited value in treatment nonlytic EBV proliferation , which is believed to be the dominant component of EBV-related PTLD .
+862	Although the European experience with combination aerosolized/intravenous ribavirin has been favorable [ 112 ] and intravenous ribavirin is relatively simple to administer , the high rates of mortality and signifi ca nt cases of hemolytic anemia make this approach controversial .
+863	Glycopeptides and aminoglycosides are not recommended as first line therapy for FN because of side effects , and the risk of promoting emerging resistance such as vancomycin-resistant Enterococcus .
+864	Currently , there is no available treatment proven to be effective against COVID-19 , but multiple medications , including hydroxychloroquine ( HCQ ) , are used off label .
+865	Currently , there is no available treatment proven to be effective against COVID-19 , but multiple medications , including hydroxychloroquine ( HCQ ) , are used off label .
+866	Biologic agents , such as TNF-a blockers , have been suggested as an alternative in AOSD-associated GN refractory to standard immunosuppressants .
+867	Instead , there is currently no convincing evidence that natalizumab-associated PML is restricted to combination therapy with other disease-modifying or immunosuppressive agents [ 128 ] .
+868	However , even as an ideal target , CD19 antigen loss is a com mon cause of treatment failure .
+869	Current antifungal prophylaxis may be limited by toxicity , DDIs , or patient factors such as mucositis .
+870	TB treatment in the acute phase of critically ill patients can often be suboptimal [ 51 , 52 ] because first line drugs are only available in oral formulations .
+871	Currently , there is no specific therapy for HPeV induced viral sepsis aside from supportive care .
+872	There are little effective antiviral therapies and most have considerable toxicity .
+873	Intravenous peramivir is also available , but the IC 50 for oseltamivir-resistant strains is high and unlikely to be useful in oseltamivir-resistant cases [ 103 ] .
+874	Interferon-a2b in combination with ribavirin has been shown to reduce viral replication , moderate host immunologic response , and improve outcomes in rhesus macaques infected with MERS-CoV. 145 In addition , in vitro data have demonstrated that ribavirin , interferon-a , interferon-b , and mycophenolic acid have activity against MERS-CoV. 22 However , many of these drugs are nephrotoxic and may not be an appropriate choice for patients infected with MERS-CoV , which can also cause acute renal failure .
+875	Unfortunately , there are still no direct-acting antiviral drugs for the treatment of FCV .
+876	Currently , there is no antiviral therapy of proven value for SARS .
+877	Furthermore , there is evidence of severe toxicity in SARS patients as a result of treatment with ribavirin [ 36 ] .
+878	However , recently published treatment recommendations advise to withhold these agents during COVID-19 illness due to the increased risk of dehydration and development of diabetic ketoacidosis ( DKA ) ( 42 ) .
+879	In liver transplant patients , treatment options for CMV with reduced immunosuppression alone are limited because of the possibility of increased incidence of life-threatening graft rejection .
+880	There is , however , considerable scepticism over the use of these drugs in SARS [ 13 ] and there is currently no consistently effective anti-SARS-CoV therapy .
+881	Inhaled ribavirin has limited evidence of effectiveness and carries potential risks such as teratogenicity , bronchospasm , or anemia [ 8 ] for both the patient and their care providers .
+882	Studies of recently developed direct-acting antiviral molecules against HCV have shown that administration of these drugs alone may lead to the selection of resistant viruses , raising concerns that resistance may undermine therapy based on directacting antivirals ( Pawlotsky 2011 ) .
+883	The use of anti-thymocyte globulin ( or alemtuzumab ) to prevent or treat GVHD or promote engraftment can have enduring effects on T cells ( and NK cells in the case of alemtuzumab ) and may render the patient vulnerable for a longer period of time .
+884	Though M2 inhibitors , amantadine and rimantadine , can block IAV entry , the emergence of adamantane-resistant M2 and associated adverse effects temper their clinical application [ 7 ] .
+885	However , each is only effective against a particular strain of the virus , the high cost of production , and has a high probability of manifesting side effects in particular with vaccinederived transmission of RVAs in immunocompromised patients [ 5 ] .
+886	However , many experts avoid ceftazidime monotherapy because of rising resistance rates among Gram-negative bacteria and its limited activity against Gram-positive bacteria , such as streptococci , compared with newer alternatives [ 169 ] .
+887	Antiviral drug prophylaxis is not recommended in HSV-seronegative leukemic patients during chemotherapy or after SCT , since primary HSV infection in these patients is unusual [ 62 ] .
+888	Antiviral agents are often ineffective or/ and associated with toxicity .
+889	Although some small studies suggest that antivirals such as lamivudine may prevent the progression of severe infection to fulminant status and because of their excellent safety profile may be considered in rare , severe cases .
+890	Although often used in severe cases , ribavirin ( a guanosine analogue ) has not been shown to be effective in small clinical studies .
+891	Although any chemotherapy regimen may result in HBV reactivation , the risk is particularly higher after exposure to corticosteroids , rituximab , and alemtuzumab [ 96 , 97 ] .
+892	Anecdotal reports suggest that rituximab may be beneficial for some patients that fail first-line therapy , especially if they have antibodies to nodal proteins .
+893	Severe anemia and renal failure may necessitate hospitalization and immediate initiation of antimyeloma treatment along with supportive care [ 22 ] .
+894	However , not all of these agents are suitable options for the clinical management of invasive candidiasis because of the overall complexity of both infection and underlying condition .
+895	In addition to AEDs , patients with NORSE may require early aggressive immunotherapy and/or initiation of immunosuppressants to achieve adequate seizure control .
+896	Controversy surrounds the use of immunosuppressive therapy in these patients : It may not be beneficial and runs the risk of exacerbating viral and bacterial components of the disease syndrome .
+897	Although GM-CSF seems to be able to reverse sepsis-induced immune paralysis , it is currently not available for treatment in the EU [ 110 , 143 ] .
+898	Although any chemotherapy regimen may result in HBV reactivation , the risk is particularly higher after exposure to corticosteroids , rituximab , and alemtuzumab [ 89 , 90 ] .
+899	Corticosteroids are not indicated for ALI ; prolonged or high-dose corticosteroid therapy can result in serious adverse events , including opportunistic infections .
+900	Although the inflammatory lesions in nerves are often reversed in response to NSAID therapy , these drugs are not considered a cure or a prophylactic agent for PDD .
+901	Nonetheless , adjunctive corticosteroids are typically administered in individuals with HSCT who develop PCP .
+902	Nevertheless , effective antivirals are still needed for treatment of infected patients with severe disease [ 21 , 22 ] .
+903	However , the success rate of IFN therapy remains low and side effects represent a major shortcoming of this therapy .
+904	For patients who have Lassa fever , Bolivian hemorrhagic fever , Congo-Crimean hemorrhagic fever , or Rift Valley fever , the antiviral agent ribavirin may offer some benefit [ 49 ] .
+905	In addition , viruses recently circulating in the United States and Canada are often resistant to the M2 inhibitors on the basis of antiviral testing [ 252 , 253 ] .
+906	Although it is plausible that early initiation of appropriate antimicrobials is beneficial in severe sepsis and septic shock , their over-zealous use in patients without infection is likely to lead to harm [ 13 ] .
+907	There is still controversy about the efficacy of glucocorticoids in treating COVID-19-associated pneumonia .
+908	Although the use of taxane and platinum-based chemotherapy in the treatment of ovary cancer results initially in high response rates , many of the patients suffer a relapse and develop resistance [ 99 ] .
+909	Furthermore , in IBD patients with COVID-19 , the best management strategy has yet to be determined with regard to immunosuppressive medications , many of which have a long serum half-life and even longer tissue effect that can persist much longer than the course of a typical infection .
+910	As mentioned , the use of M2 inhibitors for treatment of influenza is no longer recommended due to the high rate of resistance to these drugs ( > 95 % ) .
+911	In clinical , BLM is effectively against abroad spectrum of cancers , but its use is often limited due to the main detrimental effects of inducing PF on patients .
+912	However , the role of IVIG in the prevention of infections among patients with hematological malignancies is not clear and is unlikely to be superior to that of antibiotic prophylaxis ( see Antibacterial Prophylaxis above ) .
+913	There is no specific therapy for PML , and improvement of symptoms relies on increasing CD4 count via antiretroviral therapy .
+914	Similar to SARS and MERS , there is still no specific , licensed antiviral treatment for CoVs and the clinical management is mainly supportive .
+915	Similar to SARS and MERS , there is still no specific , licensed antiviral treatment for CoVs and the clinical management is mainly supportive .
+916	Similar to SARS and MERS , there is still no specific , licensed antiviral treatment for CoVs and the clinical management is mainly supportive .
+917	Similar to SARS and MERS , there is still no specific , licensed antiviral treatment for CoVs and the clinical management is mainly supportive .
+918	First line therapies , including IVIG and glucocorticoids , are not effective in all patients .
+919	Since novel therapies can achieve superior results compared to IFNa even in the favorable prognosis group , this agent is not now considered a standard for this disease .
+920	In adults , improvement of proteinuria and renal function often follows interferon-alpha treatment ( 132 , 134 ) , but relapses are common after cessation of treatment .
+921	Although these agents improve both endoscopic and symptomatic markers of CMV disease , the survival benefit is uncertain and needs to be re-evaluated following the introduction of HAART ( Ref . 23 ) .
+922	Etoposide is quite toxic , often leading to pancytopenia itself and increasing the risk of secondary sepsis as well as increased risk of secondary malignancies [ 14 , 16 ] .
+923	Currently , there are no FDA approved antivirals for Ad infection ; however , the best antiviral success has been seen with ribavirin , cidofovir , and most recently brincidofovir an analog of cidofovir ( 49 ) .
+924	Specific antiviral therapies have been studied but their use is likely to be limited by the wide variety of viruses responsible for URTI and the difficulty in prescribing appropriately in the absence of rapid accurate diagnostic testing .
+925	However , steroid therapy is ineffective in acute respiratory distress syndrome [ 21 ] and doubtful in SARS , but has considerable side effects , including avascular necrosis of bone , opportunistic infection , hepatic damage and metabolism disturbance [ 22 ] [ 23 ] [ 24 ] [ 25 ] [ 26 ] [ 27 ] .
+926	Idiopathic and allergic conjunctivitis can occur with dupilumab use , although this side effect is rarely treatment limiting [ 13 , 18 , 19 ] .
+927	High-dose corticosteroids are first-line treatment for aGvHD ; however , up to 50 % of patients fail to obtain a satisfactory response with steroid treatment alone .
+928	( 12 , 23 ) Therapeutic agents used to manage symptomatic COVID-19 may be hepatotoxic , including remdesivir and tocilizumab .
+929	Even with high-dose acyclovir , improvements in treatment protocols are still needed , because the mortality is still as high as 30 % in disseminated infections .
+930	However , the routine use of antimicrobial therapy for patients who experience mild sinus symptoms for a short duration ( indicative of self-limiting viral rhinosinusitis ) is generally not a reasonable option because of the risks associated with promoting resistance .
+931	Though the window of the usefulness of steroids for COVID-19 patients is narrower , they are still preferred because of their capability of preventing lung fibrosis and stopping cytokine storm [ 194 ] .
+932	In addition , many antiviral drugs can cause severe side effects or may interfere with other drug agents and lead to low efficacy .
+933	However , amantadine and rimantadine , a derivative of amantadine , are not currently used to treat influenza virus infections because drug-resistant viruses can emerge rapidly ( both the A/H1N1pdm and A/H3N2 seasonal epidemic strains have the amantadine-resistance S31N mutation ) and the central nervous system side effects are particularly common in patients treated with amantadine .
+934	However , in these individuals with PIDD , NTM disease is often chronic and can be difficult to eradicate , and resistance can then easily develop during therapy .
+935	Systemic corticosteroids may be useful in acute episodes for symptomatic relief or in chronic and progressive disease , but their long-term efficacy has never been validated in prospective clinical trials [ 120 ] .
+936	However , ganciclovir is not recommended for the treatment of adenovirus disease .
+937	However , concerns exist whether corticosteroid use is associated with viral rebound , prolonged replication , and increased rates of mechanical ventilation and mortality [ 77 ] [ 78 ] [ 79 ] .
+938	The optimal duration of prophylaxis is poorly defined in patients with cGVHD , as there appears to be a persistent risk of VZV reactivation disease even if the acyclovir is continued until all systemic immunosuppressive drugs are discontinued and the CD4 1 count exceeds 200 cells/mL [ 288 ] .
+939	The use of rituximab as a preemptive approach in HSCT to prevent PTLD in patients with otherwise asymptomatic but persistent EBV viremia has not always yielded persistent control in many patients [ 104 ] .
+940	However , toxicities are substantial including severe cytopenias , hepatotoxicity ( including fatality ) , neuropsychiatric events , and risk of developing fatal or life-threatening ischemia or infection , particularly when combined with ribavirin .
+941	However , the prognosis for children with relapsed or refractory HD and NHL is poor with the current intensive regimens [ 11 ] .
+942	However , thyroid dysfunction is a common event during treatment with IFNs , IL-2 , TYK inhibitors , ipilimumab , tositumomab , daclizumab , abatacept , denileukin-diftitox , and with nonbiological agents .
+943	Similarly , there is currently no consensus in the field regarding optimal immunosuppression for patients with steroid-refractory pneumonitis , with potential management options including the anti-metabolite mycophenylate mofetil , cyclophosphamide , mycophenolate mofetil , or intravenous immunoglobulin ( IVIG ) [ 22• , 25 - 30 ] .
+944	However , prolonged neutropenia with increased risks of bacterial or fungal lung infections , is observed in AML patients treated with venetoclax [ 19 ] .
+945	Although the initial use of IVIG may be beneficial in the treatment of PVB19-induced hemophagocytic syndrome [ 35 ] , some people have a negative opinion [ 36 , 37 ] .
+946	Currently , treatment for HPIV infection is supportive with the exception of croup where the use of corticosteroids has been found to be beneficial .
+947	Fifth , the benefits of HAART are not long-lasting and end up being more detrimental to many patients with advanced KS who may show no improvement while remaining in danger of developing post-therapy immune crisis ( Krown et al. , 2004 ) .
+948	Nevertheless , one inflammatory disease in which IVIG may be beneficial is toxic epidermal necrolysis or Stevens-Johnson syndrome .
+949	Negative PCR results on BAL fluid or induced sputum indicate that PCP treatment can be safely discontinued [ 81 ] .
+950	Despite potential benefits of biological inhibitors in the treatment of SLE , concerns exist regarding the occurrence of infections in patients treated with these agents [ 136 , 137 ] .
+951	Corticosteroids ( CCS ) remain first-line therapy for aGvHD , however even in those who respond ( SR-GvHD ) ( o50 % ) , therapy related morbidity including fungal infections or viral reactivation is high .
+952	Thus , neuramidase inhibitors , which have potent antiviral activity in vitro , have only modest effects on clinical influenza , and are only effective if used early in the course of the illness 75 .
+953	Ribavirin , an aerosolized antiviral with in vitro activity against RSV , parainfluenza , human metapneumovirus , and other viruses , is FDA approved but not routinely recommended for treatment of these infections due to lack of definitive efficacy .
+954	Although a combination of ribavirin and interferon has shown synergistic effects against MERS-CoV under in vitro conditions , results from human trials have been inconclusive [ 102 ] , and there is still no definitive treatment regimen established for MERS .
+955	NA inhibitors are becoming of limited efficacy as well , due to emerging resistance among IAV isolates found in humans and the requirement for early administration ( within 48 h of the presentation of symptoms ) for maximal effectiveness ( 2 , 7 , ( 9 ) ( 10 ) ( 11 ) ( 12 ) .
+956	Adverse effects among patients who receive immune checkpoint inhibitors ( such as for severe myocarditis and pneumonitis)4 are more challenging to diagnose and might not be treated promptly , which might affect their survival .
+957	A frequently observed reason for secondary loss of response to TNF blockers is inadequate drug exposure and sub-therapeutic serum drug concentrations .
+958	Although CQ is generally considered to be a safe drug , its use is not entirely risk-free and the drug is known to have a narrow therapeutic index , particularly as the dose increases marginally above that used for malaria treatment ( 32 ) .
+959	While DAS181 generally appears safe , some patients have shown elevated alkaline phosphatase levels , with transient increases in liver enzymes ( Moss et al. , 2012 ) .
+960	However , given its effectiveness for rapidly reducing the systemic inflammatory burden in this population , corticosteroids are still used second-line after directed anticytokine therapy [ 36 , 37 ] .
+961	Preventative treatment of FLU with inactivated or killed viral vaccinations is an option for transplant recipients , but the efficacy of vaccines is likely decreased due to immune suppression [ 24 ] .
+962	Because no effective antiviral drug for COVID-19 is available , symptomatic and supportive treatments are crucial .
+963	Although a large retrospective and a large open-label , randomized trial showed a survival benefit with simultaneous ART and anti-TB treatment , this approach proves to be difficult in practice due to overlapping drug interactions and side effects [ 219 ] .
+964	As shown elsewhere , oral ribavirin may not be inferior to inhaled therapy in this population and may provide a good and affordable treatment option [ 8 , 9 ] .
+965	Two important limitations of the use of Rib therapy are the need of intravenous administration for optimal efficacy and significant side effects including anemia and congenital disorders .
+966	However , it is feasible that resistance to steroids may have developed , because of induction of the multiple-drug resistance gene and expression of P-glycoprotein.51 Despite the widespread use of these drugs in companion animal gastroenterology , controlled clinical trials demonstrating efficacy are lacking .
+967	Although several patients may recover spontaneously , others need more aggressive treatment strategies to avoid extensive RBC transfusions and related iron overload [ 6 ] .
+968	Moreover , the current regimens based on IFN-a and ribavirin are not effective in a considerable number of HCV patients .
+969	Current strategies for the treatment of SARS patients have included broad-spectrum antibiotics , glucocorticoids and ribavirin ( Fujii et al. , 2004 ) ; however , the efficacy of these treatments is still unclear .
+970	IVIG has been proposed for postexposure prophylaxis against wild-type YF , but has no proven benefit after onset of illness [ 2 ] .
+971	However , most SS patients with a more chronic ILD require immunosuppressant treatment .
+972	unfortunately , not all patients present early in the course of their disease , and many progress to septic shock and require extensive supportive therapies despite adequate antimicrobial coverage .
+973	Due to lack of clear evidence of efficacy , wide variation in the management of RSV exists including variability often dependent on availability of the inhaled , intravenous , and oral RBV formulations [ 23 ] .
+974	Many experts also use high-dose steroids ( 5 - 10 mg/kg/d for 3 consecutive days ) , however , in the presence or absence of specific antiviral therapy , to prevent acute rejection and progression to BOS .
+975	Although some patients with TA have disease that appears to " burn out , " becoming quiescent after years of active disease , most patients have progressive or relapsing/remitting disease and require long-term immunosuppressive treatment ( 33 ) .
+976	Although immunoglobulin and antiviral agent ribavirin are commonly used , the efficacy remains uncertain [ 3 , 4 ] .
+977	Oral ganciclovir is an option in heart transplant patients , although it possesses a low oral bioavailability and therefore the theoretical risk of increased resistance .
+978	VZIG is ineffective and should not be given once clinical illness has developed [ 58 ] .
+979	Ribavirin is currently the only drug licensed to treat RSV infection , but its clinical efficacy remains unclear .
+980	To date , COVID-19 lacks a specific treatment to counteract the onset of SARS and subsequent multiorgan failure , whose evolution is usually rapid and severe .
+981	In vivo analysis of ribavirin and other IMPDH inhibitors in SARS-CoV-infected mice have suggested that these agents would be of limited benefit [ 111 ] .
+982	M2 inhibitors , amantadine and rimantadine , have been used in some centers , but are limited to influenza A and have many side effects including antiviral resistance ( 27 ) .
+983	Use of antimicrobial agents for AECB , however , is controversial , as it is difficult to distinguish between bacterial and nonbacterial AECB , and only marginal benefits have been reported .
+984	Steroid therapy may provide both beneficial anti-inflammatory effects and dangerous side effects such as immunosuppression , myopathy , and hyperglycemia ; at this time , a favorable balance of these contrasting effects has not been found , and their use in ARDS is not recommended .
+985	Strategies for the treatment of SARS patients have included broad-spectrum antibiotics , glucocorticoids and ribavirin ; however , the efficacy of these treatments is still unclear .
+986	Currently , no treatments with proven efficacy are approved for the treatment of HPIV infections .
+987	Currently , the available options for clinical management of RSV disease are symptomatic supportive care [ 6 ] as well as Palivizumab .
+988	Some diseases such as Behçet 's disease may require systemic biologic treatment as first line therapy [ 5 ] .
+989	However , due to their broad activity , systemic application of inhibitors may not represent an appropriate treatment strategy .
+990	Also , cross-reactivity between TNF-α inhibitors is not common , so if the patient has hypersensitivity to infliximab , other TNF-α inhibitors such as etanercept or adalimumab may be safe alternative treatment options [ 31 ] .
+991	Although ribavirin had been commonly used in the 2003 SARS outbreak , [ 5 ] [ 6 ] [ 7 ] 9 it is now widely believed that it has no benefits on outcome .
+992	Conventional antiviral strategies , such as ribavirin , recombinant IFN-α , and treatment with convalescent antisera have proven ineffective in animal trials ; however , there are examples where different approaches have demonstrated a survival benefit .
+993	However , in these patients , corticosteroids may have benefits that are unrelated to effects on viral inflammation .
+994	Currently , there are no effective anti-viral agents for the treatment of SARS .
+995	Glucocorticoids , IVIG , and anti-D have all been proposed as treatment options for ITP and are given alone or in combination based on the patients ' tolerability of every treatment or the need for a quicker response in some cases ( Nugent et al. 2009 ; Thota et al. 2012 ; Godeau et al. 1999 ; Newman et al. 2001 ; Zimmer et al. 2004 ) .
+996	Currently , no effective therapy is available for the management of ALI/ARDS/SARS and only supportive therapies exist .
+997	Severe and refractory immune checkpoint inhibitor-related myocarditis represents an important clinical challenge due to its high mortality , despite the use of immunosuppression escalation and the availability of multiple immunosuppressant drugs ( IS ) such as infliximab , rituximab , tacrolimus , antithymocyte globulin , MMF or tacrolimus .
+998	The use of corticosteroids has been debated , with conflicting opinions about steroids being the key component in the treatment of SARS ( Gomersall 2004 ) .
+999	However , treatment for persistent and problematic lesions includes the addition of dapsone [ 35 ] and corticosteroids as well as other immunosuppressive therapies .

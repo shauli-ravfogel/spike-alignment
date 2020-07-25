@@ -1,22 +1,1001 @@
 <>arg1:virus $infection $causes a <>arg2:condition .
-0	In humans , JEV infection can cause Japanese encephalitis ( JE ) with severe central nervous system disorders .
-1	Hepatotropic virus , like MHV-3 infection in mice , can induce exaggerated inflammation in the liver and cause life-threatening viral FH .
-2	Human metapneumovirus ( hMPV ) infection causes respiratory tract disease similar to that observed during human respiratory syncytial virus infection ( hRSV ) .
-3	In humans , CHIKV infections cause a debilitating disease with acute febrile illness and long-term polyarthralgia .
-4	FIV infection causes progressive immunosuppression that results in the development of the acquired immunodeficiency syndrome ( AIDS ) in cats , which , similar to human HIV infection , increases susceptibility to secondary and opportunistic infections .
-5	Human infection of H7N9 avian infl uenza virus directly induces pneumonia , with radiological signs of pneumonia early after onset .
-6	MCMV causes asymptomatic infection in adult immunocompetent mice , but experimental inoculation of neonates has caused lethal disease due to multisystemic necrosis and inflammation .
+0	Hepatotropic virus , like MHV-3 infection in mice , can induce exaggerated inflammation in the liver and cause life-threatening viral FH .
+1	In humans , CHIKV infections cause a debilitating disease with acute febrile illness and long-term polyarthralgia .
+2	MERS-CoV induces acute pneumonia similar to that caused by SARS-CoV , and is sometimes accompanied with renal failure ( Danielsson and Catchpole , 2012 ; Zaki et al. , 2012 ) .
+3	FIV infection causes progressive immunosuppression that results in the development of the acquired immunodeficiency syndrome ( AIDS ) in cats , which , similar to human HIV infection , increases susceptibility to secondary and opportunistic infections .
+4	In humans , JEV infection can cause Japanese encephalitis ( JE ) with severe central nervous system disorders .
+5	In immunocompetent adults , primary infection with HHV-6 can produce a mononucleosis-like illness and , more rarely , severe disease , including encephalitis [ Stoeckle , 2000 ] .
+6	Infection with MV typically results in an acute febrile illness and rash due to viral replication first in mono-and lymphocytic cells , and then in a variety of tissues ( Katz 1995 ) .
 7	BRV is a lytic infection and destruction of infected mucosal epithelial cells is an important component of disease pathogenesis .
-8	As discussed above , coxsackievirus B3 ( CVB3 ) infection causes myocarditis in human beings as well as in male BALB/c mice .
-9	In chickens , Infectious Bronchitis ( IB ) causes severe inflammatory lesions in the respiratory tract .
-10	PEDV infects the epithelium of the small intestine , an environment rich in proteases , and causes atrophy of the villi resulting in diarrhea and dehydration .
-11	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
-12	However , SARS-CoV infection results in severe and even fatal lung disease in humans .
-13	FIV is an important viral pathogen worldwide in the domestic cat ( Felis catus ) , causes a slow progressive degeneration of immune functions that eventually leads to a disease .
-14	In humans , coronavirus infection results in respiratory tract complications with varying degree of severity and has been associated with gastroenteritis .
+8	FIV infection , in domestic cats , causes a variable immunodeficiency syndrome characterized by recurrent gingivitis-stomatitis , cachexia , wasting , neurology , and an increased incidence of tumor development [ 1 , 4 , 48 , 76 ] .
+9	Adenovirus infection can result in severe respiratory disease in lung transplant recipients , including rapidly progressive , necrotizing and potentially fatal pneumonia , as well as development of chronic lung disease with fibrosis and bronchiectasis ( Liu et al. 2010 ) .
+10	Filovirusinduced disease begins with flu-like symptoms and progresses rapidly to the final stages of viral hemorrhagic fever infection , which are characterized by fever , hemorrhage , and hypotensive shock ( Groseth et al. , 2007 ; Zampieri et al. , 2007 ) .
+11	PEDV infects the epithelium of the small intestine , an environment rich in proteases , and causes atrophy of the villi resulting in diarrhea and dehydration .
+12	In humans , coronavirus infection results in respiratory tract complications with varying degree of severity and has been associated with gastroenteritis .
+13	Humans infected with RVFV usually develop an acute febrile myalgic syndrome ; however , a small percentage of patients have a lethal illness that results in hepatic damage , hemorrhagic fever-like illness , encephalitis and/or retinal vasculitis [ 8 ] .
+14	PRRSV increases the susceptibility of the host to a wide range of viral and bacterial respiratory pathogens , resulting in increased severity of clinical signs and lung lesions .
 15	In humans , the virus causes a lower respiratory tract disease and may progress to ARDS , multiorgan failure , and death in severe cases .
-16	In pythons , nidovirus infection induces an inflammation of the upper respiratory and alimentary tract which can develop into a severe and often fatal proliferative pneumonia .
-17	Influenza virus infection in humans can lead to mild to severe illness , as a result of both viral replication and the host immune response .
-18	In hamsters , viral replication occurs in epithelial cells of the respiratory tract and causes interstitial pneumonia , pulmonary consolidation , and diffuse alveolar damage .
-19	Although diarrhea is recognized as the main clinical feature of BCV infections , BCV also causes respiratory tract infections in calves .
-20	PRRSV increases the susceptibility of the host to a wide range of viral and bacterial respiratory pathogens , resulting in increased severity of clinical signs and lung lesions .
+16	In most cases , MERS-CoV causes severe infection in the lower respiratory tract in humans .
+17	In humans , SARS-CoV causes interstitial pneumonia with fever and sometimes diarrhea ( 3 , 4 ) .
+18	Infection of humans is characterized by a rapid and extensive spread of the virus in several organs with symptoms including respiratory distress and encephalitis ( 46 ) .
+19	The HPeV-1 infection is mostly represented by a mild respiratory or gastrointestinal infection , but sometimes becomes clinically severe , leading to sepsis-like illness and central nervous system infection in infants .
+20	The pathogenesis of Ebola virus disease ( EVD ) is not well understood , but likely results from overwhelming cytopathic damage due to the ability of Ebola virus to replicate throughout many different tissues of the body , dysregulation of the immune response , and profound hypovolemia [ 9 ] .
+21	Currently , humans infected with MERS-CoV have been reported to develop a severe acute respiratory illness with symptoms of fever , cough , shortness of breath , and often , renal failure .
+22	As discussed above , coxsackievirus B3 ( CVB3 ) infection causes myocarditis in human beings as well as in male BALB/c mice .
+23	PEDV infections cause acute , severe atrophic enteritis accompanied by viremia that leads to profound diarrhea and vomiting , followed by extensive dehydration , which is the major cause of death in nursing piglets .
+24	During infection , JEV invades the central nervous system , wherein virus replication triggers a massive inflammatory response , and subsequently causes neuronal cell death ( 5 ) .
+25	Primary HHV-6 infection causes undifferentiated febrile illness and exanthem subitum ( roseola infantum or sixth disease ) , an acute illness with high fever and rash that typically resolves in three to seven days [ 49 ] .
+26	MCMV causes asymptomatic infection in adult immunocompetent mice , but experimental inoculation of neonates has caused lethal disease due to multisystemic necrosis and inflammation .
+27	CNS infection leads to viremia and spread of virus to other susceptible organs such as the liver ( Lavi et al , 1988 ; Lavi et al , 1986 ) .
+28	FIV is an important viral pathogen worldwide in the domestic cat ( Felis catus ) , causes a slow progressive degeneration of immune functions that eventually leads to a disease .
+29	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
+30	CAV infection in young chickens results in severe immunosuppression and anemia caused by the viral destruction of cortical thymocytes and erythroblasts [ 2 , 3 ] .
+31	PRRSV replicates mainly in porcine alveolar macrophages ( PAMs ) and dendritic cells ( DCs ) and leads to persistent infection , interstitial pneumonia and immunosuppression .
+32	Infection of SARS-CoV causes severe acute respiratory syndrome ( SARS ) , which is an emerging infectious disease and characterized by a cascade of immunological events leading to pulmonary inflammation and respiratory failure [ 5 ] .
+33	In the CNS , MHV infection causes encephalitis and demyelination .
+34	Arthritogenic alphavirus infections , such as those involving CHIKV , Ross River virus ( RRV ) , and Sindbis virus ( SINV ) , induce debilitating arthritis in infected individuals [ 10 ] .
+35	PEDV infection is characterized by severe villous atrophy in the small intestine that results in watery diarrhea followed by fatal dehydration and death in newborn piglets [ 27 , 45 ] .
+36	MAdV-1 pathogenesis in adult mice is typified by encephalitis , as the virus is able to cross the blood-brain barrier and stimulate inflammation [ 17 , 18 ] .
+37	MNV infection in immunocompromised mice lacking innate immunity factors such as STAT1 or interferon receptors can result in persistent or acute virus replication associated with severe diarrhea , weight loss , and mortality ( Karst et al. , 2003 ; Wobus et al. , 2004 ) .
+38	However , SARS-CoV infection results in severe and even fatal lung disease in humans .
+39	As an infectious retrovirus , BIV induces splenomegaly and lymphademopathy syndromes with associated fatal immune dysfunctions [ 5 ] .
+40	More severe consequences of HPeV infection , such as acute flaccid paralysis , myocarditis , and Reye syndrome , have been reported [ 13 , 18 ] ; HPeV3 infection results in severe diseases of the CNS and neonatal sepsis [ 28 ] .
+41	Many attenuated strains of jHMV cause a subacute or persistent infection in the central nervous system , with persistence in glia , especially oligodendrocytes .
+42	Within 6 - 8 days of infection , MARV causes an acute febrile illness that frequently progresses to liver failure , delirium , shock , and hemorrhage ( 13 , 14 ) .
+43	Infection of older mice with the MA15 virus produces clinical disease particularly reminiscent of acute respiratory distress syndrome ( ARDS ) in humans [ 43 ] .
+44	Coronavirus infection , also termed epizootic catarrhal enteritis or ECE , causes mucoid enteritis with a high level of morbidity and variable mortality .
+45	While adenovirus infection usually results in mild disease symptoms that are promptly resolved , adenovirus infection of immunocompromised individuals can result in severe disease symptoms , such as pneumonia , encephalitis , and even death ( Krilov 2005 ) .
+46	Existing animal models of SARS-CoV infection have revealed that this lethal pulmonary infection causes a denuding bronchiolitis and severe pneumonia which oftentimes progresses to acute respiratory failure [ 10 , 11 , 12 ] .
+47	The acute stage of CDV infection is characterized by severe long-lasting immunosuppression with lymphoid depletion , lack of mitogen responsiveness and inability to mount a specific immune response [ 16 ] .
+48	Respiratory Syncytial Virus ( RSV ) , which is responsible for lower respiratory tract illnesses in both infants and the elderly , induces SGs during the course of infection ( Lindquist et al. , 2010 ) .
+49	Influenza H5N1 infection in birds is systemic , characterized by hemorrhage and edema resulting from virus replication in the endothelium [ 187 ] .
+50	Infection with Ebola virus causes Ebola virus disease ( EVD ) , which is an acute systemic illness with a high case fatality rate [ 49 ] .
+51	Influenza virus infection in humans can lead to mild to severe illness , as a result of both viral replication and the host immune response .
+52	PEDV infection is cytolytic and causes acute necrosis of the infected enterocytes , leading to marked intestinal villous atrophy ( 12 , 14 , 15 ) .
+53	In pythons , nidovirus infection induces an inflammation of the upper respiratory and alimentary tract which can develop into a severe and often fatal proliferative pneumonia .
+54	Infection with FCoV can result in a diverse range of signs from clinically inapparent infections to a highly fatal disease called feline infectious peritonitis ( FIP ) .
+55	Influenza H5N1 infection in birds is systemic , characterized by hemorrhage and pulmonary edema resulting from virus replication and stimulation of vascular endothelial growth factor in the alveolar endothelium [ 57 , 58 ] .
+56	In humans , SARS-CoV infection progresses from an atypical pneumonia to acute diffuse alveolar damage and ARDS [ 5 ] .
+57	MERS-CoV infection often causes fever , cough , and severe pneumonia , occasionally accompanied by renal disease ( Banik et al. , 2015 ) .
+58	VSV infection of humans is typically either asymptomatic or causes a mild influenza-like illness [ 6 ] .
+59	In adult IFN-a/bR Ϫ/Ϫ mice and in neonates , severe CHIKV disease is associated with high viral load in peripheral tissues and dissemination to the central nervous system ( CNS ) [ 19 ] .
+60	PC21A infection causes severe atrophic enteritis accompanied by viremia that leads to severe diarrhea and vomiting .
+61	PCV3 infection in piglets triggers inflammatory lesions in various tissues and organs followed by lymphocytic dysplasia and necrosis , and disruption of the immune system [ 20 ] .
+62	Avian influenza is characterized by pronounced activation of the proinflammatory cytokine cascade , which perpetuates the inflammatory response , leading to persistent systemic inflammatory response syndrome and pulmonary infection in animals and humans .
+63	FIV infection results in progressive impairment of the immune system , including loss of CD4 T-cells , inverted CD4 : CD8 ratios , heightened susceptibility to infectious agents , disruption of immune cell function , and deterioration of major lymphoid tissues and organs of the hosts .
+64	HRSV infection is particularly severe in infants because their under-developed lungs are unable to compensate for the damage induced by viral replication and the inflammatory response .
+65	MERS-CoV infection in human , or MERS , commonly manifests as a severe acute respiratory disease , which is often complicated by acute respiratory distress syndrome and multiorgan failure [ 3 , 4 ] .
+66	In humans , CHIKV produces a sudden debilitating disease because of its incapacitating joint symptoms .
+67	Given the need to replicate in mitotically active tissue such as bone marrow , lymphoid tissues , and intestinal crypt cells , FPV is responsible of systemic infections characterized by severe panleukopenia and enteritis .
+68	Severe BRDC is often preceded by infection of the respiratory epithelium with viruses like BVDV-1 , BRSV , BHV-1 , or bovine coronavirus ( Frank et al. , 1993 ) .
+69	Infection with hMPV is associated with acute respiratory tract illness especially in children usually younger than 3 years old , with signs similar to those seen with human RSV infection , ranging from upper respiratory tract disease to severe bronchiolitis and pneumonia [ van den Hoogen et al. , 2001 ] .
+70	Following infection , RSV replicates in the respiratory mucosa leading to epithelial damage [ 11 ] and perivascular mononuclear infiltration [ 12 ] .
+71	PCV2 infection can lead to lymphoid depletion and immunosuppression in pigs and is the primary causative agent of porcine circovirus-associated disease ( PCVAD ) .
+72	In immunocompromised patients , JCV can cause progressive multifocal leukoencephalopathy ( PML ) , a rare , usually fatal disease of the CNS .
+73	Co-infection with PRRSV and S. suis generally induces exacerbated disease leading to an increased morbidity and mortality [ 24 ] .
+74	CCoV-II-infected dogs develop enteritis and gastroenteritis , and the condition is aggravated by mixed infection with CCoV-II and other pathogens [ 8 , 16 ] .
+75	MERS-CoV leads to progressive severe pneumonia in infected patients , with diffuse alveolar damage occurring during the acute phase .
+76	With altered immunological status , JCPyV can cause the oft-fatal brain demyelinating disease progressive multifocal leukoencephalopathy ( PML ) .
+77	In vivo , PRRSV productive infection occurs predominately in alveolar macrophages of the lung [ 3 ] , followed by viremia and subsequent interstitial pneumonia within 3 days [ 4 ] .
+78	In humans , filovirus infections are associated with high viremia , increased endothelial cell permeability and severe tissue destruction , lymphopenia , and coagulopathy .
+79	DENV infection causes varying degrees of disease manifestation , such as self-limited febrile dengue fever , skin rash or drowsiness , agitation , liver enlargement , or dengue hemorrhagic fever ( DHF ) and even death .
+80	The seriousness of EV71 infection lies in its complications , which include hand-foot-and-mouth disease , herpangina , aseptic meningitis , poliomyelitis-like paralysis , and fatal encephalitis [ 40 ] .
+81	Infection with PRRSV leads to reproductive complications , respiratory illness , and weak immunity to secondary infections .
+82	FIPV is macrophage tropic and may cause aberrant cytokine and/or chemokine expression and lymphocyte depletion , which results in a lethal disease [ 23 ] .
+83	In adult swine , wild-type PRV infection causes respiratory and reproductive disorders with a low mortality rate [ 2 ] .
+84	In humans , the virus causes a febrile illness that may be associated with hemorrhage , liver necrosis , shock , and multiorgan failure .
+85	Pneumonia caused by HAdV-7 , commonly associated with lower respiratory tract infection , can lead to severe disease and death in some infants and immunocompromised persons ( 9 , 14 ) .
+86	Infection by the SARS-CoV-2 causes an inflammatory condition also known as pneumonia affecting primarily alveoli [ 2 ] .
+87	Usually mild in immunocompetent hosts , HCoV infection in immunosuppressed populations can lead to significant lower respiratory tract disease [ 43 , 53 ] .
+88	Furthermore , aerosol exposure of mice to VEEV can result in massive infection of the olfactory neuroepithelium , olfactory nerves , and olfactory bulbs and viral spread to brain , resulting in necrotizing panencephalitis .
+89	PHEV is a neurovirulent virus that spreads to the central nervous system ( CNS ) via peripheral nerves , where neurite damage and neuronal death are observed , causing neurological symptoms .
+90	Viral encephalitis can develop after JEV infection in humans and has a 30 % mortality rate .
+91	In humans , the clinical manifestations of IAV infection range from mild disease to severe pneumonia .
+92	Clinical observations have shown that PCMV infection is typically accompanied by porcine reproductive and respiratory syndrome virus ( PRRSV ) infection in immunosuppressed swine , and a series of secondary bacterial infections frequently occur after viral infection .
+93	Infection with the domestic cat ( Felis catus ) strain of FIV ( FIV Fca ) results in CD4 + T-cell depletion and pathogenic disease which progresses to AIDS-like immune dysfunction and ultimately death [ 4 , 5 ] .
+94	In neonates , TGEV infects the epithelial cells of the small intestine , leading to potentially fatal gastroenteritis .
+95	Infection of humans is characterized by a rapid and extensive spread of the virus in several organs , with symptoms including respiratory distress and encephalitis [ 7 ] .
+96	EBOV infection is characterized by rapid viral replication and dysregulated innate and adaptive immune responses .
+97	Severe pneumonia induced by pathogenic hCoV is usually accompanied by rapid virus replication , massive inflammatory cell infiltration , and an elevated proinflammatory cytokine/chemokine response , leading to acute lung injury and respiratory distress syndrome .
+98	Human infection of H7N9 avian infl uenza virus directly induces pneumonia , with radiological signs of pneumonia early after onset .
+99	Though influenza virus infection is localized primarily to the respiratory system , HPAI in some avian species is associated with systemic dissemination of the virus to multiple organs .
+100	HCMV infects neuronal cells and congenital HCMV infection leads to neuronal disease and severe complications such as blindness , hearing loss , and mental retardation .
+101	Influenza virus infects cells of the respiratory system , resulting in an acute and diffuse inflammation of the bronchoalveolar tract ( 26 ) .
+102	Symptoms of JEV infection include fever , meningoencephalopmyelitis , aseptic meningitis , seizures or poliomyelitis-like paralysis ( Solomon et al. , 1998 ; Solomon and Vaughn , 2002 ) .
+103	The clinical symptoms of COVID-19 infection includes respiratory tract illness , severe viral pneumonia with respiratory failure [ 18 ] .
+104	The most important clinical and pathological manifestation of HeV infection in horses and humans is severe interstitial pneumonia caused by viral infection of small blood vessels .
+105	Experimental infection of adult mice with MAdV-1 is most often subclinical and persistent but can cause fatal haemorrhagic encephalomyelitis with neurological symptoms , including tremors , seizures , ataxia and paralysis in susceptible C57BL/6 and DBA/2J mice [ 129 ] .
+106	PCV2 infection usually accompanies lymphocyte or monocyte depletion and thus further results in immune suppression in the disease [ 6 , 7 ] .
+107	Although most CoV do not induce respiratory disease in mice , intranasal infection with the group 2 CoV mouse hepatitis virus type 1 ( MHV-1 ) , results in a pulmonary infection in mice [ 14 ] .
+108	PEDV infection causes severe atrophic enteritis and villous fusion [ 21 , 22 ] .
+109	Influenza viruses can cause severe infections correlated with an intense inflammatory response characterized by the secretion of cytokines , influx of neutrophils , and lung damage that can lead to death .
+110	EMCV , an agent of acute viral myocarditis , infects a wide range of hosts from rodents to humans but is particularly fatal in pigs .
+111	In susceptible species , PrV infection is often fatal , and animals die from central nervous system disorders [ 10 ] .
+112	In neonates , TGEV infects the epithelial cells of the small intestines , leading to potentially fatal gastroenteritis .
+113	DENV infects cells directly or via antibody-dependent enhancement ( ADE ) in Fc-receptor-bearing cells , a process thought to contribute to severe disease in a secondary infection .
+114	MHV causes polytropic and enterotropic disease syndromes , both of which occur following highly contagious viral infection by the oronasal route .
+115	Most individuals infected with MERS-CoV develop a severe respiratory illness accompanied by cough , fever , shortness of breath , and pneumonia .
+116	hPMV induces clinical symptoms ranging from upper to lower respiratory illness such as bronchiolitis , bronchitis and pneumonia [ 7 ] .
+117	Dual viral infections with PRRSV and porcine circovirus 2 ( PCV2 ) , SIV , and porcine respiratory coronavirus ( PRCoV ) are commonly found in pigs , and such coinfections increase the severity of disease .
+118	In humans , WNV causes an acute febrile illness that can progress to severe and sometimes lethal neuroinvasive disease , especially in the elderly and immunocompromised [ 3 ] .
+119	Infection with PIV3 , often considered the most clinically severe of the PIVs , can lead to lower respiratory tract disease , bronchiolitis and pneumonia .
+120	In hamsters , viral replication occurs in epithelial cells of the respiratory tract and causes interstitial pneumonia , pulmonary consolidation , and diffuse alveolar damage .
+121	Infection with MERS-CoV in humans results in a range of different clinical manifestations , from mild to severe disease .
+122	In patients with hematological malignancies , including HCT recipients , RSV causes upper respiratory infection ( URI ) , which may progress to fatal pneumonia ( Harrington et al , 1992 ) .
+123	FIV Fca infection in domestic cat is analogous to HIV infection of humans causing early flu-like symptoms , followed by severe weight loss , chronic wasting disease , and increased susceptibility to rare cancers and opportunistic disease , neurologic disease and death [ 19 , 20 ] .
+124	The SARS-CoV-2 virus affects the digestive system directly by causing tissue damage and indirectly by producing an inflammatory reaction resulting in changes in the intestinal flora , leading to symptoms of diarrhea .
+125	RSV is a widespread human pathogen because the immunity that is obtained after RSV infection might not be protective , frequently leading to reinfection .
+126	Patients with influenza are commonly affected by the inherent virulence of the virus , and the major feature is the early development of ARDS characterized by lung injury and primary viral pneumonia .
+127	PEDV infection always leads to morphological changes of the small intestine with a reduction in villus height and damage to intestinal integrity [ 3 , 27 ] .
+128	In humans , YFV infection produces variable clinical manifestations , ranging from asymptomatic infection to mild febrile illness and to a possibly fatal disease characterized by severe hepatitis , renal failure , hemorrhage , and shock [ 248 ] .
+129	PEDV causes a contagious intestinal disease called porcine epidemic diarrhea ( PED ) , which is characterized by vomiting , diarrhea , and dehydration .
+130	Although most human flavivirus infections are asymptomatic or have an undifferentiated febrile illness , a small percentage of affected individuals develop acute fever that can progress to severe clinical manifestations such as hemorrhage , vascular leakage and encephalitis [ 15 ] .
+131	Pigs naturally infected with PCV2 and/or PRRSV frequently show interstitial pneumonia [ 10 , 42 ] .
+132	The SARS coronavirus ( SARS CoV ) affects multiple organ systems with severe viral pneumonia as its main clinical manifestation but with diarrhea , lymphopenia , and mild liver dysfunction being common extra-pulmonary manifestations .
+133	Human metapneumovirus ( hMPV ) infection causes respiratory tract disease similar to that observed during human respiratory syncytial virus infection ( hRSV ) .
+134	CCoV infection is generally restricted to the alimentary tract , leading to the onset of clinical signs typical of gastroenteritis including loss of appetite , vomiting , fluid diarrhea , dehydration , and , only very rarely , death .
+135	Infection of mice with PVM results in a viral lung infection similar to that of RSV infections in humans [ 13 ] .
+136	Feline infectious peritonitis ( FIP ) , a fatal disease in cats worldwide , is caused by FCoV infection , which commonly occurs in multicat environments .
+137	In cats , PRV infection with brief two-to four-day incubation period , produces acute encephalitis and can cause 100 % mortality in experimentally infected domestic cats [ 32 , 51 ] .
+138	However , in a small proportion of cats , FCoV infection leads to the development of a lethal , immune-mediated condition known as feline infectious peritonitis ( FIP ) [ 10 , 11 ] .
+139	Disease caused by PRRSV is characterized by severe and sometimes fatal respiratory disease and reproductive failure .
+140	Under certain conditions , humans who come into close contact with aerosolized hantaviruses can be infected , and this is often manifest as a hemorrhagic fever with occasional kidney failure due to viral tropism for and damage to renal tissue .
+141	Infection by influenza A virus leads to respiratory failure , which is characterized by acute lung injury associated to alveolar edema , necrotizing bronchiolitis , as well as excessive bleeding ( Sanders et al. , 2011 ; Herold et al. , 2015 ) .
+142	Influenza infection in humans can cause a wide range of disease symptoms , from asymptomatic to serious illness , characterized by sudden onset of fever , myalgia , and respiratory indications , including nonproductive cough , sore throat , and rhinitis .
+143	Reovirus infection of adult mice results in poor viral replication at primary sites of infection , little dissemination to secondary sites , and little to no mortality [ 27 , 28 ] .
+144	Infection with DENV can cause a spectrum of clinical symptoms ranging from flu-like illness , dengue fever ( DF ) , to a severe fatal disease known as DHF or DSS .
+145	In humans , young children are susceptible to JEV infection and often have fatal outcomes .
+146	CHIKV infection in humans is characterized by both acute and chronic form of illness .
+147	PEDV infections cause acute , severe atrophic enteritis accompanied by viremia ( viral RNA ) that leads to severe diarrhea and vomiting , followed by extensive dehydration and imbalanced blood electrolytes as the major cause of death in nursing piglets .
+148	The clinical syndromes associated with WNV human infections are predominantly mild flu-like fevers ( WNV fever ) of which less than 1 % develops severe neuroinvasive disease [ 14 ] .
+149	Circovirus infection can lead to lymphocytic depletion and immunosuppression in the host [ 22 ] .
+150	Primary infection with HHV-6 occasionally results in neurologic complications , including meningitis and menigoencephalitis , encephalitis , and febrile seizures ( Asano et al , 1992 ; Hall et al , 1994 ; Ishiguro et al , 1990 ) .
+151	Infection with SARS-CoV-2 is a mild disease in most people , but in some the disease progresses to a severe respiratory illness characterized by a hyperinflammatory syndrome , multiorgan dysfunction , and death .
+152	Following a 2 - 8 days incubation period , HRSV infection causes illness ranging from mild upper respiratory infection ( URI ) to severe lower respiratory infection ( LRI ) , including pneumonia , bronchiolitis , tracheobronchitis , and croup .
+153	SARS is predominantly a respiratory infection , which possibly spreads through the mucosal lumen or the bloodstream to extrapulmonary sites where viral replication leads to nonrespiratory manifestations .
+154	Some MHV strains causes focal hepatitis , acute encephalitis , and subacute or chronic focal demyelinating disease in the murine brain and spinal cord .
+155	Unlike DENVinfection in humans , DENV does not replicate well or cause symptoms reflective of human disease in immunocompetent wild type ( WT ) mice [ 22 ] , but can cause a similar pathology in mice deficient in the interferon ( IFN ) response , such as in the AG129 IFN receptor knockout mouse model [ 23 ] .
+156	Viral invasion of endothelia and production of pro-inflammatory cytokines by the circulating infected macrophages and DCs lead to the development of viral hemorrhagic fever that is characteristic of EBOV infection [ 13 ] .
+157	Infection of enterocytes with PEDV results in villous atrophy which can lead to malabsorption , diarrhea and anorexia .
+158	Influenza A infection induces diffuse inflammation of the bronchi , trachea and larynx with desquamation of ciliated epithelial cells down to a one-cell-thick basal layer [ 5 ] .
+159	CVB3 infection may lead to acute heart failure and sudden death due to direct cytopathic effects induced by viral replication in the early phase of infection [ 1 , 2 ] .
+160	Infection with coronavirus primarily causes respiratory and enteric syndromes in a wide range of animals [ 21 ] .
+161	Unlike in rodents , Hantavirus infection leads to HFRS and Hantavirus pulmonary syndrome ( HPS ) in humans ( 21 ) .
+162	The highly pathogenic Coronavirus is highly transmittable , causes fatal pneumonia , and infects lower respiratory airways , resulting in pulmonary failure and death .
+163	A lot of COVID-19 infected patients develop acute respiratory distress syndrome ( ARDS ) , which may lead to multiple organ damage .
+164	Unlike TGEV , PRCoV mostly infects epithelial cells of the respiratory tract and alveolar macrophages causing a mild or often subclinical respiratory disease .
+165	BVDV infection causes various clinical symptoms such as diarrhea , respiratory disorders , and immunosuppression .
+166	Although DENV infection induces lifelong immunity against viruses of the same serotypes , the subsequent infection with the heterologous serotypes can cause more severe form of the disease , such as Dengue Haemorrhagic Fever ( DHF ) or Dengue Shock Syndrome ( DSS ) .
+167	Severe coronavirus disease ( COVID-19 ) caused by the SARS-CoV-2 virus is frequently characterized by pulmonary inflammation [ 1 ] .
+168	In humans , acute viral infection often leads to the development of acute respiratory distress syndrome ( ARDS ) , resulting from acute lung injury ( Beigel et al. , 2005 ) .
+169	In mice , wild type VSV can cause acute brain infection and fatal encephalitis [ 33 ] .
+170	SARS is an emerging infectious viral disease characterized by severe clinical manifestations of the lower respiratory tract , resulting in diffuse alveolar damage .
+171	SARS is an emerging infectious viral disease characterized by severe clinical manifestations of the lower respiratory tract , resulting in diffuse alveolar damage .
+172	Human SARS patients generally die from pulmonary failure , whereas infection of the central nervous system is the major factor responsible for a fatal outcome in transgenic mice ( 13 ) .
+173	PEDV replicates in the cytoplasm of villus epithelial cells and causes villi atrophy , shortening , and fusion , which leads to watery diarrhea , vomiting , and dehydration of infected animals .
+174	In some cases , FCoV causes a fatal disease called feline infectious peritonitis ( FIP ) .
+175	DENV infection in humans can cause a wide range of clinical manifestations , from mild febrile disease to potentially fatal dengue shock syndrome [ 2 ] .
+176	BKV establishes infection in the kidney and the urinary tract , and its activation causes a number of disorders , including nephropathy and hemorrhagic cystitis .
+177	BKV establishes infection in the kidney and the urinary tract , and its activation causes a number of disorders , including nephropathy and hemorrhagic cystitis .
+178	Infection of humans with SARS-CoV typically causes an influenza-like syndrome of malaise , rigors , fatigue and high fevers .
+179	PEDV replicates in the small intestine epithelial cells , resulting in an acute and highly contagious enteric disease [ 11 ] .
+180	SARS-CoV-2 causes mild to severe respiratory tract inflammation , often developing into lung fibrosis with thrombosis in pulmonary small vessels and causing even death .
+181	Cats infected with avirulent FCoV-strains usually develop mild enteritis , while virulent FCoV-strains can cause progressive and usually fatal vasculitis known as feline infectious peritonitis ( FIP ) [ 1 ] .
+182	MERS-CoV infection leads to a variety of clinical outcomes in humans ranging from asymptomatic and mild infection to severe acute lung injury and multi-organ failure and death .
+183	The clinical manifestations of Josiah strain LASV infection in cynomolgus macaques include fever , weight loss , depression , and acute respiratory syndrome [ 70 ] .
+184	HuNoV infection usually presents as an acute and self-limiting disease ; however , norovirus infection in infants and young children can develop into more severe gastroenteritis , with symptoms lasting up to 6 weeks ( 3 , 65 ) .
+185	Filoviruses cause a severe and frequently fatal illness , partially , due to damage of dendritic cell function and promotion of lymphocyte apoptosis .
+186	SARS-CoV initially causes lower respiratory tract disease , which can lead to a progressive and potentially lethal atypical pneumonia with clinical symptoms that include fever , malaise , lymphopenia , and in some cases also diarrhea .
+187	Influenza virus is a common respiratory pathogen that primarily infects airway epithelial cells and leads to clinical outcomes ranging from mild upper respiratory infection to severe pneumonia [ 90 ] .
+188	Feline infectious peritonitis ( FIP ) is usually a fatal , immune-mediated disease , triggered by infection with feline coronavirus ( FCoV ) .
+189	SARS is a systemic infection with viremia detected in most cases affecting multiple cell types and organs [ 81 , 82 ] .
+190	BVDV can cause calf diarrhea in two major ways : 1 ) persistent infection resulting in primary damage to enterocytes and susceptibility to co-infection , or 2 ) transient infection with replication in crypt enterocytes and lesion formation contributing to diarrhea .
+191	Severe H1N1pdm infection in humans is characterized by extensive pulmonary inflammation which can lead to ARDS and death [ 6 , 8 , 9 ] .
+192	MHV infection causes thymic atrophy , and the virus can also infect B lymphocytes .
+193	In sharp contrast to FECVs , FIPV causes a lethal disease called feline infectious peritonitis ( FIP ) .
+194	LCMV infection of humans usually results in mild or even inapparent illness , although serious illness can result with occasional mortality .
+195	In humans , the clinical presentation of JEV infection ranges from mild febrile illness to severe meningoencephalitis [ 4 ] .
+196	Sin Nombre virus ( SNV ) , a Hantavirus common in the southwestern United States , is associated with a severe form of HPS that has a case fatality rate of 40 to 50 % .
+197	CDV causes a systemic disease in dogs involving several organs often after aerosol infection and primary replication in the upper respiratory tract or tonsil or both associated with primary pyrexia [ 136 , 137 ] .
+198	The novel coronavirus disease COVID-19 originates in the lungs , but may extend to other organs , causing , in severe cases , multiorgan damage , including cardiac injury and acute kidney injury .
+199	Infection of both susceptible and resistant mouse strains induces an early acute disease marked by viral replication in the gray matter of the CNS that generally does not lead to clinical signs ( 30 ) .
+200	Replication of this SARS coronavirus ( SCV ) occurs mainly in the lower respiratory tract , and causes diffuse alveolar damage(2,7,8 ) .
+201	In humans , JC polyomavirus ( JCPyV ) causes several aggressive CNS diseases , the most common being the frequently fatal demyelinating disease progressive multifocal leukoencephalopathy ( PML ) ( 31 ) .
+202	Coxsackievirus A9 infection is one of the most frequent causes of aseptic meningitis and causes various symptoms such as flaccid paralysis , respiratory disease , and chronic myocarditis .
+203	Varicella pneumonia develops insidiously , usually a few days after the onset of rash , and can progress to respiratory failure and ARDS [ 56 , 57 ] .
+204	Patients with severe acute respiratory illness caused by MERS-COV infection exhibit symptoms like coughing , fever , shortness of breath , diarrhoea , nausea/vomiting , highly lethal pneumonia , and kidney infection in most severe forms [ 5 ] .
+205	After inoculation with human influenza A virus , ferrets develop respiratory disease and lung pathology similar to that observed in humans [ 8 ] .
+206	PEDV infection in piglets up to 1 week of age causes severe watery diarrhea and vomiting for 3 - 4 days followed by extensive dehydration and electrolyte imbalance leading to death .
+207	An infection with TBEV mostly causes flu-like symptoms such as fever , headache , nausea , vomiting and fatigue but can also result in a variety of neurological diseases including meningoencephalitis .
+208	In humans , infection is associated with fever and liver damage , but a subset of patients progress to hemorrhagic fever , encephalitis , ocular disease or death .
+209	While asymptomatic in some , SARS-CoV-2 infection can cause viral pneumonia that progresses to acute respiratory distress syndrome ( ARDS ) , and even multi-organ failure , in severe cases ( 2 , 3 ) .
+210	In humans , infection with the coronavirus , especially the severe acute respiratory syndrome coronavirus ( SARS‐CoV ) and the emerging Middle East respiratory syndrome coronavirus ( MERS‐CoV ) , induces acute respiratory failure , resulting in high mortality .
+211	Limited histopathological findings from human autopsies indicate that fatal cases of MERS-CoV results from pneumonia initiated by infection of bronchiolar and alveolar epithelia of the lower respiratory tract ( LRT ) [ 15 , 16 ] .
+212	Respiratory syncytial virus ( RSV ) may cause a severe lower respiratory tract disease ( LRTD ) in young children that is characterized by an extensive neutrophil accumulation in the lungs and occlusion of small airways by DNA-rich mucus plugs .
+213	HEV infection results in an acute , self-limiting and icteric disease that is prevalent in much of the developing world .
+214	In young piglets as well as in the other susceptible species , PRV infection is often fatal , and animals die from central nervous system disorders [ 20 ] .
+215	SARS-CoV infects cells in the gastrointestinal tract and diarrhea is a clinical sign commonly observed in patients with SARS .
+216	While infection of RSV in immunocompetent adults causes a common cold and mild upper respiratory tract symptoms , the disease outcome can be severe and fatal in preterm infants and children younger than 1 year of age ( Hall et al. 2013 ; Rossi et al. 2007 ; Sommer et al. 2011 ) .
+217	Depending on the inoculation route , MHV infection can result in hepatitis or encephalitis in C57/BL6 mice .
+218	Infectious bronchitis ( IB ) is a severe acute disease of poultry caused by IBV , which primarily infects the respiratory tracts , with respiratory disease being the most frequent sign .
+219	JEV infection causes a broad spectrum of clinical symptoms , ranging from asymptomatic infections to fever , encephalitis , and even death .
+220	SARS-CoV-2 primarily affects the lungs , resulting in viral pneumonia often complicated by acute respiratory distress syndrome and sepsis .
+221	MERS-CoV infection in humans often results in a severe , life-threatening disease of the lower respiratory tract ( LRT ) , with high mortality .
+222	Symptomatic CHIKV infections result in a severe arthritis , which can persist for months following resolution of the fever and rash [ 197 , 198 ] .
+223	Yellow fever is a highly fatal infection caused by a small , enveloped , single-stranded RNA virus and results in renal , hepatic , and myocardial injury , along with hemorrhage and shock ( 41 ) .
+224	The clinical spectrum of overt SLE virus infection ranges from a mild influenza-like syndrome to life-threatening , acute central nervous system ( CNS ) disease ( Brinker and Monath , 1980 ) .
+225	Experimental pneumococcal infection of animals previously infected with influenza results in severe disease and death [ 13 ] .
+226	In contrast to the arthritogenic alphaviruses , infection with encephalitic alphaviruses may result in severe neurologic disease and significant mortality , primarily in young children [ 11 , 12 ] .
+227	Although diarrhea is recognized as the main clinical feature of BCV infections , BCV also causes respiratory tract infections in calves .
+228	FHV-1 causes upper respiratory tract disease ( URTD ) and conjunctivitis or keratitis via its cytopathic effect on epithelial cells .
+229	It is well known that COVID-19 infection leads to mild and self-limiting respiratory symptoms .
+230	IBV infection of humans can result in the same spectrum of clinical disease as IAV , ranging from mild to severe respiratory illness requiring immediate hospitalization and medical treatment [ 7 , 10 ] .
+231	In humans , SFV causes fever , persistent headaches , myalgia , arthralgia and rare cases of meningoencephalomyelitis [ 74 , 75 ] .
+232	EV71 is a common enterovirus that usually causes hand , foot and mouth disease in children but is often associated with brainstem encephalitis , neurogenic shock and polio-like acute flaccid paralysis .
+233	BoHV-1 induced immune-suppression can result in secondary bacterial infections ( Pasteurella haemolytica , Pasteurella multocida , and Haemophilus somnus for example ) that cause life-threatening pneumonia [ 152 ] .
+234	Primary HHV-8 infection in immune-competent individuals is associated with mild , nonspecific symptoms of fatigue , diarrhea , rash , and lymphadenopathy [ 46 ] .
+235	Humans infected with VEEV display symptoms ranging from fever , headache , sore throat , malaise , myalgia , and vomiting to a severe neurological disease and coma [ 16 , 18 , 21 , 22 ] .
+236	The disease caused by these coronaviruses has pneumonia-like symptoms such as fever 77 and dry-cough and leads to progressive respiratory failure , and even death .
+237	In these non-natural hosts , wild-type PRV infection causes a severe pruritus called ' the mad itch ' with peracute death [ 6 , 7 ] .
+238	Clinically , RVFV induces a gamut of symptoms ranging from febrile illness to retinitis , hepatic necrosis , hemorrhagic fever , and death .
+239	Infection with DENV can lead to a spectrum of clinical diseases ranging from subclinical infection to dengue fever to the most severe forms , dengue hemorrhagic fever and dengue shock syndrome [ 25 ] .
+240	Poliovirus is highly pathogenic in humans , resulting in paralytic poliomyelitis in < 1 % of infected individuals owing to the destruction of anterior horn motor neurons following infection .
+241	In young animals , CAV-1 causes serious clinical symptoms , including anorexia , ataxia , and paralysis , which may result in death ; and compared with older animals , the clinical course of the infection is more severe in the young [ 6 ] .
+242	Common symptoms of NiV infection in humans are similar to that of influenza such as fever and muscle pain and in some cases , the inflammation of the brain occurs leading to encephalitis .
+243	AIV is well known to mainly cause pneumonia , severe acute lung injury ( ALI ) , and acute respiratory distress syndrome ( ARDS ) in humans [ 17 ] .
+244	In humans , MERS-CoV causes a respiratory illness with severity varying from asymptomatic to potentially fatal acute respiratory distress 14 - 16 .
+245	Infection with PEDV is characterized by acute enteritis , vomiting , diarrhea , and dehydration .
+246	TGEV infection is characterized by severe diarrhea , vomiting and dehydration , with high morbidity and mortality in suckling piglets ( especially in piglets younger than two weeks of age ) .
+247	Mice infected with the influenza viruses show lymphopenia and H5N1 viruses induce a marked lymphopenia with systemic lymphoid tissue depletion [ 10 ] .
+248	While COVID-19 can affect multiple organs in the body , including the kidneys and liver [ 4 , 5 ] , the main cause of mortality is due to the ability of SARS-CoV-2 to infect the respiratory tract , leading to severe pneumonia .
+249	The onset of acute enteritis is associated with infection by viruses that replicate at or near the site of entry into the intestinal mucosa , including caliciviruses , rotaviruses , adenoviruses , astroviruses , and coronaviruses .
+250	The onset of acute enteritis is associated with infection by viruses that replicate at or near the site of entry into the intestinal mucosa , including caliciviruses , rotaviruses , adenoviruses , astroviruses , and coronaviruses .
+251	Commonly , MDV infection results in bursal atrophy due to B cell cytolysis and spleen enlargement is due to inflammation as well as tumor formation .
+252	This viral infection shows mild and indistinguishable symptoms from common colds in adults and healthy children but can also cause severe lower respiratory tract diseases such as pneumonia and bronchiolitis in premature babies and infants with underlying health conditions and immunocompromised patients .
+253	Cytomegalovirus ( CMV ) infection of humans can result in pathological manifestations within the CNS that include microglial nodule formation and ventriculoencephalitis ( Arribas et al. , 1995 ) .
+254	JHMV infection induces encephalitis in most strains of mice , infecting ependymal cells , microglia , astrocytes , and oligodendrocytes , but rarely neurons ( Wang et al. , 1992 ) .
+255	In adult Severe Combined Immunodeficient ( SCID ) mice MVMi causes acute leucopenia [ 30 ] , while MVMp infection is asymptomatic [ 31 ] .
+256	Liver damage , and subsequent increases in liver enzymes , is a common disease manifestation of VHFs , including that caused by MARV .
+257	IBV infection is manifested clinically in chickens in the form of respiratory distress , kidney failure , a drop in egg production and the production of malformed eggs [ 21 ] .
+258	RSV can cause re-infections throughout life with milder disease , indicating that either RSV infection induces an inadequate immune response or genetic variability of RSV is extensive [ 4 ] .
+259	Unlike SARS-CoV infection , which causes primarily a severe respiratory syndrome , MERS-CoV infection can also lead to kidney failure [ 37 , 38 ] .
+260	HEV infection usually leads to acute hepatitis that can become fulminant , particularly among pregnant women and in patients with preexisting liver disease , or may even evolve to a chronic state , especially in immunosuppressed individuals [ 33 ] .
+261	In some infected cats , virulent virus mutants induce feline infectious peritonitis ( FIP ) , a fatal systemic disease that can develop in association with viraemia .
+262	Ebola infection causes activation of antigen presenting cells and impairment of the coagulation systems causing multiorgan failure and septic shock .
+263	In humans , encephalitis represents a significant complication of HeV infection .
+264	WNV strongly activates host immune responses , which play important roles in controlling viremia , viral dissemination to the central nervous system ( CNS ) , and recovery from the disease [ 11 ] .
+265	Similarly to severe acute respiratory syndrome coronavirus ( SARS-CoV ) , MERS-CoV infection can result in acute respiratory distress syndrome and organ dysfunction , including progressive renal function impairment .
+266	Feline panleukopenia ( FPL ) is an important systemic parvoviral infection of cats associated with replication in and cytopathic effects on rapidly dividing cells , such as bone marrow , lymphoid cells , and intestinal epithelia .
+267	Retinitis is the primary manifestation of HCMV infection in AIDS patients with low CD4 + T-cell counts , while transplant recipients are at great risk of developing pneumonia , gastrointestinal disease or to suffer an acute graft rejection ( Gandhi & Khanna , 2004 ; Steininger et al. , 2006 ; Buyck et al. , 2010 ) .
+268	Ebola virus causes a fulminant infection in humans resulting in diffuse bleeding , vascular instability , hypotensive shock , and often death .
+269	Immunosuppression is the main consequence of FeLV infection and leads to exacerbation of the clinical course of infections caused by mild pathogens such as Mycoplasma hemofelis and other feline hemoplasmas , Crytpococcus spp , Toxoplasma gondii , feline coronavirus , and calicivirus .
+270	IBV infection often causes severe respiratory and urogenital diseases in chickens .
+271	Human lymphocytic choriomeningitis virus ( LCMV ) infection is associated with pet rodents and also causes serious infections in immunocompromised persons ( 3 ) .
+272	DENV infection results in a wide range of outcomes , from asymptomatic infection to a fatal shock syndrome .
+273	In immunodeficient children , adenovirus infection can cause a disseminated infection of the lung , liver , bone marrow , heart , and brain and produce fulminant hepatitis [ Krilov , et al. , 1990 ] .
+274	Severe pneumonia caused by pathogenic hCoVs is often associated with rapid virus replication , massive inflammatory cell infiltration and elevated pro-inflammatory cytokine/chemokine responses resulting in acute lung injury ( ALI ) , and acute respiratory distress syndrome ( ARDS ) .
+275	In addition to immunosuppression , FeLV-infected cats can develop immune-mediated diseases caused by an overactive or dysregulated immune response to the virus .
+276	In humans , TBEV may produce a variety of clinical symptoms , from an asymptomatic disease ( 70 - 90 % of cases ) to a fever and acute or chronic progressive encephalitis .
+277	In horses , AHSV infection induces lesions in the circulatory and respiratory system , resulting in hemorrhages and effusions .
+278	In chickens , Infectious Bronchitis ( IB ) causes severe inflammatory lesions in the respiratory tract .
+279	RSV infection is one of the leading causes of respiratory distress in children [ 57 , 58 ] and in adults , the infection leads to self-limited upper respiratory illness [ 59 ] .
+280	SARS-CoV-2 infection appears to cause a wide range of symptoms , encompassing asymptomatic infection , mild infections of the upper respiratory tract , severe viral pneumonia , respiratory failure , multiple organ failure and more deaths than previously expected 11 .
+281	IAV initiates infection in humans via entry through the upper respiratory tract , eliciting symptoms that can be mild and self-limited , but in some patients , it can lead to acute respiratory distress syndrome ( ARDS ) , which is characterized by the impairment of gas exchange resulting in a fatal outcome [ 3 , 4 ] .
+282	The clinical syndrome caused by ZIKV in humans consists in a mild influenza-like illness resolving within days that occurs in approximately 20 % of infected individuals [ 3 ] .
+283	SARS-CoV-2 infection causes lymphopenia and immune-mediated cytokine storm syndrome , resulting in pathological changes in lungs , heart , liver , and other organs .
+284	The fatal outcome of RABV infection is associated with a progressive encephalitis and eventual multi-organ failure [ 187 , 202 ] .
+285	Following mosquito inoculation , DENV infection in humans can be clinically silent ( asymptomatic ) or cause syndromes ranging from a febrile illness ( classic dengue fever [ DF ] ) to a life-threatening hemorrhage and vascular permeability syndrome ( dengue hemorrhagic fever/dengue shock syndrome [ DHF/DSS ] ) ( 2 ) .
+286	Co-infection of animals with PCV2 and another pathogen occurs in most cases , and pathogenesis is thought to occur from virus-induced damage to the immune system ( Szeredi et al. , 2012 ) .
+287	IAV infect the respiratory tract and can induce an acute pulmonary inflammation leading to vascular permeability , necrosis of epithelial cells and lung dysfunction [ 3 ] .
+288	Human infection with HPAI H5N1 virus involves primarily the lower respiratory tract , resulting in diffuse alveolar damage ( DAD ) and a fatality rate of almost 60 % in confirmed cases [ 4 ] .
+289	Upon nasal infection , coronavirus enters the central nervous system ( CNS ) through the olfactory bulb , causing inflammation and demyelination .
+290	Depending on the virus strain , macaques can also display a human-like symptomatology , and , like humans , infection with highly pathogenic avian influenza viruses can induce ARDS and multi-organ system dysfunction in primate models .
+291	FCoV causes feline infectious peritonitis ( FIP ) , which is a transmissible inflammation of the visceral serosa and omentum with exudation into the abdomen [ 3 ] .
+292	During pregnancy , HEV infection can take a fulminant course , resulting in fulminant hepatic failure , membrane rupture , spontaneous abortions and stillbirths .
+293	Rhesus macaques appear to develop a transient lower respiratory tract infection after a combination of intratracheal , ocular , oral , and intranasal inoculation with MERS-CoV ( 3 ) , whereas the common marmoset develops progressive and severe pneumonia , which can be lethal ( 4 ) .
+294	SARS-CoV causes a systemic infection with viral shedding not only in respiratory secretions , but also in stool and urine [ 63 , 65 , 66 ] .
+295	CHIK infection produces a self-limiting illness in humans that is often characterized by sudden onset of fever , headache , fatigue , nausea , vomiting , rash , myalgia , and severe and very painful polyarthralgia , which lasts for 1 - 10 days .
+296	Various species of Leptospira cause leptospirosis , a disease characterized by acute fever that can lead to liver and kidney damage .
+297	In a small percentage of cats , FCoV infection is associated with the fatal disease feline infectious peritonitis ( FIP ) .
+298	The primary tissue of IBV infection is the respiratory tract , though some isolates replicate in the kidney and oviduct , resulting in nephritis and reduced egg production .
+299	IBV Infection of enteric tissues does usually not manifest clinically but persists for long periods and results in fecal virus shedding .
+300	The most insidious effect of BVDV infection is the causation of persistently-infected ( PI ) calves and crias , due to in utero infection and immunotolerance of the fetus to the infecting BVDV strain .
+301	Intrapulmonary administration of SARS-CoV to immune competent rodents results in infection and some replication although the virus is rapidly cleared and there is little pathology other then mild bronchiolitis [ 7 ] .
+302	One of the clinical features in SARS infection is continuous deterioration of lung function and the obvious loss of lung repair capacity after viral load has declined ( 5 ) .
+303	The infection of JEV can cause nervous system disease with irreversible neurological damage in humans and animals ( Vaughn and Hoke , 1992 ) .
+304	PEDV infection causes acute diarrhea , dehydration , and even a death rate greater than 95 % in infected piglets [ 29 ] .
+305	Middle East Respiratory Syndrome ( MERS ) is caused by a highly pathogenic Merbecovirus , a different Betacoronavirus , with a death rate of 34.7 % ( 25 , 26 ) .
+306	In rodent models of BDV infection , the virus can cause neuronal cell dysfunctions in the absence of immunemediated cell destruction or apoptosis , resulting in serious neurological disorders [ 23 ] .
+307	The virus mainly damages pulmonary epithelial cells at the onset of infection and thereafter induces lymphohistiocytic interstitial pneumonia ( Cox et al. , 1990 ; Jung et al. , 2007 ) .
+308	hMPV infection causes a wide spectrum of diseases from mild upper respiratory tract infections ( RTI ) to severe lower RTI such as bronchiolitis or pneumonia and can result in hospitalization of both children and adults [ 49 ] .
+309	RVFV infection in humans can progress to serious hemorrhagic fevers that often lead to death , with prominent mortality rates of up to 10 - 12 % .
+310	JEV infection in humans can manifest a spectrum of diseases , from asymptomatic infection to a mildly febrile symptomatic illness , or to a life-threatening disease that affects the central nervous system ( Vaughn and Hoke , 1992 ; Song et al. , 2012 ) .
+311	Highly pathogenic coronaviruses such as SARS-CoV and MERS-CoV cause fatal pneumonia , which is mainly associated with rapid virus replication , massive inflammatory cell infiltration and elevated proinflammatory cytokine/chemokine responses .
+312	In calves , coronaviruses invade and destroy villous epithelial cells of the small intestine , causing villous atrophy .
+313	Similar to PEDV infections , PDCoV infections also cause acute , severe atrophic enteritis accompanied by transient viremia ( viral RNA ) that leads to severe diarrhea and/or vomiting , followed by dehydration as the potential cause of death in nursing piglets .
+314	RSV infection commonly leads to a devastating viral pneumonia , with a mortality rate approaching 50 % .
+315	In animal models , HEV is able to cross the blood-brain barrier , replicate in the central nervous system , and cause neuronal necrosis and myelin degeneration [ 10 ] .
+316	SARS-CoV-2 mainly invades alveolar epithelial cells , resulting in acute respiratory distress syndrome that can lead to the death of infected patients .
+317	HuNoV in humans is typically an acute infection , with peak viral shedding occurring 2 to 4 days after infection .
+318	Primary JCV infection during childhood , which occurs in up to 75 % of the population , results in lifelong viral latency in the kidneys and B-cell lymphocytes [ Goldberg et al. , 2002 ] .
+319	Murine cHV68 pathogenesis involves dissemination from the lung to lymph nodes , spleen , and peritoneum [ 12 , 15 ] .
+320	Enterovirus ( EV ) 71 infection is known to cause hand-foot-and-mouth disease ( HFMD ) and in severe cases , induces neurological disorders culminating in fatality .
+321	Primary FECV infection is largely subclinical or associated with a transient and usually mild diarrhea and is centered in the lower small intestine and colon ( Kipar et al. , 2010 ; Vogel et al. , 2010 ) .
+322	Ferret coronavirus is associated with two disease presentations in ferrets , namely , epizootic catarrhal enteritis and a feline infectious peritonitis (FIP)-like systemic disease .
+323	Patients infected with SARS-CoV-2 show typical pneumonia and severe lung damage [ 3 ] .
+324	Infection with LIV in humans can cause a neurological disease resembling the clinical picture observed for TBEV infections , i.e. biphasic encephalitis , influenza-type illness , fever , articular pain , meningitis , myagia and poliomyelitis-like illness [ 141 ] .
+325	A common severe clinical manifestation of patients infected with influenza A virus subtype H1N1 is severe ARDS [ 5 ] .
+326	The highly pathogenic feline infectious peritonitis virus ( FIPV ) manifests in a progressive and mostly fatal disease , FIP , characterized by granulomatous lesions ( Pedersen et al. , 2009 ) .
+327	COVID-19 infection causes a wide spectrum of diseases which may lead to respiratory failure and death .
+328	CPV2-infected dogs are characterized by a gastroenteritis disorder with clinical signs of anorexia , lethargy , vomiting , fever and diarrhea ( from mucoid to hemorrhagic ) [ 5 , 6 ] .
+329	PEDV infection is characterized by severe villous atrophy in the small intestine that results in watery diarrhea followed by fatal dehydration in newborn pigs ( Lee , 2015 ; Pensaert and de Bouck , 1978 ; Saif et al. , 2012 ) .
+330	Although HEV infection is generally self-limiting , it induces fulminant hepatic failure , which results in a very high mortality rate in pregnant women .
+331	MERS-CoV affects the respiratory system and leads to respiratory failure , especially in older people , immunocompromised individuals , and those suffering from cardiopulmonary illnesses [ 4 ] .
+332	In humans , VEEV usually causes mild to severe influenza-like symptoms ; 4 - 14 % of cases , however , develop neurological complications ( Gardner et al. 2008 ) .
+333	Severe acute respiratory syndrome ( SARS ) is an emerging infectious disease caused by a novel human coronavirus ( SARS-CoV ) , which results in severe pulmonary pathological failure Ksiazek et al. , 2003 ; Peiris et al. , 2003 ; Katze et al. , 2003 ) .
+334	Viral replication and damage in secondary lymphoid organs and pronounced lymphopenia are also observed in fatal LASV infection [ 52 , 96 , 97 ] .
+335	Although rarely responsible for disease in the natural host , inadvertent infection of humans results in a disseminated viral infection characterized by ascending paralysis and a high case fatality rate .
+336	SARS CoV infection of humans results in the development of acute respiratory syndrome in about 10 % of the patients , which usually results in mortality .
+337	HuNoV infection is generally self-limiting , but it can induce severe illness and fatal disease in immunocompromised patients , specifically , organ recipients receiving long-term chemotherapy or hematopoietic stem cell transplantation [ 12 , 13 ] .
+338	Rabbits infected with RDHV often develop acute necrotizing hepatitis and disseminated intravascular coagulation in the liver , spleen , kidney , and other solid organs [ 1 ] .
+339	Primary infections with BKV and JCV are typically subclinical or linked to mild respiratory illness and are followed by viral dissemination to the sites of lifelong persistent infection [ 11 ] .
+340	In less than 1 % of the infected individuals , WNV invades the central nervous system ( CNS ) , causing neurological manifestations ( neuroinvasive disease ) , including meningitis , encephalitis , and acute flaccid paralysis .
+341	Up to 12 % of FCoV infected cats develop feline infectious peritonitis ( FIP ) , which is a fatal form of the infection ( Addie et al. , 2009 ) .
+342	Human infection by SFTSV can cause severe fever with thrombocytopenia syndrome ( SFTS ) with a high fatality rate up to 30 % ( Yu et al. , 2011 ) .
+343	RSV infection causes significant acute lung injury with the potential for ARDS and other pulmonary complications ( Piedimonte and Perez , 2014 ) .
+344	The viral pathogens associated with BRD [ Bovine Parainfluenza Virus type-3 ( BPI3V ) , Bovine Respiratory Syncytial Virus , Bovine Viral Diarrhoea Virus and Bovine Herpes Virus-1 ] impair immune responses in infected animals and damage the respiratory tract allowing the establishment of secondary infections , that may develop further into bacterial pneumonia [ 8 ] .
+345	Rotavirus infection is limited to the mature enterocytes of the tips of the intestinal villi of humans , domestic animals , and mice , leading to severe gastroenteritis in the young [ 9 ] .
+346	Canine parvovirus type 2 ( CPV‐2 ) , as a highly contagious and potentially fatal disease of dogs and many other carnivores , usually causes severe gastroenteritis and myocarditis .
+347	Damage to lymphocytes , including T lymphocytes by coronavirus leads to lymphopenia , predisposing to secondary bacterial infections and exacerbating severity [ 24 ] .
+348	Infection with these viruses leads to leukocyte influx and damage of respiratory tract epithelium .
+349	Influenza infection of humans causes significant pathology in the lower respiratory tract ; common features include desquamation of the epithelium , mucosal oedema and leukocyte infiltration [ 44 ] .
+350	FCoVs cause enteric disease in cats as well as feline infectious peritonitis ( FIP ) , a serious systemic pyogranulomatous to granulomatous disease that progresses over a period of weeks to months and , once it occurs , is ultimately always fatal .
+351	CAV-1 replication in vascular endothelial cells and hepatocytes produces acute necrohemorrhagic hepatitis , and the disease is more severe in young animals [ 28 , 29 ] .
+352	In humans , MERS is mostly known as a lower respiratory tract ( LRT ) disease involving fever , cough , breathing difficulties and pneumonia that may progress to acute respiratory distress syndrome , multiorgan failure and death in 20 % to 40 % of those infected .
+353	HEV infection is associated with a number of extrahepatic manifestations , including kidney and a range of neurological injuries , in particular , Guillain-Barré syndrome , neuralgic amyotrophy and encephalitis/myelitis ( Dalton et al. 2016 ) .
+354	MHV , a coronavirus , induces high levels of inflammatory cytokines and is known to induce acute viral hepatitis in mice .
+355	However , SARS-CoV-2 causes pneumonia that can be severe and characterized by fever , cough , dyspnea , bilateral pulmonary infiltrates , and acute respiratory injury .
+356	However , SARS-CoV-2 causes pneumonia that can be severe and characterized by fever , cough , dyspnea , bilateral pulmonary infiltrates , and acute respiratory injury .
+357	Infection with Ebola virus causes an acute hemorrhagic fever in human and some non-human primates resulting in high mortality rates .
+358	The murine coronavirus MHV-1 causes fatal interstitial pneumonitis in the A/J strain of inbred mice [ 6 ] .
+359	H5N1 infection of mice results in viremia and viral replication in multiple organ systems , severe lung pathology , fulminant diffuse interstitial pneumonia , pulmonary edema , high levels of proinflammatory cytokines , and marked lymphopenia ( Dybing et al. , 2000 ; Gubareva et al. , 1998 ; lu et al. , 1999 ) .
+360	PEDV infections are characterized by acute destruction of intestinal villous enterocytes and villous atrophy within the jejunum and ileum ( Pensaert and de Bouck , 1978 ) .
+361	MERS-CoV shows SARS-like symptoms following human infections , which include malaise , rigors , fatigues and high fevers , indications similar to influenza , but later progresses to atypical pneumonia in most cases [ 16 ] .
+362	Infection of the brain with the JHM strain of MHV ( JHMV ) results in focal myelin loss , despite viral clearance from the adaptive immune response [ 32 ] .
+363	Infection of the brain with the JHM strain of MHV ( JHMV ) results in focal myelin loss , despite viral clearance from the adaptive immune response [ 32 ] .
+364	FIPV is macrophage tropic and it is believed that it causes aberrant cytokine and/or chemokine expression and lymphocyte depletion , resulting in lethal disease [ 63 ] .
+365	Coxsackievirus B5 ( CVB5 ) , a serotype of the enterovirus B species , is mainly involved in mild infections that can , in some cases , induce fever , meningitis , and even myocarditis .
+366	Most infections of influenza virus A are localized to the upper respiratory tract but some more severe cases may result in pneumonia ( Nicholson et al. , 2003 ) and even complications involving the CNS ( Jang et al. , 2009 ) .
+367	Croup is the main clinical manifestation of infection with parainfluenza viruses , especially HPIV1 and 2 , and these infections may extend to the lower respiratory tract and result in pneumonia [ 94 ] .
+368	Filovirus infections are characterized by marked lymphopenia , severe degeneration of lymphoid tissues , dysregulated dendritic cell function , and cytokine storms-all hallmarks of pathogens that subvert both innate and adaptive immune responses [ 14 ] .
+369	The outcome of HRSV infection usually involves mild upper respiratory tract infections ; however , more severe conditions , such as pneumonia and bronchiolitis occur in 25 - 40 % of children ( Meissner , 2003 ) .
+370	Calves PI with BVDV develop MD when they are subsequently infected with a related CP BVDV strain [ 6 , 7 ] .
+371	Filovirus disease is characterized by uncontrolled virus replication and the activation of host responses that contribute to pathogenesis .
+372	EBOV causes an acute infection that can often lead to multi-system organ failure and hemorrhagic fever disease in humans .
+373	FeLV causes lymphopenia , depressed cellmediated immune responses , thymic atrophy , and depressed humoral responses to T-cell dependent antigens despite the presence of hypergammaglobulinemia [ 31 ] .
+374	Similar to SARS-CoV , MERS-CoV can cause atypical pneumonia , acute respiratory distress syndrome , and , potentially , renal failure in infected individuals [ 25 ] .
+375	SARS-CoV-2 infection can result in a spectrum of diseases , from mild respiratory symptoms to severe , life-threatening pneumonia .
+376	Infection with CHIKV often results in acute illness characterized by the classic triad of fever , arthralgia , and rash , and it can become chronic in a subset of patients .
+377	Porcine epidemic diarrhea virus ( PEDV ) , an enteric coronavirus , is the causative agent of porcine epidemic diarrhea ( PED ) that damages intestinal epithelial cells and results in severe diarrhea and dehydration in neonatal suckling pigs with up to 100 % mortality .
+378	In immunocompromised individuals such as AIDS patients , JCV is responsible for progressive multifocal leukoencephalopathy ( PML ) leading to rapid demyelination in the central nervous system , with consequent cognitive impairment and motor dysfunctions [ 169 ] .
+379	Clinical manifestations caused by hRSV infection range from mild symptoms , such as rhinitis , to more severe consequences , which include bronchiolitis , and pneumonia ( Pickles and DeVincenzo , 2015 ) .
+380	However , dromedaries infected with MERS-CoV develop pyrexia with mild upper respiratory signs , consisting of serous to purulent nasal discharge [ 18 ] .
+381	MERS-CoV infection in humans causes asymptomatic or mild respiratory illness , severe pneumonia , multiorgan failure , and even death [ 3 ] [ 4 ] [ 5 ] .
+382	CCHFV human infection involves sudden onset of acute symptoms , including high fever , headache , myalgia , and petechial rash , followed by hemorrhage progressing to multiorgan failure , with leukopenia , thrombocytopenia , and elevated liver enzymes as hallmarks of the overall disorder ( Begum et al. , 1970 ; Sanchez et al. , 2006 ) .
+383	The invasion of such coronaviruses is associated with severe immune responses , which may eventually lead to acute respiratory distress syndrome ( ARDS ) .
+384	Feline infectious peritonitis ( FIP ) is a common disease in cats caused by a virulent form of feline coronavirus ( FCoV ; Pedersen et al. , 1981 ; Poland et al. , 1996 ; Vennema et al. , 1998 ) .
+385	AGMs infected with sArs-CoV have no overt clinical signs but DAD and pneumonitis has been documented ( McAuliffe et al. , 2004 ) .
+386	BDV infection in sheep and goats causes placentitis and endometritis that are particularly evident when infection occurs during the first trimester of gestation .
+387	Coxsackievirus B3 ( CVB3 ) infection of mice can cause myocarditis , similar to that found in human populations .
+388	In experimental studies in pigs , Reston EBOV replicates within internal organs and can be shed from the nasopharynx without evident clinical signs ( Marsh et al. , 2011 ) ; experimental infection with Zaire EBOV ( ZEBOV ) causes severe neutrophilic and histiocytic pneumonia and respiratory distress ( Kobinger et al. , 2011 ; Nfon et al. , 2013 ) .
+389	Porcine hemagglutinating encephalomyelitis is an acute and highly contagious disease that is caused by PHEV and leads to vomiting , depression , pallor , and dehydration as well as neurologic signs , such as abnormal gait , dullness , anorexia , tremors , and nystagmus .
+390	MHV is a common enteric pathogen of mice and rats that occasionally disseminates to the CNS .
+391	HeV infection of hamsters also produces both respiratory and brain pathology , with endothelial infection and vasculitis , and direct parenchymal cell infection in the CNS ( Guillaume et al. 2009 ) .
+392	FCoV infection can cause a transient and clinically mild diarrhea or vomiting [ 20 ] as a result of replication of FCoV in enterocytes .
+393	Symptoms of HeV and NiV infection of humans can be respiratory , including hemorrhage and edema of the lungs , or encephalitic , resulting in meningitis .
+394	While VEEV causes high-titered viremia in equines , resulting in encephalitis with a mortality rate between 30 to 90 % , disease in humans is usually self-limited and consists of fever , chills , malaise , and severe headaches , with 1 to 4 % progressing to severe encephalitis [ 2 ] .
+395	Infection by LCMV can result in acute central nervous system disease and congenital malformations ( Barton and Hyndman 2000 ; Barton et al. 1993 ) .
+396	In humans , infections by adenoviruses cause conjunctivitis , gastroenteritis , hepatitis , myocarditis , and acute respiratory illness , ranging from the ' ' common cold ' ' syndrome to fatal outbreaks of pneumonia [ 2 , 3 ] .
+397	MTV causes severe , diffuse necrosis of the thymus in mice exposed within approximately 1 week after birth , but the severity of thymic and lymph node necrosis can be mouse strain-dependent .
+398	Infection with DENV causes a spectrum of clinical illness , ranging from a usually mild , acute self-limited febrile illness , dengue fever , to lifethreatening hemorrhagic and capillary leak syndromes of dengue hemorrhagic fever/dengue shock syndrome ( DHF/DSS ) .
+399	CPV-2 causes severe diarrhea and vomiting , and it has a predilection for young puppies , resulting in high mortality due to myocarditis and enteritis [ 31 ] .
+400	Humans exposed to RVFV can present febrile illness , but in 1 % to 2 % of the cases it can progress to retinitis with persisting visual impairment , meningoencephalitis or hemorrhagic fever , resulting in mortality of up to 20 % in hospitalized patients [ 25 ] .
+401	HCMV causes morbidities and mortalities in immunocompromised individuals such as transplant recipients and acquired immune deficiency syndrome patients ( Landolfo et al. , 2003 ; Davis et al. , 1987 ) .
+402	Filoviruses induce lethal viral hemorrhagic fevers ( VHFs ) in both humans and nonhuman primates , while RESTV infection in humans is probably subclinical , yet it also causes highly lethal VHF in macaques [ 2 , 3 ] .
+403	Influenza virus (IV)-mediated pneumonia often leads to severe damage to the lung epithelium and impairment of respiratory functions .
+404	Hepatitis caused by mouse hepatitis virus ( MHV-A59 ) , a murine coronavirus , is accompanied by direct infection and replication of virus within the liver .
+405	In North and South America , hantavirus infection causes the hantavirus cardiopulmonary syndrome ( HCPS ) where patients present with severe acute respiratory distress ( Sargianou et al. , 2012 ) .
+406	SARS-CoV-2 invades the lungs through the respiratory tract and causes severe pneumonia , which is the most frequent presentation .
+407	Macaques are not naturally infected with simian immunodeficiency virus ( SIV ) in the wild , but upon experimental infection with SIVs , they develop a clinical syndrome that is remarkably similar to AIDS in humans [ 9 ] .
+408	Respiratory disease caused by HAdV results from necrosis of cells of the airway epithelia , with viremia that may lead to disseminated infection in immunocompromised persons .
+409	Uncomplicated infl uenza in humans is characterized by massive virus replication in respiratory epithelial cells , infl ammation and an abrupt onset .
+410	SARS-CoV replicates predominantly in the lower respiratory tract and causes diffuse alveolar damage , leading to severe respiratory distress ( Kuiken et al. , 2003 ; Nicholls et al. , 2003 ) .
+411	Clinical symptoms associated with hMPV infection are similar to those caused by human respiratory syncytial virus ( RSV ) infection , and range from upper respiratory tract disease to severe bronchiolitis and pneumonia [ 2 ] .
+412	HeV-infected horses develop acute , febrile respiratory disease that is sometimes accompanied by facial swelling , ataxia and , terminally , copious frothy nasal discharge 31 .
+413	Infection of ZV results in a self-limiting mild illness characterized by rash , fever , conjunctivitis , arthralgia , and arthritis [ 3 ] .
+414	CCoV replication is mainly limited to the gastrointestinal tract and can eventually lead to death , particularly when co-infection with canine parvovirus ( CPV-2 ) , canine adenovirus type 1 ( CAV-1 ) or canine distemper virus ( CDV ) are present .
+415	Encephalitis induced by lab-attenuated RABV is characterized by obvious CNS inflammation [ 18 , 47 , 48 ] .
+416	PCMV infection causes reproductive failure in sows , and PCMV-infected piglets less than 3 weeks old often show lethal systemic infections and serious respiratory symptoms , along with high mortality .
+417	LACV encephalitis is characterized by perivascular infiltration of leukocytes into the central nervous system ( CNS ) and neuronal death .
+418	In addition to causing respiratory symptoms , chills , headache , muscle ache , and fever , infection with SARS-CoV has been shown to result in severe diffuse pneumonia , pulmonary fibrosis , and in the most severe cases , death .
+419	Viral pathogen Human Norovirus ( HuNoV ) infection leads to a self-limiting stomach flu or viral gastroenteritis and is one of the most common causes of acute gastroenteritis in the world [ 37 ] .
+420	Most European and Asian cases of hantavirus infection are characterized by acute renal failure , thrombocytopenia and increased vascular permeability [ 19 ] .
+421	Acute infection of cattle with BoHV-1 generally results in inflammatory disease within the upper respiratory tract , nasal cavity , and ocular cavity , which leads to erosion of the mucosal surface .
+422	Leptospirosis in hamsters is characterized by hepatic and renal complications similar to those seen in acute lethal infection in humans ( Silva et al. , 2008 ) .
+423	Replication of SARS CoV occurs both in the upper and lower respiratory tract , and development of ARDS-like disease also occurs in some patients ( Ng et al. 2006 ; Ye et al. 2007 ) .
+424	Invasion of avian infl uenza virus to the human respiratory epithelium can cause fl u-like symptoms , viremia , and viral pneumonia .
+425	PEDV infection causes lesions and clinical symptoms , and infected pigs often succumb to severe dehydration .
+426	In humans , LIV causes a disease that closely resembles TBEV , with initial flu-like symptoms which can progress to severe neurological disease .
+427	Feline infectious peritonitis ( FIP ) is a fatal disease that affects cats and is associated with FCoV infection [ 9 ] .
+428	Porcine reproductive and respiratory syndrome ( PRRS ) is a disease of pigs that is characterized by negligible induction of type I IFNs and viral persistence for an extended period .
+429	The viral infection starts in the upper respiratory tract and spreads to the lower tract within a few days , resulting in inflammation of the bronchiolar epithelium and edema of the submucosa and adventitia [ 43 ] .
+430	However , the opportunistic resurgence of JCV infection in the brain of immunocompromised patients can cause a debilitating disease called Progressive Multifocal Leukoencephalopathy ( PML ) .
+431	Infection with SARS-CoV causes lower respiratory tract disease with clinical symptoms that include fever , malaise , and lymphopenia [ 1 ] .
+432	Like H5N1 influenza , SARS in man is a respiratory disease with extrarespiratory virus dissemination , as demonstrated by antigen expression in several organs and excretion of virus via respiratory secretions , stool , urine and possibly sweat ( Ding et al. , 2004 ; Farcas et al. , 2005 ) .
+433	Dengue virus causes disease in humans , including DF and dengue hemorrhagic fever ( DHF ) , in which increased vascular permeability is the main pathology leading to shock [ 37 ] .
+434	Neurotropic MHV strains induce meningitis , encephalitis , and myelitis during their acute phase and progressive demyelination in the chronic phase of infection when viral particle is cleared and acute inflammation is resolved .
+435	Most patients infected with MERS-CoV show signs of pneumonia and ARDS , as well as acute kidney injury in some of the cases [ 9 ] .
+436	Although primary CMV infection in healthy adults is usually asymptomatic or associated with a mild mononucleosislike syndrome , CMV can cause severe , life-threatening disease and mortality in neonates and in immunocompromised adults ( Lancini et al. , 2014 ) .
+437	COVID-19 infection causes clusters of severe respiratory illness , and its main clinical manifestations are fever , cough , shortness of breath , and myalgia or fatigue [ 2 , 3 ] .
+438	The incubation period of JE ranges from 5 to 15 days , and most JEV infections in endemic regions manifest as mild febrile , subclinical disease which leads to protective adaptive immune responses [ 4 ] .
+439	Measles virus ( MV ) , one of the most contagious viruses infecting humans , causes a systemic infection leading to fever , immune suppression , and a characteristic maculopapular rash .
+440	In humans , adenovirus infection can results in fever , pharyngitis , conjunctivitis , bronchitis and pneumonia .
+441	Similar to SARS in humans , MERS-CoV-infected patients exhibit symptoms of a flu-like illness followed by an atypical pneumonia , including fever , dry cough and severe shortness of breath [ 8 ] .
+442	Although generally mild and self-limiting , rhinovirus infection may cause asthma or chronic obstructive pulmonary disease in chronic infection and lead to severe complications for asthmatics , elderly people , and immunocompromised patients [ 23 , 24 ] .
+443	An unbalanced and dysregulated T cell response to HRSV limits viral clearance and is reported to cause immunopathology in the respiratory tract .
+444	RSV also causes more severe and prolonged bronchiolitis compared to that caused by other aetiologies , including rhinoviruses or the closely related human metapneumoviruses or parainfluenza viruses ( PIV ) [ 12 , 13 ] .
+445	Co-infection of calves with BoHV-1 and MH consistently leads to pneumonia ( 30 ) .
+446	BRSV infection leads to sudden fever , rhinitis , cough , respiratory distress , abdominal breathing , and decreased appetite [ 3 ] .
+447	Natural feline coronavirus ( FCoV ) infection has been shown to not only induce intestinal infection with viral shedding , but also systemic infection which either remains without clinical signs or leads to feline infectious peritonitis ( FIP ) .
+448	Clinical signs of RECV infection in rabbits include watery diarrhea , abdominal distention , anorexia , and sudden death [ 68 , 72 , 74 ] .
+449	The Middle East respiratory syndrome ( MERS ) , caused by a coronavirus ( MERS-CoV ) , is characterized by respiratory failure and is associated with a high mortality rate of over 35 % [ 16 ] .
+450	Feline infectious peritonitis ( FIP ) is a lethal disease of cats caused by a hypervirulent variant of feline coronavirus ( FCoV ) , an alphacoronavirus that usually causes self-limiting infections of the intestinal epithelium , leading to mild or no gastroenteric signs ( Addie et al. , 2009 ) .
+451	Although reovirus infection of humans usually induces mild symptoms , infection of newborn mice leads to severe pathologic conditions , such as lethal encephalitis , depending on the inoculation route and strain ( 4 , 5 ) .
+452	As the causative agent of PED , porcine epidemic diarrhea virus ( PEDV ) results in acute diarrhea and dehydration with high mortality rates in swine .
+453	CDV infection in dogs generally induces a multisystemic disease ( for review , see Griot et al. , 2003 ) .
+454	DENV infection causes a broad spectrum of clinical manifestations ranging from asymptomatic fever to potentially fatal hemorrhagic manifestations .
+455	In cats , there are two related corona viral strains and only one of them replicates in macrophages leading to deadly systemic infection referred to as feline infectious peritonitis .
+456	SARS-CoV infection in humans resulted in an acute respiratory illness that varied from mild febrile illness to ALI and in some cases ARDS and death [ 27 , 10 ] .
+457	Studies from endemic regions of the world suggest that HEV causes rapid decompensation in cirrhosis with mortality as high as 70 % at 4 weeks post-infection [ 42 ] .
+458	Infection with MAdV-1 causes multisystemic disease characterized by necrosis .
+459	The early stage of PEDV infection is frequently accompanied by necrosis and exfoliation of infected villous epithelial cells , ultimately resulting in acute , severe villous atrophy [ 41 ] .
+460	In addition to the adverse effects in airway tissues , hRSV infection can also cause neurologic manifestations in the host , such as seizures and encephalopathy .
+461	In addition to the adverse effects in airway tissues , hRSV infection can also cause neurologic manifestations in the host , such as seizures and encephalopathy .
+462	Latent chronic infection is the typical outcome of an acute FHV infection , and intermittent reactivation gives rise to viral shedding in oronasal and conjunctival secretions .
+463	Parvovirus B19 crosses the placenta and infects fetal erythropoietic tissue causing severe fetal anemia , non-immune fetal hydrops ( in around 4 % of infected cases ) , and in some cases myocarditis , all of which may result in SB [ 28 , 32 ] .
+464	TMEV infection of the CNS of susceptible SJL mice results in a persistent infection associated with an immune-mediated chronic demyelinating disease [ 28 ] .
+465	The main feature of AstV infection in both humans and animals is a self-limiting gastroenteritis ( Greening , 2006 ) .
+466	Similar to SARS-CoV , MERS-CoV infects unciliated bronchial epithelial cells and type II pneumocytes and causes severe illness of the respiratory tract , which is characterized by fever , cough , shortness of breath , and severe complications such as pneumonia and kidney failure [ 13 ] .
+467	MERS-CoV is a disease caused by a coronavirus and results in severe acute respiratory disease including fever , chills , cough , and dyspnea .
+468	Depending on the strain , IBV can target the respiratory tract , kidney and oviducts , and result in nephritis and reduced egg production .
+469	MHV can also cause a chronic wasting disease that eventually results in death in immunocompromised mice such as athymic nude mice .
+470	Infection with BRSV predispose to infection with opportunistic bacteria [ 7 ] , and it has been reported that 40 % of the viral infections lead to secondary bacterial infections [ 8 ] .
+471	LCMV , as well as Borna disease virus , can cause immune-mediated disease and persistent infection of the CNS .
+472	HHV-6 reactivation after stem cell transplantation causes multiorgan toxicities , including encephalitis , with inflammation and destruction of the temporal lobes and hippocampi , memory loss , and seizures .
+473	JV causes a severe disease in humans known as Argentine hemorrhagic fever [ 16 ] and DEN infection results in acute febrile illness or a more severe manifestation known as DEN hemorrhagic fever-shock syndrome [ 17 ] .
+474	In contrast to TGEV , murine hepatitis virus ( MHV ) initially infects nasal epithelial cells but subsequently establishes a systemic infection .
+475	COVID-19 infections are characterized by inflammation of the lungs and other organs that ranges from mild and asymptomatic to fulminant and fatal .
+476	COVID-19 infections are characterized by inflammation of the lungs and other organs that ranges from mild and asymptomatic to fulminant and fatal .
+477	Like other retroviruses , including HIV-1 [ 45 ] , KoRV induces severe immunodeficiencies in the infected animals , leading to serious infections , such as severe chlamydial infections [ 46 ] .
+478	In immunocompromised patients , the human polyomaviruses JCPyV and BKPyV cause progressive multifocal leucoencephalopathy , a fatal demyelinating disease , and nephropathy , respectively .
+479	HeV in humans causes , after an incubation period of 5 - 21 days , a severe influenza like disease ( fever , myalgia and headache ) which can progress to pneumonia , respiratory failure and death [ 10 , 14 ] .
+480	While acute infection is characterized by rapid virus spread and CNS inflammation , chronic disease during MHV-JHM infection is characterized by incomplete clearance of infectious virus and concomitant development of demyelinating disease [ 5 ] .
+481	Viral replication in the small airways causes inflammation , sloughing , and necrosis of the bronchiolar epithelium .
+482	Transient weight loss and pneumonitis are seen in strain 129S mice following SARS-CoV infection [ 11 ] .
+483	T. gondii induces infectious symptoms and diseases , such as lymphadenopathy and brain injury , particularly in human as a zoonotic parasite that is infected in both human and animals .
+484	Moreover , infection with West Nile virus , which occurs through mosquitoes , causes severe motor neuropathy along with various forms of inflammatory neuropathies .
+485	PRRSV infection is also characterized by prolonged viremia followed by the persistent presence in regional lymph nodes for as long as 250 days ( Wills et al. , 2003 ) .
+486	Respiratory syncytial virus ( RSV ) is the major cause of lower respiratory tract infections in infants and is characterized by pulmonary infiltration of B cells in fatal cases .
+487	Respiratory syncytial virus ( RSV ) is the major cause of lower respiratory tract infections in infants and is characterized by pulmonary infiltration of B cells in fatal cases .
+488	In patients with the acquired immune deficiency syndrome ( AIDS ) , transplant recipients , and cancer patients , VZV infection can be associated with severe acute retinal necrosis ( ARN ) , a disease with poor prognosis [ 8 , 9 ] .
+489	PRRS virus ( PRRSV ) replicates mainly in porcine alveolar macrophages ( PAMs ) and dendritic cells ( DCs ) and develops persistent infections , antibody-dependent enhancement ( ADE ) , interstitial pneumonia and immunosuppression .
+490	Hendra virus ( HeV ) infection in humans is characterized by an influenza like illness , which may progress to pneumonia or encephalitis and lead to death .
+491	After kidney transplant , BKV can silently reactivate and can cause a type of allograft nephropathy ( BKVAN ) that begins with interstitial nephritis and progresses to fibrosis and nonfunctioning allograft tissue .
+492	Orally administered reovirus has a broad tissue tropism in IFN-α/β receptor-deficient mice , infecting hepatocytes , myocardiocytes and many other cells , eventually causing a fatal disease [ 17 , 34 ] .
+493	In humans , Venezuelan equine encephalitis and La Crosse viruses cause symptomatic neurologic disease almost exclusively in children , although adults are equally susceptible to infection [ 16 , 17 ] .
+494	Although several animal coronaviruses induce severe enteric diseases , they also often reach the respiratory tract , where they can be associated with mild to severe diseases .
+495	The main clinical symptoms of SARS-CoV infection are those of severe respiratory illness although SARS-CoV also causes infection of other organs such as the gastrointestinal and urinary tracts .
+496	It is known that human coronaviruses usually infect the upper respiratory tract and cause the common cold [ 3 ] , whereas SARS-CoV infects the lower respiratory tract , leading to pulmonary destruction [ 4 ] .
+497	RSV infection can cause severe lung disease in recipients of lung transplants , sometimes with a long-term outcome of obliterative bronchiolitis [ 73 -75 ] .
+498	Betacoronavirus , including SARS CoV 2 , elicits infection of the respiratory tract often ending with the development of lung edema , severe hypoxia , and sepsis .
+499	In immunocompromised patients , HHV-6 can reactivate and cause encephalitis , pneumonitis , graft-versus-host disease , and bone marrow suppression .
+500	PEDV-infected enterocytes rapidly undergo acute necrosis , leading to marked villous atrophy in the small but not large intestine [ 10 ] .
+501	Although reovirus infection of humans usually induces mild symptoms , the infection of newborn mice can lead to severe pathologic conditions such as lethal encephalitis depending on the inoculation route and strain ( Tyler et al. , 1986 ) .
+502	CPV-2 infection causes myocarditis in the fetuses of dogs infected in late gestation and also in infected neonates lacking maternally derived antibodies ( Carpenter et al. , 1980 ; Hayes et al. , 1979 ) .
+503	While many cases are mild , in some , SARS-CoV-2 is able to infect lower respiratory epithelial cells and induce a pathogenic immune response that can ultimately lead to hypoxic respiratory failure , acute respiratory distress syndrome ( ARDS ) , and death .
+504	In immunodeficient ( e.g. Foxn1 nu and Prkdc scid ) mice , infection with virulent polytropic MHV strains is often rapidly fatal while less virulent strains cause chronic wasting disease [ 317 ] .
+505	However , unlike most other human coronaviruses , MERS-CoV has a zoonotic origin and can cause severe illness , resulting in acute respiratory distress syndrome .
+506	RSV , like influenza virus , is an enveloped virus that initially causes a mild upper respiratory tract infection that can develop into bronchiolitis and cause acute respiratory distress .
+507	SINV , a member of the Togaviridae family , is transmitted by a mosquito vector , and causes sindbis fever which results in arthralgia , malaise and rash .
+508	In humans , TBEV causes a variety of clinical manifestations , ranging from flu-like febrile disease to encephalitis of differing severity levels [ 2 ] .
+509	Postinfectious obliterative bronchiolitis ( bronchiolitis obliterans syndrome ) is a common sequela in neonates and immunocompromised patients due to the severity of bronchiolar mucosal necrosis caused by adenovirus .
+510	Porcine epidemic diarrhea virus ( PEDV ) , an alphacoronavirus ( alpha-CoV ) , infects gut epithelial cells and macrophages , inducing diarrhea and resulting in high mortality in piglets .
+511	Intranasal infection of A/J mice with the coronavirus murine hepatitis virus strain 1 ( MHV-1 ) has been described to induce pulmonary pathology with features reminiscent of severe acute respiratory syndrome ( SARS ) ( 33 ) .
+512	In Europe and Asia , hantavirus infection causes hemorrhagic fever with renal syndrome ( HFRS ) , characterized by renal failure and bleeding complications .
+513	The innate immune response to tissue damage caused by the virus could lead to acute respiratory distress syndrome ( ARDS ) , in which respiratory failure is characterized by the rapid onset of widespread inflammation in the lungs and subsequent fatality [ 4 ] .
+514	BCV replicates in absorptive epithelial cells of the intestinal tract in neonatal calves and induces serious enteric disease [ 11 ] .
+515	In young piglets , especially under 3 weeks of age , as well as other susceptible species , PHEV infection is often fatal because of the central nervous system disorders .
+516	In addition to turkeys , HEV causes immune-mediated diseases in pheasants and chickens characterized by pulmonary edema and splenomegaly .
+517	Central pathological features of both HeV and NiV infection in humans and several susceptible animal species is a severe systemic and often fatal neurologic and/or respiratory disease ( Abdullah and Tan 2014 ; Wong and Ong 2011 ; Playford et al. 2010 ) .
+518	PEDV mainly infects the villous epithelial cells of the small intestine , which are rich in proteases , and causes atrophy of the villi , resulting in dehydration and diarrhea .
+519	Porcine parvovirus ( PPV ) infection is the most common and important cause of reproductive failure in swine , which is characterized by embryonic and fetal infection and death [ 74 ] .
+520	Human T-lymphotropic virus type-1 infection causes several organ-specific inflammatory diseases including HAM/TSP ( 2 , 3 ) .
+521	RSV infection may cause major problems in infants less than 1 year of age and can lead to life-threatening ARIs such as bronchiolitis and bronchopneumonia ( Shay et al. , 1999 ; Leung et al. , 2005 ; Yorita et al. , 2007 ) .
+522	In psittacine birds , adenovirus infection manifests as depression , anorexia , diarrhea and cloacal hemorrhage [ 39 ] .
+523	The SARS Coronavirus causes general infection with Viremia , especially severe pneumonia and intestine infection .
+524	PRRSV causes a transient leukopenia ( 54 , 55 ) and pathology in lymphoid tissues of infected swine ( 56 ) .
+525	Human NoV causes severe gastroenteritis , characterized by vomiting , diarrhea , and stomach cramps .
+526	In humans , HCoV 229E causes common cold by infecting the upper respiratory tract .
+527	Japanese encephalitis virus ( JEV ) infection can cause an acute encephalitis resulting in mortality in up to 30 % of cases , predominantly in infants .
+528	Following the initial subcutaneous or intraperitoneal inoculation in mice , WNV induces a systemic infection and eventually invades the CNS .
+529	Influenza virus infection in humans can result in a wide range of disease symptoms , from an asymptomatic infection to a severe form of febrile respiratory disease .
+530	SARS-CoV-2 can infiltrate the lower respiratory tract , resulting in severe respiratory failure and a high death rate .
+531	Studies have revealed that prior immunity to LCMV can result in acute necrosis of fat tissue after VV infection , although the severity varies between individual mice ( 1 ) .
+532	In humans , coronaviruses infect the respiratory tract and cause symptoms ranging from common colds to severe pneumonia and acute respiratory distress .
+533	Experimental infection of dromedary camels with MERS-CoV results in mild disease , shedding large quantities of the virus from the upper respiratory tract [ 33 ] .
+534	Avian influenza A virus H5N1 , which was first described in 1998 [ 18 ] , causes severe pneumonia that often progresses rapidly to ARDS [ 19 , 20 ] .
+535	PEDV infections are characterised by acute destruction of intestinal villous enterocytes and villous atrophy in the jejunum and ileum , producing severe malabsorptive and maldigestive diarrhoea ( Pensaert and de Bouck , 1978 ; Jung et al. , 2006b ) .
+536	After the virus has entered the periphery site after exposure , it subsequently spreads into the central nervous system ( CNS ) , causing neuronal dysfunction , which is most likely the main cause of the fatal outcome of rabies .
+537	JE is a neuroinflammation characterized by extensive CNS inflammation and disruption of the blood-brain barrier ( BBB ) after zoonotic JEV infection .
+538	However , SARS-CoV infection appears highly pathogenic and causes severe pneumonia and acute respiratory distress syndrome , characterized by the presence of diffuse alveolar damage ( Weiss and Navas-Martin , 2005 ) .
+539	Atypical porcine reproductive and respiratory syndrome ( PRRS ) caused by a highly pathogenic PRRS virus ( HP-PRRSV ) is characterized by high fever , high morbidity , high mortality , and associated with severe neurological symptoms .
+540	Sendai virus-associated disease has a worldwide distribution and has been found in mouse colonies in Asia [ 43 ] , North America [ 44 ] and Europe [ 45 ] , and is responsible for a highly transmissible respiratory tract infection in mice , hamsters , guinea pigs , rats , and occasionally pigs and bats [ 46 , 47 ] , with infection through both air and direct contact routes .
+541	However , several murine strains , including the JHM strain , are neurotropic and cause encephalitis with subsequent CNS demyelination .
+542	SARS is a systemic disease , especially in severe cases , in which a wide spectrum of tissue and cell types is directly infected by virus or is affected indirectly .
+543	In immunosuppressed subjects , in particular in HIV patients , JC virus ( JCV ) can cause progressive multifocal leukoencephalopathy ( PML ) , a fatal diseases of the Central Nervous System ( CNS ) , due to lytic infection of oligodendrocytes .
+544	In a natural infection , enterotropic MHV is restricted largely to the intestine with excretion primarily in feces , while respiratory MHV is disseminated from the nasal mucosa to various target organs [ 17 ] .
+545	Human leptospirosis presents with a variety of signs and symptoms , including general febrile disease an influenza-like illness , and results in liver or kidney failure .
+546	Acute postnatal infection with BVDV causes various clinical pictures ranging from inapparent infections to wide range of symptoms .
+547	In humans EEEV infection is characterized by a limited disease prodrome before the manifestation of encephalitis due to the inability of EEEV to replicate in hematopoietic cells and to elicit a strong innate immune response [ 11 , 27 ] .
+548	Measles infection can cause a transient but severe suppression of cell-mediated immunity , which is the chief reason for postmeasles fatal complications , including disseminated pneumonitis and bacterial infections [ 53 ] .
+549	Human influenza C virus causes a mild respiratory disease in humans and the infection is normally confined to the upper respiratory tract , although occasionally it can also cause lower respiratory infection [ 5 ] .
+550	Whereas primary infection usually confers durable , if not life-long , protection against re-infection by a homologous DENV serotype , secondary infection by viruses of a heterologous DENV serotype can frequently occur and result in severe pathology of the host .
+551	Highly pathogenic avian influenza H5N1 virus is known to induce aberrant host responses leading to severe immunopathology in the lung .
+552	Human parechoviruses ( HPeVs ) infection is associated with a wide range of clinical syndromes such as respiratory , gastrointestinal , neurologic diseases , and neonatal sepsis‐like illness .
+553	In Asia , hantavirus infection by Hantan virus ( HTNV ) and Seoul virus ( SEOV ) targets mainly the human kidney and causes hemorrhagic fever with renal syndrome ( HFRS ) .
+554	hMPV is a cause of bronchiolitis and pneumonia , particularly in young children , with a similar clinical picture as respiratory syncytial virus ( RSV ) infection , its most closely related human pathogen .
+555	Infection by the Middle East respiratory syndrome coronavirus ( MERS-CoV ) causes respiratory illness and has a high mortality rate ( ~35 % ) .
+556	JCV can cause progressive multifocal leukoencephalopathy ( PML ) in patients with impaired immune systems .
+557	In the most severe cases , the virus Sars-CoV-2 infection can lead to the development of acute respiratory distress syndrome ( ARDS ) causing respiratory failure , septic shock , multiorgan failure , and even death [ 6 ] .
+558	In chickens and turkeys , reoviruses produce a widespread disease called viral arthritis ( tenosynovitis ) .
+559	Fatal outcomes of H5N1 virus infections are associated with high viral load and hypercytokinemia [ 2 ] .
+560	Feline infectious peritonitis virus ( FIPV ) is a coronavirus causing FIP that is characterized by polyserositis , vasculitis and severe lymphopenia ( Addie et al. , 2009 ) .
+561	HFMD can lead to neurological complications and cardiopulmonary dysfunction resulting from acute EV71 infection [ 193 ] .
+562	Pathogenesis of ND involves viral replication in mucosal epithelium of the respiratory and intestinal tracts followed by viremia and viral dissemination to multiple visceral organs and brain .
+563	Although classically viewed as " benign " , infections with P.vivax and ovale can have severe clinical manifestations , such as acute respiratory distress syndrome ( ARDS ) , severe anemia , spleen rupture [ 18 ] , and in chronic untreated infections , severe malnutrition [ 19 ] .
+564	DENV infection causes dengue fever , and occasionally the more serious conditions of dengue hemorrhagic fever and dengue shock syndrome [ 4 ] .
+565	EV71 causes hand-foot-and-mouth disease , a highly contagious pathogen in children that mainly results in a maculopapular rash , blisters on the limbs , and ulcers in the mouth .
+566	HSV-1 encephalitis is a severe and often fatal condition caused by HSV-1 infection [ 49 ] .
+567	The SARS-CoV-2 infection causes a fatal inflammatory response and acute lung injury [ 19 ] .
+568	PRRSV replicates predominantly in the lung , causing a mild to severe interstitial pneumonia which may be complicated to suppurative bronchopneumonia due to the increased lung sensitisation to bacterial infections associated with the damage and impairment of the different pulmonary macrophage subpopulations ( pulmonary alveolar macrophages , PAMs ; pulmonary intravascular macrophage , PIMs ; and interstitial macrophages ) ( Brockmeier et al. , 2017 ; Thanawongnuwech et al. , 2000 ) .
+569	RRV morbidity leads to clinical manifestations that are similar to CHIKV infection , with varying degrees of arthralgia , which can become debilitating .
+570	Infection in humans frequently results in filoviral hemorrhagic fever ( FHF ) , a syndrome typically associated with an abrupt onset of fever , myalgias , headache , and gastrointestinal symptoms ( reviewed in ( Kortepeter et al. , 2011 ) ) .
+571	PRRSV preferentially replicates in porcine alveolar macrophages ( PAMs ) and can establish persistent infection in lymphoid tissues of infected pigs that lasts for several months [ 3 , 10 , 11 , 37 ] .
+572	There is no disease in the natural host , but experimental transmission of HVS to common marmosets and other susceptible New World monkeys leads to a fatal acute lymphoproliferative disorder [ 28 ] .
+573	Primary infection with any of the four serotypes can produce lifelong immunity to that serotype , but only temporary immunity to the others ; moreover , the sequential infections in the presence of heterologous dengue antibodies often lead to a more severe secondary infection of DHF/DSS [ 3 ] .
+574	JEV is a neurotropic virus that replicates actively in neurons , glia and astrocytes of the mouse brain , and when administered intracerebrally leads to a high level of mortality in the suckling mouse model .
+575	SARS presents as an atypical pneumonia [ 42 , 43 ] , with pneumocytes being the primary target of infection .
+576	FECV is widespread and often causes asymptomatic or mild enteric infections , while FIPV causes feline infectious peritonitis ( FIP ) , which is a fatal immune-mediated disease ( Can-Sahna et al. , 2007 ) .
+577	Severe T cell-mediated immunopathology is observed in IFN-γR −/− mice infected by lymphocytic choriomeningitis virus ( LCMV ) [ 7 ] .
+578	The classical fatal outcome of FeLV infection is persistent viremia after horizontal transmission resulting in a permanent infection of , among others , bone marrow cells .
+579	15 - 40 % of the patients with GBS develop the syndrome after being infected by the Gram-negative bacterium Campylobacter jejuni ( C. jejuni ) , a leading cause of acute gastroenteritis in humans .
+580	Individuals with severe infection by SARS-CoV-2 can also develop acute respiratory distress syndrome ( ARDS ) .
+581	Rhinovirus infection is the most common cause of acute exacerbations of inflammatory lung diseases , such as asthma and chronic obstructive pulmonary disease , where it provokes steroid refractory and abnormally intense neutrophilic inflammation that can be life threatening [ 28 , 30 , 35 , 86 , 87 ] .
+582	HRV is a major non‐RSV pathogen causing hospitalization in children with bronchiolitis and pneumonia and induces an imbalanced Th1/Th2 response in bronchiolitis .
+583	Infection with henipaviruses , is associated with a strong host innate immune response , which contributes to severe respiratory stress and lethality .
+584	RVF virus leads to liver damage , DIC , and hemorrhagic manifestations in approximately 1 % of patients with severe disease .
+585	CV-B5 infection in human is often associated with serious neurological symptoms like aseptic meningitis .
+586	Clinical disease caused by PRRSV is highly variable , ranging from mild , subclinical infection to acute death of adult animals [ 8 ] .
+587	Replication of Enterovirus in lymphoid tissues can induce lymphocyte necrosis and depletion of lymphoid organs , and subsequently reduction in lymphocyte subpopulations in circulating blood ( Hoerr , 2010 ) .
+588	In contrast to infection with common human influenza viruses , infection with this virus is characterized by severe lung damage with infiltration of macrophages , lymphocytes , and reactive fibroblasts , as well as by high inflammatory responses .
+589	In humans , filovirus infection is characterized by an abrupt onset of flu-like illness , after an initial incubation period of 2 - 21 days .
+590	MHV infection of immunosuppressed or immunodeficient mice results in high titers of virus within the CNS and death but not robust demyelination [ 53 , 105 ] .
+591	Avian influenza viruses induce an intense host response characterized by a cytokine storm , which can sometimes lead to ARDS .
+592	The illness caused by CV-A16 infection is usually mild ( Chang et al. , 1999 ) , whereas EV71 infection is often associated with severe complications , such as brainstem encephalitis , severe pulmonary edema and shock , and significant mortality Wong et al. , 2010 ) .
+593	Central pathological features of both HeV and NiV infection in humans and several susceptible animal species is a severe systemic and often fatal neurologic and/or respiratory disease .
+594	Feline panleukopenia virus ( FPV ) infection leads to severe leukopenia and gastrointestinal signs in cats , with mortality rate of up to 70 % .
+595	Infection with CHIKV typically causes a self-limiting febrile illness , chikungunya fever ( CHIKF ) , characterized by chronic , severe joint pain , and sometimes accompanied by an itchy maculo-papular skin rash .
+596	Both EAV and PRRSV can cause either persistent asymptomatic infections or induce various disease symptoms such as respiratory disease , fever , necrosis of small muscular arteries , and abortion .
+597	In immunocompromised hosts , JCV associated , progressive multifocal leukoencephalopathy is caused by reactivation of a latent infection rather than de novo exposure [ Kharfan-Dabaja et al. , 2007 ] .
+598	BDV infection leads , after a variable incubation period , to diverse pathological manifestations that depend on the species , immune status and age of the host , route of infection , and the particular strain of virus used for infection .
+599	Initial infection with VZV leads to the clinical syndrome of chickenpox in most susceptible hosts , although infection can be subclinical , especially in young children .
+600	BDV produces severe inflammation in the CNS ( Hirano et al. , 1983 ; Carbone et al. , 1989 ) .
+601	MHV is a natural pathogen of mice , normally infecting the liver , gastrointestinal tract , and central nervous system , causing a wide range of disease , including hepatitis , gastroenteritis , and acute and chronic encephalomyelitis .
+602	Pathophysiologically , Nipah virus causes a widespread vasculitis most commonly involving the brain and lungs [ 30 ] .
+603	The porcine epidemic diarrhea virus(PEDV ) is a highly contagious viral infection of neonatal pigs , characterized by severe diarrhea , vomiting and dehydration .
+604	SIVmac infection of macaques , is often accompanied by lymphadenopathy and immunodeficiency ( 149 ) .
+605	Feline infectious peritonitis ( FIP ) is an immune-mediated progressive infectious disease of domestic cats and wild felids caused by infection with feline coronavirus ( FCoV ) , a single-stranded RNA virus classified as Alphacoronavirus [ 1 , 28 ] .
+606	The clinical picture of MERS-CoV infection is characterized by acute atypical pneumonia and respiratory failure , resembling symptoms caused by SARS-CoV [ 2 ] [ 3 ] [ 4 ] [ 5 ] .
+607	SARS-CoV-2 leads to chronic inflammation of the lungs , severe dyspnea , fever , dry cough , and cyanosis and in more vulnerable patients a complete lung failure .
+608	RSV is a ubiquitous virus that targets the respiratory system causing rhinitis , bronchiolitis , pneumonia , and occasionally otitis media .
+609	MERS-CoV infection is often accompanied by acute viral pneumonia , and sometimes gastrointestinal symptoms .
+610	As seen in adult human patients with uncomplicated influenza , infection of ferrets with seasonal H1N1 and H3N2 strains , which preferentially bind to SAα2,6 , results in a mild to moderate disease characterized by extensive infection of the upper respiratory tract with limited spread to the lung ( Huang et al. , 2011 ; van den Brand et al. , 2012 ) .
+611	The virus initially infects upper airway epithelium tissues , and depending on the IBV strain , disease outcomes range from mild respiratory disease to kidney failure and death ( 1 ) .
+612	JC virus is the etiologic agent of progressive multifocal leukoencephalopathy ( PML ) , which is a fatal , demyelinating disease of the CNS that occurs in immunocompromised hosts .
+613	PML is a fatal CNS demyelinating disease of humans , most frequently associated with immunosuppression and caused by infection and destruction of oligodendrocytes by JCV .
+614	Infection with feline infectious peritonitis virus ( FIPV ) , a feline coronavirus , frequently leads to death in spite of a strong humoral immune response .
+615	RSV infection can cause visible illness manifested by ruffled fur , reduced activity and weight loss in mice [ 60 ] .
+616	PEDV causes acute gastrointestinal symptoms characterized by a rapid onset of severe watery diarrhea , vomiting , fatal dehydration , and high mortality in newborn and suckling piglets [ 7 ] .
+617	Acute viral hepatitis caused by MHV is characterized by acute necrosis of hepatocytes , inflammation and production of TNF-α , IFN-γ , IL-2 , and IL-17A [ 58 , 59 ] .
+618	As a viral pathogen in cattle , BHV-1 causes severe respiratory infection , conjunctivitis , abortion , vulvovaginitis , balanopostitis , and systemic infection in neonate calves [ 1 ] .
+619	When mink are infected , ADV causes hypergammaglobulinemia , glomerulonephritis , arteritis , plasmacytosis , progressive wasting , and death within 5 months .
+620	Cats infected with influenza A virus ( H5N1 ) have lesions associated with virus replication in multiple tissues , including brain and heart .
+621	RVFV infection is severe in animals , especially sheep , cattle , and goats , resulting in high mortality rates in newborns and near 100 % abortion rates in pregnant animals .
+622	While MHV-A59 induces CNS inflammation and demyelination similar to EAE , the etiology is distinct , involving direct neuronal infection , and the demyelination is not dependant on an intact immune system [ 18 ] .
+623	Although no autopsy data is available , in explanted lung , infection with MERS-CoV causes widespread infection and alveolar disease [ 19 , 20 ] .
+624	Enteric infections with TGEV and PEDV are characterized by severe diarrhea , vomiting and dehydration with high morbidity and mortality especially in piglets less than two weeks of age .
+625	Feline infectious peritonitis ( FIP ) is a fatal infection of cats caused by a feline coronavirus ( FCoV ) ( 11 ) .
+626	MV is a neurotropic virus and although self-limiting , infection of the CNS could lead to MV persistence in the form of subacute sclerosing panencephalitis ( SSPE ) ( McFarland and Dhib-Jalbut 1988 ) , and subacute measles encephalitis ( SME ) in immunocompromised patients ( Dhib-Jalbut and Johnson , 1994 ) .
+627	IBV can replicate within the epithelial surfaces of the kidneys and cause granular degeneration , vacuolation , and desquamation of the tubular epithelium , and massive infiltration of heterophils in the interstitium .
+628	A hallmark of BVDV infections is the immunosuppression of the host response to infections resulting in increased incidence and virulence of secondary infections with other viruses , bacteria , and mycoplasmas .
+629	DENV infection can cause mild dengue fever and life-threatening dengue hemorrhagic fever ( DHF ) or dengue shock syndrome ( DSS ) .
+630	Individuals with SARS usually develop a high fever , followed by severe clinical symptoms including ARS with a diffuse alveolar damage ( DAD ) at autopsy , caused by SARS corona virus ( SCV ) [ 64 , 65 ] .
+631	In pups older than 2 to 3 weeks of age at the time of infection , CHV infection is generally asymptomatic , although CNS signs , including blindness and deafness , have been described [ 100 ] .
+632	IAV infection , the most common cause of viral pneumonia , causes substantial seasonal and pandemic morbidity and mortality [ 29 ] .
+633	JE is a leading cause of viral encephalitis manifested by extensive neuroinflammation in the central nervous system ( CNS ) and disruption of the blood-brain barrier ( BBB ) .
+634	Infection is characterized by acute flu-like symptoms , causing severe atypical pneumonia with diffuse alveolar damage , and death within two weeks in severely infected patients .
+635	SARS-CoV-2 causes COVID-19 , a severe respiratory syndrome that is associated with fever , cough , dyspnoea , myalgia and fatigue [ 3 ] .
+636	Infection with these highly pathogenic coronaviruses can result in Acute Respiratory Distress Syndrome ( ARDS ) , which may lead to widespread inflammation in the lungs , shortness of breath , and death .
+637	JC virus causes primary multifocal leukoencephalopathy , while BK virus has been associated with a variety of renal and urinary tract disorders , most importantly tubular nephritis , which can lead to allograft failure in renal transplant recipients and hemorrhagic cystitis in hematopoietic stem cell transplant recipients [ 13 ] .
+638	Although virus is restricted to the respiratory tract and cleared efficiently in most cases , acute fatal infections are associated with systemic spread of virus , particularly in pandemic influenza virus infections ( Taubenberger and Morens 2008 ; Tse et al. 2011 ) .
+639	Enteric replication of feline coronaviruses commonly results in fever , vomiting , and mucoid diarrhea .
+640	The immunosuppression caused by FIV infection manifests as a loss of response to viral antigens , a loss of response to mitogens , and the inability to launch a primary immune response against secondary pathogens [ 7 ] .
+641	Coronavirus enteritis is a highly contagious viral disease in pigs characterized by severe diarrhea , vomiting , and dehydration with a high mortality , especially in neonatal piglets less than 2 weeks of age .
+642	Virulent strains of NDV initially infect the upper respiratory tract and then spread via the blood in the spleen and kidney , producing a secondary viremia .
+643	Lethal infection of hamsters with ANDV leads to extensive organ dissemination , with infectious virus recovered in the lung , liver , kidney , spleen and heart [ 6 ] .
+644	The role of co-infection with CMV in children , especially those suspected of having P. jiroveci pneumonia ( PJP ) , is poorly understood , but CMV itself can cause fatal pneumonia [ 94 , 97 ] .
+645	Enterovirus 71 ( EV71 ) , a common pathogenic agent of handfoot-and-mouth disease ( HFMD ) , can cause severe complications including herpangina , aseptic meningitis , encephalitis , cardiorespiratory failure , poliomyelitis-like syndrome or even fatal disease ( Chan et al. , 2000 ; McMinn et al. , 2001 ) .
+646	Clinical manifestations of EV71 infection range from mild HFMD to severe encephalitis , pulmonary edema , and even death [ 8 , 9 ] .
+647	Progressive VV infection is characterized by unrestrained proliferation of virus in the skin .
+648	Influenza virus infection causes acute respiratory inflammation in humans with symptoms such as high fever , body aches , fatigue , and can result in death .
+649	In premature infants , as well as immunocompromised or medically fragile patients , norovirus can be a severe , protracted and even fatal diarrheal illness [ 60 ] .
+650	BPV induces atrophy of microvilli in the small intestine and death ( by apoptosis and necrosis ) of lymphoid cells and ciliated cells of the respiratory epithelium [ 28 ] .
+651	Infection of poultry by highly pathogenic avian influenza viruses is characterized by disseminated infection and clinically manifested by decreased egg production , respiratory signs , excessive lacrimation , edema of the head , diarrhea , neurological symptoms , and death .
+652	Severe acute respiratory syndrome ( SARS ) is a relatively newly described infectious disease caused by the SARS coronavirus ( SARS-CoV ) , which principally damages the cells of the immune system and pulmonary epithelium [ 16 , 17 ] .
+653	EBOV infection is associated with disseminated intravascular coagulation ( DIC ) , a syndrome in which coagulation is activated in a manner that leads to consumption of coagulation factors , production of microthrombi and ultimately to bleeding ( Levi and Ten Cate , 1999 ) .
+654	ZIKV infection in humans is considered an asymptomatic illness but 10~20 % of infected patients develop flu-like symptoms 7~14 days after infection [ 14 , 15 , 198 , 209 , 221 ] .
+655	Primary infection with one DENV serotype usually produces self-limiting Dengue fever ( DF ) .
+656	Primary infection with one DENV serotype usually produces self-limiting Dengue fever ( DF ) .
+657	Infection with EBOV or MARV causes severe and often fatal hemorrhagic fever ( HF ) with case fatality rates ranging from 23 - 90 % depending on the strain and/or species .
+658	Common clinical signs caused by enteric AstV infection in humans include vomiting and diarrhea .
+659	PRRSV primarily infects cells of the monocyte/macrophage lineage , such as porcine alveolar macrophages ( PAMs ) [ 9 , 10 ] and can establish persistent infection , which may last for up to six months in the natural host [ 1 , 8 , 48 ] .
+660	IBV causes an acute and highly contagious disease in chicks , primarily targeting the trachea and kidney .
+661	Henipavirus infections are characterized by their systemic nature , with evidence of infection in multiple organ systems .
+662	SARS-CoV-2 infection is the cause of the respiratory illness COVID-19 , which presents most frequently with respiratory symptoms including cough and dyspnea , accompanied by a moderate to high fever 2 , 3 .
+663	CPV causes acute hemorrhagic enteritis and myocarditis in dogs [ 5 ] , and the mortality rate of the disease is high ( up to 70 % ) in puppies [ 11 , 14 ] .
+664	Infection of poultry by highly pathogenic avian influenza viruses is characterized by disseminated infection , and clinically manifested by decreased egg production , respiratory signs , excessive lacrimation , edema of the head , diarrhea , neurological symptoms , and death .
+665	The etiologic agent of IB is infectious bronchitis virus ( IBV ) , a member of the family Coronaviridae and genus Coronavirus , replicating primarily in the respiratory tract and also in some epithelial cells of the gut , kidney , and oviduct .
+666	Replication of this SARS coronavirus ( SCV ) occurs mainly in the lower respiratory tract , and causes diffuse alveolar damage 2,7,8 .
+667	MERS-CoV infection causes symptoms of high fever and acute , progressive pneumonia in humans , and infection can be associated with a significant mortality rate ( ∼30 - 50 % ) in individuals with comorbidities [ 2 , 3 ] .
+668	CSFV replicates in leukocytes , especially in mononuclear macrophages , and CSFV infection in pigs induces apoptosis in varieties of immune cells , such as peripheral blood leukocytes , and lymphocytes in spleen and lymph nodes , ultimately leading to immunocyte depletion and immunosuppression ( Summerfield et al. , 1998 ; Floegel-Niesmann et al. , 2003 ; Ji et al. , 2015 ) .
+669	SARS-CoV2 , similar to SARS-CoV [ 1 ] , causes a range of heterogeneous clinical pictures in human going from common cold to severe respiratory failure .
+670	FV infection of susceptible adult mice induces splenomegaly and erythroleukemia and takes a lethal course within a few weeks [ 17 ] .
+671	Clinical Signs MCMV causes subclinical infection in adult immunocompetent mice , but experimental inoculation of neonates can cause lethal disease due to multisystemic necrosis and inflammation .
+672	High-level BKV replication is implicated in acute , lateonset , long-duration hemorrhagic cystitis after bone marrow transplantation [ 157 ] .
+673	PRRSV preferentially infects cells of the monocyte/macrophage lineage , especially porcine alveolar macrophages ( PAMs ) , in the natural host ( Duan et al. , 1997 ) .
+674	The HNV causes acute and severe respiratory disease in humans , including necrotizing alveolitis with hemorrhage , pulmonary edema , and pneumonia [ 28 ] .
+675	In those hosts susceptible to henipavirus-induced pathology , the disease is characterized as a widespread multisystemic vasculitis , with virus replication and associated pathology in highly vascularized tissues including the lung , spleen and brain [ 2 , 19 ] .
+676	HPAIV H5N1 viruses induce severe disease in humans , probably as a consequence of the induction of an exacerbated innate immune response .
+677	Acute respiratory distress syndrome ( ARDS ) develops in 3 - 30 % of patients with COVID-19 ( 1,2 ) , because of direct virus-induced cytopathic effects in the respiratory tract or cytokine storms triggered by the host 's immune response .
+678	Acute respiratory distress syndrome ( ARDS ) develops in 3 - 30 % of patients with COVID-19 ( 1,2 ) , because of direct virus-induced cytopathic effects in the respiratory tract or cytokine storms triggered by the host 's immune response .
+679	A hallmark of RV infection is replication of virus in and the subsequent destruction of the airway epithelium .
+680	In humans , plague is a severe clinical infection that can rapidly progress with a high mortality despite antibiotic therapy .
+681	Acute viral infection causes damages to the host due to uncontrolled viral replication but even replication deficient viral vectors can induce systemic inflammatory responses .
+682	Infection of susceptible strains of mice with strain MHV-3 results in severe hepatitis caused , in part , by overexpression of prothrombinase [ 2 ] .
+683	The pathogenesis of PRV results from viremia , and then replication and necrosis of epithelial tissue including the placenta ( Christianson , 1992 ) .
+684	An infectious disease caused by HPAI H5N1 viruses occurs with damage to many organs and systems of the organism and severe symptoms of intoxication [ 7 , 8 ] .
+685	PRRSV infection can cause respiratory distress , reproductive dysfunction and weight loss .
+686	Infectious bronchitis , resulting from IBV , is an acute , highly contagious infection accompanied by upper respiratory symptoms and urinary and reproductive system failures , resulting in low production rates , egg drop , and death in chickens .
+687	In later stages of the illness , the virus can cause lifethreatening clinical conditions , including shock and spontaneous severe bleeding caused by decreased platelet levels .
+688	Infection of Kupffer cells often contributes to acute hepatocellular damage ( e.g. , yellow fever , Rift Valley fever , Crimean Congo hemorrhagic fever , and Ebola and Marburg virus hemorrhagic fevers ) .
+689	HPIV-3 is the primary strain causing bronchiolitis and pneumonia , leading to the onset of nonspecific symptoms such as fever , runny nose , wheezing , dry cough , and dyspnea .
+690	Pigs affected by SIV usually show an abrupt outbreak of respiratory symptoms characterized by abdominal breathing and coughing , fever , depression , and increased mortality due to secondary bacterial infections [ 1 ] .
+691	Infection with PPV represents a major cause of reproductive failure in swine ( Mayr and Mahnel , 1964 ) that is characterized by stillbirth , fetal mummification , embryonic death , and infertility .
+692	Diarrhea induced by PEDV is a consequence of malabsorption and maldigestion due to massive loss and functional disorders of infected enterocytes , followed by decreased brush border membrane-bound digestive enzymes ( Coussement et al. , 1982 ; Jung et al. , 2006 ) .
+693	Disseminated adenovirus infections have been characterized by severe pulmonary disease , multiple-organsystem involvement including the liver , and frequent fatal outcome [ Munoz et al. , 1998 ] .
+694	Mice which survive acute MHV-JHM infection develop demyelinating disease with associated macrophage/microglial infiltration [ 5 ] .
+695	Interstitial pneumonia is the main cause of life-threatening respiratory disorders at the severe stage of COVID-19 infection ( 13 ) .
+696	Mice are not naturally infected with IAV , and intranasal inoculation with human seasonal strains leads to replication of the virus in the upper and lower respiratory tract but it generally does not result in severe disease [ 1 , 2 ] .
+697	The overall pathogenesis of JCV and how it leads to PML is not understood , but it is hypothesized that viremia during primary infection results in persistent latent infection of the kidneys and , possibly , mononuclear cells ( Mandell et al. , 2005 ) .
+698	In pigs , PRCV induces upper and lower respiratory tract disease .
+699	HSV-1 infection causes deletion of STAT1 signaling , a marked increase in viral titer , and viral spread to other tissues , leading to increased mortality .
+700	After entry into the host , JEV generates a rapid inflammatory response , including peripheral neutrophil leucocytosis or infiltration of neutrophils in extraneural tissue .
+701	The SARS-CoV infects epithelial cells in the respiratory tract causing interstitial pneumonia ( 4 ) .
+702	FECV is associated with asymptomatic persistent enteric infections , while FIPV causes feline infectious peritonitis ( FIP ) , a usually fatal systemic disease in domestic cats and some wild Felidae .
+703	JCV establishes latency mainly in the kidney , and its reactivation can result in the development of progressive multifocal leukoencephalopathy .
+704	JCV establishes latency mainly in the kidney , and its reactivation can result in the development of progressive multifocal leukoencephalopathy .
+705	FIP is a common immune-mediated disease that is triggered by infection with a feline coronavirus [ 107 ] .
+706	Replication of IBV in the respiratory tissues causes characteristic , but not pathognomonic signs such as gasping , coughing , tracheal rales and nasal discharge .
+707	While feline enteric coronavirus ( FECV ) causes asymptomatic persistent infections of the gut , feline infectious peritonitis virus ( FIPV ) causes a lethal disease called feline infectious peritonitis ( FIP ) [ 4 ] .
+708	Infectious bronchitis ( IB ) is an acute and highly contagious disease caused by a gamma coronavirus that affects chickens of all ages and is characterized by lesions in respiratory and urogenital organs ( Cavanagh , 2007 ; Dolz et al. , 2006 ) .
+709	Subacute sclerosing panencephalitis ( SSPE ) , a progressive fatal neurological disease , is caused by CNS persistence of measles virus [ 17 ] .
+710	PHEV causes vomiting and wasting disease , as well as encephalomyelitis in piglets younger than 3 weeks , particularly in those lacking PHEV antibodies such as SPF pigs [ 2 ] .
+711	TGEV replicates in enterocytes and provokes villous atrophy , resulting in lethal watery diarrhea and dehydration in piglets , which is considered to be a central event in the pathogenesis of TGEV infection [ 3 ] .
+712	Infection with HP-PRRSV strains is associated with severe clinical signs , pulmonary lesions and aberrant host immune responses ( Xiao et al. , 2010 ; Amarilla et al. , 2012 ; Hu et al. , 2012 ) .
+713	In pigs , as well as in humans , bacterial pneumonia secondary to influenza is often observed [ 8 ] and SIV is an important contributor to the porcine respiratory disease complex ( PRDC ) .
+714	Transmissible gastroenteritis virus ( TGEV ) can infect enteric and respiratory tissues and cause transmissible gastroenteritis ( TGE ) , which is characterized by vomiting , severe diarrhoea and dehydration .
+715	300 H5N1 infection of mice results in viremia and viral replication in multiple organ systems , severe lung pathology , fulminant diffuse interstitial pneumonia , pulmonary edema , high levels of proinflammatory cytokines , and marked lymphopenia .
+716	In growing pigs , PRRSV causes an interstitial pneumonia ( Collins et al. , 1992 ) resulting in fever , lethargy , and respiratory distress .
+717	LCMV is known to infect pregnant women , causing fetal wastage , hydrocephalus , and chorioretinitis in affected offspring [ 20 , 21 ] .
+718	Following a 7-to 19-day incubation period , monkeypox infection of humans is characterized by fever , malaise , headache , severe backache , prostration , and occasional abdominal pain ( Damon , 2011 ; Sejvar et al. , 2004 ) .
+719	Acute infection by HEV generally causes mild and self-limited hepatitis but it can also produce fulminant hepatic failure in pregnant women and is associated with very high mortality particularly in the third trimester of pregnancy .
+720	Although many other enteroviruses cause HFMD in children , EV71 infection is more frequently associated with severe central-nervous-system complications in HFMD patients and thereby is a major cause of fatalities [ 1 , 4 ] .
+721	While infectious bronchitis ( IB ) is considered primarily a disease of the respiratory system , different IBV strains may show variable tissue tropisms and also affect the oviduct and the kidneys , with serious consequences .
+722	CoV-2 infection results in the disease known as COVID-19 , which is associated with fever and severe respiratory illness .
+723	Immunosuppression caused by IBDV leads to an increased susceptibility of chickens to a wide range of secondary viral and bacterial infections , often resulting in the death of a bird .
+724	The primary target of the virus is the lower respiratory tract , which subsequently leads to distress or multiple organ failure in severe cases due to replication of the virus [ 5 ] .
+725	Filovirus infection can cause a life threatening hemorrhagic fever ( e.g. Ebola virus disease , EVD ) in non-human primates ( NHP ) and humans , with case-fatality rates of up to 90 % .
+726	In humans , VZV infection sometimes causes herpes zoster , which is thought to be triggered by stress or weak immunity .
+727	In humans , infections with the human coronavirus ( HCoV ) strains HCoV-229E , HCoV-OC43 , HCoV-NL63 and HCoV-HKU1 usually result in mild , self-limiting upper respiratory tract infections , such as the common cold .
+728	SARS is an acute pulmonary syndrome characterized by atypical pneumonia , progressive respiratory failure and death in up to 10 % of infected individuals ( Poon et al. , 2004 ) .
+729	Although M41 and Conn A5968 strains of IBV infections first establish infections in the respiratory tract , these two strains of IBV are known to replicate in a variety of tissues leading to pathology in these tissues [ 4 ] .
+730	Upper HRSV infections spread to the lower respiratory tree to an extent generally considered proportional to the severity of the disease [ Collins and Crowe , 2007 ] .
+731	Among viral infections , respiratory syncytial virus ( RSV ) is prominent as the major cause of bronchiolitis in infancy .
+732	Similarly to 2003 SARS-CoV and " Middle-East Respiratory Syndrome " coronavirus ( MERS ) ( 2 ) , SARS-CoV-2 severely affects the lungs and COVID-19 patients are at increased risk of developing an acute respiratory distress syndrome ( ARDS ) which is often fatal ( 3 ) .
+733	In porcine models , PMT causes a more serious form of AR known as progressive AR , whereas B. bronchiseptica infection alone induces a milder , or non-progressive , form of the disease .
+734	Feline infectious peritonitis ( FIP ) is a fatal immunemediated disease triggered by infection with feline coronavirus ( FCoV ) .
+735	Although most cases exhibit low to mild symptoms are and indistinguishable from other viral causes , acute respiratory infections caused by HAdV can be severe [ 44 ] , or even fatal [ 7 , 45 ] , and are associated with the highest risk of long term respiratory sequelae [ 46 ] .
+736	IBDV can infect immature B-lymphocytes in the bursa of Fabricius ( 1 ) and result in vaccination failure and susceptibility of chickens to pathogens ( 2 ) .
+737	Respiratory disease ( such as ARDS ) and acute renal failure are the main symptoms of MERS-CoV infection , although patients with fatal disease in the CNS have been reported [ 40 ] .
+738	PRRSV infection presents as severe reproductive failure in sows and respiratory distress in piglets and growing pigs ( 9 ) .
+739	JCPyV causes a rare and fatal disease known as progressive multifocal leukoencephalopathy ( PML ) , while BKPyV is associated with nephropathy [ 56 ] .
+740	Lymphopenia appears soon after infection [ 7 , 120 , 132 , 133 ] and follows an influx of macrophage-like cells in the thymus and secondary lymphoid organs that contain PRRSV [ 134 , 135 ] .
+741	Infection with the novel coronavirus severe acute respiratory syndrome-related coronavirus 2 ( SARS-CoV-2 ) causes symptoms ranging from fever , cough and fatigue to severe lung injury and death .
+742	Canine coronavirus ( CCV ) causes a localized infection of the intestinal tract similar to other enteric coronaviruses , such as bovine coronavirus and transmissible gastroenteritis virus of pigs .
+743	Ebola virus infection quickly progresses to lethal hemorrhagic disease in humans and non-human primates [ 73 ] .
+744	Common clinical syndromes associated with T. gondii infection include abortion and congenital infection as well as systemic and central nervous system infections in immunocompromised hosts ( Kim and Weiss 2008 ) .
+745	FIP is a usually fatal , immune-mediated , disease triggered by infection with FCoV , which can affect both domestic and wild felines ( Pedersen , 1987 ; Barlough and Scott , 1988 ) .
+746	In experimental animal models , mice infected with M. pneumoniae may develop airway obstruction and inflammation .
+747	Primary DENV infection often causes reactions ranging from asymptomatic illness to symptoms such as rush , headache and dengue fever [ 205 , 206 , 213 ] .
+748	IBV is the etiologic agent of infectious bronchitis ( IB ) , which is a highly contagious , acute viral respiratory disease of chickens .
+749	Infection with FIV causes feline acquired immunodeficiency disease syndrome ( AIDS ) , which is characterised by a loss of immunological capability , allowing subsequent opportunistic infections , and death from micro-organisms that would not normally harm the animal .
+750	Virulent strains of FIPV , such as FIPV-79 - 1146 and FIPV-DF2 , however , can cause a disease with gastrointestinal signs , fibrinous serositis and disseminated vasculitis known as feline infectious peritonitis .
+751	Intracranial infection of mice with TMEV , a member of the Picornaviridae , results in an acute polioencephalitis followed by a chronic demyelinating disease in susceptible strains of mice [ 27 ] .
+752	Ebola virus causes a clinical syndrome known as viral hemorrhagic fever , which carries a mortality rate of up to 90 % .
+753	Once the kittens are infected , FCV proliferates in the oral cavity and upper respiratory tract , causing feline upper respiratory tract disease ( FURTD ) [ 3 ] .
+754	LCMV is a zoonotic virus that may cause a variety of clinical manifestations in humans , including meningitis .
+755	Experimental FIV infection progresses through several stages , similar to HIV infection in people , including an acute phase , a clinically asymptomatic phase of variable duration , and a terminal phase sometimes named " feline acquired immunodeficiency syndrome " ( " FAIDS " ) ( English , 1995 ; Goto et al. , 2000 ) .
+756	Various strains of IBV cause disease that varies in severity from mild respiratory problems to virulent strains that can cause nephropathology and reproductive organ pathology .
+757	Ebola virus infections generate severe illness in humans , and after an incubation time , patients at first present with general influenzas before a fast progression to a progressive disease characterized via shock-like syndrome , multiple organ failure , and hemorrhage [ 87 ] .
+758	North America can result in hantavirus pulmonary syndrome , which is often fatal in humans while having no discernible impact on deer mice ( Peromyscus maniculatus ) , its primary host [ 46 ] .
+759	Viral-bacterial co-infection often increases disease severity in both humans and animals .
+760	PRRSV infection is characterized by reproductive failure including abortion and stillborn piglets in infected pregnant sows and by acute respiratory disease in neonatal and young pigs .
+761	Infections of HAdV can cause a variety of clinical diseases , ranging from asymptomatic and self-limited conditions to pneumonia and even death .
+762	Infection of the respiratory tract by influenza virus classically results in acute onset of systemic and respiratory symptoms such as fever , cough , sore throat , nasal congestion , headache , myalgias , or malaise [ 32 ] .
+763	In contrast , FIPV efficiently replicates in macrophages/monocytes , and can lead to FIP , which is a highly lethal systemic granulomatous disease [ 2 ] .
+764	In most immunocompetent individuals , HBV infection causes acute hepatitis , where the host immune response plays an essential role in viral clearance , but in the process , also causes some liver injury ( Chisari et al. , 2010 ) .
+765	The clinical signs of PCV2 infection include poor weight gain , respiratory problems , dermatitis , enteritis , nephropathy and reproductive failures [ 15 ] .
+766	In humans , about 20 % of cases of infection with WNV lead to clinical disease , typically after an incubation period of 2 to 6 days .
+767	PRRSV induces a slow and weak innate immune response [ 3 , 4 ] , and a delayed adaptive immune response [ 1 , 6 , 15 ] .
+768	Porcine cytomegalovirus infection causes tissue-invasive infection in porcine xenografts in baboon hosts and contributes to endothelial injury and consumptive coagulopathy ( CC ) in some animals ( 57 ) .
+769	Feline Infectious Peritonitis FIP is caused when the immune response to feline coronavirus induces granulomatous necrotizing phlebitis and periphlebitis , protein-rich effusions into body cavities , and granulomatous inflammatory lesions in multiple organs [ 90 , 91 ] .
+770	The molecular pathogenesis of JE remains unclear , but JE is considered an immunopathological disease since uncontrolled over-activation of microglia/glia and infiltrated leukocytes after CNS invasion of JEV drives neurological disorders [ 22 , 23 ] .
+771	Although dengue viruses types one to four cause mainly arthralgia , hemorrhagic disease and a skin rash , they can occasionally cause CNS infection [ 10 ] .
+772	PRRSV is highly pathogenic in alveolar macrophages and monocyte-derived dendritic cells and rapidly destroys these target cells by apoptosis and necrosis [ 2 , 45 , 46 ] .
+773	Infections with lymphocytic choriomenigitis virus ( LCMV ) , a rodent-borne arenavirus , usually cause mild , self-limited illness or aseptic meningitis in nonimmunosuppressed patients .
+774	It has been reported that human infections with these LPAIVs cause upper respiratory tract illness varying from mild ( conjunctivitis or uncomplicated influenza-like illness ) to moderate in severity .
+775	PEDV is the causative agent of porcine epidemic diarrhea , a condition that presents as severe diarrhea , vomiting , and dehydration .
+776	In adults , Zika virus can cause neurological complications , including but not limited to Guillain-Barré syndrome , which is an acute , progressive neuropathy that can result in paralysis [ 10 , 11 ] .
+777	FIV infection in domestic cats is associated with early robust humoral and cellular anti-viral immune responses , followed by a progressive immune suppression that results eventually in AIDS .
+778	SARS-CoV-2 invades especially epithelial cells of the alveoli , explaining why the disease is characterized mainly by respiratory symptoms [ 11 ] .
+779	In inbred mouse strains , SARS-CoV-1 replicates efficiently in the respiratory tract and can cause pneumonitis , but clinical signs and pneumonia were only observed in old BALB/c mice [ 10 ] .
+780	Co-infection of H9N2 viruses with bacteria such as Staphylococcus aureus and Haemophilus paragallinarum or attenuated coronavirus vaccine strains with H9N2 virus exacerbate the disease [ 1 , 9 , 10 , 15 ] .
+781	SARS-CoV spreads in the brains of intranasally inoculated mice primarily via the olfactory bulb with subsequent infection of the hypothalamus and brainstem [ 57 ] .
+782	Human infection with avian influenza A H7N9 is a kind of acute respiratory disease which is caused by avian influenza A H7N9 virus , with more than 90 % of the infected patients presenting with rapidly progressive pneumonia and 70 % of them presenting with acute respiratory distress syndrome ( ARDS ) .
+783	Infection with RSV can result in mild to severe illness , including lower respiratory syndromes such as bronchiolitis and pneumonia .
+784	Once oral tolerance is disrupted , FIPV is capable of systemic spread resulting in immune-mediated vasculitis and death .
+785	FMD virus infection produces vesicles on oral mucous membranes , including the tongue , gums , and dental pads , but also on the skin including the interdigital spaces and teats .
+786	The uncontrolled viral replication of Ebola virus is central to its pathogenesis , both because of its cytopathic effects and because it induces prominent dysregulation of the host immune response .
+787	The human papovavirus , JCV , is one of the agents responsible for the disease progressive multifocal leukoencephalopathy ( PML ) .
+788	In neonatal murine animal models , reovirus infection via oral or respiratory routes results in primary infection of the gut or lungs followed by dissemination to secondary sites of replication [ 3 , 16 ] .
+789	SARS-CoV can generate a rapid inflammatory cascade eventually leading to pneumonia or severe acute respiratory syndrome ( SARS ) , characterized by diffuse alveolar damage , extensive disruption of epithelial cells and accumulation of reactive macrophages ( 3 ) .
+790	Adenovirus responsible of inclusion body hepatitis ( IBH ) can induce atrophy of the bursa , the thymus and the spleen , that occurs following challenges involving serotypes 1 , 4 , and 8 ( Singh et al. , 2006 ; Schonewille et al. , 2008 ) .
+791	In vitro and animal studies showed that MERS-CoV preferentially infects respiratory epithelial cells and inhibits the type 1 interferon response [ 10 , 11 ] .
+792	In adult pigs , PEDV causes watery diarrhea , depression , and anorexia as well as agalactia and reduced reproductive performance ( 1 ) ( 2 ) ( 3 ) .
+793	Infection of BALB/c mice with SARS-CoV-MA15 causes morbidity , mortality and pulmonary pathology , similar to the symptoms observed in human SARS [ 31 ] .
+794	HSV-1 infection establishes life-long latency with reactivation triggered by stimuli like UV light , tissue damage , or compromised immunity [ 2 ] .
+795	Patients infected with SARS-CoV-2 develop varying degrees of symptoms , ranging from a fever or mild cough , to pneumonia , to more severe or even death [ 3 ] .
+796	COVID-19 , caused by the SARS-CoV-2 virus , is a major source of morbidity and mortality due to its inflammatory effects in the lungs and heart .
+797	COVID-19 , caused by the SARS-CoV-2 virus , is a major source of morbidity and mortality due to its inflammatory effects in the lungs and heart .
+798	Common symptoms in people infected with SARS-CoV-2 virus include respiratory symptoms , fever , cough , and in more severe cases , infection can lead to pneumonia and severe acute respiratory syndrome [ 4 , 5 ] .
+799	Feline infectious peritonitis ( FIP ) is a highly lethal systemic infection of cats caused by a group I feline coronavirus ( FCoV ) of the FIPV biotype ( Haijema et al. , 2007 ; Olsen , 1993 ) .
+800	MERS-CoV causes respiratory and renal illness in humans , and infection often progresses to severe pneumonia , acute respiratory distress syndrome , renal failure , or death in a subset of patients ( 2 ) .
+801	Most PRRSV strains have the capacity to impair host immunity , leading to generalized immunosuppression in infected pigs ( 5 ) .
+802	Canine parvovirus ( Parvoviridae type 2a and 2b ) has a predilection to infect rapidly dividing cells of the gastrointestinal tract , lymphoid tissue , and bone marrow , leading to hemorrhagic diarrhea , vomiting , marked leukopenia , and immunosuppression .
+803	MHV-3 causes a spectrum of liver disease in mice including fulminant hepatitis , liver failure , and death .
+804	Avian infectious bronchitis virus ( IBV ) primarily replicates in epithelial cells of the upper respiratory tract of chickens , inducing both morphological and immune modulatory changes .
+805	The disease course of TBEV is biphasic ; the initial phase is characterized by flu-like symptoms and is followed by a second phase involving CNS infection , with meningitis , encephalitis , or meningoencephalitis [ 41 ] [ 42 ] [ 43 ] .
+806	The initial target of IBV is the epithelial cells of the respiratory tract , which is often followed by secondary infection of Escherichia coli , accentuating respiratory signs .
+807	Feline infectious peritonitis ( FIP ) is a deadly disease that effects both domestic and wild cats and is caused by a mutation in feline coronavirus ( FCoV ) that allows the virus to replicate in macrophages .
+808	Common marmosets infected with Josiah strain LASV develop systemic disease closely resembling the clinical and pathologic features of fatal disease in macaques and humans [ 71 ] .
+809	Unlike other aetiological agents of HFMD that normally cause mild disease , HEV71 infection has been reported to cause neurological disease manifesting as aseptic meningitis , encephalitis or poliomyelitis-like acute flaccid paralysis [ 5 ] .
+810	The COVID-19 virus affects the upper and lower respiratory tract , leading to acute respiratory failure .
+811	Infection of endothelial cells in the horse central nervous system ( CNS ) is required for establishment of EHV-1-induced encephalomyelitis , which is characterized by vasculitis , thrombosis , and secondary ischemia of neuronal tissue ( Edington et al. , 1986 ) .
+812	The devastating effect of PEDV infection is primarily due to the acute watery yellowish diarrhea and dehydration , with mortality rates ranging from 80 to 100 % in suckling piglets under 2 weeks of age [ 9 ] .
+813	In contrast to inoculation of young mice , inoculation of aged mice with SARS-CoV causes clinical signs of disease , lymphocyte infiltration , and alveolar damage 3 - 9 days after inoculation [ 37 ] .
+814	Human coronavirus 229E ( HCoV-229E ) usually causes mild upper respiratory infections in heathy adults , but may lead to severe complications or mortality in individuals with weakened immune systems .
+815	DENV infection causes dengue fever ( DF ) and the more severe forms of the disease , dengue hemorrhagic fever ( DHF ) and dengue shock syndrome ( DSS ) .
+816	After initial enteric infection , feline coronavirus ( FCoV ) may spread beyond the intestine , resulting in a monocyte-associated viraemia , with or without the development of FIP .
+817	Infectious bronchitis virus ( IBV ) is the causative agent of avian infectious bronchitis , which is characterized by respiratory , reproductive , and renal signs .
+818	The feline infectious peritonitis virus ( FIPV ) results in the development of a lethal disease called feline infectious peritonitis ( FIP ) [ 23 ] .
+819	RSV replication occurs in lower airways and the virus is present in both the upper and lower respiratory tracts , leading to pneumonia [ 161 ] .
+820	Exposure of susceptible mice to MHV strains having primary tropism for the respiratory tract results in neural transport of virus to the brain and bloodborne dissemination to visceral organs [ 12 , 13 ] .
+821	Sendai virus infection causes rhinitis , tracheobronchitis , bronchiolitis , and varying degrees of alveolitis in both rats and mice .
+822	PCV2 infection results in host immunosuppression , characterized by lymphoid depletion .
+823	JCV can cause progressive multifocal leukoencephalopathy in immunosuppressed patients , while BKV is considered to be the causative agent of polyomavirusassociated nephropathy , which leads to kidney transplant failure .
+824	SARS-CoV causes severe respiratory disease in humans resulting in respiratory distress that requires ventilation support in approximately 20 % of infected individuals ( Knudsen et al. , 2003 ; Peiris et al. , 2004 ) .
+825	PRRSV is a member of the family Arteriviridae , order Nidovirales , that replicates in lung alveolar macrophages and induces several cytokines including IL-6 , IL-8 , IL-10 , and TNF-a involving pulmonary inflammation response [ 16 , 17 ] , producing an influenza-like illness associated with respiratory distress [ 18 ] in young piglets .
+826	When VSV does infect humans , it is either asymptomatic or may result in a mild , self-limited , flu-like illness .
+827	Secondary pneumonic plague is due to dissemination of Y. pestis into the lungs during either the bubonic or septicaemic phases and occurs in approximately 10 % of patients [ 41 ] .
+828	Respiratory syncytial virus ( RSV ) , an enveloped nonsegmented RNA virus in the paramyxovirus family , causes URTIs and LRTIs in immunocompromised hosts .
+829	MERS-CoV infection causes a spectrum of disease , from mild respiratory symptoms , usually confined to the upper respiratory tract , to more severe disease impacting the lower airways .
+830	Intracranial inoculation of suckling mice with reovirus T3D causes injury to a variety of organs , including the central nervous system ( CNS ) , heart , and liver , which is associated with extensive apoptosis at the sites of viral replication [ 29 ] [ 30 ] [ 31 ] .
+831	CCoV is shed at high titres with the faeces of the infected dogs and its infection is restricted to the alimentary tract , leading to the onset of clinical signs typical of the gastroenteric involvement including loss of appetite , vomiting , fluid diarrhoea , dehydration and , only occasionally , death .
+832	PEDV infection induces death in neonatal pigs due to watery diarrhea and dehydration .
+833	The viral etiology of dengue is characterized by biphasic fever , headache , pain in various parts of the body , prostration , rash , lymphadenopathy and leukopenia that affects young children and adults [ 36 ] .
+834	The viral etiology of dengue is characterized by biphasic fever , headache , pain in various parts of the body , prostration , rash , lymphadenopathy and leukopenia that affects young children and adults [ 36 ] .
+835	A combined infection with influenza viruses and S. aureus causes particularly severe and fatal pneumonia in both children and adults ( 29 ) .
+836	Influenza virus infection injures the host through viral replication-mediated tissue damage and by inducing a harmful inflammatory response .
+837	In mice , TMEV is capable of causing infection in the central nervous system , and some variants of this virus cause a persistent infection and even multiple sclerosis -like disease ( 7 ) .
+838	Unlike seasonal influenza , highly pathogenic viruses such as avian H5N1 are able to infect organs outside the upper respiratory tract such as the lower lungs , intestines , and brain , causing a more severe illness [ 3 ] .
+839	In North America , the related Sin Nombre virus ( SNV ) is the most common cause of hantavirus cardiopulmonary syndrome , an acute condition characterized by severe respiratory failure , shock , and mild renal dysfunction .
+840	Patients with rheumatic disease can become easily and severely infected with SARS-CoV-2 because their immune system is suppressed [ 1 ] .
+841	In humans , infection of the respiratory tract can lead to pneumonia , secondary pneumonia and overwhelming immune responses , followed by multiorgan failure in rare cases .
+842	In avian species , most influenza virus infections cause mild local-ized infections of the respiratory and intestinal tract , but highly pathogenic strains such as H5N1 cause system infections in which mortality may reach 100 % [ 2 ] .
+843	Reactivation of HHV-6 in adults is believed to be responsible for encephalitis in immunocompromized hosts such as bone marrow transplant , organ transplant , and stem cell recipients ( Drobyski et al , 1994 ; Wainwright et al , 2001 ; Zerr et al , 2001 ) .
+844	In humans , seasonal coronaviruses can cause both upper and lower respiratory tract infections , with increased disease severity in the elderly , children , and immunocompromised patients [ 8 ] .
+845	Systemic infection with mouse adapted influenza virus strains results in severe morbidity and maternal mortality in pregnant mice ( Marcelin et al. , 2011 ; Pazos et al. , 2012b ) .
+846	The most publicized human coronavirus , SARS-CoV , which causes severe acute respiratory syndrome ( SARS ) , has a unique pathogenesis because it causes both upper and lower respiratory tract infections and can also cause gastroenteritis .
+847	The progression of EBOV disease ( EVD ) within infected individuals involves nonspecific influenza-like symptoms , cytokine storm , and potential hemorrhagic manifestations including coagulopathy , leaky blood vessels , and multiorgan failure .
+848	In guinea pigs , human RSV infection causes acute bronchiolitis without clinical signs and weight loss [ 15 ] .
+849	Coronavirus disease is essentially a lower respiratory tract disease characterized by direct viral injury of alveolar epithelial cells .
+850	Coronavirus disease is essentially a lower respiratory tract disease characterized by direct viral injury of alveolar epithelial cells .
+851	The clinical manifestations of COVID-19 virus infection include asymptomatic infection , mild upper respiratory symptoms , severe viral pneumonia with respiratory failure , and even death .
+852	The clinical manifestations of COVID-19 virus infection include asymptomatic infection , mild upper respiratory symptoms , severe viral pneumonia with respiratory failure , and even death .
+853	CHIKV infection in humans is characterized by a sudden onset of fever , rash , and severe arthralgia ( 15 ) ( 16 ) ( 17 ) .
+854	Influenza viruses are spread by respiratory droplets resulting in a spectrum of clinical responses ranging from mildly symptomatic infection to a primary viral pneumonia rapidly progressing to death ( Lamb and Webster , 2001 ) .
+855	Normally in wild-type mice , WNV replication is limited to the skin , draining lymph node , spleen , and central nervous system [ 5 ] .
+856	Influenza virus targets the respiratory tract and causes fever , often with acute laryngitis , tracheitis , and pneumonia , and occasionally myocarditis , meningoencephalitis , or rhabdomyolysis , among other symptoms [ 17 ] .
+857	As to human beings , clinical presentation of H7N9 IAV infection is characterized by rapidly progressing severe pneumonia and induced complications such as acute respiratory distress syndrome ( ARDS ) , septic shock and multi-organ failure [ 7 ] .
+858	HRV infection in humans usually causes common cold and mild illnesses , but is sometimes associated with asthma exacerbation and viral upper respiratory tract infection ( Bartlett et al. , 2008 ) .
+859	Feline infectious peritonitis virus ( FIPV ) is a coronavirus that causes sporadic fatal disease in cats characterized by vasculitis , granulomatous inflammation and effusive pleuritis/peritonitis .
+860	Infection in humans usually causes severe encephalitic and respiratory disease ( 70 ) .
+861	Both RSV and influenza A ( H1N1 ) virus result in a broad spectrum of disease , ranging from mild upper respiratory symptoms to fulminant respiratory failure and ARDS ( 59 , 84 ) .
+862	IAV is a respiratory tract infection that rarely causes viremia or direct infection of organs outside the lung .
+863	Although infections with FCoV usually are subclinical , mutant strains occasionally cause clinically manifest feline infectious peritonitis ( FIP ) ( Vennema et al 1998 ) .
+864	Among young children , EV71 is a notable cause of central nervous system ( CNS ) disease that usually results in rapid clinical deterioration and death , the molecular pathogenesis of which is still elusive ( Kehle et al . , 2003 ) .
+865	Severe infection with SARS-CoV-2 can precipitate myocardial infarction , myocarditis , heart failure , and arrhythmias as well as an acute respiratory distress syndrome and renal failure .
+866	Severe infection with SARS-CoV-2 can precipitate myocardial infarction , myocarditis , heart failure , and arrhythmias as well as an acute respiratory distress syndrome and renal failure .
+867	PHEV is a highly neurovirulent virus that spreads to the central nervous system via peripheral nerves , where nerve cells are a target for viral replication [ 7 ] , and this spread could result in high neuropathogenicity .
+868	While infection of IBV-Mass ( of which strain M41 is the prototype ) is predominantly detected in the upper respiratory tract ( 7 ) including the trachea ( 2 ) , replication of IBV-QX is additionally found in the kidneys ( 7 ) ( 8) ( 9 ) , oviduct , and the gastrointestinal tract ( 10 , 11 ) , leading to additional clinical symptoms like swollen proventriculus ( 12 ) and reduction of egg production ( 13 , 14 ) .
+869	Infection with such viruses predisposes to otitis media , which becomes suppurative and leads to pneumococcal bacteremia or meningitis ( Kim et al. , 1996 ) .
+870	More importantly , EV71-infected children can develop neurological complications , such as aseptic meningitis , acute flaccid paralysis , encephalitis , acute cerebellar ataxia , brainstem encephalitis , as well as fatal pulmonary edema or cardiopulmonary collapse [ 1 ] .
+871	Infection of the hamster results in a persistent increase in parasite burden , progressive cachexia , hepatosplenomegaly , pancytopenia , hypergammaglobulinemia , and ultimately death ( Melby et al. , 2001 ) .
+872	Porcine hemagglutinating encephalomyelitis is an acute and highly contagious disease of pigs caused by PHEV , primarily affecting piglets less than 3 weeks of age , causing vomiting and wasting disease and significant neurological symptoms .
+873	Feline panleukopenia is a parvovirus that requires rapidly dividing cells for successful infection ( lymphoid tissue , bone marrow and intestinal mucosal crypts ) .
+874	Subacute sclerosingpanencephalitis results from persistent measles virus ( MeV ) infection , and progressive panencephalitis may occur many years after congenital or perinatal rubella virus ( RuV ) infection [ 6 , 7 ] .
+875	SARS-CoV infection induces an uncontrolled inflammatory response leading to pulmonary damage , edema accumulation , severe hypoxemia and eventually death .
+876	In humans , seasonal influenza virus infection is mainly confined to the upper respiratory tract , while growth in the lung is more rare and associated with severe disease ( Treanor 2010 ) .
+877	MHV-1 causes acute lung inflammation by inducing acute respiratory infection ( ARI ) within 2 - 4 days in C57BL/6 mice by increasing viral load .
+878	Although the clinical symptoms of PEDV infection are similar to transmissible gastroenteritis virus ( TGEV ) infection , PEDV has a wider variety of clinical signs in pigs [ 4 ] .
+879	LCMV is an arenavirus that establishes a silent , chronic infection in mice but causes aseptic meningitis , encephalitis or meningoencephalitis to humans .
+880	Coronaviruses induce an MS-like disease in rodents , and are neuroinvasive in humans [ 6 , 7 ] .
+881	TMEV infection is one of the most common viral infections detected in contemporary laboratory mouse colonies .
+882	Tick-borne encephalitis virus ( TBEV ) , a member of the genus Flavivirus ( Flaviviridae ) , is a causative agent of a severe neuroinfection .
+883	Tick-borne encephalitis virus ( TBEV ) , a member of the genus Flavivirus ( Flaviviridae ) , is a causative agent of a severe neuroinfection .
+884	Severe pneumonia mostly bilateral occasionally unilateral , leading to respiratory failure is the leading cause of mortality in SARS-CoV-2 infection [ 108 ] .
+885	However , in some cats , this initial infection can lead to extra-enteric infections in other organs [ 6 , 8 ] , and after initial infection , the virus is believed to mutate into the " FIPV " biotype and produce a severe and often lethal disease called FIP , if left untreated [ 39 , 40 ] .
+886	As a result of COVID-19 infection , many patients develop acute respiratory distress syndrome ( ARDS ) , which may lead to multiple organ damage .
+887	DENV infection causes a spectrum of symptoms ranging from acute self-limiting febrile illness to life-threatening dengue hemorrhagic fever ( DHF ) and dengue shock syndrome ( DSS ) ( Jones et al. , 2005 ; Ubol et al. , 2008 ) .
+888	Infection by severe acute respiratory syndrome-associated coronavirus ( SARS-CoV ) causes life-threatening atypical pneumonia Ksiazek et al. , 2003 ; Kuiken et al. , 2003 ; Marra et al. , 2003 ; Peiris et al. , 2003a ; Rota et al. , 2003 ) .
+889	VEEV infection initiates a biphasic disease : a peripheral phase , where viral replication occurs in the lymphoid and myeloid tissues , and a neurotrophic phase , where viral replication progresses to the CNS resulting in neuropathology and in some cases fatal encephalitis .
+890	Infection of humans is relatively rare but is associated with a high mortality rate ( $ 60 % ) due to a highly alveolar destructive primary viral pneumonia frequently expressed clinically as acute respiratory distress syndrome ( ARDS ) ( Abdel-Ghafar et al. , 2008 ) .
+891	MDV is a highly prevalent alpha-herpesvirus and the disease it causes is characterized by transient neurological signs and immunosuppression at early stages that could subsequently be followed by lymphoma formation in various visceral organs in susceptible birds .
+892	Influenza A ( H1N1 ) virus infection causes a broad spectrum of clinical syndromes , ranging from afebrile upper respiratory illness to fulminant viral pneumonia [ 22 ] .
+893	However , Influenza Virus ( IV ) as a pneumotropic virus can lead to lung failure and systemic host reaction with subsequent multiple organ failure .
+894	TCoV infection in turkeys leads to virus replication in the apical portion of the intestinal villi , causing malabsorption , poor digestion , and diarrhea and changing of the intestinal environment ( Naqi et al. 1971 ) .
+895	Infection with SARS-CoV-2 manifests itself as a mild respiratory tract infection in the majority of individuals , which progresses to a severe pneumonia and acute respiratory distress syndrome ( ARDS ) in 10 - 15 % of patients .
+896	Clinical manifestations of MERS-CoV infection range from asymptomatic to severe pneumonia with acute respiratory distress , septic shock , and renal failure resulting in death [ 40 ] .
+897	Human adenovirus ( HAdV ) infection can result in a severe respiratory disease .
+898	The obligate intracellular pathogen Coxiella burnetii causes Q fever , a disease starting with flu-like symptoms , which , in cases of prolonged infections , may proceed to severe endocarditis .
+899	Infection by LCMV in people is known to cause acute central nervous system disease and congenital malformations .
+900	SARS-CoV-2 infection may lead to a wide range of clinical presentations , from an asymptomatic form to a severe acute respiratory syndrome [ 3 ] .
+901	The Middle East respiratory syndrome coronavirus ( MERS-CoV ) is a virus that manifests itself in viral infection with fever , cough , shortness of breath , renal failure and severe acute pneumonia , which often result in a fatal outcome .
+902	The Middle East respiratory syndrome coronavirus ( MERS-CoV ) is a virus that manifests itself in viral infection with fever , cough , shortness of breath , renal failure and severe acute pneumonia , which often result in a fatal outcome .
+903	The Middle East respiratory syndrome coronavirus ( MERS-CoV ) is a virus that manifests itself in viral infection with fever , cough , shortness of breath , renal failure and severe acute pneumonia , which often result in a fatal outcome .
+904	Typically , the first infection with RSV or with its close relative , metapneumovirus , may be severe and cause bronchiolitis [ 14 ] .
+905	In pigs , PRRSV causes porcine reproductive and respiratory syndrome ( PRRS ) , which is characterized by reproductive failure in breeding sows and severe respiratory distress in young and growing pigs [ 1 ] .
+906	IBV replicates in various cell tissues and produces various pathologic lesions and clinical signs .
+907	The clinical presentation and virulence of hMPV LRTI in infants and young children resembles that of other viruses , including respiratory syncytial virus ( RSV ) , being also capable of eliciting life-threatening disease ( LTD ) [ 10 , 11 ] .
+908	BoHV-1 infection can cause conjunctivitis , pneumonia , genital disorders , abortions , and an upper respiratory infection known as bovine respiratory disease ( BRD ) or " Shipping Fever " [ 136 ] .
+909	Except for asymptomatic carriers , infection with this virus causes a large fraction of patients to develop moderate clinical illness in a short period , with a small but a substantial number of patients experiencing severe disease characterized by fatal acute lung injury ( ALI ) and acute respiratory distress syndrome ( ARDS ) .
+910	Coronavirus infection is mainly associated with respiratory and enteric diseases but , depending on the virus , can also lead to hepatic ( Lane and Hosking 2010 ) and neurologic manifestations ( Foley and Leutenegger 2001 ) .
+911	Virus-specific CD8 + T cell-mediated cytolysis of infected liver cells can result in severe immunopathological damage .
+912	CHV-1 spreads by aerosol and initiates infection in the oropharyngeal mucosa and the local lymph nodes and results in reticuloendothelial cell viraemia .
+913	In contrast , some FCoV-infected cats sporadically develop an invariably fatal immune-mediated disease called feline infectious peritonitis ( FIP ) .
+914	In susceptible individuals , enteroviruses cause subclinical infection or mild disease , although occasional infections may cause serious disease , such as the poliomyelitis caused by poliovirus in humans [ 10 ] .
+915	Virus rapidly spreads to the alveoli , causing diffuse alveolar damage leading to pneumonia and ARDS in 25 % of cases [ 67 ] .
+916	In humans , T. gondii infection is one of the most common parasitic infections , but it causes severe disease only in congenitally infected neonates and immunocompromised individuals .
+917	PEDV infection of neonatal pigs causes fecal virus shedding ( alongside frequent detection of PEDV RNA in the nasal cavity ) , acute viremia , severe atrophic enteritis ( mainly jejunum and ileum ) , and increased pro-inflammatory and innate immune responses .
+918	Rotavirus diarrhea is more prolonged and severe in immuno-compromised animals and humans ( Eiden et al. , 1985 ; Liakopoulou et al. , 2005 ; Paul and Stevenson , 1999 ) .
+919	Infection with HBoV1 can lead to development of a cough , rhinitis , fever and other common clinical symptoms [ 15 , 19 ] .
+920	Mice infected with dengue-2 virus develop a transient thrombocytopenia that may result from the secretion of anti-platelet autoantibodies , together with other consequences of this viral infection , such as paraplegia [ 17 ] .
+921	Acute FCV is known to induce vesicular disease , which typically manifests as oral and lingual ulcerations [ 53 ] .
+922	Although VSV causes a self-limiting infection with very mild tissue inflammatory responses in many species including humans , VSV infection can be pathogenic in mice , particularly in Balb/c mice .
+923	Avian influenza strains , when they do produce symptomatic disease in humans , often result in rapid progression to severe respiratory distress and respiratory ( as well as other organ ) failure .
+924	Canine coronaviral enteritis is an acute contagious disease of dogs caused by an epitheliotropic virus that preferentially invades the mature enterocytes of the villous tips .
+925	Viral infection causes cell death that results in villous atrophy followed by malabsorption , diarrhea , dehydration , anorexia , and eventually animal death .
+926	Postnatal exposure of susceptible infants ( ie , infants without passively acquired maternal antibodies against CMV : premature infants , infants of CMV-seronegative mothers , and immunodeficient infants ) can lead to severe disease ( hepatitis , pneumonitis ) [ 36 , 37 ] .
+927	Severe acute respiratory syndrome ( SARS ) is characterized by an acute respiratory disease , often accompanied by gastroenteritis , which is fatal in approximately 10 % of infected individuals ( Gu and Korteweg 2007 ) .
+928	Furthermore , aerosol exposure of mice to VeeV can result in massive infection of the olfactory neuroepithelium , olfactory nerves , and olfactory bulbs and viral spread to brain , resulting in necrotizing panencephalitis ( Charles et al. , 1995 ; steele et al. , 1998 ) .
+929	EV71 is the most neurovirulent virus among the enteroviruses associated with HFMD and causes severe CNS complications and fatal outcome [ 9 , 10 ] .
+930	However , RSV infection produces severe respiratory tract illness in susceptible adult populations including in the elderly , the immunocompromised , and in those with severe underlying pathology [ Falsey and Walsh , 2000 ; Johnstone et al. , 2008 ] .
+931	Murine hepatitis virus , like FIPV , can produce either systemic infection or disease primarily affecting the liver .
+932	Humans infected with CHIK virus produce an illness often characterized by sudden onset of fever , headache , fatigue , nausea , vomiting , rash , myalgia , severe arthralgia , and polyarthralgia ( typical clinical sign of the disease is very painful ) .
+933	Infection of susceptible strains of mice with some strains of TMEV or MHV causes biphasic disease of the CNS , consisting of early acute disease and late chronic demyelinating disease that appears 30 to 40 days post infection ( p.i ) [ 33 ] .
+934	SARS-CoV infects several species of animals , including mice , ferrets , hamsters , cats , and cynomolgus macaques , but these animals develop either mild or subclinical disease .
+935	IBV infection is commonly followed by secondary bacterial infection , such as with Escherichia coli ( Smith et al. , 1985 ; Vandekerchove et al. , 2004 ) , resulting in complicated morbidity and increased mortality .
+936	The pathogenesis of SARS in patients that exhibit more severe disease is not well understood but includes slow virus clearance and a prolonged clinical course [ 19 , 21 , 57 , 58 ] .
+937	Lymphocytic choriomeningitis virus ( LCMV ) is an arenavirus that causes meningitis and hind limb paralysis in guinea pigs , although it is more commonly reported in mice and hamsters .
+938	In clinically severe cases of H7N9 virus infection , pneumonia progresses rapidly and leads to ALI and ARDS .
+939	Although its tropism is restricted to the gastroenteric tract , CCoV has been recently associated to systemic disease followed by fatal outcome in pups .
+940	The clinical presentation of simian hemorrhagic fever ( SHF ) in nonhuman primates is very similar to that observed in animals infected with agents such as the Ebola and Marburg viruses .
+941	IBV is primarily a respiratory pathogen because it replicates mainly in epithelial cells of the trachea , resulting in respiratory signs ( sneezing , cough , tracheal rales , gasping and nasal discharge ) , which are the most frequent clinical manifestation of this disease ( Raj and Jones , 1997 ) .
+942	Infection of young chickens with IBDV leads to infectious bursal disease ( IBD ) , characterized by the destruction of the bursa of Fabricious that results in a severe immunosuppression .
+943	SARS-CoV infection in humans typically causes an influenza-like syndrome such as malaise , rigors , tiredness and high fevers .
+944	However , the pathogenesis of a BRSV infection is different from that of a BHVl infection : the latter giving rise to clinical signs of the upper respiratory tract , whereas a BRSV infection mainly affects the lower respiratory tract .
+945	IBV causes a highly contagious disease affecting the respiratory tract and , depending on the strain , other tissues including the reproductive and urogenital tract .
+946	JEV spreads to dead-end hosts , including humans , through the bite of JEV-infected mosquitoes and causes infection of the central nervous system , with a high mortality rate ( Parida et al. , 2006a ) .
+947	Although BDV efficiently infects cultured cells derived from various species and tissues , replication in vivo is restricted mainly to neurons of the central nervous system ( CNS ) [ 13 ] .
+948	Infections with murine cytomegalovirus ( CMV ) lead to severe chorioretinal lesions in mice [ 1 ] , as does bovine diarrhoea virus in cattle [ 3 ] .
+949	The manifestation of the COVID-19 infection is highly nonspecific , including respiratory symptoms , fever , cough , dyspnea , and viral pneumonia [ 20 ] .
+950	Feline coronavirus is a ubiquitous enteric virus in the cat population that invades the epithelium of the villous tip , resulting in villous atrophy and mild enteritis .
+951	MERS-CoV infection may result in mild to severe and fulminant infections , leading to ARDS requiring hospitalization [ 11 , 12 , 18 , 21 ] .
+952	DENV infection causes a spectrum of illness ranging from asymptomatic to dengue fever to severe dengue shock syndrome .
+953	It is known that influenza virus infects and replicates at the nasopharyngeal epithelium leading to extensive damage during infection .
+954	M. pulmonis infection compromises the immune system and predisposes to secondary respiratory bacterial and viral infections such as CAR bacillus and Sendai virus .
+955	FCoV can cause a mild or sometimes apparently symptomless enteric infection , especially in kittens , and is also associated with a lethal , systemic disease known as feline infectious peritonitis ( FIP ) [ 4 , 5 ] .
+956	In humans , the majority of WNV infections cause a nonsymptomatic or mild febrile illness ; however some infections can cause encephalitis and in most severe cases can lead to death , particularly in elderly patients .
+957	SARS-CoV-2 primarily invades the respiratory tract and lungs , leading to pneumonia and other systemic disorders .
+958	The ferret enteric coronavirus ( FRECV ) , which is widely distributed , causes an enteric disease called epizootic catarrhal enteritis , whose overall mortality rate is low [ 41 ] .
+959	Arthritogenic alphaviruses such as Chikungunya virus ( CHIKV ) , Ross River virus ( RRV ) , and Sindbis virus ( SINV ) cause febrile illness and myalgias with polyarthralgias as the clinical hallmark , which can last for months to years after infection ( 15 ) ( 16 ) ( 17 ) .
+960	Patients infected with COVID-19 can exhibit a wide range of clinical manifestations , ranging from an asymptomatic state to severe disease with hypoxia and acute respiratory distress syndrome-type lung injury .
+961	Hantavirus infections in rodents are characterized by being chronic and subclinical , and although clinical signs and lesions have not been reported in laboratory mice or rats , they develop high antibody titers .
+962	The SARS coronavirus targets the epithelial cells of the respiratory tract , resulting in diffuse alveolar damage .
+963	Infection with transmissible gastroenteritis virus ( TGEV ) has been associated with villous atrophy within 48 h , which seriously disrupts intestinal homeostasis .
+964	The infection of ferrets with human seasonal IAV isolates results in an upper respiratory tract infection similar to human influenza infection ( Tripp and Tompkins , 2009 ) .
+965	In severe cases , especially those among in infants and children , EV71 infection causes severe neurological complications such as aseptic meningitis , brain stem encephalitis , pulmonary edema , poliomyelitislike paralysis and eventual death .
+966	In humans , symptomatic NiV infection has mainly taken the form of severe acute encephalitis .
+967	Acute bronchiolitis is a self-limiting lower respiratory tract infection in infancy , which is caused by various respiratory pathogens , including respiratory syncytial viruses , rhinoviruses , and M. pneumoniae .
+968	Infection of C57Bl/6 mice with MHV-A59 causes mild encephalitis , subacute demyelination , and acute hepatitis Leibowitz , 2007 , 2011 ) .
+969	Infection with the highly neurovirulent MHV type 4 ( MHV-4 , a strain JHM isolate ) results in a potentially fatal acute encephalomyelitis ( Dalziel et al , 1986 ) .
+970	Ebola virus is responsible for haemorrhagic fever leading to various complications such as malaise , fever , vascular permeability , decreased plasma volume , coagulation abnormalities , and varying degrees of hemorrhage [ 13 ] .
+971	Human H5N1 infection is characterized by a severe influenza syndrome , including fever , cough , shortness of breath , and radiological evidence of pneumonia [ 5 , 6 ] .
+972	Porcine epidemic diarrhea ( PED ) , caused by PEDV , is an acute and highly contagious enteric disease that is characterized by severe enteritis , vomiting and watery diarrhea in swine .
+973	Infection by human coronaviruses is usually characterized by rampant viral replication and severe immunopathology in host cells .
+974	C. burnetii-infected individuals can remain asymptomatic or develop a flu-like illness , pneumonia , or hepatitis , known as acute Q fever [ 3 ] .
+975	Severe influenza virus infection can lead to diffuse alveolar damage , which is characterized by pulmonary edema and the accumulation of inflammatory cells in the lung , with histopathologic features of acute lung injury ( ALI ) and acute respiratory distress syndrome ( ARDS ) , the most severe form of ALI .
+976	In contrast to some other respiratory viruses that show tropism for only the respiratory tract , adenovirus infection is not restricted to the respiratory tract and has the ability to cause multiorgan involvement , particularly including the gastrointestinal tract , heart , and CNS .
+977	Influenza virus induces a cascade of host immune responses leading to mucosal inflammation and the influx of polymorphonuclear cells , lymphocytes , and macrophages into the respiratory tract .
+978	hRSV symptoms mainly develop due to an excessive host immune and inflammatory response in the respiratory tissue .
+979	hRSV symptoms mainly develop due to an excessive host immune and inflammatory response in the respiratory tissue .
+980	H5N1-infected patients usually have high fever , few respiratory symptoms , pulmonary infiltrates , and lymphopenia ; a small number have shown acute respiratory distress syndrome and sepsis [ 3 ] .
+981	About 25 % of WNV-infected individuals develop West Nile fever , a clinical condition with variable symptoms and severity .
+982	In hamsters and other animal models , infection with HeV is generally more severe than infection with NiV-M and NiV-B [ 7 , 8 ] .
+983	Ebola , a member of the Filoviridae family , is spread by body fluids and secretions with a relatively low attack rate but causes a systemic disease with high mortality .
+984	In genetically susceptible mice , certain TMEV strains cause persistent infection , inflammation , and a chronic demyelinating disease .
+985	Studies in mice have found that influenza virus infection increases the transmission and burden of pneumococcal disease [ 30 ] .
+986	After an asymptomatic incubation period of 6 - 8 days following intranasal infection , mousepox disease starts in the respiratory tract followed by a systemic virus spread to internal organs such as liver and spleen ( Paran et al. , 2009 ; Parker et al. , 2009 ) .
+987	In contrast to SDAV , natural infection with PRCV is reportedly asymptomatic in adults , but experimentallyinoculated neonates developed lethal interstitial pneumonia ( 7 ) .
+988	Feline infectious peritonitis ( FIP ) is a progressive , fatal , predominantly Arthus-type immune-mediated disease that is triggered when cats are infected with a mutant enteric coronavirus .
+989	Although the detailed mecha-nisms of its pathogenesis have yet to be clarified , pandemic influenza is characterized by severe pulmonary pathology due to the highly virulent nature of the viral strain and the host immune response against it [ 2 ] .
+990	EAV replicates in macrophages and endothelial cells within the lungs following aerosol respiratory infection , from where it rapidly is disseminated throughout the body .
+991	In most cases , acute and reactivated infections are mild and self-limiting although , on rare occasions , HSV-1 can infect the central nervous system ( CNS ) and cause life-threatening encephalitis [ 57 ] .
+992	EBOV infects multiple organs and cell types throughout the body with the notable exception of lymphocytes that are indirectly depleted early during infection .
+993	EV-D68 infection is associated with the development of acute flaccid myelitis and severe respiratory illness [ 69 ] .
+994	Porcine and avian circovirus infections are characterized by clinical courses that may vary from asymptomatic infections to lethal disease [ 14 ] .
+995	Porcine haemagglutinating encephalomyelitis virus ( PHEV ) is the main causative agent of porcine coronavirus-associated disease , which is characterized by encephalomyelitis and involves the central nervous system .
+996	COVID-19 is predominantly a respiratory infection that spans from a mild involvement of the upper respiratory tract to a severe pneumonia leading to respiratory distress , shock , and death [ 2 ] .
+997	One of the major pathological features of SARS-CoV infection is diffuse alveolar damage ( DAD ) of the human lung , more prominent in the terminal stage , with occasional extensive damage of the lung epithelium ( Kuiken et al. , 2003 ; Nicholls et al. , 2003 ) .
+998	In these nonnatural hosts , PRV always causes a severe acute and lethal neuropathy called the " mad itch , " which is uncommon in swine .
+999	Severe acute respiratory syndrome ( SARS ) is a human respiratory infection , caused by a coronavirus isolated from Chinese horseshoe bats [ 95 ] .

@@ -20,3 +20,982 @@ arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
 18	Acute Respiratory Distress Syndrome ( ARDS ) is one of the commonest complications developing in patients with COVID-19 [ 6 ] .
 19	Cardiac injury is a common condition among the hospitalized patients with COVID-19 .
 20	DIC is a severe complication in COVID-19 patients and it has been related to poor prognosis and increased mortality ( 71.4 % of patient who die of COVID-19 ) ( 2 ) .
+21	Thrombocytopenia is one of the most common symptoms in patients with COVID-19 .
+22	AKI occurs frequently among patients with Covid-19 disease .
+23	AKI occurs frequently among patients with Covid-19 disease .
+24	HTN is a comorbid condition which has been reported to be associated with increased mortality in patients with COVID-19 infection .
+25	AKI is a common consequence of COVID-19 , either due to ATN or hypotension .
+26	Acute respiratory distress is one of the major causes of mortality associated with COVID-19 disease .
+27	Acute respiratory distress is one of the major causes of mortality associated with COVID-19 disease .
+28	RSV-induced ARDS is very uncommon but can be lethal in immunocompetent patients .
+29	Acute respiratory distress syndrome , which is a type of respiratory failure characterized by a rapid onset of generalized inflammation in the lungs , is the leading cause of mortality of patients with COVID-19 .
+30	A significant proportion of patients with COVID-19 may develop shock and multiorgan failure 1 , 5 .
+31	Acute respiratory distress syndrome ( ARDS ) is a major complication of COVID pneumonia in patients with severe disease .
+32	The most common fatal complication of COVID-19 is acute respiratory distress syndrome ( ARDS ) .
+33	Pneumonia is a common presentation in COVID-19 infected patients , with hypoxemic ARF .
+34	AKI is a possible manifestation of COVID-19 , and its occurrence usually indicates a severe disease with high mortality rate .
+35	Acute heart failure can be the primary presenting manifestation of COVID-19 infection .
+36	Life-threatening dengue shock syndrome ( DSS ) is more likely to occur after a second DENV infection [ 1 , 2 ] .
+37	Liver damage is a common feature in severe COVID-19 patients .
+38	In severe cases , COVID-19 can be complicated by an acute respiratory distress syndrome [ 1 ] .
+39	Acute kidney injury is one of the complications or preexisting conditions of MERS-CoV infection .
+40	Acute myocardial injury has been reported as the most common cardiac manifestation of COVID -19 and is reported in 8 -12 % of patients .
+41	GLILD is a severe inflammatory complication of CVID with high mortality .
+42	Thrombotic coagulopathy is common in critically ill patients suffering from COVID-19 , with associated high rates of respiratory failure requiring prolonged periods of mechanical ventilation .
+43	Acute kidney injury ( AKI ) can be a manifestation of COVID-19 patients .
+44	Invasive pulmonary aspergillosis is a complication in critically ill patients with acute respiratory distress syndrome , especially those with severe influenza pneumonia .
+45	Invasive pulmonary aspergillosis is a complication in critically ill patients with acute respiratory distress syndrome , especially those with severe influenza pneumonia .
+46	COVID-19-associated coagulopathy is common in patients with COVID-19 , causing high rates of thrombotic complications that increase the morbidity and mortality .
+47	COVID-19-associated coagulopathy is common in patients with COVID-19 , causing high rates of thrombotic complications that increase the morbidity and mortality .
+48	One important complication associated with COVID-19 disease and a potential differential diagnosis in sudden respiratory distress is pulmonary embolism ( PE ) .
+49	Acute pulmonary embolism is an uncharacteristic presentation in patients with COVID-19 .
+50	Cardiac arrhythmias are a common manifestation in patients with COVID-19 .
+51	VZV pneumonia is a common complication of VZV septicemia in children with a mortality rate of 9 - 50 % .
+52	VZV pneumonia is a common complication of VZV septicemia in children with a mortality rate of 9 - 50 % .
+53	Introduction : cytokine storm syndrome ( CSS ) is a serious complication of COVID-19 patients .
+54	High prevalence of acute pulmonary embolism ( APE ) has been recently reported in patients admitted with COVID-19-related pneumonia [ 5 ] .
+55	Diffuse thrombosis is emerging as an important contributor to adverse outcomes in patients with COVID-19 .
+56	ALF is a rare but potentially life threatening adverse effect of IvAm .
+57	Primary viral pneumonia ( PVP ) is a rare complication of seasonal influenza [ 2 ] .
+58	Bacterial superinfection is a common complication of viral lower respiratory tract infection , particularly in adults .
+59	RSV is a cause of serious disease in BMT recipients .
+60	MIBE is a rare but fatal complication that affects individuals with defective cellular immunity and typically occurs months after infection .
+61	While respiratory failure is the most serious complication in patients with COVID-19 , a considerable number of patients develop acute circulatory failure [ 1 ] .
+62	Isolated severe liver injury is rare and usually accompanied by shock , respiratory failure , cardiac insufficiency , and/or renal insufficiency in patients with critical-type COVID-19 .
+63	Established myocarditis is a relatively rare sequelae of COVID-19 infection .
+64	SSI is a very common and life-threatening infection during ICU stays .
+65	Bacterial pneumonia is a common complication of respiratory virus infection that leads to increased morbidity and mortality ( 9 ) .
+66	Pneumonia is one of the main hallmarks of severe COVID-19 , with high risks of severe hypoxemia and acute respiratory distress syndrome .
+67	AKI is not uncommon in patients with COVID-19 ( 8) .
+68	Severe bronchiolitis is one of the major outcomes of RSV infection .
+69	Acute kidney injury is a common complication in patients with sepsis .
+70	The most serious complication from COVID-19 is death often from acute respiratory distress syndrome ( ARDS ) [ 1 ] .
+71	ILD is a rare but potentially fatal complication of RTX therapy .
+72	Idiopathic ( noninfectious ) interstitial pneumonia is a complication reported in most allogeneic HSCT studies , with a high mortality rate .
+73	Recent studies suggest that severe COVID-19 pneumonia may be associated with a coagulopathic state and an increased risk of venous thromboembolism [ 2 ] .
+74	Patients with severe COVID-19 infection are at risk of acute respiratory distress syndrome and death .
+75	Furthermore , bacterial superinfection of primary viral pneumonia is a common complication .
+76	RV infection in patients with chronic obstructive pulmonary disease may cause mortality [ 2 ] .
+77	Lung injury has been reported as the major outcome of COVID-19 infection .
+78	S-OIV pneumonia is a complication of S-OIV infection and can cause serious illness .
+79	ARF is a common complication caused by Bothrops snakebite with relevant morbidity and mortality .
+80	Respiratory bacterial superinfection of influenza represents a common complication with high mortality [ 15 , 18 , 25 , 29 , 30 ] .
+81	Viral myocarditis can be the cause of cardiogenic shock in the ICU setting .
+82	Respiratory failure is the major complication of SARS .
+83	CMV pneumonitis is a lifethreatening complication seen in allograft recipients with a mortality of 80 - 90 % .
+84	HAdV pneumonia in pediatric patients can progress rapidly to multi-organ failure .
+85	Severe COVID-19 causes cytokine release syndrome and is associated with high mortality .
+86	Bacterial superinfection is a potential and serious complication of viral lower respiratory tract infection , particularly with influenza .
+87	Infection is a common complication in patients after acute CNS injury .
+88	Multi-organ failure is the most lethal complication of SARS-CoV-2 infection 1 .
+89	COVID-19 pneumonia is common in adults and rare in children ( 11 ) .
+90	acute mesenteric ischemia ( AMI ) has been reported in severe COVID-19 patients ( 2 ) .
+91	Acute bilateral interstitial pneumonia is the major cause of morbidity and mortality in COVID-19 .
+92	The most feared complication of COVID-19 is the development of acute respiratory distress syndrome ( ARDS ) 2 .
+93	Shock might be an uncommon but life threatening complication of a SARS-CoV-2 infection .
+94	Pulmonary hemorrhage is a known complication of influenza-related pneumonia .
+95	Bacterial and fungal infections are common complications of viral pneumonia , especially in critically ill patients .
+96	Bacterial superinfection is a common and potentially severe complication of influenza .
+97	Bacterial superinfection is a common and potentially severe complication of influenza .
+98	CVC-related bloodstream infection is a known complication among critically ill patients .
+99	Sepsis is a major cause of death in children with SCD .
+100	CAP is a common and potentially serious infection associated with significant morbidity .
+101	Influenza vaccination triggering rhabdomyolysis is an extremely rare event and has occurred in adults on statin therapy [ 16 ] .
+102	Thrombosis , which often leads to hemorrhage , is a common clinical complication of severe influenza .
+103	Bacterial superinfection is one of the major concerns with primary viral-associated bronchiolitis .
+104	Prolonged thrombocytopenia is a rare but potentially devastating complication of DHF .
+105	Shock syndrome is a dangerous complication of dengue infection and is associated with high mortality [ 35 ] .
+106	Acute respiratory distress syndrome is one of the main clinical manifestations in severe COVID-19 patients , and pulmonary contusion is common in emergency trauma patients .
+107	Covid-19 is a respiratory infection with a significant impact on the hematopoietic system and hemostasis leading to several cardiovascular complications .
+108	COVID-19 pneumonia is common in adults and rare in children .
+109	Aspergillus is a common superinfection in critically ill influenza patients associated with poor outcome and longer duration of organ supportive therapies .
+110	The most prominent complication of COVID-19 is respiratory failure .
+111	Coagulopathy and disseminated intravascular coagulation are common complications of severe COVID-19 pneumonia and the most common causes of death [ 6 ] .
+112	Pulmonary complications are the most common clinical manifestations of coronavirus disease ( COVID-19 ) .
+113	Viral-induced coagulopathy is a common feature of MVD in both humans and nonhuman primates .
+114	Sepsis has been observed in up to 59 % of hospitalized COVID-19 patients .
+115	High fever ( the most common initial symptom of COVID-19 ) frequently occurs in patients presenting severe lung RP .
+116	Bacteremia has been described as a complication of COVID-19 infection .
+117	Organ failure is a rare but serious , life-threatening complication in EVD .
+118	While less common than respiratory failure , septic shock may occur in a significant portion of patients with COVID-19 , and is associated with increased mortality [ 4 ] .
+119	Heparin-induced thrombocytopenia is a frequent complication in VAD patients .
+120	Cardiomyopathy is a common consequence of EV infection in the heart .
+121	CMV pneumonitis is an important event in LTRs .
+122	acute respiratory failure is one of the well-recognized complications of GBs .
+123	Acute myositis is an important , severe , but rare , complication of influenza infection [ 33 ] .
+124	It is accepted that severe COVID-19 disease may result in the development of acute respiratory distress syndrome ( ARDS ) .
+125	Nosocomial pneumonia is a feared and frequent complication in ARDS .
+126	Pneumonia is the most common acute infection associated with XLA [ 14 ] .
+127	Introduction : Cardiac complications of COVID-19 are potentially life-threatening .
+128	Acute myocardial injury is common in patients with covid-19 and impairs their prognosis .
+129	A common outcome of SARS-CoV-2 is severe pneumonia [ 3 ] .
+130	Severe community-acquired pneumonia ( SCAP ) is a known infectious complication of respiratory viruses including hMPV .
+131	Pneumonia is the most common infectious complication in multiple trauma patients .
+132	Pneumonia is the most common infectious complication in multiple trauma patients .
+133	Spontaneous pneumomediastinum ( SPM ) is an uncommon presentation of COVID-19 .
+134	ARF is uncommon in SARS yet carries a high mortality .
+135	Hypercoagulability is a common complication of enterocolitis , associated with systemic inflammation resulting from endotoxemia .
+136	Concurrent COVID19 is likely to cause perfusion defects in the absence of pulmonary embolism [ 1 ] .
+137	ARDS development has been reported in several patients with AOSD , often complicated by multiorgan involvement and disseminated intravascular coagulation ( DIC ) .
+138	7 COVID-19 pneumonia may occur as a post-operative complication , representing a diagnostic challenge in the post-operative period , with potential adverse outcome .
+139	KDSS is a rare complication affecting 1.5 to 7 % of KD patients with a higher incidence in Western countries than in Asia .
+140	RSV-induced severe pneumonia or acute respiratory distress syndrome ( ARDS ) in immunocompromised patients is not uncommon .
+141	Pulmonary hemorrhage with disseminated intravascular coagulopathy ( DIC ) is another fatal and unusual complication in severe dengue infection [ 25 ] .
+142	COVID-19-associated coagulopathy has recently emerged as a major component of the disease , leading to high morbidity and mortality .
+143	Acute renal impairment is uncommon in SARS but carries a high mortality .
+144	In patients with HIV infection , PAH is a life-threatening complication [ 14 ] .
+145	Acute respiratory failure , especially acute respiratory distress syndrome ( ARDS ) , is very common in COVID-19 severe and critically ill patients .
+146	Patients with invasive GAS infection are at risk of developing STSS , a superantigen-mediated clinical syndrome .
+147	Community-acquired bacterial pneumonia is the most frequent cause of direct injury leading to ARDS [ 4 ] .
+148	Severe COVID-19 can lead to acute respiratory distress syndrome ( ARDS ) , and pregnant women are not spared ( 1 ) .
+149	Acute cor pulmonale is a complication of ARDS patients , particularly those with severe hypoxemia .
+150	Pneumonitis is a rare but serious irAE that occurs after therapy with PD-1 , PD-L1 , and CTLA-4 inhibitors .
+151	Gram negative sepsis is a major clinical concern in patients following bone marrow transplant or myelosuppressive phase following chemotherapy .
+152	Critical COVID-19 can cause fatal respiratory distress syndrome and multiple organ failure with high mortality rate .
+153	A primary VZV infection ( varicella ) is an uncommon but severe complication in SCT patients [ 75 ] .
+154	Infection and thus sepsis is a major problem in patients with ALF .
+155	Infection and thus sepsis is a major problem in patients with ALF .
+156	Severe COVID-19 leads to death via multiple mechanisms , including myocardial injury , kidney failure , shock and disseminated intravasal coagulopathy [ 1 , 2 ] .
+157	Respiratory complications are frequently associated with the development of AKI .
+158	Chronic small bowel diarrhea is one clinical syndrome associated with FIV infection .
+159	Cardiogenic shock is seen as a feature in critically ill patients with COVID-19 .
+160	VTE is a common complication among ITR and SAH patients .
+161	NPE following febrile SE in children is a rare but serious life-threatening complication [ 11 ] [ 12 ] [ 13 ] .
+162	Myocarditis is a well-recognized mimic of ACS and remains an important differential diagnosis in the COVID-19 pandemic .
+163	Sepsis from HPeV can lead to significant morbidity in neonates and young children .
+164	In patients with ARDS , superinfection is frequently associated with septic shock and multi-organ failure .
+165	Cerebrovascular diseases are among the comorbidities of patients with confirmed COVID-19 who develop severe respiratory complications [ 1 ] .
+166	Respiratory infection is a common complication in ICU patients admitted after a cardiac arrest .
+167	Acute cardiac injury is one of the most common complications found in COVID-19 patients [ 17 , 47 ] .
+168	Sepsis is a life-threatening complication of pneumonia , including coronavirus disease-2019 (COVID-19)-induced pneumonia .
+169	COVID-19 infection is associated with a high rate of cardiac complications , resulting in acute systolic heart failure and arrhythmias , which contribute to a marked increase in mortality .
+170	ALI is an important complication of sepsis .
+171	Liver injury in patients with SARS-CoV-2 infection is not rare [ 16 ] .
+172	COVID-19 is a novel respiratory disease leading to high rates of acute respiratory failure requiring hospital admission .
+173	COVID-19 is a novel respiratory disease leading to high rates of acute respiratory failure requiring hospital admission .
+174	Studies have shown that coagulation dysfunction is a major cause of death in patients with severe COVID-19 .
+175	Studies have shown that coagulation dysfunction is a major cause of death in patients with severe COVID-19 .
+176	173 Parainfluenza is one of the more common causes of respiratory viral infections in patients with hematologic malignancies , hematopoietic stem cell transplantation , or solid organ transplantation and is associated with a high rate of progressive disease involving the lower airway and an increased mortality rate .
+177	Neurological complications of SARS-CoV2 infection are increasingly recognized [ 1 ] .
+178	Hypoxemia-induced ARF is a common complication associated with excess mortality .
+179	ARDS is an uncommon complication of pneumonectomy but one in which the associated mortality is high .
+180	Severe COVID-19 can lead to critical illness , with acute respiratory distress ( ARDS ) and multi-organ failure ( MOF ) as its primary complications , eventually followed by intravascular coagulopathy [ 3 ] .
+181	Emphysematous cystitis is a rare but serious complication of lower UTI and occurs mainly in individuals with DM .
+182	Patients with COVID-19 infection are at risk of acute respiratory disease syndrome ( ARDS ) and death .
+183	Patients with COVID-19 infection are at risk of acute respiratory disease syndrome ( ARDS ) and death .
+184	Viral infections are a common cause of morbidity in patients with PIDDs .
+185	hMPV is a common cause of URI and LRI in healthy infants and children and those with underlying medical conditions .
+186	Respiratory failure is an important feature of fatal SARS infection .
+187	Respiratory failure from ARDS is the leading cause of mortality from COVID-19 [ 1 ] .
+188	In ARDS patients , superinfection is often associated with shock and multiple organ failure .
+189	Sepsis associated delirium is a common complication of sepsis .
+190	In published reports and current experience , patients with hypertension are at increased risk for severe COVID-19 .
+191	Multiple organ dysfunction/failure , including cardiovascular manifestations , has contributed to increased mortality in patients with COVID-19 .
+192	SIRS is more common in severe sepsis compared to non-septic critical illnesses .
+193	Neutropenia-related infections is a common complication of APSCT in patients ( pts ) with MM and DLBCL .
+194	Cardiac involvement as a complication of SARS-CoV-2 infection is rare [ 46 ] .
+195	In patients suffering from 2019 novel coronavirus disease ( COVID-19 ) and associated pulmonary infiltrates , pulmonary embolism ( PE ) represents a differential diagnosis which could alter therapy [ 1 ] .
+196	A hyperinflammatory syndrome ( HIS ) may cause a life-threatening acute respiratory distress syndrome ( ARDS ) in patients with COVID-19 pneumonia .
+197	A hyperinflammatory syndrome ( HIS ) may cause a life-threatening acute respiratory distress syndrome ( ARDS ) in patients with COVID-19 pneumonia .
+198	Ventilator-Associated Pneumonia ( VAP ) has already been reported as a complication in COVID-19-hospitalized patients [ 4 , 8 ] .
+199	COVID-19-associated coagulopathy is a well-defined phenomenon and has been associated with poor prognosis [ 22 ] .
+200	Infection is a common complication in the acute phase after ischemic stroke .
+201	Thrombocytopenia is a risk factor for increased morbidity and mortality in patients with the new severe acute respiratory syndrome corona virus , SARS-CoV-2 infection ( COVID-19 infection ) .
+202	Pneumonia associated hypoxia is an important factor causing secondary liver injury in COVID-19 patients .
+203	Kidney disease is a major complication of COVID-19 and a significant risk factor of death .
+204	Infection is one of the most serious complications associated with mortality and dilemma during treatment for TAFRO syndrome .
+205	The occurrence of pneumonia after HTx is frequent and increases mortality among HTx recipients .
+206	Cytokine Release Syndrome ( CRS ) occurs in a large number of patients with severe COVID-19 , which is also an important cause of death .
+207	Severe influenza infection is an important cause of acute lung injury .
+208	Renal Acute kidney injury is a common occurrence in adults with ALF and has been associated with increased mortality .
+209	A significant proportion of patients with confirmed COVID-19 infection experience cardiovascular complications .
+210	Patients with COVID-19 may develop progressive viral pneumonitis leading to severe respiratory failure , requiring mechanical ventilation in up to 17 % of cases [ 1 ] .
+211	Reye syndrome is one of the common complications in children with avian infl uenza , with a high mortality rate .
+212	CVBs is one of the most commonly identified agents for infection that is associated with acute and chronic myocarditis .
+213	Severe COVID-19 is associated with a critical and rapidly evolving condition and includes multiple organ failure and multiple complications .
+214	TRALI is a potentially devastating complication defined by hypoxemic respiratory failure within 6 h of transfusion , once other causes are excluded .
+215	Patients with COVID-19 respiratory illness are at risk for developing ILD .
+216	Patients with COVID-19 respiratory illness are at risk for developing ILD .
+217	Common complications among COVID-19 patients include shock , ARDS , arrhythmia , and acute cardiac injury ( 1 ) .
+218	Comments : Severe SNM can cause marked systemic toxic effects , namely , the streptococcal toxic shock syndrome ( STSS ) .
+219	Hemorrhaging and organ failure occur in a subset of patients infected with this virus , and it is associated with high mortality .
+220	Cardiac involvement in the clinical course of COVID-19 infection is common [ 19 ] .
+221	ΑGI is a malfunctioning of the GI tract in ICU patients associated with prolonged mechanical ventilation , enteral feeding failure and high mortality risk .
+222	Acute respiratory distress syndrome and multi-organ dysfunction are major complications in patients with severe influenza infection .
+223	Comments : ARDS is a major cause of respiratory failure in polytrauma patients .
+224	262 Encephalitis is a rare manifestation of hMPV infection .
+225	Meningitis is a rare but fatal complication of severe adenoviral pneumonia .
+226	Fatal bronchopneumonia is an infrequent but reported outcome in this population and has been associated with HPIV1 outbreaks .
+227	Hemorrhagic cystitis is a complication that can occur at two different time points in HSCT patients .
+228	Viral pneumonia is associated with a mortality of approximately 50 % in neutropenic hosts .
+229	CRS is a major concern in RV infections .
+230	RVIs may cause severe morbidity with respiratory failure and may be fatal in immunocompromised hosts , and some studies have shown an association between RVIs and long-term allograft dysfunction .
+231	Thrombocytopenia is also a common clinical manifestation associated with poor outcome in patients with communityacquired pneumonia [ 8 ] .
+232	Ventilator-associated pneumonia is a frequent complication in patients receiving mechanical ventilation , and it is associated with a high mortality rate , especially among bone marrow recipients .
+233	Acute renal failure is an accompanying presentation in DSS or dengue-associated fulminant hepatic failure .
+234	Renal complications are well known to occur in MERS-CoV infection .
+235	Community-acquired RVI occurring after lung transplantation has been associated with acute rejection and BOS .
+236	Coagulopathy commonly occurs in sepsis and may predict outcomes in severe COVID-19 [ 4 ] .
+237	COVID-19 is a systemic infection with a significant impact on the hematopoietic system and hemostasis .
+238	Bacterial pneumonia is a major cause of morbidity and mortality in patients receiving HSCT .
+239	Bacterial pneumonia is a major cause of morbidity and mortality in patients receiving HSCT .
+240	The cardiac injury is a common condition among the hospitalized patients with COVID-19 .
+241	The cardiac injury is a common condition among the hospitalized patients with COVID-19 .
+242	Systemic inflammatory response syndrome ( SIRS ) is a common syndrome in the intensive care unit that may progress to severe sepsis or septic shock .
+243	This life-threatening condition is one of the major causes of death in COVID-19 patients .
+244	Toxic shock syndrome ( TSS ) is a particular entity of infectious shock , with large pediatric prevalence .
+245	CIRCI is most common in patients with severe sepsis ( septic shock ) and patients with ARDS .
+246	CIRCI is most common in patients with severe sepsis ( septic shock ) and patients with ARDS .
+247	Severe COVID-19 may be associated with a hypersensitivity pneumonitis component responsive to corticosteroid therapy [ 7 ] .
+248	Lung edema is one of the clinical characteristics and critical stages of patients with severe COVID-19 infections .
+249	Sepsis is also a major cause of ARDS , and it is associated with high mortality in intensive care unit patients .
+250	RSV is a severe but benign complication following lung transplantation with a wide range of clinical presentations .
+251	Cases of COVID-19 bilateral pneumonia and concomitant acute PE have been reported ( 2 ) ( 3 ) .
+252	Peritonitis associated with intestinal perforation is another serious HAI infection in the NICU .
+253	Severe respiratory tract involvement is an important complication in adenovirus infections , even in immunocompetent individuals [ 2 ] .
+254	Usual clinical manifestations of COVID-19 infection include fever , fatigue , myalgia , headache , diarrhea , dry cough , dyspnea that may lead to acute respiratory distress syndrome and death ( 1 ) .
+255	Extra-pulmonary disease has been observed in patients with Coronavirus Disease 2019 ( COVID-19 ) ( 1 ) ( 2 ) ( 3 ) .
+256	Colic is an uncommon but life-threatening complication following prairie rattlesnake envenomation .
+257	Patients with VGS bacteriaemia often present with septic shock and acute respiratory distress syndrome ( ARDS ) .
+258	Acute portal vein thrombosis is a rare but severe complication of intra-abdominal infection .
+259	Acute necrotizing encephalopathy is a rare encephalopathy and one of the remote complications of influenza and other viral infections .
+260	Thrombosis and disseminated intravascular clotting are common in SARS-CoV-2 infections .
+261	Hospitalized patients with COVID-19 infection are at a high risk of progressive respiratory failure , endotracheal intubation and mortality .
+262	Measles inclusion body encephalitis ( MIBE ) is a second CNS complication that can arise after a MV infection in immune-compromised patients .
+263	Measles inclusion body encephalitis ( MIBE ) is a second CNS complication that can arise after a MV infection in immune-compromised patients .
+264	Dry cough is the main clinical manifestation of COVID-19 in the general population and transplant recipients [ 1 , 5 ] .
+265	Bacterial pneumonia is a serious lower respiratory tract infection in dogs with substantial morbidity and risk of mortality .
+266	Feline thromboembolic disease is a well-recognized and often devastating complication associated with feline cardiomyopathy .
+267	Clinically suspected myocarditis is a rare cause of myocardial injury , has heterogeneous clinical presentations and is likely underdiagnosed in critically ill patients with COVID-19 .
+268	Acute respiratory distress syndrome ( ARDS ) and multiorgan dysfunction are among the leading causes of death in critically ill patients with COVID-19 .
+269	Acute respiratory distress syndrome ( ARDS ) and multiorgan dysfunction are among the leading causes of death in critically ill patients with COVID-19 .
+270	Acute renal insufficiency may occur as a result of multi-organ failure associated with severe acute SARS-CoV-2 infection .
+271	It has been recently reported that CV compromise is a common complication of patients who are hospitalized with COVID-19 infection and is associated with a higher risk of mortality .
+272	Acute kidney injury has been observed , particularly in patients with COVID-19-associated acute respiratory distress syndrome ( ARDS ) and pre-existing chronic kidney disease .
+273	Additionally , parainfectious meningitis is a common finding in many systemic viral infections and after antiviral vaccination .
+274	Additionally , parainfectious meningitis is a common finding in many systemic viral infections and after antiviral vaccination .
+275	Background : Coronavirus disease 2019 ( COVID-19 ) is the systemic entity caused by the severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) that may cause death through severe atypical pneumonia and acute lung injury .
+276	PIV infection can result in substantial mortality in patients with hematologic malignancy if it progresses to LRTI .
+277	Secondary bacterial pneumonia is an important cause of influenza-associated death .
+278	Aspergillus vasculitis is an under-recognized cause of stroke in immunocompetent hosts , especially when other risk factors are present .
+279	Intra-alveolar hemorrhage is common in patients with thrombocytopenia or allogeneic HSCT .
+280	Pre-existent cardiovascular disease is a recognized risk factor for COVID-19 infection ( 1 ) .
+281	Posterior reversible encephalopathy syndrome , which causes headache , confusion , seizures and visual loss , is a potential complication of COVID-19 [ 5 ] .
+282	Coagulopathy and thrombocytopenia are also common complications for COVID-19 infection , which increase the risk of hemorrhage and thrombosis .
+283	Neutropenia is a major risk factor for fulminant sepsis .
+284	In particular , PA bacteremia is a serious and lifethreatening infection in the immunocompromised host .
+285	Subcutaneous emphysema and pneumothorax are uncommon complications of SARS-CoV-2 pneumonia .
+286	Acute renal failure is a common complication caused by Bothrops snakebite with relevant morbidity and mortality .
+287	Acute kidney injury ( AKI ) is also one of the significant complications of COVID-19 , along with respiratory failure [ 1 ] .
+288	One of the most serious complications of COVID-19 is ARDS , representing a major risk factor for death .
+289	Infection with RVF has a wide clinical spectrum and may result in delayed complications .
+290	Acute Prognosis STEC-HUS represents an important cause of AKI in young children .
+291	Secondary bacterial pneumonia is a frequent cause of excess mortality during influenza epidemics , but the epidemiology remains unclear [ 8 ] .
+292	Many patients with acute respiratory distress syndrome ( ARDS ) secondary to COVID-19 have developed life-threatening thrombotic complications [ 3 ] .
+293	HPIV-4 is a common and underappreciated respiratory pathogen capable of causing considerable morbidity in pediatric patients .
+294	Heparin-induced thrombocytopenia is an additional drugrelated event that can occur in the setting of solid organ transplant .
+295	The main and fatal complication of influenza virus infection is viral pneumonia , which can lead to ARDS .
+296	Severe necrotizing CA-MRSA pneumonia has been documented in healthy individuals and is associated with high mortality rates because there is a high risk for inadequate and delayed antibiotic treatment .
+297	However , up to 10 % of patients with COVID-19 may develop severe pneumonia with hypoxia , cytokine release syndrome ( CRS ) and multiorgan failure [ 1 ] .
+298	S-1 orchitis has been reported as a possible complication of SARS-CoV infection .
+299	Viral pneumonia is the most common complication of influenza infection .
+300	Cardiac injury has been described in up to 28 % of hospitalized COVID-19 patients .
+301	HMPV is closely related to RSV and in lung transplant recipients is thought to result in graft dysfunction .
+302	CDI is a rare cause of death among transplant recipients .
+303	Viral pneumonia is an important cause of morbidity and mortality in patients undergoing allogeneic stem cell transplantation .
+304	Scrub typhus presents as disseminated vasculitis , with perivascular inflammation and capillary leakage , and ICU admission is usually precipitated by ARDS , shock , or multi-organ failure , including AKI [ 8 ] .
+305	Thrombocytopenia is considered a poor prognostic factor during SARS-CoV-2 infection [ 5 ] .
+306	Pneumonia leading to acute respiratory failure is a major cause of sepsis in neutropenic cancer patients [ 19 , 20 ] .
+307	In adults , severe myocarditis due to this viral agent is a rare disorder , presenting as acute congestive heart failure .
+308	Acute respiratory distress syndrome ( ARDS ) , multiorgan dysfunction and thrombotic events are among the leading causes of death in critically ill patients with COVID-19 .
+309	Acute respiratory distress syndrome ( ARDS ) , multiorgan dysfunction and thrombotic events are among the leading causes of death in critically ill patients with COVID-19 .
+310	RSV is a common pathogen of infantile pneumonia , and can cause severe lower respiratory tract infection .
+311	Bleeding is a feared complication of severe dengue infection .
+312	ARDS is an uncommon complication in malaria but VOLUME 49 _ _ MAY 16 , 2012 CASE REPORTS carries a high mortality rate [ 4 ] .
+313	SARS patients with rhabdomyolysis have a high incidence of bacterial infection , ARF and death [ 3 ] .
+314	Impaired renal function is a common occurrence in systemic sepsis ( 1 ) .
+315	In addition , candidosis is the most common invasive fungal infection in critically ill nonneutropenic patients .
+316	Pneumonia and multiorgan involvement is a common feature in patients with MERS .
+317	Viral myocarditis is a common cause of acquired DCM in humans .
+318	Otitis media is a common finding in patients with HPIV infections .
+319	Bacterial pneumonia is the most common infection in the oncology patient predisposing to acute respiratory failure .
+320	COVID-19 is an infectious disease , caused by the coronavirus SARS-CoV-2 , which may result , for some cases , in progressing viral pneumonia and multiorgan failure .
+321	Severe viral pneumonia can manifest as sepsis and respiratory distress requiring intensive care ( 11 ) .
+322	RSV is a very important pathogen in infants and young children and a common cause of LRTIs that require healthcare visits and hospitalization .
+323	1 COVID-19 is a highly contagious disease capable of progression to acute respiratory distress syndrome and even death .
+324	COVID-19 is highly contagious and can progress to Acute Respiratory Distress Syndrome/multi-organ dysfunction and mortality .
+325	ARDS is considered to be the most severe form of lung injury in malaria and is frequently associated with cerebral malaria .
+326	Postoperative pulmonary complications occur in half of patients with perioperative SARS-CoV-2 infection and are associated with high mortality .
+327	It is a common cause of ventilator-associated pneumonia ( VAP ) .
+328	RSV is a common respiratory viral infection in adult HM patients and HCT recipients .
+329	Chronic HEV infection is a problem in immunocompromised patients , such as solid organ transplant recipients ( 3 ) .
+330	Invasive Aspergillus tracheobronchitis is an uncommon but well described syndrome that generally has been reported in the same profoundly immunocompromised patient populations at risk for disseminated aspergillosis .
+331	Severe bilateral pneumonia is the main feature of severe COVID-19 , and adequate ventilatory support is crucial for patient survival .
+332	Severe bilateral pneumonia is the main feature of severe COVID-19 , and adequate ventilatory support is crucial for patient survival .
+333	Bacterial infection is the most frequent infectious complication in lung transplant patients .
+334	Sepsis is a common cause of systemic hypotension and cerebral dysfunction .
+335	Measles inclusion body encephalitis is a neurologic complication observed in immunocompromised individuals , which typically occurs within 1 year following acute MV infection .
+336	The most common and severe complication in patients with COVID-19 is acute hypoxemic respiratory failure or acute respiratory distress syndrome ( ARDS ) , requiring oxygen and ventilation therapies .
+337	Acute respiratory distress syndrome is a common and often fatal complication in adult patients with severe malaria .
+338	Viral reactivation is a common feature of all forms of sepsis .
+339	BO is the most common late onset noninfectious complication of HSCT .
+340	Urosepsis is a serious potential complication of TRUBP associated with high morbidity .
+341	COVID-19 is paucisymptomatic in the majority of patients but can lead to acute respiratory distress syndrome ( ARDS ) in up to 30 % of cases and to death in 3 to 5 % of cases [ 1 ] .
+342	Liver injury is estimated to occur in up to 20 - 30 % of patients at the time of diagnosis with SARS-CoV-2 infection .
+343	SARI is a common cause of admission to the ICU and has associated high morbidity and mortality rates .
+344	Acute cardiac injury and renal injury are common in severe or critical COVID-19 patients .
+345	Elevation of cardiac enzymes , suggesting acute cardiac injury , can occur in up to one-fourth of patients with COVID-19 and worsens its outcome .
+346	Pneumonia is a frequent infectious complication in patients with hematologic malignancies , particularly following stem cell transplantation ( SCT ) .
+347	A prominent clinical feature of severe Covid‐19 infection is respiratory failure associated with pulmonary coagulopathy .
+348	A life-threatening complication of SARS-CoV-2 infection is an acute respiratory distress syndrome ( ARDS ) , which occurs more often in older adults , those with immune disorders and co-morbidities .
+349	Severe respiratory failure is a well-recognized complication of pandemic H1N1 infl uenza infection .
+350	COVID-19 is mainly a respiratory illness , but liver injury may occur during the course of the disease .
+351	COVID-19 pneumonia can be life-threatening .
+352	Although symptoms are typically mild , in some patient groups , COVID-19 can progress to severe respiratory failure which is associated with significant morbidity and mortality .
+353	In some cases , COVID-19 can cause serious complications including acute respiratory distress syndrome , sepsis , multi-organ failure , and death .
+354	Lymphopaenia is common among patients with SARS .
+355	Severe liver failure is one of the common complications during pathogenesis of bacterial sepsis .
+356	Septic shock can be seen as a serious complication in SARS , MERS and COVID-19[13 , 76 , 103 ] .
+357	Dengue shock syndrome ( DSS ) is usually a progression of dengue hemorrhagic fever and is often fatal .
+358	HPIV infection may result in severe complications for lung transplant recipients including bronchiolitis obliterans , reduced lung function , and allograft rejection .
+359	CST is a rare and serious complication secondary to invasive fungal infection with significant morbidity and mortality .
+360	HUS is a rare , but recognized complication of Shigella dysenteriae type 1 ( SD1 ) infection .
+361	Apart from fever and respiratory complications , acute renal impairment has been observed in some patients with SARS .
+362	SOS is a rare and serious complication of hematopoietic stem cell transplantation ( HSCT ) .
+363	APAP overdose is a well-known cause of fulminant hepatic failure .
+364	mNCSE is a fatal condition and is often associated with inflammation of the central nervous system and postictal organ dysfuctions .
+365	Invasive fungal infection is a life-threatening complication of HSCT .
+366	Sepsis has been observed in up to 59 % of hospitalized COVID-19 patients 9 .
+367	Gram-negative bacteremia is an independent predisposing factor for critical illness polyneuromyopathy Introduction Critical illness polyneuromyopathy ( CIPM ) is a major clinical problem in the ICU resulting in prolonged ICU stay and increased morbidity and mortality .
+368	A large number of patients with tropical infections develop AKI in the setting of an undifferentiated febrile illness .
+369	Rarely , pulmonary embolism may be encountered in patients with severe COVID-19 infection , especially in intensive care units .
+370	Acute kidney injury has been reported in as many as 29 % of COVID-19 patients .
+371	HC is often a serious complication and occurs in 70 % of allo-HSCT recipients .
+372	One of the most common causes of death in COVID-19 infection is acute respiratory distress syndrome ( ARDS ) .
+373	COVID-19 is an infectious disease that primarily affects the respiratory system , but it can also cause other complications , such as cardiovascular problems .
+374	Thrombocytopenia is a common result of viral infections and associated with an increased bleeding risk .
+375	Covid-19 is a respiratory infection with a significant impact on the hematopoietic system and hemostasis .
+376	Acute Q fever pneumonia during pregnancy is often associated with fetal loss .
+377	Secondary bacterial infection is a common and serious complication of seasonal influenza .
+378	Pneumonitis is the most serious complication and was associated with high mortality prior to antiviral therapy ( 241 ) .
+379	Otitis media is a common complication of RSV infection in young children .
+380	Acute lung injury is one of the most common and severe complications in septic shock [ 19 ] .
+381	Fever is a common feature and consequence for ITP patients with viral infection .
+382	hMPV infection in the lower respiratory tract is associated with morbidity and mortality in immunocompromised children .
+383	However , interstitial lung disease ( ILD ) is a very rare yet potentially fatal complication of RTX treatment .
+384	Macrophage activation syndrome ( MAS ) or reactive hemophagocytic syndrome ( RHS ) is a life-threatening complication of AOSD .
+385	RSV infection in HCT recipients is associated with substantial morbidity and mortality [ 2 ] [ 3 ] [ 4 ] [ 5 ] , and often complicated by respiratory failure [ 6 ] .
+386	Patients with ESKD are high risk for complications from COVID-19 infection .
+387	Although rare , NTM can cause SSI infections among lung transplant recipients .
+388	CMV interstitial pneumonitis is a major cause of morbidity and mortality in AIDS patients .
+389	Pneumonia RSV is an important cause of acute RTI in early life .
+390	Acute respiratory distress syndrome ( ARDS ) is associated with significant early postoperative mortality in adults with ACHD [ 11 ] .
+391	As the number of patients with COVID-19 continues to rise , liver injury is frequently reported as extra-pulmonary clinical feature .
+392	Key PointIn contrast to CPV infection , fever , leukopenia , hematochezia , and fatalities are not typical of coronaviral enteritis .
+393	Influenza-associated encephalitis is uncommon but well described , and it is associated with a poor outcome .
+394	COVID‐19 is an acute infectious disease caused by the severe acute respiratory syndrome coronavirus 2 ( SARS‐CoV2 ) and has contributed to significant morbidity and mortality , including the development of coagulopathy .
+395	Significant secondary complications of CPV-2 infection include intestinal intussusception , sepsis , and disseminated intravascular coagulation ( DIC ) .
+396	Secondary bacterial pneumonia is a well-recognized complication of viral pneumonia and accounts for a large proportion of the morbidity and mortality of viral LRT disease , especially in adults .
+397	The main clinical manifestations of COVID-19 are cough , fever and complications such as acute respiratory distress syndrome ( 1 ) .
+398	Necrotizing pneumonia ( NP ) is an uncommon , but severe complication of pneumonia .
+399	Prolonged administration of steroids can increase the risk of invasive fungal pathogens and Pneumocystis jiroveci pneumonia ( PCP ) .
+400	Acute cardiogenic pulmonary edema is present in 10 % of cancer patients with ARF .
+401	One of the most serious complications of Corona virus disease ( COVID-2 ) is the development of an atypical upper respiratory tract pneumonia that poses a major challenge to clinicians in terms of disease management .
+402	Respiratory failure due to acute respiratory distress syndrome ( ARDS ) is one of the major causes of mortality ( 53 % ) associated with COVID-19 disease ( 1 ) .
+403	Toxoplasmosis is a rare and underestimated complication following allogeneic stem cell transplantation with an often fatal course .
+404	Bacterial pneumonitis is another frequent complication of TEN .
+405	COVID-19 pneumonia is associated with significant mortality and has no approved antiviral therapy .
+406	Invasive aspergillus is a major cause of death in patients following BMT .
+407	Secondary bacterial pneumonia ( caused by S. aureus , Streptococcus pneumoniae , and H. influenzae ) is a feared complication .
+408	Secondary bacterial pneumonia following primary influenza virus infection constitutes an important complication and cause of death .
+409	CMV pneumonia is a well-known clinical manifestation of CMV disease in immunocompromized patients .
+410	The leading cause of mortality in patients with COVID-19 is hypoxic respiratory failure from acute respiratory distress syndrome ( ARDS ) 1 .
+411	Candidemia in neutropenic patients is a life-threatening infection that is associated with acute disseminated candidiasis , a sepsis-like syndrome , multiorgan failure , and death .
+412	Bacterial otitis media is a common complication of RSV upper respiratory tract infection .
+413	Pulmonary hypertension is a known complication of CPFE .
+414	GBS is a very rare complication among stem cell transplant recipients and usually has been attributed to infection .
+415	COVID-19 infection may also result in a hypercoagulable state associated with increased morbidity .
+416	Viral pneumonia is an important cause of morbidity and mortality in immune compromised individuals and children [ 7 ] .
+417	Sepsis is not uncommon in severe and critical COVID-19 cases , especially in patients with intestinal microflora imbalance and existing liver cirrhosis .
+418	MERS is a viral pneumonia with rapidly progressive respiratory failure leading to ARDS .
+419	Venous thromboembolism ( VTE ) is an under-recognized complication of SOT , especially in lung transplant recipients .
+420	ACS is an acute lung injury syndrome that occurs frequently in patients with SCD .
+421	COVID-19 is a recently identified illness that is associated with thromboembolic events .
+422	Pneumonia is common , and fulminant multilobar pneumonia , acute respiratory distress syndrome ( ARDS ) , and respiratory failure are feared complications [ 20 ] .
+423	The most significant complication of RSV infection in HM patients and HCT recipients is progression to LRTI , which is associated with a higher mortality rate .
+424	Bacterial pneumonia is the leading cause of ARDS in this setting [ 33 ] .
+425	IAA is a severe and relatively frequent complication affecting 11 % of patients with influenza treated in two Swiss ICUs .
+426	IPS is a complication of allogeneic hematopoietic cell transplant ( HCT ) that commonly leads to respiratory failure requiring management in the intensive care unit .
+427	Community-acquired bacterial meningitis in patients with cirrhosis is an uncommon but a serious infection .
+428	Pulmonary nocardiosis is a severe complication in heart-transplant ( HT ) patients .
+429	Patients with COVID-19 often present with dyspnea , hypoxemia , and hemodynamic instability with acute respiratory distress syndrome ( ARDS ) , and in such clinical condition , venous thromboembolism ( VTE ) may be overlooked ( 3 , 4 ) .
+430	A common non-immunological complication is transfusion-related circulatory overload within 6 h and acute respiratory distress with signs of heart failure .
+431	SARS-CoV infection is a life-threatening disease that often develops with acute lung injury and acute respiratory distress syndrome .
+432	Myocarditis is a potentially lethal complication , observed among cases of the current and previous outbreaks of other coronaviridae , such as Middle Eastern Respiratory Syndrome ( MERS ) ( 5 ) ( 6 ) ( 7 ) ( 8) .
+433	Acute renal failure is a rare complication , usually found in association with severe DSS , typically in patients with prolonged shock and multiorgan involvement .
+434	FB inhalation is an uncommon life threatening event ( 0.6 % of total admissions ) in pediatric patients that can manifest with ARF requiring MV .
+435	Multi-organ involvement 3 secondary to COVID-19 infection occurs in a subgroup of patients [ 10 ] .
+436	Q fever fatigue syndrome ( QFS ) is a debilitating post-infective fatigue syndrome developing in approximately 20 % of patients with an acute Q fever infection [ 6 ] .
+437	COVID-19 is an acute resolved disease which can be deadly if not immediately and properly managed .
+438	Aspiration pneumonitis , which is a clinical diagnosis by exclusion , is a significant cause of NHAP .
+439	TTP is suspected in patients with MAHA with very low platelet counts and mild renal injury [ 5 ] .
+440	Invasive Aspergillus infection is an important cause of pulmonary sepsis in immunocompromised patients .
+441	Myocarditis is a rare irAE of immunotherapy , with 8 % fatality rate ( Wang et al. ) .
+442	Neurological complications have been reported in 14 % of intensive care patients with serious forms of SARS-CoV-2 infection .
+443	Neonatal infections with EAV are associated with severe interstitial pneumonia , which has been reported to be uniformly fatal .
+444	Acute viral myocarditis is a serious condition , which can cause sudden cardiac death in previously healthy adults .
+445	Secondary bacterial pneumonia after or during an RSV infection is among the more severe complications reported in this population [ 2 ] .
+446	Pneumonia is the most frequent infectious complication after successfully resuscitated cardiac arrest ( CA ) .
+447	Acute cardiac injury has been reported in patients with COVID-19 , which may be manifested as arrhythmias and electrocardiogram changes .
+448	Although rare , cardiac-associated toxocariasis is a serious , life-threatening complication due to VLM which has recently been emphasized [ 10 ] .
+449	Severe cases of COVID-19 are associated with acute respiratory distress syndrome , acute heart injury , shock and even death ( 8 , 9 ) .
+450	233 Dehydration is the most common and serious complication of gastroenteritis caused by EPEC or a toxin-producing E. coli .
+451	Peritonitis associated with intestinal perforation is a serious HAI in the NICU .
+452	Septic shock may be present in up to 30 % of patients with SCAP ( 2 ) .
+453	Severe dengue is a lethal complication that may develop as a result of dengue fever .
+454	Lower respiratory tract infection is a characteristic feature of COVID-19 , with diffuse bilateral ground-glass opacification and consolidation associated with respiratory failure in severe cases ( 2 ) .
+455	Acute exacerbation of IPF is responsible for substantial morbidity and mortality in patients with IPF .
+456	Acute exacerbation of IPF is responsible for substantial morbidity and mortality in patients with IPF .
+457	HAP is a new respiratory infection that presents more than 48 hours after hospital admission .
+458	The major clinical complication in patients with COVID-19 is respiratory failure due to local hyperinflammation and acute respiratory distress syndrome ( ARDS ) .
+459	Bacterial tracheitis is a serious , life-threatening bacterial infection that can arise after an acute , viral respiratory-tract infection .
+460	Spontaneous pneumomediastinum is not a common presentation in the COVID-19 infection and can potentially be an aggravating factor in the management of the COVID-19 pneumonia .
+461	COVID-19 infection is associated with cardiovascular complications .
+462	Similar to SARS in 2003 , acute respiratory distress syndrome ( ARDS ) is usually considered to be an acute process confined to the lungs and results in a high mortality rate in COVID-19 patients .
+463	Hepatic involvement during SARS-CoV-2 infection is not uncommon .
+464	While human coronavirus HKU1 infection is not usually severe , in highly immunocompromised patients , it can be associated with fatal pneumonia .
+465	Usual clinical manifestations of COVID‐19 infection include fever , fatigue , myalgia , headache , diarrhea , dry cough , dyspnea that may lead to acute respiratory distress syndrome and death ( 1 ) .
+466	Viral myocarditis ( VMC ) is a common cardiovascular disease in clinical practice [ 1 ] .
+467	Ecthyma gangrenosum ( EG ) is a recognized complication of Sm bacteremia .
+468	Liver injury is commonly observed in the setting of many systemic viral infections .
+469	MERS has a high mortality rate ( ϳ35 % ) associated with severe lung disease that can advance to acute respiratory distress syndrome ( ARDS ) .
+470	MERS-CoV is associated with severe respiratorytract infection , renal failure , and fatalities .
+471	However , studies have shown that acute cardiac injury is a common complication in COVID-19 patients .
+472	[ 1 ] [ 2 ] [ 3 ] [ 4 ] COVID-19 is predominantly a respiratory disease and frequently causes pneumonia .
+473	Hepatic injury and dysfunction are frequent associations with severe sepsis .
+474	However , it is a common assumption that immunocompromised patients are at increased risk of developing severe COVID-19 .
+475	HHV6 reactivation is common after HCT in children and is associated with serious aGvHD , multiple viral reactivations and with a subsequent higher mortality rate .
+476	COVID-19-related serious respiratory failure is characterized by rapid aggravation and slow recovery .
+477	Sepsis is a systemic inflammatory response syndrome associated with a high rate of mortality ( 1 ) .
+478	The common serious manifestation of COVID-19 infection is pneumonia .
+479	MERS is often complicated by acute respiratory distress syndrome ( ARDS ) and multi-organ failure(1,2 ) .
+480	Viral pneumonia is a common complication for patients with hematologic malignancies and after hematopoietic cell transplantation causing significant morbidity , and often mortality .
+481	Bacterial translocation is a possible risk of abdominal surgery and could be the cause of life-threatening consequences such as organ failure and septic shock .
+482	Pneumonia is common among hemodialysis patients , carries a poor prognosis , and is often the antecedent to cardiovascular death .
+483	RSV is a common cause of acute lower respiratory infections .
+484	Severe acute respiratory syndrome ( SARS ) 1 is a respiratory illness that has only recently been reported in Asia , North America , and Europe .
+485	VGS are an important cause of bacteremia among neutropenic patients .
+486	VGS are an important cause of bacteremia among neutropenic patients .
+487	Pneumonia is the most common cause of sepsis-related ARDS ( 3 - 7 ) .
+488	Infection in SOT recipients is a frequent cause of admission in the ICU and is associated with both morbidity and mortality .
+489	Severe acute respiratory syndrome ( SARS ) is a recently emerged disease associated with pneumonia in infected patients ( 1 ) .
+490	RD is a common complication in the postoperative phase of lung transplantation .
+491	Introduction : Varicella pneumonia is the most common severe complication of chickenpox in adults .
+492	ARDS is a common immunopathological event for SARS-CoV-2 and has been identified early on as the main cause of death in patients with COVID-19 ( 14 ) .
+493	RSV infection can cause significant morbidity in hospitalized patients , with mortality rates up to 12 % [ 12 ] .
+494	Fever is the most common symptom in patients with 2019-nCoV infection .
+495	Apnea is a major complication of viral LRI and pneumonia in young infants ( younger than 6 months of age ) .
+496	CIPN is a common dose-limiting complication for patients with cancer .
+497	Pneumonia evolving to ARDS is the major complication in patients with severe disease and can develop shortly after the onset of dyspnoea .
+498	Septicemia remains a common clinical entity in neonatal foals with varying degrees of illness associated with the process , including cardiovascular shock .
+499	Discussion : Invasive streptococcus pneumonia is an uncommon but serious infection with a high mortality rate .
+500	Viral LTB is the most common cause of infective upper airway obstruction in the pediatric age group .
+501	Background : Pneumocystis jirovecii is a serious opportunistic fungal infection of immunosuppressed patients .
+502	Disseminated intravascular coagulopathy is one of the hallmarks of viral hemorrhagic fever disease .
+503	Acute renal injury and septic shock have been observed in 4 % and 5 % of patients hospitalized with COVID-19 , respectively 1,9 .
+504	Both SARS-and MERS CoV-associated liver injury is reported in up to 60 % of the patients and is associated with clinically signifi ca nt hepatitis .
+505	The acute respiratory failure is a frequent and serious complication of the underlying disease or its therapy in patients with HM and SCT recipients .
+506	Ventriculostomy-related infection ( VRI ) is a serious complication in patients with hemorrhagic stroke .
+507	Sepsis is the major risk factor of ARDS .
+508	Neutropenic fever is a common and potentially life-threatening condition in patients treated for cancer .
+509	Abstract Introduction : cytokine storm syndrome ( CSS ) is a serious complication of COVID-19 patients .
+510	RSV is also a leading cause of RVI and can cause severe disease in transplant recipients .
+511	19 Pneumonia is the most common complication of primary VZV infection in adults and is associated with mortality rates of up to 50 % in immunocompromised individuals and pregnant women .
+512	Acute kidney injury ( AKI ) is not commonly reported in COVID-19 disease [ 9 ] , but when present , it is associated with a poorer prognosis [ 10 ] .
+513	MRSA is an important cause of severe , occasionally necrotizing CAP .
+514	Respiratory failure is also an uncommon but ominous development in patients with EVD .
+515	Severe COVID-19 can cause progressive respiratory failure and death .
+516	DISCUSSION : Rhabdomyolysis is a well described adverse reaction associated with atorvastatin use .
+517	Lung injury has been reported as the major outcome of COVID‐19 infection .
+518	Peracute PBFD is common in cockatoo and African gray parrot neonates and is associated with sepsis , pneumonia , enteritis , weight loss , and death .
+519	STSS carries a high risk of mortality and is associated with necrotizing fasciitis .
+520	This highly infectious disease is usually associated with flu-like symptoms but may rapidly evolve to severe interstitial pneumonia and even death , particularly in older patients with comorbidities including cancer .
+521	Venous thromboembolism ( VTE ) , including pulmonary embolism ( PE ) , has been frequently reported , mainly in critically ill COVID-19 patients and even despite thromboprophylaxis [ 1 ] .
+522	Sepsis is a common sequel to FPT in crias and in neonates of other species .
+523	Coronavirus disease 2019 ( COVID-19 ) pneumonia has been poorly reported in solid organ transplanted patients ; prognosis is uncertain and best management unclear .
+524	HSV pneumonitis is uncommon in the era of antiviral prophylaxis , but thoracic transplant and HSCT recipients are reportedly at greatest risk .
+525	Bacterial infection is the most common risk factor of ARDS .
+526	Diffuse alveolar hemorrhage is a rare complication of RA .
+527	Severe acute respiratory syndrome ( SARS ) 7 is a lifethreatening infectious respiratory disease with symptoms including fever , dry cough , headache , dyspnea , and hypoxemia ( 1 ) .
+528	Neutropenic fever is one of the most important complications in cancer patients .
+529	Severe acute respiratory syndrome is a serious respiratory illness that frequently leads to respiratory failure in adult patients .
+530	CAP is a common and potentially serious illness , particularly in elderly patients and those with significant comorbidities .
+531	ARDS is a common complication in severe cases of COVID-19 ( Fig. 1 ) .
+532	Pneumonitis is a rare irAE after ICI therapy that presents as an interstitial lung disease [ 38 ] .
+533	COVID-19 is an acute infectious disease , primarily affecting the respiratory system .
+534	► Organ dysfunction caused by COVID-19 is the major cause of early deterioration and death in patients , especially in those with many concomitant diseases .
+535	Non-cardiac pulmonary edema is a frequent complication of fluid replacement in patients with dengue and severe plasma leakage [ 41 ] .
+536	One of main complications caused by COVID-19 is pneumonia .
+537	COVID-19 infection is very common and mortal in hypertension and diabetes mellitus patients .
+538	In the immunocompromised host , hPIV is associated with significant morbidity and mortality .
+539	RVA is a common cause of DD in pediatric patients , worldwide .
+540	The development of ARDS is relatively rare in pure hypovolemic shock events without underlying infection or trauma .
+541	Hemoptysis is seen in roughly 13 % of pulmonary embolism cases and infrequently reported among COVID-19 infections .
+542	Hemoptysis is seen in roughly 13 % of pulmonary embolism cases and infrequently reported among COVID-19 infections .
+543	Oxygenation failure recalcitrant to increasing positive end-expiratory pressure is a feature of severe coronavirus disease 2019 ( COVID-19 ) pneumonia [ 1 ] .
+544	Oxygenation failure recalcitrant to increasing positive end-expiratory pressure is a feature of severe coronavirus disease 2019 ( COVID-19 ) pneumonia [ 1 ] .
+545	STSS secondary to SNM is a life-threatening host response to GAS superantigens with a mortality rate as high as 80 % .
+546	The poor outcomes related to COVID-19 infection are typically due to pneumonia followed by acute respiratory distress syndrome .
+547	Ventilator-associated pneumonia ( VAP ) is a common complication in comatose patients .
+548	The clinical course of COVID-19 may be complicated by several life-threatening conditions including sepsis , respiratory failure , heart failure , acute kidney and cardiac injury , and septic shock ( 3 ) .
+549	Pneumocystis jirovecii pneumonia ( PJP ) is a severe complication of immunosuppression that is associated with high mortality , depending on the underlying type of immunosuppression [ 1 ] .
+550	In transplant recipients , RVIs are known to cause an important morbidity and potential mortality .
+551	Life-threatening acute respiratory failure and ARDS associated with tumor lysis syndrome have been described [ 21 , 22 ] .
+552	Disseminated BCG disease is a risk in immunocompromised patients , including transplant recipients .
+553	The COVID‐19 pneumonia is a serious condition and can be associated with the common respiratory pathogens .
+554	Most elderly patients with COVID-19 develop advanced pneumonia and require ICU monitoring as a result of organ failure and declined immunity [ 3 ] .
+555	Although the symptoms of COVID-19 may resemble the symptoms of pulmonary embolism ( PE ) , in some cases , PE may accompany COVID-19 [ 1 ] .
+556	Multiple organ failure with vascular hyperpermeability is a common cause of death in severe seasonal and highly pathogenic influenza A virus infection .
+557	Severe or critical COVID-19 is highly associated with mortality [ 11 ] .
+558	Influenza-associated pneumonia can lead to severe outcomes including ICU admission and death .
+559	ANE is a rare complication of viral infections like influenza .
+560	Pneumonia caused by MERS CoV is associated with significant morbidity and mortality .
+561	Cardiovascular complications are known to occur in patients with COVID-19 .
+562	HBoV1 is emerging as a rare cause of life-threatening lower RTI in children .
+563	Acute necrotizing encephalopathy ( ANE ) is a new and severe manifestation of influenza in children .
+564	Pneumonia remains a common life-threatening complication in HSC recipients occurring as a direct result of transplantation-induced immune suppression ( Aronchick 2000 ) .
+565	Acute cardiac injury is the most frequently reported cardiovascular abnormality in COVID-19 , and it occurs in~8 - 12 % of all patients [ 5 ] .
+566	Both ARDS and bacterial superinfection can complicate COVID-19 pneumonia .
+567	The current treatment of COVID-19 disease is mostly supportive , and respiratory failure due to ALI/ARDS is the leading cause of death [ 1 ] .
+568	While sHLH is a rare entity , in adults it is most commonly precipitated by viral infection , and is frequently associated with pulmonary complications , including ARDS .
+569	In severe cases , COVID-19 can be complicated by an acute respiratory distress syndrome .
+570	Background : When severe , COVID-19 shares many clinical features with bacterial sepsis .
+571	Infection is a major concern in the management of AAV and is the most common cause of death , especially in patients with malnutrition or immunosuppressive therapy [ 1 ] [ 2 ] [ 3 ] .
+572	Severe COVID-19 results in death due to progressive hypoxemia , acute respiratory distress syndrome ( ARDS ) , and multi-organ failure 1 .
+573	CMV pneumonia has a high mortality rate of 15 - 75 % , especially in patients that require mechanical ventilation .
+574	Bacterial coinfection is an important cause of severe pneumonia and mortality in patients with influenza and pneumonia .
+575	Acute kidney injury ( AKI ) , and subsequent renal failure , is a relatively common complication of ALF .
+576	Systemic inflammatory response syndrome ( SIRS ) is a common entity in the intensive care units .
+577	Respiratory failure is the primary organ dysfunction , which worsens the prognosis of COVID-19 patients .
+578	Septic shock is the most lethal complication of SCAP .
+579	Thrombotic events may be more common in patients with SARS-CoV-2 infection [ 6 ] .
+580	Rejection-induced fever typically occurs in lung transplant recipients .
+581	COVID-19 is a unique form of pneumonia characterized by high fever , dry cough , and occasionally catastrophic hypoxia .
+582	SARS-CoV-2 infection may have serious consequences for pregnant women , especially when there are associated comorbidities like hyperglycemia and hypertension [ 1 , 3 ] .
+583	COVID-19 is an acute resolved disease , but it can also be deadly , with a 2 % case fatality rate .
+584	There is a high incidence of pulmonary embolism itself , alongside myocardial damage/myocarditis and neurological complications , in critically ill patients with COVID-19 .
+585	aBm caused by S. pneumoniae has a high fatality rate and may be associated with neurologic sequelae .
+586	Coronavirus-related thrombocytopenia can be severe and life-threatening .
+587	COVID-19 can present as respiratory tract infection that can progress to acute respiratory distress syn-drome ( ARDS ) [ 2 ] .
+588	The clinical manifestations of COVID-19 pneumonia in post-transplant patients may be atypical as a result of longterm immunosuppression [ 9 ] .
+589	Discussion : Progression from thrombocytopaenia to severe thrombocytosis in dengue fever is an uncommon event .
+590	Additionally , in younger patients and adults , fat embolism syndrome ( FES ) can be a serious complication of bone marrow necrosis .
+591	Fulminant viral hepatitis is a worldwide syndrome , which requires immediate intensive care , and is associated with massive hepatocyte death , hepatic encephalopathy , and multiple organ failure 1 .
+592	Although COVID-19 is largely asymptomatic or mild ( 80 % ) , it can sometimes lead to severe pneumonia and death .
+593	Recently published studies showed that two thirds of patients with COVID-19 develop acute respiratory distress syndrome .
+594	vRTI is common in the first 100 days after allo-HSCT and is associated with ICU admission .
+595	In severe cases , COVID-19 can be complicated by acute respiratory distress syndrome ( ARDS ) , sepsis , and/or multiorgan failure ( MOF ) [ 4 ] .
+596	Acute Necrotizing Encephalopathy : ANE is a rare disorder leading to brain dysfunction , which was reported recently in COVID-19 patients , it results in seizures , liver problems , and mental disorientation [ 9 ] .
+597	PTLD is a life-threatening complication following allo-HSCT .
+598	Diffuse pneumonitis is a devastating early complication after HSCT .
+599	HH is a common cause of acute liver injury in the ICU setting and is characterized by an abrupt and massive increase in aminotransferase activity secondary to anoxic centrilobular liver necrosis .
+600	The most common adverse event associated with plasma transfusion in critically-ill patients is TACO , which results in pulmonary edema and left atrial hypertension subsequent to circulatory overload .
+601	Abstract Severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) infection can cause acute respiratory distress syndrome , hypercoagulability , hypertension , and multiorgan dysfunction .
+602	Plague meningitis is a rare complication of plague .
+603	Hypoxia is an uncommon complication of PFO unless a precipitant such as COVID-19 initiates RTLICS .
+604	Renal failure is particularly common among patients with Middle East respiratory syndrome coronavirus infection [ 19 , 20 ] .
+605	The most common cause of death in COVID-19 infection is respiratory failure and sepsis .
+606	Infection represents an important cause of morbidity after autologous HSCT .
+607	Common complications of COVID-19 include sepsis , respiratory failure , acute respiratory distress syndrome and HF .
+608	Severe SARS-CoV-2 ( COVID-19 ) infection has the potential for a high mortality rate .
+609	BKV-associated haemorrhagic cystitis is common in patients following bone marrow transplantation and immunosuppressant therapy .
+610	MERS-CoV usually causes respiratory and renal failure in some patients , which may be the underlying cause of death .
+611	In pediatrics , sepsis is one of the most common etiologies of DIC .
+612	Pneumocystis PJP after transplant ( TX ) is associated with substantial morbidity and mortality .
+613	RSV arguably is one of the respiratory virus infections associated with the highest disease severity and mortality risk in HCT recipients .
+614	CMVassociated end-organ injury in this setting includes most frequently pneumonitis and gastrointestinal disease [ 10 ] .
+615	IVI can cause primary viral pneumonia , which may progress to a potentially fatal outcome [ 5 ] .
+616	CMV disease is a major complication during HSCT procedure .
+617	Background : Kawasaki disease ( KD ) , a vasculitis of unknown etiology , is an important cause of prolonged fever in childhood .
+618	Summary Acute respiratory failure with diffuse pulmonary opacities is an unusual manifestation following influenza vaccination .
+619	Polyoma BK virus (BKV)-associated interstitial nephritis is a recently described complication that affects with increased frequency renal allograft recipients .
+620	RSV is the most common etiological agent of ALRI in infants and young children .
+621	Severe acute respiratory syndrome ( SARS ) is a recently described infectious entity with salient features of fever , headache and malaise , with rapid progression to pneumonitis .
+622	Pneumonia is a major cause of morbidity and mortality in patients with HM/HSCT .
+623	Pneumocystis pneumonia ( PCP ) is a recognized threat in the posttransplant period .
+624	CMV is a common and potentially life-threatening viral infection in this patient population .
+625	CMV infection is a common complication following liver transplantation and contributes to morbidity and mortality in these patients [ 56 ] .
+626	Lymphopenia is commonly observed in patients with COVID-19 .
+627	INTRODUCTION : COVID-19 presentation may include a profound increase in cytokines and associated pneumonia , rapidly progressing to acute respiratory distress syndrome ( ARDS ) .
+628	INTRODUCTION : COVID-19 presentation may include a profound increase in cytokines and associated pneumonia , rapidly progressing to acute respiratory distress syndrome ( ARDS ) .
+629	Shock is a common presenting sign of leptospirosis , and may occur in 45 % of patients .
+630	Osteonecrosis of the femoral head ( ONFH ) is a common disabling complication among convalescent SARS patients who received corticosteroid therapy .
+631	Osteonecrosis of the femoral head ( ONFH ) is a common disabling complication among convalescent SARS patients who received corticosteroid therapy .
+632	Pneumonia caused by MERS CoV has been associated with severe morbidity and mortality in immunocompetent populations .
+633	In addition to lung injury , cardiac injury has often been reported in patients with COVID-19 [ 2 ] .
+634	SARS-CoV-2 can cause severe disease in infants , resulting in multiple organ injury .
+635	Coagulopathies leading to acute cerebrovascular disease are a known complication of ARDS-related disseminated intravascular coagulation ( DIC ) .
+636	Diagnosis of thromboembolic disease can be difficult in patients with SARS-CoV 2 infection .
+637	In this immune-compromised population , RSV infection is associated with serious complications and increased mortality .
+638	KD is an important cause of fever in young children and is a common cause of acquired heart disease .
+639	SBP is the most frequent infection in cirrhosis , accounting for 10 % to 30 % of all documented bacterial infections in hospitalized patients with cirrhosis .
+640	Systemic sepsis may be a predisposing factor for the onset and development of ALI .
+641	SARS is a recently recognized infectious disease that may lead to death and severe pulmonary sequelae .
+642	Delayed antifungal therapy is known as an independent mortality factor in Septic shock attributed to IC [ 1 ] .
+643	Venous thromboembolism ( VTE ) is one of the leading causes of severe complications in COVID-19 patients 3 , 39 .
+644	The clinical spectrum of COVID-19 pneumonia ranges from mild to critically ill patients [ 1 ] .
+645	Pulmonary edema ( PE ) may occur with enterovirus 71 ( EV71 ) infection .
+646	Pulmonary edema ( PE ) may occur with enterovirus 71 ( EV71 ) infection .
+647	Neutropenia is one of the major risk factors for gram-negative cellulitis .
+648	Angioinvasive aspergillosis is the most common fungal pulmonary infection in severe neutropenic patients .
+649	Digestive tract perforation is a rare but serious complication of rituximab infusion .
+650	CLS is a side effect of cytokine infusion , and a complication of sepis and/or bone marrow transplantation ( BMT ) .
+651	Invasive pneumococcal infection ( IPI ) is a lifethreatening complication that may occur months to years after HCT .
+652	HUS is a significant cause of acute renal failure in children .
+653	Patients with Severe Acute Respiratory Syndrome Severe acute respiratory syndrome ( SARS ) is a new acute infectious disease which quickly spreads and develops , resulting in high mortality .
+654	COVID-19 infection causes a wide spectrum of diseases which may lead to respiratory failure and death .
+655	Dengue is a common viral infection in tropical countries and has the capacity to cause viral sepsis .
+656	Cardiomyopathy related to viral infection is one of J o u r n a l P r e -p r o o f the main causes of hemodynamic detriment , occurring in up to 23 % of patients with COVID-19 [ 43 ] .
+657	Bronchiolitis obliterans syndrome ( BOS ) is a complication , which usually occurs during chronic rejection of lung transplant patients .
+658	NP is an uncommon but increasingly recognized severe complication of pneumonia in previously healthy young children .
+659	Acute renal failure is rare in dengue fever and it mainly presents as shock-induced acute tubular necrosis .
+660	9 hMPV infection may cause fatality in patients with hematologic malignancy .
+661	In immunocompromised patients , HHV-6 infection can be associated with substantial morbidity and mortality rates .
+662	infection is a devastating complication following solid organ transplantation , with associated high mortality .
+663	KD is a major cause of childhood acquired heart disease and vasculitis in the pediatric population .
+664	Many patients with severe COVID-19 infection admitted to ICU are in septic shock .
+665	Concomitant influenza virus and Staphylococcus aureus infection may cause severe and fatal pneumonia in children and adults [ 6 ] .
+666	The development of an infection in a patient with ALF has been associated with worsening encephalopathy and cerebral edema .
+667	Among bacterial urogenital tract infections , fulminant acute bacterial pyelonephritis may lead to septicemia and sudden death .
+668	The " cytokine cascade " in patients with new coronavirus ( COVID-19 ) is a leading cause of death in critically ill patients [ 1 ] .
+669	Bronchiolitis obliterans syndrome ( BOS ) after allogeneic HSCT is a serious manifestation of cGVHD with high mortality .
+670	Introduction : Recurrent pericarditis ( RP ) is a common complication of acute pericarditis ( 15 - 30 % ) .
+671	It has been increasingly associated with lower respiratory tract infection and pneumonia in hematopoietic stem cell transplant recipients , with mortality rates of up to 50 % .
+672	COVID-19-associated coagulopathy can lead to a fulminant activation of coagulation , resulting in widespread thrombosis .
+673	CMV-pneumonia is an important life-threatening complication in HIV-infected infants in South Africa .
+674	Furthermore , ARDS may be a life-threatening complication of H1N1 pneumonia .
+675	ADEM following Mycoplasma pneumoniae ( M. pneumoniae ) infection is a rare condition .
+676	CLAD affects most patients long term and remains a significant clinical concern and contributor to early mortality in lung transplant recipients .
+677	Fluid overload is common in HSCT patients who develop PARDS .
+678	Severe PAP is a rare but serious complication of hematologic disorders .
+679	Gram-negative endotoxemia is a common complication and cause of death in kittens .
+680	Acute kidney Injury is the most frequent complication in patients with septic shock and is an independent risk factor for death .
+681	Sepsis is one of the most Common cause of AKI .
+682	Acute lung injury is a frequent and deadly complication in acute brain injury .
+683	Heparin-induced thrombocytopenia ( HIT ) is a rare but potentially life-threatening complication of heparin therapy .
+684	CMV is a cause of severe infections in neonates , causing debilitating neurological sequelae .
+685	CMV is a cause of severe infections in neonates , causing debilitating neurological sequelae .
+686	Aspergillosis is an important cause of CNS infection in immunocompromised patients .
+687	Introduction : Pneumonitis intestinalis is a very rare clinical condition that may occur following hematopoietic stem cell transplantation ( HSCT ) .
+688	BOS is a potentially fatal complication .
+689	ARDS is one of the most serious complications in critically ill septic patients .
+690	Thrombocytopenia has been associated with higher rates of severe disease and mortality in patients with COVID-19 .
+691	114 Uveitis is a well-known late complication of systemic leptospirosis .
+692	HMPV is a common cause of bronchiolitis .
+693	Infl uenza is an important infection in patients after allogeneic HSCT .
+694	Liver dysfunction is common in sepsis [ 2 ] .
+695	Influenza is a significant cause of morbidity and mortality in transplant patients .
+696	COVID-19 infection presents with cough , dyspnea and fever among other systemic symptoms and can lead to pneumonia and acute hypoxemic respiratory failure .
+697	Chemotherapy-induced oral mucositis is a potential source of viridans streptococcal bacteremia and sepsis .
+698	Available data suggest that severe illness and death from COVID-19 are rare in the pediatric population(2 ) .
+699	VA-ECMO-related SCI is a rare but catastrophic complication .
+700	Acute distress respiratory syndrome ( ARDS ) is one of the most frequent encountered complication of COVID-19 , and has been associated with significantly lower patients ' survival during hospitalization .
+701	CR-BSI is an important cause of mortality and morbidity in patients admitted to the ICUs .
+702	Severe HAdV pneumonia has been frequently described in immunocompromised patients .
+703	SARS is a clinical syndrome that often progresses to varying degrees of respiratory failure .
+704	Acute necrotizing encephalopathy is another neurologic complication of influenza A virus infection , which is frequently reported from East Asia but is rare in western countries [ 67 ] .
+705	Fulminant liver failure secondary to HSV disease is an infectious disease emergency .
+706	Hypercoagulability is a known complication of COVID-19 .
+707	Head and neck cancer patients are generally at high-risk for COVID-19 infection and severe adverse outcomes .
+708	Indeed , several case reports describe PE as a complication of COVID-19 infection causing acute deterioration in patients .
+709	Bartonella-induced silent myocarditis has been described as a cause of sudden unexpected cardiac death in athletes .
+710	Influenza is an acute infectious disease caused by influenza virus , with respiratory damage as main outcome .
+711	Pneumomediastinum is rare but a well described phenomenon in acute respiratory distress syndrome ( ARDS ) .
+712	Viral-associated rhabdomyolysis is a common cause of rhabdomyolysis in pediatric patients , but it rarely occurs in adults and the elderly [ 3 ] .
+713	ARDS in immunocompromised HIV positive patients is associated with extremely high mortality .
+714	Massive pulmonary embolism with acute circulatory arrest may be the first presentation of COVID-19 .
+715	Fluid overload is a common complication of allogeneic HSCT .
+716	Bacterial co-infection occurs in about 15 - 33 % of pediatric patients hospitalized with a lower respiratory tract infection [ 23 ] .
+717	Some of the secondary symptoms of MERS-CoV infection are acute renal failure , multiorgan failure , acute respiratory distress syndrome ( ARDS ) , and consumptive coagulopathy [ 3 ] .
+718	Parainfluenza virus ( PIV ) illness can be very severe in immunocompromised hosts , particularly HSCT recipients .
+719	HAP is common in patients with severe underlying disease , prolonged antibiotics , intravascular devices , and mechanical ventilation .
+720	In the intestinal/multivisceral transplant patients , acute tacrolimus toxicity is a common cause of AKI .
+721	RSV poses a significant infectious threat to pediatric patients with an underlying oncologic disease .
+722	Pseudomembranous colitis caused by Clostridium difficile [ 60 ] [ 61 ] [ 62 ] [ 63 ] [ 64 ] constitutes a related but distinct entity that can be severe and even fatal .
+723	Coagulation disorders are among the most common etiologies of DAH associated with bland pulmonary hemorrhage .
+724	Cardiac involvement is common in patients with COVID-19 .
+725	A common severe clinical manifestation of patients infected with influenza A virus subtype H1N1 is severe ARDS [ 5 ] .
+726	Disseminated AdV infections are rare among immunocompetent hosts , but dissemination occurs in 10 to 30 % of HSCT recipients with AdV infection .
+727	ARF is the most common cause of cardiac arrest in children .
+728	Pneumocystis jirovecii pneumonia is a common opportunistic infection in patients with cell-mediated immune dysfunction .
+729	Capnocytophagia is a rare important cause of severe sepsis that can be difficult to identify in the laboratory .
+730	CMV pneumonia in AHSCT remains a common complication with high mortality even with specific treatment .
+731	COVID-19 has a very variable clinical picture , ranging from asymptomatic to severe acute respiratory syndrome that can lead to death .
+732	COVID-19 has a very variable clinical picture , ranging from asymptomatic to severe acute respiratory syndrome that can lead to death .
+733	Severe ADV pneumonia has been frequently described in immunocompromised patients .
+734	Covid-19 infection is a multisystem disease more frequent in older individuals , especially in those with multiple chronic diseases .
+735	Covid-19 infection is a multisystem disease more frequent in older individuals , especially in those with multiple chronic diseases .
+736	Pulmonary edema is one of the earliest complications following HSC transplantation and may occur even in those patients with normal cardiac function .
+737	Transplant recipients frequently have atypical manifestations of influenza including an absence of fever ( 2 ) .
+738	Although this agent has also been associated with other non-respiratory diseases , hemolytic anemia is the most common hematologic complication of MP infection .
+739	SARI is the most common presentation of COVID-19 and requires intensive care support .
+740	Thrombocytopenia is a common problem in the ICU and cardiovascular patients .
+741	Pneumonia is a rare complication associated with bacterial traheitis and toxic shock syndrome has been seen in bacterial tracheitis owing to S. aureus .
+742	Severe PGD is associated with a mortality rate in the range of 30 - 40 % and represents a leading cause of perioperative death among lung transplant recipients .
+743	PTLD is a serious complication of immunosuppressive therapy in the transplant of solid organs , with an incidence of 2 % to 5 % .
+744	CMV pneumonia is the most common viral infection in both HSCT and SOT recipients .
+745	Sepsis is a major risk factor for acute lung injury , particularly in most species that have PIMs .
+746	Pneumonia due to MERS CoV is associated with a high rate of mortality that reached 76 % ( 4 ) .
+747	Postoperative ARDS is an uncommon complication following pulmonary resection with an incidence of around 3 % [ 41 ] .
+748	Invasive pulmonary aspergillosis ( IPA ) is a common complication of immunosuppression , particularly during deep and prolonged neutropenia .
+749	Community-acquired MRSA ( CA-MRSA ) pneumonia may occur in previously healthy patients with no prior healthcare exposure , often after influenza and can predispose to severe necrotizing pneumonia .
+750	Brincidofovir is an oral antiviral therapy which is effective and well tolerated in patients with refractory viral reactivation in the post stem cell transplant setting Introduction : After allogeneic HSCT , invasive aspergillosis ( IA ) is one of the most lethal infections .
+751	Clostridium difficile infection is the most common hospital-acquired infectious diarrhea , and fulminant colitis can happen in up to 13 % of recipients with CDI [ 12•• ] .
+752	Adult respiratory distress syndrome ( ARDS ) is more common in STSS but may also occur in TSS .
+753	Sepsis is a major cause of high mortality rate in intensive care units in the USA ( 71 ) .
+754	Myocarditis is a common autopsy finding in those dying of AIDS-related T. cruzi meningoencephalitis .
+755	RSV is a frequently encountered , potentially severe infection in childhood .
+756	DISCUSSION : Pulmonary alveolar hemorrhage is an infrequent and rarely reported hemorrhagic complication of the use of Group IIb-IIIa receptor inhibitors in acute coronary syndromes .
+757	Summary : HPS is a potential complication of various infections .
+758	SUMMARY : HPS is a potential complication of various infections .
+759	In summary , influenza virus-associated myocarditis is more common than generally appreciated .
+760	Following , acute otitis media is the most common complication of RTI due to RSV or hMPV [ 8 ] .
+761	Severely ill foals can suffer from CIRCI , which is associated with poor clinical outcomes .
+762	Myocarditis is not highly uncommon during influenza infection and may present as asymptomatic myocardial involvement to fulminant myocarditis resulting in cardiogenic shock and death [ 16 ] .
+763	CMV is an uncommon cause of severe viral CAP in immunocompetent adults .
+764	Emerging data support that patients infected by this novel coronavirus are at risk of developing disseminated intravascular coagulation ( DIC ) [ 4 , 7 , 8 ] .
+765	Thrombocytopenia is one of the rare hematologic complication of brucellosis .
+766	ALF due to hepatitis E has a worse outcome in elderly , pregnant women , and patients with underlying chronic liver disease [ 11 ] .
+767	Rhabdomyolysis occurs in 1 % of the patients with dengue infections .
+768	Acute pulmonary edema is a complication that tends to occur early , typically in the second week after HSCT .
+769	Invasive fungal rhinosinusitis is often an acute fulminant disease that carries a high mortality rate .
+770	Invasive fungal rhinosinusitis is often an acute fulminant disease that carries a high mortality rate .
+771	Pulmonary hypertension is a common finding in dogs with IPF .
+772	DISCUSSION : AHS is an adverse drug reaction associated with medications such as phenytoin , carbamezepine and phenobarbital .
+773	Disease SARS-CoV-2 infection can cause severe acute respiratory illness due to lung involvement .
+774	Both hantaviruses , and coronaviruses associated with severe acute respiratory syndrome , can lead to acute renal failure .
+775	Both hantaviruses , and coronaviruses associated with severe acute respiratory syndrome , can lead to acute renal failure .
+776	Sepsis or bacteremia is the leading cause of ARDS .
+777	DISCUSSION : AHS is a potentially fatal drug reaction induced by arene oxide-producing anticonvulsants , including phenytoin , carbamazepine , and phenobarbital .
+778	Rhabdomyolysis has been reported with viral pneumonia , particularly from the 2009 pandemic influenza A strain .
+779	Adenovirus is a serious , often fatal infection in immunocompromised patients , especially in HSCT recipients .
+780	Kidney failure is a common complication in severe malaria patients [ 6 ] .
+781	Interstitial pneumonia is a rare complication of the influenza vaccine and was first described in association with this vaccine in 1998 ( 6 ) .
+782	CMV infection is a common perinatal infection .
+783	CMV infection is a common perinatal infection .
+784	DISCUSSION : BOOP is an inflammatory response to lung injury , with edematous plugs of granulation tissue and interstitial fibrosis .
+785	Patients with lung cancer are prone to severe complications , such as admission to the intensive care unit requiring invasive ventilation , or death , from COVID-19 .
+786	Fungal infections represent frequent and life-threatening complications after PTx .
+787	ARDS may develop as a severe complication of malaria and has a high mortality rate ( 80 % ) [ 1 , 2 ] .
+788	PoPH is a complication of portal hypertension that occurs more commonly in patients with chronic liver disease .
+789	Adenovirus infections can result in morbidity and mortality after allogeneic SCT .
+790	SARS has been described as a rapidly progressive , sometimes fatal pneumonia with a case fatality rate of 7.6 % requiring intensive care .
+791	This " delayed TRALI syndrome " is common , occurring in up to 25 % of critically ill patients receiving a blood transfusion , and is associated with a mortality rate of up to 40 % .
+792	In particular , post-lung transplant patients are at risk for CMV pneumonitis , a common cause of bronchiolitis obliterans syndrome .
+793	Type 1 HRS occurs in approximately 25 % of patients with SBP , despite rapid resolution of the infection with antibiotics .
+794	RVI is a risk factor for death or retransplantation within the ¢rst year after pediatric lung transplantation .
+795	Viral pneumonia is a complication of influenza virus infection .
+796	DD is a very frequent clinical complication and a common cause of hospitalization and death among human immunodeficiency virus 1 ( HIV-1 ) seropositive children [ 23 , 24 , 25 ] .
+797	Myocarditis-infarction is the most common form of H. somni infection that results in sudden death .
+798	ARDS , which is a highly complex disease process involving multiple organs , represents the most severe clinical situation of COVID-19 infection and is the major cause of death in ICUs .
+799	TRALI is more common in ICU patients [ 225 ] , and the condition adversely affects outcome .
+800	Perhaps the most feared infection in IIM patients is Pneumocystis jirovecii pneumonia ( PJP ) given its infrequent occurrence yet high mortality .
+801	Idiopathic pneumonia syndrome ( IPS ) is one common pulmonary complication after HSCT .
+802	Respiratory viruses are increasingly recognized as a cause of pneumonia in patients with HM/HSCT and are associated with notable morbidity .
+803	One of the most peculiar features of COVID-19 is the development of lung injury , potentially leading to Acute Respiratory Distress Syndrome ( ARDS ) in a proportion of patients [ 3 ] .
+804	Reexpansion pulmonary edema is a rare complication with high mortality if not correctly evaluate .
+805	Pneumonia is a common contributor to morbidity and mortality in CKD/ESRD patients .
+806	Secondary bacterial pneumonia is the most important clinical complication of respiratory viral infections .
+807	Acute respiratory distress syndrome ( ARDS ) is often seen in critically ill patients , and increases their risk of secondary bacterial pneumonia due to direct gastric fluid reflux , bacterial pneumonia , and systemic sepsis [ 1 ] .
+808	PIV infection results in substantial mortality if it progresses to LRTI in patients who have hematologic malignancy with or without HCT , especially in moderate to high risk groups .
+809	ABSTRACT INTRODUCTION : Cytokine storm syndrome ( CTS ) is a serious complication of patients with SARS-CoV-2 infection .
+810	CAP is the most common fatal nonobstetric infectious complication and a common cause of hospital readmission .
+811	Acute respiratory failure with diffuse pulmonary opacities is an unusual manifestation following influenza vaccination .
+812	Acute neuropathy in patients with Covid-19 is increasingly reported [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] .
+813	Haemodynamic instability is a common feature of severe sepsis in children .
+814	Septic shock , in particular , is commonly associated with acute respiratory failure and ALI .
+815	Septic shock , in particular , is commonly associated with acute respiratory failure and ALI .
+816	( 14 , 17 , 18 ) Severe COVID-19 is uncommon in children .
+817	Patients with severe COVID-19 may also develop vasoplegic shock with or without concomitant sepsis .
+818	These complications imply that prolonged use of corticosteroids in HIVinfected BOOP patients may result in fatal clinical outcomes secondary to their immunocompromised state [ 2 ] .
+819	Although a serious infection may prompt the entry to PICU , MDRI may be a post-hospital complication , potentially life threatening for children [ 5 ] .
+820	Although symptoms are typically mild , in some patient groups COVID-19 can progress to severe respiratory failure which is associated with significant morbidity and mortality .
+821	Development of secondary pulmonary infections is a frequent complication in patients with influenza and associated with an increased risk of ICU admission .
+822	Bronchiolitis obliterans ( obliterative bronchiolitis ) is a complication that follows allogeneic HSCT .
+823	HP is a potentially fatal complication of acute pancreatitis with an incidence of $ 18 deaths/100,000 cases/year .
+824	Myocarditis is a rare but potentially fatal T-cell-driven drug reaction .
+825	In solid organ transplant patients , both primary infection and re-infection can cause CMV disease with high morbidity .
+826	ARF is a common complication of TBI treated with Mannitol .
+827	Post-liver transplant acute kidney injury ( AKI ) is a frequent event with reports of up to 52 % of patients developing AKI [ 15 ] .
+828	PCP is a generally preventable complication of HCT .
+829	Acute disseminated candidiasis is a syndrome of acute , life-threatening infection presenting as persistent fungemia , hypotension , and multi-organ failure in the neutropenic patient .
+830	Invasive pulmonary aspergillosis ( IPA ) is increasingly recognized as a cause of morbidity and mortality in patients with ACLF .
+831	Neutropenic fever is one of the most common complications following therapy for patients with leukemia occurring in greater than 80 % of patients undergoing treatment [ 345 ] .
+832	Interstitial pneumonia is the main cause of life-threatening respiratory disorders at the severe stage of COVID-19 infection ( 13 ) .
+833	Bloodstream infection is a life-threatening condition with a high mortality rate , especially in intensive care and neutropenic patients .
+834	Neurogenic pulmonary edema is often caused by EV71 infection in the brain stem .
+835	Coagulopathy and vascular endothelial dysfunction have been proposed as complications of COVID-19 [ 4 ] .
+836	IMPORTANCE Middle East respiratory syndrome , caused by a coronavirus , is highly lethal , with a case fatality rate of 35 to 40 % .
+837	Healthcare-associated pneumonia is a common infectious problem encountered in hemodialysis patients [ 3 , 4 ] .
+838	Kawasaki disease is a rare disease state associated with acute vasculitis that leads to multiple organ dysfunction .
+839	COVID-19 is a new form of respiratory tract infection that can be complicated by severe pneumonia and acute respiratory distress syndrome ( ARDS ) .
+840	The mortality rate associated with RSV can be high in severely immunocompromised patients with LRTI .
+841	Sepsis is a common cause of acute renal failure ( ARF ) .
+842	MP infections in children are often self-limiting , even in patients with macrolideresistant MP pneumonia [ 10 ] .
+843	Common symptoms of COVID-19 infections include fever , dry cough , and dyspnea but the most serious clinical case is lung failure associated with severe acute respiratory syndrome ( SARS ) .
+844	BACKGROUND : Severe fever and thrombocytopenia syndrome ( SFTS ) is an acute illness with a high mortality ( 16.2–29.1 % ) .
+845	Thrombocytopenia occurs in approximately half of all patients with murine typhus [ 51 , 55 ] .
+846	This " Delayed TRALI Syndrome " is common , occurring in up to 25 % of critically ill patients receiving a blood transfusion , and is associated with a mortality of up to 40 % [ 44 ] .
+847	HRSV infection can result in a severe infection in children requiring hospitalization .
+848	Pneumococcal meningitis associated with PCAP has been reported and could worsen the prognosis of patients .
+849	Secondary bacterial pneumonia is a major cause of influenza-related deaths .
+850	Mortality is significantly higher in patients with cardiac involvement during COVID-19 infection compared to patients without cardiac involvement [ 8 ] .
+851	Acute cerebral infarction is a rare extrapulmonary manifestation of COVID-19 and few cases have been reported .
+852	MPV is a common cause of severe lower respiratory infection and thus likely accounts for a substantial number of deaths globally .
+853	Systemic inflammatory response syndrome ( SIRS ) has been reported in 50 - 60 % of adults with ALF [ 69 ] .
+854	CRV infections can also occur during neutropenia and show significant morbidity and mortality .
+855	CRS in patients with coronavirus disease 2019 ( COVID-19 ) is life-threatening and can occur very rapidly after COVID-19 diagnosis .
+856	Although not common , acute renal failure ( ARF ) in SARS patients usually has a catastrophic outcome , with a mortality rate of 77 % [ 1 ] .
+857	SARS is a respiratory infection that can produce serious complications .
+858	Nosocomial RSV infection in immunocompromised adults results in prolonged , substantial illness and even death ( 10 ) .
+859	Nosocomial pneumonia is a frequent complication of ARDS and vice versa .
+860	DAH is a serious complication among patients with influenza A ( H1N1 ) with or without other risk factors ( Fig. 1 ) .
+861	Epidemiology Toxic shock syndrome ( TSS ) is a disease entity characterized by sudden onset fever , chills , vomiting , diarrhea , and rash which can quickly progress to hypotension , multiorgan system failure , and even death .
+862	Pneumonia is one of the most common infectious complications of stem cell transplantation ( SCT ) .
+863	The clinical manifestation of COVID-19 can vary from an asymptomatic course to ARDS requiring invasive mechanical ventilation and extracorporeal membrane oxygenation .
+864	The clinical manifestation of COVID-19 can vary from an asymptomatic course to ARDS requiring invasive mechanical ventilation and extracorporeal membrane oxygenation .
+865	15 Adenovirus pneumonia in neonates is rare but associated with high morbidity and mortality .
+866	Angioinvasive aspergillosis is an uncommon complication of HIV/AIDS , despite the associated profound immune deficiency .
+867	Hepatic bacterial infection is a significant source of mortality for people with decompensated hepatopathy .
+868	ARDS due to trauma is associated with a high mortality rate .
+869	BKV-associated ureteral stenosis has been reported in 3 % of renal transplant patients and usually occurs between 50 and 300 days after transplantation .
+870	BKV-associated ureteral stenosis has been reported in 3 % of renal transplant patients and usually occurs between 50 and 300 days after transplantation .
+871	Pneumonia associated with COVID-19 is foremost in the symptomatology and prognosis [ 4 ] .
+872	AKI has been described with COVID-19 infections in up to 15 % patients , and occurrence of proteinuria or hematuria has been reported .
+873	Sepsis is a frequent complication in cancer patients , among whom it causes almost 20 % of deaths .
+874	Regardless of COVID-19 , pneumonia is a known significant cause of morbidity and mortality of pregnant patients and represents the most important non-obstetric infection during pregnancy .
+875	ALI is commonly found in patients with severe illnesses and is often complicated by systemic inflammation .
+876	Necrotizing fasciitis is a rare but particularly severe form of soft tissue invasive GAS disease and is often associated with STSS .
+877	Fever is a common symptom in patients with coronavirus infection [ 9 , 27 , 149 ] .
+878	CMV pneumonitis is associated not only with BOS but also with decreased survival despite treatment .
+879	Disseminated intravascular coagulation ( DIC ) is a rare , but foudroyant disease occuring in GRAM-negative sepsis like meningococcal septicemia .
+880	Sepsis is the most serious complication of acute bacterial infection .
+881	Pneumonia is the most serious result of ARIs and is often due to bacterial infection [ 37 ] .
+882	Life-threatening complications described in SARS-CoV-2 infected patients include acute respiratory distress syndrome , acute kidney failure and cardiac injury2 .
+883	In contrast to South American arenaviral HF caused by Junín and Machupo viruses , disseminated intravascular coagulation ( DIC ) is rarely seen in LF patients .
+884	Sepsis is associated with high mortality rates in children .
+885	hMPV infection may cause severe morbidity in both the pediatric and adult populations .
+886	DISCUSSION : Heat stroke is a medical emergency manifesting with core temperature greater than 106 degrees F and multiorgan injury .
+887	1 Illness associated with MERS-CoV infection is characterised primarily by mild-to-severe respiratory complaints , most requiring hospital admission for acute respiratory distress syndrome .
+888	Clinically or microbiologically documented bacterial pneumonia accounts for one-third of cases of ARF in immunocompromised patients .
+889	In addition to sepsis , DIC is commonly found in severe trauma patients and is closely linked to the development of multiple organ dysfunction syndrome and worse outcomes .
+890	Acute renal or mutli-organ failure may further complicate the clinical course and compromise the chance of survival in critically ill SARS patients .
+891	Fever after ICH is common and associated with poor outcome .
+892	CMV is one of the most important infectious complications after SOT .
+893	It may cause severe respiratory infection requiring hospitalization and PICU admission .
+894	Arrhythmias are a very common cardiac manifestation described in patients with COVID-19 infection .
+895	Ischemic airway injury is the major risk factor for the development of Aspergillus tracheobronchitis .
+896	Immunemediated thrombocytopenia often accompanies IMHA in cats with underlying FeLV infection .
+897	Acute otitis media ( AOM ) occurs as a complication of viral upper respiratory tract infection ( URI ) [ 4 ] .
+898	Cardiac involvement in COVID-19 is being increasingly recognized and may indicate a poor outcome [ 2 ] .
+899	BK virus-associated hemorrhagic cystitis ( BKV-HC ) is a common problem arising occasionally after hematopoietic stem cell transplantation .
+900	Coagulopathy is commonly seen in patients with COVID-19 .
+901	Coronavirus disease 2019 ( COVID‐19 ) pneumonia has been poorly reported in solid organ transplanted patients ; prognosis is uncertain and best management unclear .
+902	Heparin-induced thrombocytopenia ( HIT ) is a rare but sometimes severe complication of heparin treatment that occurs 4 - 10 days after the initiation of a therapy with heparin .
+903	Pneumonia is associated with high mortality in the immunocompromised patient population .
+904	AOM is usually a complication of an acute viral upper respiratory infection .
+905	Infection with CCHFV can lead to hemorrhaging and multi-organ failure , with a case fatality rate ranging from 10 to 40 % .
+906	ARDS is a common syndrome with a high mortality rate in intensive care units .
+907	Myocardial involvement with the novel coronavirus , ranging from mild troponin leak to fulminant myocarditis , is well reported in adults and occurs in 8 - 28 % of adults infected with SARS-COV-2 .
+908	Myocardial involvement with the novel coronavirus , ranging from mild troponin leak to fulminant myocarditis , is well reported in adults and occurs in 8 - 28 % of adults infected with SARS-COV-2 .
+909	It has been associated with recurrent pulmonary infections and is one of the major causes of death in lung transplant patients .
+910	Among patients with SARS-CoV-2 infection ( also known as COVID-19 ) , pneumonia , respiratory failure and acute respiratory distress syndrome are frequently encountered complications .
+911	Disseminated intravascular coagulation predisposes to the development of multiorgan failure especially in severe infected cases [ 20 ] .
+912	Hepatitis in SARS-CoV is a well-recognized common complication , although it is a diagnosis of exclusion .
+913	COVID‐19 is a systemic infection with a significant impact on the hematopoietic system and hemostasis .
+914	Lung infection is one of the most common postkidney-transplant complications .
+915	IH is a frequent and potentially fatal complication of severe head injury .
+916	Severe status asthmaticus is a rare cause of acute respiratory failure requiring mechanical ventilation ( 1.5 % of patients in the international cohort study ) [ 4 ] .
+917	14 EBV infection after liver transplantation is a rare ( 3 % ) but feared complication because it can lead to posttransplant lymphoproliferative disease ( PTLD ) .
+918	INTRODUCTION : COVID-19 infections are associated with a high prevalence of venous thromboembolism , particularly pulmonary embolism ( PE ) .
+919	Neutropenic enterocolitis ( typhlitis ) is a serious complication of both chemotherapy-related and primary neutropenia .
+920	NP is the most common infection in the ICU and the most deadly of all nosocomial infections .
+921	31 Autoimmune hepatitis ( AIH ) is a rare complication of AOSD .
+922	Infectious diarrhea is a frequent complication after intestinal transplant and represents a frequent and clinically challenging differential diagnosis .
+923	Acute chest syndrome ( ACS ) is another common complication of SCD .
+924	Pulmonary cytolytic thrombus ( PCT ) is another noninfectious pulmonary complication that involves the pulmonary vasculature , seen exclusively in allogeneic SCT recipients and almost always in children .
+925	Community-acquired pneumonia is common and important infectious disease in adults .
+926	IMHA is an important cause of morbidity and mortality in dogs .
+927	Respiratory failure is the major complication , and patients may progress to acute respiratory distress syndrome .
+928	Due to association described between right ventricle ( RV ) dysfunction and ARDS , 1 some COVID-19 patients may develop this complication .
+929	Liver abnormalities are a recognized complication in long-term TPN patients .
+930	Fever is the main manifestation of sepsis in neutropenic patients .
+931	Patients with COVID-19 tend to progress after onset of symptoms within 7 days(1 ) and severe type may rapidly progress to acute respiratory distress syndrome ( ARDS ) or end-organ failure ( 3 , 4 ) .
+932	The common clinical manifestations of COVID-19 include fever , cough , fatigue , and shortness of breath , with acute respiratory distress syndrome ( ARDS ) being the most prominent complication .
+933	Fulminant myocarditis is a rare clinical syndrome with features of cardiac inflammation and a reported high mortality rate of approximately 40 - 70 % .
+934	Children with fulminant sepsis , particularly with Gram-negative organisms including N. meningitidis , can develop renal failure in association with rhabdomyolysis [ 12 ] .
+935	Patients with COVID-19 can develop a cytokine release syndrome with hyperinflammation leading to progressive shock and multiorgan failure .
+936	Liver injury is common in patients with COVID-19 , especially in those severely or critically ill patients [ 2 , [ 16 ] [ 17 ] [ 18 ] .
+937	CIRRHOSIS Hypoxemia due to IPS is a rare but severe complication of cirrhosis and is considered an absolute contraindication to liver transplantation ( LT ) .
+938	Lower respiratory tract infections including bacterial superinfection occur in up to one-third of transplant patients with influenza .
+939	Sepsis is an uncommon complication observed in patients with an increased iron pool , such as thalassemic patients in Western countries,34 liver disease , cancer and receiving steroid therapy .
+940	NFGNR bacteremia can frequently occur without association with neutropenia and hospitalization .
+941	1 Emerging evidence shows that severe COVID-19 can be complicated by coagulopathy .
+942	New coronavirus pneumonia ( COVID-19 ) is a health emergency due to its high infectiousness [ 1 ] and high case fatality in critically ill patients .
+943	Chronic diarrhea is a frequent adverse event in transplant patients .
+944	Respiratory viral infections are usually associated with significant morbidity following organ transplantation ( 1 ) .
+945	A prothrombotic coagulopathy is commonly found in critically ill COVID-19 patients with acute respiratory distress syndrome ( ARDS ) .
+946	The infection of SARS-CoV-2 can cause severe pulmonary disease and complications with significant morbidities and mortalities .
+947	RSV infection commonly leads to a devastating viral pneumonia , with a mortality rate approaching 50 % .
+948	Pneumonitis represents one of the most severe and potentially lethal adverse events observed in ICI clinical trials .
+949	BACKGROUND : Severe fever with thrombocytopenia syndrome ( SFTS ) is an acute infectious disease caused by SFTS virus and characterized by a high case fatality rate .
+950	Pulmonary fibrosis is a frequent complication in patients with viral pneumonia-induced acute respiratory distress syndrome ( ARDS ) .
+951	In immunocompetent patients , RSV is often a self-limiting upper respiratory infection .
+952	Pneumonia occurs frequently among trauma patients , especially those who require mechanical ventilation .
+953	Introduction : COVID-19 is an infectious disease whose etiopathogenic agent is the Severely Acute Respiratory Syndrome Coronavirus 2 ( SARS-CoV-2 ) RNA virus ( 1 ) .
+954	Acute kidney failure * has been observed after rhabdomyolysis complicated by compartment syndrome ( 2 ) .
+955	IMPLICATIONS/DISCUSSION : Although possible in immunocompetent hosts , cryptococcal meningoencephalitis presents most commonly in patients with HIV infection , drugassociated immunosuppression , leukemia and complement deficiency .
+956	Vasculitis is one of the common inflammatory lesions in cats with FIP and ferrets with FRSCV-associated disease .
+957	COVID-19-associated coagulopathy is increasingly recognized as a result of acute infection and is likely caused by inflammation , including inflammatory cytokine storm .
+958	Myasthenic crisis is a serious complication of MG with significant mortality .
+959	Pleural effusion is not typical of COVID-19 infection , but is a common finding in metastatic oncologic patients and may severely impact respiratory function .
+960	Lower airway disease is a common cause of ARF .
+961	Severe Coronavirus disease 2019 ( COVID-19 ) is frequently complicated by coagulopathy and markedly elevated D-dimer is associated with poor prognosis [ 2 ] .
+962	RSV is one of the most common pathogens that cause ALRI , especially in young children .
+963	Meningitis is another important neurologic complication of AFS [ 12 ] .
+964	The infection may also be associated with acute respiratory distress syndrome and acute cardiac and/or renal injury with a potentially fatal outcome , especially in the population aged ≥70 years and in subjects with chronic comorbidities .
+965	HRS is a unique form of AKI that is seen in patients with advanced hepatic disease .
+966	Unlike NV which is usually short lived , RV diarrhea can persist for 3 - 9 days and is the main contributor to mortality .
+967	Organ dysfunction is a frequent complication in HSCT recipients .
+968	Sepsis is a frequent complication in cancer patients , among which it causes almost 20 % of deaths .
+969	Invasive pulmonary aspergillosis ( IPA ) is a common complication of immunosuppression .
+970	Invasive pulmonary aspergillosis ( IPA ) is a common complication of immunosuppression .
+971	Cytokine storm syndrome ( CSS ) may complicate the process of severe COVID-19 patients .
+972	Cytokine storm syndrome ( CSS ) may complicate the process of severe COVID-19 patients .
+973	Infection due to Immunosuppression is the commonest cause of mortality in patients with cGVHD .
+974	Systemic candidiasis is a rare but life threatening complication in immunosuppressed patients undergoing allogeneic SCT .
+975	BK viremia similarly is more common in the early post-RT period due to intense immunosuppression .
+976	Acute bacterial sinusitis develops in about 2.5 % of adult patients after a viral URTI [ 6 ] .
+977	Cerebral aneurysms are an extrarenal complication of APKD , with rupture causing 11 % of deaths in theses patients .
+978	RVF virus leads to liver damage , DIC , and hemorrhagic manifestations in approximately 1 % of patients with severe disease .
+979	Introduction : Recurrent pericarditis is a complication of acute pericarditis and affects 15 - 30 % of patients after an initial attack .
+980	Severe cellulitis may present with bloodstream infection in susceptible CKD/ESRD patients and prompt ICU admission .
+981	It is commonly believed that RV infection increases the risk for subsequent or secondary bacterial infections .
+982	ALF secondary to HAV infection is a rare event : 0.35 % of HAV infections will progress to ALF [ 58 ] .
+983	Influenza infection is a potential cause of additional morbidity and mortality in subjects who are immunocompromised because of underlying disease or its therapy [ 3 ] .
+984	Infection with MERS-CoV is frequently severe and associated with significant morbidity and mortality .
+985	Infection with MERS-CoV is frequently severe and associated with significant morbidity and mortality .
+986	Coagulopathy associated with SARS-CoV-2 has been widely reported ( 1 , 2 ) .
+987	CoViD-19 is characterized by fever and severe acute respiratory syndrome , which may be accompanied by gastrointestinal and hepatic dysfuntion ( 1 , 2 ) .
+988	Acute cerebellitis maintains an indefinite clinical entity that has been associated with viruses and bacteria .
+989	Discussion : Fluorinated hydrocarbon inhalation typically presents with adverse effects on the central nervous system , in addition to dysrhythmias and renal injury .
+990	Filovirus HF is associated with high levels of inflammatory cytokines and coagulation disorders resulting in septic shock and multiorgan failure [ 9 -12 ] .
+991	The presence of diabetes mellitus in patients with COVID-19 is associated with severe disease , acute respiratory distress syndrome ( ARDS ) and increased mortality .
+992	ICUAP is a frequent and severe complication of critical illness ( ref 1 ) .
+993	For both dengue and scrub typhus , acute respiratory failure ( ARF ) is a serious complication [ 14 , 15 ] .
+994	Acute respiratory distress syndrome is a common complication in patients , followed by anemia , acute heart damage and secondary infections .
+995	Upper respiratory tract disease ( URTD ) is a common presentation in rabbits .
+996	Likewise aspergillosis is the most common cause of brain abscess in organ transplant recipients .
+997	COVID-19 can be associated with a sudden deterioration of respiratory status and cardiac complications .
+998	The greatest cause of mortality in COVID-19 patients is the development of respiratory failure due to acute respiratory distress syndrome ( ARDS ) .
+999	Disseminated neonatal HSV is a rapidly progressive infection , which leads to multiple organ failure and has a high mortality rate despite aggressive care .

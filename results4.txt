@@ -1,22 +1,1014 @@
 people with arg1:[e]asthma are $susceptible to arg2:[e]asthma
+0	This is explained by the fact , that patients with inhalation injury are more susceptible to ( respiratory tract ) infections with potential septic progression than patients without inhalation injury but equal TBSA ( 31 ) ( 32 ) ( 33 ) .
+1	It is well established that patients with fractures are susceptible to pulmonary infection , especially those with lower-limb fracture and limited ambulatory capacity 9 .
+2	Patients with cystic fibrosis are particularly susceptible to chronic infection with P. aeruginosa , and infection ultimately leads to respiratory failure .
+3	48 Patients with atopic dermatitis are also highly susceptible to widespread disseminated viral infections , including eczema molluscatum , eczema herpeticum , and eczema vaccinatum .
+4	The laboratory findings on admission showed that leucocytes and neutrophils count and the proportion of increased leucocytes were higher in COVID-19 patients with diabetes than those without , which might be explained by the fact that patients with diabetes were more susceptible to pathogens after a viral infection due to lower immune function .
+5	Transplant patients with prolonged ( > 21 days ) neutropenia are especially susceptible to fungal infections and may present with high fever , dyspnea , and occasionally hemoptysis .
+6	In addition , patients with atopic dermatitis are highly susceptible to cutaneous bacterial , viral , and fungal infections , most notably Staphylococcus aureus and herpes simplex virus .
+7	Patients with COPD are more susceptible to viral infections , and up to one half of cases of COPD exacerbations are associated with viral infections ( 16 , 34 ) .
+8	Accordingly , individuals with CF are susceptible to chronic infections , primarily by the opportunistic pathogen P. aeruginosa , which is particularly difficult to eradicate due to the high basal levels of antibiotic resistance and the ability of P. aeruginosa to form antimicrobial resistant biofilms .
+9	Neurons are generally the cells most susceptible to necrosis , especially from hypoxia or ischemia , and develop ( early in the process of cell death ) the morphologic features of coagulative necrosis .
+
+Performed query of type 'Start with Query'. Similarity search results:
+ 	0
 0	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
 1	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
 2	Patients with ARDS triggered by viral infection , in particular influenza , are prone to invasive aspergillosis even in absence of prior immunodeficiency .
-3	Patients with immunodeficiency due to human immunodeficiency virus ( HIV ) infection are highly susceptible to viral sepsis depending on the stage of disease and access and response to the treatment ( 19 ) .
+3	Individuals with SCD are strongly susceptible to encapsulated bacterial organisms such as S. pneumoniae , a common colonizer of the nasopharynx in healthy children .
 4	Individuals with diabetes , immunosuppressive disorders , and liver disease including hemochromatosis and alcoholic liver disease are especially susceptible to infection .
-5	Patients with cancer are more susceptible to the infection owing to their immunocompromised state .
-6	Individuals with SCD are strongly susceptible to encapsulated bacterial organisms such as S. pneumoniae , a common colonizer of the nasopharynx in healthy children .
-7	However , immunocompromised individuals , both children and adults , are prone to develop severe illness as a result of HPIV infection .
-8	Affected individuals are immunosuppressed , and therefore , are more susceptible to influenza , viral enteritis , and distemper [ 1 , 26 ] .
-9	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
-10	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
-11	Patients with cancer are known to be at an increased risk for community-acquired respiratory viruses , such as influenza , because of their frequently observed immunocompromised state .
-12	Moreover , dialysis patients are more vulnerable to infection due to suppression of the immune system .
-13	Moreover , children receiving immunomodulatory or immunosuppressive therapies due to malignancy , transplantation , or autoimmune disease are more susceptible to viral infection or reactivation .
-14	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
-15	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
-16	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
-17	Elderly patients are also more prone to RSV infections due to their decreased immunologic response to the virus [ 13 ] .
-18	Although the incidence of RSV infection is low among patients with AML , it is associated with high mortality in children with AML [ 21 ] , and it is well known that infants , both immunocompetent and immunocompromised , are particularly vulnerable to RSV .
-19	Patients with severe virus infection are more likely to be co-infected with bacteria due to low immune functions [ 24 ] .
-20	Cancer patients are at an increased risk for these infections due to their immunosuppressed states .
+5	Moreover , children receiving immunomodulatory or immunosuppressive therapies due to malignancy , transplantation , or autoimmune disease are more susceptible to viral infection or reactivation .
+6	Accordingly , young children , compared with adult transplant recipients , are at higher risk of acquiring primary infection with many organisms after they are immunosuppressed , which can lead to increased severity .
+7	On one hand , elderly patients are at risk for gram-negative and anaerobic polymicrobial aspiration pneumonia , and on the other hand are more prone to bacterial superinfections following influenza infection .
+8	Patients with cancer are known to be at an increased risk for community-acquired respiratory viruses , such as influenza , because of their frequently observed immunocompromised state .
+9	However , immunocompromised patients , including those with HIV/AIDS and patients taking immunosuppressants post-transplant , are at an increased risk for viral and fungal pneumonia .
+10	Although the incidence of RSV infection is low among patients with AML , it is associated with high mortality in children with AML [ 21 ] , and it is well known that infants , both immunocompetent and immunocompromised , are particularly vulnerable to RSV .
+11	However , neonates , older individuals , and those with immune deficiencies are prone to more frequent and more serious CNS viral infections .
+12	However , immunocompromised individuals , both children and adults , are prone to develop severe illness as a result of HPIV infection .
+13	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
+14	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
+15	The patients with rheumatic immune diseases have immune dysfunction and are often on glucocorticoid and immunosuppressant therapy , which in turn predispose them to an increased risk of contracting SARS-CoV-2 infection .
+16	Although most infected patients have mild to moderate symptoms or are even asymptomatic , older patients or those with existing chronic diseases are at greater risk of developing serious complications such as pneumonia or multiple organ failures .
+17	Among patients , those with cystic fibrosis ( CF ) , chronic obstructive pulmonary disease ( COPD ) , and on mechanical ventilation are particularly prone to develop pneumonia caused by PA infection [ 6 ] .
+18	Cancer patients , particularly those under anticancer treatment , are potentially more susceptible for a severe infection .
+19	Affected individuals are immunosuppressed , and therefore , are more susceptible to influenza , viral enteritis , and distemper [ 1 , 26 ] .
+20	Preterm infants , especially very low birth weight infants , have low immune function , which is the main risk group of neonatal fungal infection .
+21	Patients with cancer are more susceptible to the infection owing to their immunocompromised state .
+22	Individuals with underlying medical conditions are at increased risk of pneumonia , which may be due to viral extension to the lungs or bacterial superinfection .
+23	Patients with immunodeficiency due to human immunodeficiency virus ( HIV ) infection are highly susceptible to viral sepsis depending on the stage of disease and access and response to the treatment ( 19 ) .
+24	Elderly patients are also more prone to RSV infections due to their decreased immunologic response to the virus [ 13 ] .
+25	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+26	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+27	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+28	In comparison to immunocompetent individuals , respiratory viral infections in patients with hematological malignancy ( particularly after HSCT ) are more prolonged , lasting weeks and even months , and lead to an increased risk of respiratory compromise due to the development of viral or secondary bacterial pneumonia .
+29	Patients with severe virus infection are more likely to be co-infected with bacteria due to low immune functions [ 24 ] .
+30	Patients with NTM suffer from a more rapid decline in pulmonary function than control patients without NTM although coinfections with SA and Aspergillus may be to blame [ 20 ] .
+31	Children that are immunosuppressed such as those that are severely malnourished or HIV-infected are susceptible not only to a higher incidence and mortality from pneumonia , but also to a wider spectrum of pathogens .
+32	In addition , patients who are immunocompromised , as a result of disease or therapeutic interventions , have the greatest risk of developing a fatal infection .
+33	In patients with CKD , impairment of the immune system could result in greater susceptibility to bacterial and viral infections .
+34	Moreover , dialysis patients are more vulnerable to infection due to suppression of the immune system .
+35	In particular , post-lung transplant patients are at risk for CMV pneumonitis , a common cause of bronchiolitis obliterans syndrome .
+36	In addition , superinfected patients are at higher risk for developing fulminant acute hepatitis .
+37	Immune-compromised patients are often vulnerable to opportunistic infections including gastroenteric infections .
+38	In these patients , common respiratory viruses may cause severe infections with higher rates of progression to pneumonia and mortality compared to immunocompetent individuals .
+39	Similarly , children with congenital or acquired immunodeficiencies are more susceptible to viral pathogens .
+40	As patients with cirrhosis have both complement and B-cell defects , they are at increased risk for infections due to encapsulated organisms such as Streptococcus pneumoniae , Haemophilus influenzae , and Klebsiella pneumoniae .
+41	Patients with cirrhosis are immunocompromised and have increased susceptibility to develop spontaneous bacterial infections , hospital-acquired infections , and a variety of infections from uncommon pathogens .
+42	Individuals that are immunocompromised due to other etiologies , such as HIV or severe malnutrition , are more likely to develop life-threatening diarrhea [ 1 , 7 , 9 ] .
+43	Cancer patients are at an increased risk for these infections due to their immunosuppressed states .
+44	HIV predisposes the patient to other rarer CNS infections , such as CMV , and the incidence of common CNS infections is higher in HIV-infected patients [ 10 ] .
+45	Patients with compromised immune systems are especially susceptible to severe complications of adenovirus infection .
+46	Patients with SCD are at increased risk for bacterial infections , primarily due to impaired or absent splenic function .
+47	Patients with hematologic malignancies who are undergoing aggressive chemotherapy and treatment with corticosteroids are at increased risk of HSV , as impairment of cellular immunity is a risk factor for HSV infections and reactivations [ 57 ] .
+48	Patients with liver cirrhosis or liver cancer are at high risk of SARS-CoV-2 infection due to their systemic immunocompromised status .
+49	The presence of subclinical systemic inflammation may contribute to portal hypertension and the development of acute-on-chronic liver failure , and cirrhotic patients are more susceptible to bacterial infections .
+50	In addition , patients with atopic dermatitis are highly susceptible to cutaneous bacterial , viral , and fungal infections , most notably Staphylococcus aureus and herpes simplex virus .
+51	Individuals with an impaired immune system , including children , the elderly , pregnant women and people with HIV/AIDS , are more susceptible to such infections , and the disease outcome may be more severe .
+52	As a result , children with SCD are at extremely high risk for disseminated bacterial infections causing septicemia or meningitis , predominantly with Streptococcus pneumoniae .
+53	Similar to children who have received HSCT , children receiving solid organ transplants are prone to infections before and after the transplant .
+54	Patients with immunodeficiency syndromes are also at risk of pneumonia caused by other pathogens such as cytomegalovirus [ 5 ] .
+55	However , patients with immunocompromise or extremes of age are at higher risk for more severe LRI .
+56	Patients severely affected by COVID-19 are more likely to have acute kidney injury as well as secondary infection [ 10,11 ] .
+57	Possibly , patients with decompensated cirrhosis are at increased risk of infection due to cirrhosis-associated immune dysfunction .
+58	Asthmatic individuals have increased susceptibility to rhinovirus infection [ 8 ] and risk of invasive bacterial infection [ 9 ] .
+59	Immunocompromised patients , such as posttransplant and lymphopenic patients , are more likely to have progression of the infection into the lower respiratory tract with signifi cantly higher mortality rates .
+60	Obesity is a common cause to aggravate the severity of respiratory diseases [ 2 ] which may place obese patients infected by SARS-CoV-2 at risk for pulmonary complications .
+61	Patients with malignant tumors are immunocompromised due to the local or systemic effects of the disease itself , as well as to the treatment regimens , which can impair the immune system and make these patients particularly susceptible to developing TB 46 .
+62	Immunocompromised patients are more susceptible to infection from influenza , have prolonged viral shedding , and have an elevated risk for complications .
+63	Some groups of patients are at risk of developing serious illness resulting from the lower respiratory tract infection by HRSV ; these include children younger than 6 months of age , premature infants , immunodeficient children , and children with chronic lung disease or congenital heart disease [ 33 ] .
+64	Patients with IBD are at increased risk of infection , especially when they have active disease and are taking immunosuppressive therapy .
+65	Patients with IBD are at increased risk of infection , especially when they have active disease and are taking immunosuppressive therapy .
+66	As previously discussed , patients latently infected with CMV that have subsequent bacterial infections have increased risk of septic shock [ 44 ] .
+67	Furthermore , respiratory viral infections may heighten the susceptibility to developing a super-imposed bacterial infection resulting in severe pneumonia [ 5 , 6 ] .
+68	Elderly individuals who dwell in chronic care facilities are especially likely to develop pneumonia due to debilitation and colonization of the upper airway with pathogenic bacteria .
+69	In addition to fever and cough , women infected by infl uenza virus in middle and late stages of pregnancy are susceptible to pneumonia .
+70	Patients undergoing radiation and/or chemotherapy are frequently immunosuppressed and are at exquisite risk for the development of infection .
+71	Patients with ESLD are prone to infections due to abnormalities of their immune system and bacterial translocation from bowel .
+72	Patients with haematological disease , especially haematopoietic stem cell transplantation ( HSCT ) recipients , are more likely to develop more severe infections .
+73	Compared with other solid organ transplant recipients , LTR are more vulnerable to infections .
+74	Although immunocompromised patients acquire HMPV infections at the same frequency as immunocompetent individuals , they are at higher risk for severe infections .
+75	Patients with prolonged neutropenia are predisposed to become infected with candida or aspergillus [ 33 ] and fungal infections constitute a majority of fatal infections in patients with acute leukemia [ 34 , 35 ] .
+76	Neutropenic patients with associated CD4 + cell depletion not receiving appropriate prophylaxis are at high risk for Pneumocystis jiroveci pneumonia [ 14 , 15 ] .
+77	Although women of reproductive age have much lower mortality , they are susceptible to pneumonia from bacterial , viral , and fungal sources .
+78	Infants with underlying cardiopulmonary compromise such as surgical congenital cardiac disease and infants born prematurely with chronic lung disease are considered to be more susceptible to RSV infection , with resultant increased mortality and morbidity .
+79	However , these immunocompromised patients are more susceptible to infections caused by both conventional and opportunistic infections , and infection is now the first cause of death of SOT recipients .
+80	However , febrile neutropenic cancer patients have an increased risk of developing respiratory distress and multi-organ failure .
+81	Post-transplant patients are more likely to develop bacterial or fungal superinfection due to their immunocompromised state ( 49 ) .
+82	Because the overall immunity is decreased due to lifelong use of immunosuppressant drugs , KT recipients are vulnerable to infections .
+83	Hemodialysis patients suffer from several immune defects , which increase their risk of developing bacterial infections , particularly of the respiratory tract .
+84	In addition , severe mucositis is associated with increasing risk for infection [ 6 , 12 ] , and indwelling venous catheters , present in virtually all ASCT recipients during the early period , may predispose to certain bloodstream infections [ 13 ] .
+85	COPD patients are considered more susceptible to virus infection and persistence of infection .
+86	Additionally , immunocompromised individuals and those with chronic conditions are at greater risk of mortality from MERS-CoV infection [ 11 ] .
+87	Adults with severe immunodeficiency are at particular risk of severe RSV infection [ 30 , 31 ] .
+88	Compared with adult transplant recipients , children are at higher risk of developing primary infection with various organisms after transplantation , as they often lack previous immunity from natural exposure to many microbes and often have not completed their primary immunization series at the time of transplantation .
+89	Elderly and immunocompromised individuals are also highly susceptible to severe disease due to RSV .
+90	It is also well recognized that respiratory viral infection can predispose patients to coinfections , particularly bacterial pneumonia .
+91	Although associated with far less mortality , women of reproductive age are susceptible to pneumonia from a bacterial , viral , or fungal source .
+92	Patients on maintenance dialysis are likely to be at increased risk of COVID-19 and its complications because they tend to be of older age and to have multiple co-morbid conditions , often including hypertension , and suppressed immune systems .
+93	Cystic fibrosis patients with a single LT may be at greater risk of pneumonia , as the native lung functions as a reservoir for these resistant pathogens ( 5 ) .
+94	Like many hospitalized patients , AIDS patients are particularly vulnerable to opportunistic pathogens .
+95	Those with compromised immune systems and/or existing respiratory , metabolic or cardiac problems are more susceptible to the infection and are at higher risk of serious illness or even death .
+96	HIV-infected patients are at an increased risk for developing airway disease such as bacterial tracheobronchitis , in addition to pneumonia .
+97	Cancer patients and immunocompromised hosts are particularly susceptible to lung infection .
+98	Studies performed in ICU patients have shown these patients to be at risk for severe infections with CMV and HSV .
+99	One population especially at risk for respiratory viral infections is lung transplant recipients , due to use of immunosuppressive drugs , impaired mucociliary clearance , abnormal lymphatic drainage , and direct exposure of the graft to airborne viruses .
+100	In addition , superinfected patients are at risk for developing acute fulminant hepatitis .
+101	Patients with cancer are more susceptible to infection than individuals without cancer because of the immunosuppressive state caused by the malignancy .
+102	Many patients with sepsis develop immunoparalysis and are at increased risk of secondary infections [ 40 ] .
+103	The elderly and patients with comorbidities are more likely to be infected and are additionally more prone to serious complications , which may be associated with acute respiratory distress syndrome ( ARDS ) and cytokine storm [ 5 ] .
+104	Patients with cancer may particularly be vulnerable to respiratory viruses because of the immunosuppression caused by cancer or anticancer treatment [ 2 ] .
+105	On the other hand , certain patients with chronic obstructive pulmonary disease ( COPD ) are at greater risk for infection with Pseudomonas species but not MRSA .
+106	Certain chronic diseases , such as cirrhosis , diabetes , and chronic obstructive pulmonary disease ( COPD ) , as well as chronic use of immunosuppressant medication may also predispose to sepsis and a worse outcome .
+107	216 Immunosuppressed patients , including not only those with HIV infection but also those who undergo small bowel transplantation for short bowel syndrome , are prone to CMV infection .
+108	The high prevalence of smoking and chronic lung diseases among these individuals may further predispose HIV-infected patients to respiratory tract infections [ 2 ] .
+109	Furthermore , individuals with underlying respiratory and cardiac disease or diabetes mellitis , infected with influenza , are often at higher risk for developing hemorrhagic bronchitis or pneumonia and associated comorbidities .
+110	Indeed , patients with severe burn injuries are at higher risk of developing infectious complications .
+111	Patients with cancer are considered more prone to infections because of the immunosuppressive status due to both malignancy and anticancer treatments .
+112	Newborns and immunocompromised patients , such as those with HIV infection , cancer , and solid organ or bone marrow transplantation , are commonly infected with CMV and may be susceptible to the development of serious disease .
+113	HSCT patients are at greater risk of developing HSV infections , as chemotherapy and radiotherapy used before HSCT may damage the normal upper respiratory mucosa and predispose the patient to direct spread of the virus to the lower respiratory tract [ 56 ] .
+114	Persons with SCD are at high risk of infection , especially with encapsulated organisms , as well as at increased complications from influenza .
+115	Primary infection by a respiratory virus increases the risk of secondary bacterial pneumonia , and viral and bacterial coinfection is common in young children with pneumonia in developing countries ( about 20 - 30 % of episodes ) [ 20 , 21 ] .
+116	Individuals with CVID present with hypogammaglobulinemia and recurrent infections , and these individuals also have an increased susceptibility to autoimmune disorders , gastrointestinal disease and malignancies , especially lymphoma .
+117	In general , neonates are more susceptible to microbial and viral infection .
+118	Older patients are also at increased risk for colonization with gram-negative organisms that may lead to bacteremia and sepsis .
+119	Moreover , many recipients are often immunosuppressed and can therefore develop severe clinical disease if infected .
+120	Surgery can cause adverse effects on immune functions , which may make these patients more vulnerable to COVID-19 infection .
+121	Patients with prior cardiovascular disease are at higher risk of developing an infection and progressing to a severe form of the disease .
+122	Burn patients are at risk of IC because of the frequent use of antibiotics and immunodeficiency .
+123	During the neutropenic phase , patients are particularly susceptible to bacterial and candidal infections and invasive aspergillosis [ 37 ] .
+124	Many individuals with A-T have a weakened immune system , making them susceptible to recurrent respiratory infections .
+125	A substantial number of subjects with diabetes are at increased risk for infection due to concomitant immunosuppression associated with a history of solid organ transplantation ( 29 ) .
+126	Patients with an increased risk of developing severe disease may experience severe pulmonary involvement resulting in systemic inflammation [ 6 ] .
+127	It is thought that patients with comorbid conditions are more susceptible to manifest complications of the viral infection ( 4 ) .
+128	Moreover , these individuals are known to be at higher risk of respiratory tract infections , particularly respiratory syncytial virus and influenza infections .
+129	The immunosuppressed status of some cancer patients ( whether caused by the disease itself or the treatment ) increases their risk of infection compared with the general population .
+130	The immunosuppressed status of some cancer patients ( whether caused by the disease itself or the treatment ) increases their risk of infection compared with the general population .
+131	The immunosuppressed status of some cancer patients ( whether caused by the disease itself or the treatment ) increases their risk of infection compared with the general population .
+132	Children are more susceptible to URTIs because their immune system is not fully mature with increased exposure to viral infections and other social and environmental factors .
+133	In addition , around 13 % of HSCT patients with rhinovirus infection may be completely asymptomatic and prolonged shedding of the virus in respiratory secretions is common .
+134	The consequences of respiratory viral infections include higher rates of viral pneumonia in KTRs than in immune-competent individuals and increased risk of superinfection with bacterial and fungal pathogens [ 8 ] .
+135	HIV-infected children with pneumonia are more likely to have severe disease ( including bacteremia ) , more complications , higher rates of treatment failure and death , and possibly more antimicrobial resistance than HIVuninfected children [ 74 ] .
+136	Young adults are not immune to novel respiratory pestilence , and those who are at higher cardiometabolic risk may also be at higher risk for more severe respiratory complications because of an exaggerated inflammatory response and impaired pulmonary ventilation [ 15 ] .
+137	Patients with myeloma are already an at-risk group for infectious complications , in particular viral infections and pneumonia ( 12 ) .
+138	Patients with constrictive bronchiolitis are especially prone to recurrent airway inflammation and infection .
+139	Individuals who are immunocompromised as a consequence of treatment after organ transplantation or those subjected to anticancer chemotherapy become particularly vulnerable to viral infections .
+140	Naïve recipients of intestines from CMV-positive donors are at high risk of developing severe CMV infections , especially CMV enteritis [ 31 ] .
+141	The control of AdV is mostly T-cell mediated , and therefore , patients who have received T-cell suppressive regimens are at an increased risk for AdV infection .
+142	Even with appropriate IG therapy , PIDD patients remain at an increased risk of infection , including those caused by upper and lower respiratory viral pathogens including RSV and influenza .
+143	Due to their weakened immune response , the elderly are at increased risk of influenza and its related complications [ 9 ] .
+144	The risk of active tuberculosis is increased in patients with immune impairments such as HIV , diabetes , cancer , or solid-organ transplantation ( SOT ) , and those receiving systemic steroids or TNFα antagonist therapy [ 41 ] .
+145	Cancer patients are at a higher risk of being infected with the coronavirus and are more likely to develop severe complications , as compared to the general population .
+146	Therefore , pregnant women are particularly susceptible to respiratory pathogens and severe pneumonia .
+147	Yet , children with influenza are at risk of developing complications such as otitis media and pneumonia [ 5 ] .
+148	Patients with cystic fibrosis are particularly susceptible to chronic infection with P. aeruginosa , and infection ultimately leads to respiratory failure .
+149	In comparison with patients treated with high-dose chemotherapy and autologous stem cell transplantation , patients undergoing allogeneic stem cell transplantation are at a much higher risk of infection even after hematopoietic reconstitution , due to the delayed recovery of T and B cell functions .
+150	However , inappropriate steroid therapy for patients with ARDS may be associated with complications such as gastrointestinal bleeding , hyperglycemia and increased susceptibility to infection .
+151	However , IgA deficiency is now known to be associated in some patients with IgG2 subclass deficiency , and such persons may be more prone to episodes of sinusitis caused by encapsulated bacteria such as H. influenzae and S. pneumoniae .
+152	Patients with iatrogenic or disease related immune suppression are highly susceptible to infection and are thus , at increased risk for cytomegalovirus , human herpes virus , hepatitis B and C , and fungal infections .
+153	Patients with hematologic malignancy ( HM ) are at risk for complications of respiratory viral infections including prolonged illness , progression to LRTI , and bacterial superinfection .
+154	CV infections are also related to lymphoid depletion and immunosuppression , which likely increase the severity of secondary infection [ 10 ] .
+155	Patients with COPD are more susceptible to viral infections , and up to one half of cases of COPD exacerbations are associated with viral infections ( 16 , 34 ) .
+156	Patients with chronic ILD may be more prone to develop a severe COVID-19 lung infection [ 22 ] .
+157	Not surprisingly , patients who are more heavily immunosuppressed and who are suffering from other immunologic and infectious complications of transplant are at higher risk for infection and disease due to adenovirus .
+158	It has been long understood that both adult and pediatric patients with preexisting immunodeficiency are at increased risk of both development of ARDS and worse outcomes after ARDS [ 9 ] .
+159	Patients with AD have increased infection risk , including skin infections and systemic infections .
+160	Immunosuppressive conditions such as chemotherapy , prolonged neutropenia , corticosteroid treatment , organ transplantation , and HIV infections predispose patients to develop invasive Aspergillus infections .
+161	For children , underlying diseases underlying diseases such as congenital heart disease , immunodeficiency disease and bronchopulmonary dysplasia may increase the risk of severe respiratory infection ( 39 ) .
+162	In addition , patients with asthma are at increased risk for pertussis infection .
+163	Some patients undergoing lung transplantation are chronically colonized with multidrug-resistant bacteria ( e.g. , cystic fibrosis , non – cystic fibrosis bronchiectasis ) and are therefore at high risk for postoperative infection at the time of transplant surgery .
+164	In addition , genotype 3 HEV infections frequently cause persistent infections in individuals with a weakened immune system resulting in an increased risk for accelerated liver cirrhosis .
+165	A high incidence of HIV-infected patients have neutropenia , which considerably increases risk for bacterial and fungal infections .
+166	It is known that SARS coronavirus infections lead to worse outcome in the elderly and in males .
+167	Additionally , when individuals are admitted to hospitals where they frequently have extended stays , they are more likely to become colonized with antibiotic-resistant bacteria such as methicillin-resistant Staphylococcus aureus and antibiotic-resistant gram-negative bacilli , which may subsequently cause difficult-to-treat respiratory infections .
+168	Patients with iron overload ( hemochromatosis ) are more susceptible to yersinial sepsis .
+169	In addition , immunocompromised patients tend to have prolonged viral shedding after resolution of symptoms .
+170	Patients with chronic HBV infection are at risk of developing liver cirrhosis , which is associated with a high rate of mortality because of complications due to portal hypertension and carcinoma [ 38 ] .
+171	Clinically , patients who abuse alcohol have a predisposition towards the development of pulmonary infections .
+172	Humoral immunosuppression and hypogammaglobulinemia are risk factors for bacterial pneumonia , especially with Streptococcus pneumoniae and Haemophilus influenzae [ 24 ] .
+173	Moreover , patients with chronic GVHD have a particularly high risk of infections due to hypogammaglobulinemia and immune dysfunction .
+174	The risk of pneumonia is notably increased in gravidas with comorbid conditions such as asthma , anemia , and human immunodefi ciency virus [ 16 ] .
+175	It is well established that older people , including late-career physicians , are more vulnerable to the coronavirus infection .
+176	Patients with diabetes have been reported to have enhanced susceptibility to severe or fatal COVID-19 infections , including a high risk of being admitted to intensive care units with respiratory failure and septic complications .
+177	In contrast to nontransplant hosts , patients who have undergone lung transplantation are at much higher risk of becoming colonized and infected with drug-resistant organisms .
+178	Young infants with a history of premature birth and those with congenital heart or lung disease have an increased risk of developing severe disease upon primary HRSV infection [ 2 ] .
+179	In comparison , lung transplant recipients who are infected with respiratory viruses are at increased of risk of developing bronchiolitis obliterans , with an associated mortality of up to 29 % .
+180	Patients with defective cell-mediated immunity are at risk of infections caused by intracellular pathogens ( i.e. , viral , fungi , mycobacterial , and intracellular bacteria ) .
+181	Patients with acute liver failure can have defects in many different mechanisms of host defense , making them more susceptible to infections .
+182	Patients with cancer are generally more susceptible to infections than healthy people , because they have a state of systemic immunosuppression that is exacerbated during chemotherapy or radiotherapy [ 197 ] .
+183	Cancer patients are more susceptible to infections brought about by their disease and the immunosuppressive effects of treatment [ 3 ] .
+184	Chronic GVHD is also a significant risk factor and , rarely , patients with chronic lung disease or milder forms of immunosuppression develop semi-invasive forms of aspergillosis .
+185	Chronic GVHD is also a significant risk factor and , rarely , patients with chronic lung disease or milder forms of immunosuppression develop semi-invasive forms of aspergillosis .
+186	Splenectomized patients are at risk of invasive diseases ( e.g. , sepsis , meningitis ) caused by encapsulated organism including S. pneumoniae , H. influenzae , and Neisseria meningitidis .
+187	Prolonged or inappropriate use of corticosteroids may cause excess downregulation of cell-medicated immunity and result in immunosuppression , making individuals more susceptible to more severe M. pneumoniae infection or opportunistic infections .
+188	Very young infants are more vulnerable to RSV infection ; the fragility of their respiratory systems , combined with lower defenses at this age , lead to more severe bronchiolitis requiring hospitalization [ 1 , 21 ] .
+189	Infections of the small intestine are very common but not unexpected in HIV-infected patients in part because of the altered gut immune function .
+190	Compared to healthy counterparts , infants with CF acquire viral infections with a similar frequency , but are at greater risk for more prolonged , severe lower respiratory tract symptoms [ 5 , 8 ] and persistent lower airway obstruction [ 8 ] .
+191	Subjects with diabetes are at risk of infections and have severe disease when infected with a respiratory virus , showing an increased risk of mortality ( 5 ) .
+192	In contrast , PD patients have a weakened immune system that is associated with a high morbidity of infection .
+193	Patients with malignancies are more susceptible for acquisition of infections than the general population and are thought to potentially develop more complications [ 1 ] .
+194	Patients with chronic heart disease are more likely to be infected due to their weakened heart function and low immunity .
+195	One of two most important sequelae associated with MV infection is immunosuppression , which facilitates infection by opportunistic bacteria or parasites that can lead to pneumonia or diarrhea .
+196	Apart from a higher risk of infection , vulnerable groups such as older adults , children , cancer patients , patients undergoing major surgery , and immunocompromised or immunosuppressed patients are susceptible to more severe disease after acquiring nosocomial infection , as the infection may cause deterioration of the patients ' primary disease including prolonged hospital stay , complications and even death .
+197	Obesity is associated with compromised pulmonary function ( decreased expiratory reserve volume , functional capacity , and lung compliance ) and an increase in inflammatory cytokines which may increase the morbidity of COVID-19 infections [ 11 ] .
+198	Patients with primary adrenal insufficiency including Addison 's disease and congenital adrenal hyperplasia are at an increased risk of infections ( 16 , 17 ) .
+199	cancer patients are more susceptible to infection than the general population due to the immunosuppression produced by the cancer itself but also by the antineoplastic treatments .
+200	Influenza pneumonia has been shown to be related to life-threatening respiratory failure and mortality [ 34 ] ; however , not all patients infected with influenza develop influenza pneumonia .
+201	However , IgA deficiency is now known to be associated in some patients with IgG2 subclass deficiency , and such individuals may be more prone to episodes of sinusitis caused by capsulated bacteria such as H. influenzae and S. pneumoniae .
+202	Although bacterial pneumonia is a serious disease when it occurs in pregnant women , even when the agent(s ) are susceptible to antibiotics , viral pneumonia has even higher levels of morbidity and mortality during pregnancy [ 18 ] .
+203	Pregnant women may be at increased risk of progression of varicella to pneumonitis , particularly in the third trimester , with a mortality rate of 44 % [ 25 ] .
+204	It is known that patients with cancer are more susceptible to infection than individuals without cancer because of their systemic immunosuppressive state caused by the malignancy and anticancer treatments .
+205	It is known that patients with cancer are more susceptible to infection than individuals without cancer because of their systemic immunosuppressive state caused by the malignancy and anticancer treatments .
+206	It is known that patients with cancer are more susceptible to infection than individuals without cancer because of their systemic immunosuppressive state caused by the malignancy and anticancer treatments .
+207	It is known that patients with cancer are more susceptible to infection than individuals without cancer because of their systemic immunosuppressive state caused by the malignancy and anticancer treatments .
+208	Cancer patients are potentially more susceptible to Coronavirus infection with a greater need for intensive support than healthy population since their immune system is often compromised .
+209	Patients with CGD are at increased risk of life-threatening infections with catalase-positive bacteria and fungi , and inflammatory complications such as CGD colitis .
+210	Patients with chronic GVHD are particularly susceptible to late CMV infection because of an increased need for immunosuppression and inherent immunodeficiency as part of the GVHD process .
+211	Viral infections predispose patients to secondary bacterial infections , which often have a more severe clinical course .
+212	Lung transplant recipients who develop bronchiolitis obliterans and HSCT recipients who develop graft-versus-host disease remain especially at risk for infections [ 26 ] .
+213	Immunosuppressed subjects , particularly bone-marrow and solid-organ transplant patients , are prone to develop severe viral RTI .
+214	Patients with renal disease and diabetes are more susceptible to sepsis .
+215	Patients with metastatic or locally advanced lung cancer are at risk of serious infection because they may be immunocompromised ( corticosteroids , chemotherapy ) or suffer from concomitant lung disease or ischemic heart disease .
+216	Although infections limited to the upper respiratory tract are rarely fatal , there is a higher mortality associated with lower respiratory tract infections particularly in allogeneic HSCT recipients .
+217	Additionally , individuals with allergies are sometimes more prone to secondary bacterial infections .
+218	Patients with chronic GVHD are at risk for invasive infection from encapsulated organisms , particularly Streptococcus pneumoniae , Haemophilus influenzae and Neisseria meningitidis .
+219	It is well recognized that elderly are more susceptible to serious complications of influenza , which could require medical intervention or even hospitalization .
+220	CMV-naive recipients ( RÀ ) receiving seropositive CMV-donor ( Dþ ) organs possess a greater risk for severe infections which is associated with increased mortality [ 9 ] .
+221	HD patients and renal transplant recipients are more vulnerable to SARS-CoV-2 , possibly because of long-term immunosuppression , and are more likely to develop severe infection that may even be fatal .
+222	Young children are particularly vulnerable , as they often carry adenovirus in their gastrointestinal tract , predisposing them to reactivation and dissemination when they become immunocompromised .
+223	Patients with weakened immune systems because of malignancy , chemotherapy , steroid use , HSCT , or solid organ transplantation are at high risk for developing severe illnesses .
+224	Overall , patients with APDS are prone to recurrent respiratory infections , airway disease [ 127 ] , lymphoproliferation , cytopenias , skin diseases , chronic EBV and CMV viremia , and enteropathy [ 126 ] .
+225	Compared with the general population , cancer patients are at higher risk of contracting COVID-19 and even developing critical symptoms because of weakened immune system 1 , 2 .
+226	Patients who are immunocompromised such as due to steroids or organ and hematopoietic stem cell transplantation are highly susceptible to atypical viral infections .
+227	Influenza and other respiratory viral infections predispose patients to secondary bacterial super-infections , which are frequently associated with a more severe clinical course .
+228	CF patients are , therefore , highly susceptible to chronic colonization with many pathogens such as Staphylococcus aureus and Pseudomonas aeruginosa .
+229	However , immunocompromised individuals may experience severe prolonged infections , and they are at risk for serious complications , including mucosal necrosis , hemorrhage , strictures , tracheobronchial fistula , and disseminated infection .
+230	It is well established in the literature that patients with compromised immune systems are more susceptible to viral infections and consequent development of severe outcomes compared with the general population .
+231	Patients with rheumatic and inflammatory bowel diseases ( IBDs ) may be at higher risk of infection [ 6 , 7 , 11 , 12 ] .
+232	Besides infants , the elderly and severely immunocompromised individuals are also at higher risk of serious RSV infections [ 6 , 7 ] .
+233	Elderly people , especially those with underlying comorbidities , are at risk of developing complications after infections caused by influenza viruses ( Memoli et al. 2014 ) .
+234	Other underlying diseases such as primary immunodeficiency , for example , may predispose to progression or reactivation of antecedent infections , and individuals with myelodysplastic syndrome who are neutropenic at the time of transplant are at an increased risk of infection and mortality .
+235	Patients with cirrhosis are at increased risk for aspiration events in the setting of altered mental status due to hepatic encephalopathy or excessive alcohol consumption , which places them at risk for lower respiratory tract infections [ 104 ] .
+236	Because transplant recipients are chronically maintained on immunosuppression , they are at especial risk for more severe presentations of infection , even with organisms traditionally associated with more benign courses .
+237	Pregnant women , however , are more likely to develop chronic Q fever with endocarditis than are infected nonpregnant women [ 98 ] .
+238	Given their immunosuppressed state , SOT recipients are presumed to be at high risk of complications with viral infections such as SARS-CoV-2 .
+239	At greater risk to develop secondary bacterial pneumonia are individuals with comorbidities , elderly people ( age > 65 ) , pregnant women , and children under the age of one ( Rothberg et al. , 2008 ) .
+240	Furthermore , liver , pancreas , and intestinal recipients are especially at risk for fatal fungal infections , primarily caused by Candida species which may occur together with bacterial infections .
+241	Patients undergoing allogeneic hematopietic stem cell transplantation similarly are at risk for BOS that potentially may have been triggered after an episode of respiratory viral infection [ 54 ] .
+242	Furthermore , due to the disruption of the protective epithelial layer of skin , burn patients are at risk for invasive bacterial and fungal infections .
+243	Patients with IIM , even those not on therapy , are at higher risk for developing VZV compared with the general population [ 24 ] .
+244	Immunological abnormalities in people with diabetes , chronic respiratory diseases , cardiopathy , or other chronic diseases have increased risk of severe infection and bad prognosis ( 19 ) .
+245	Viral infections of the lower respiratory tract may increase the risk of secondary bacterial infection , which may increase the risk of pneumonia and mortality [ 26 ] .
+246	People with diabetes , renal failure , chronic lung disease , and immunocompromised patients are considered to be at high risk of severe disease from MERS-CoV infection .
+247	Allogeneic HSCT recipients are at the greatest risk for infection and disease due to adenovirus , though complications are reported in patients with other underlying hematologic malignancies .
+248	Morbidity and mortality are increased when bacterial pneumonia complicates influenza infection as compared with bacterial pneumonia in the absence of influenza infection [ 9 , 10 ] .
+249	Profound immunosuppression in patients undergoing HCT obviously leads to a greater risk of infection , with prolonged shedding of the virus , a higher chance of transmission of disease and a greater risk of progression to severe lower respiratory tract disease .
+250	It is known that respiratory infections are more common in children for several reasons , including an immature immune system , lack of preexisting immunity particularly to new emerging viruses , and greater viral exposure opportunities .
+251	An increased risk of NTB infections is more frequent in patients with acquired immunodeficiency syndrome ( AIDS ) and HIV – negative patients suffering from immunosuppression due to previous pulmonary disease , old age and alcoholism .
+252	Viral infections , such as seasonal flu , are as frequent in diabetics as in the general population , although diabetes is a risk factor for developing severe or critical forms of these infections [ 20 , 21 ] .
+253	Immunosuppression , secondary to the cancer itself or cancer-related therapies ( e.g. , chemotherapy , corticosteroids , hematopoietic cell transplant , etc . ) , places patients at an increased risk for infection .
+254	Patients receiving intensive chemotherapy often become colonized with candida in urine and feces [ 39 ] and they also have a high risk ( unless prophylactic fluconazole therapy is given ) to develop oropharyngeal candidiasis [ 40 ] .
+255	In addition , patients with poor dentition or gum disease are more likely to develop aspiration pneumonia because of the larger burden of organisms in their oral cavity .
+256	In addition , patients with poor dentition or gum disease are more likely to develop aspiration pneumonia because of the larger burden of organisms in their oral cavity .
+257	In addition , patients with poor dentition or gum disease are more likely to develop aspiration pneumonia because of the larger burden of organisms in their oral cavity .
+258	In addition , older patients are at increased risk for resistant organisms during episodes of acute exacerbation of CB ( AECB ) .
+259	Children with a predisposition to asthma may be more prone to develop severe RSV bronchiolitis ; however , this infection may also further affect their immune responses or lung structure , leading to the development of asthma symptoms [ 23 ] .
+260	Although , these organisms are common causes of infection , not all infected patients develop or exacerbate their asthma .
+261	Cancer patients are often elderly and immunocompromised because of underlying malignancies and anticancer treatments and thus are at a high risk for contracting respiratory viral infections .
+262	Children with this syndrome are susceptible to opportunistic organisms and to graft-versus-host disease from blood transfusions [ 34 ] .
+263	Similarly , persons with HIV infection are at an increased risk of community-acquired pneumonias , including unusual pathogens such as Pseudomonas aeruginosa [ 145 ] .
+264	Patients with coronavirus are at increased risk of thrombosis due to their over-coagulation status , blood stasis , and endothelial damage [ 11 ] .
+265	Although the pathogenicity of methicillin-sensitive S. aureus ( MSSA ) has been questioned , coinfection with other pathogens such as P. aeruginosa may be associated with worsened clinical outcomes including more severe lung disease .
+266	Influenza infection is also a risk factor for severe S. aureus pneumonia ( particularly methicillin-resistant S. aureus or MRSA ) [ 35 , 36 ] .
+267	Patients with multiple myeloma ( MM ) seem to be at increased risk for more severe COVID-19 infection and associated complications due to their immunocompromised state , the older age and comorbidities .
+268	Cancer patients are more susceptible to infections than their non-afflicted counterparts owing to the systemic immunosuppressive state caused by the malignancy and therapy thereof ( e.g. chemotherapy or radiotherapy ) .
+269	CF patients are commonly colonized with bacterial pathogens , which is the major clinical problem of this disease .
+270	Patients who are previously exposed to healthcare environment such as those who received antibiotics within the preceding 3 months , those who are currently hospitalized for more than 5 days , those who are on immunosuppressants , or those who have immunosuppressive states such as chronic renal failure , diabetes mellitus , AIDS , etc . are prone to multidrugresistant infections irrespective of the onset of VAP .
+271	Critically ill SARS patients on high dose corticosteroids and mechanical ventilation are particularly susceptible to superimposed bacterial and opportunistic infections .
+272	Young children are especially vulnerable to bacterial complications following viral infection ( 44 , 62 , 67 , 68 ) .
+273	Many patients with MS are susceptible to urinary tract infections and may not have clinical manifestations of the infection .
+274	However , it is known that people who have co-morbidities or who are immunosuppressed are at risk of worse outcomes with Covid-19 infection .
+275	Those with extensive immune deficiencies , for example , those receiving immuno-suppressive chemotherapy or with congenital immune deficiencies , can have high mortality rates with infection [ 6 ] .
+276	However , abnormalities in innate immunity may also contribute to increased susceptibility to respiratory infections and have been poorly characterized in the elderly .
+277	Comorbidities are known to increase the risk of ARDS in SARS-CoV-2-infected patients .
+278	Patients with increased susceptibility to pneumococcus may be susceptible to other pulmonary pathogens , leading to dual infections .
+279	While most infections occur asymptomatically in the healthy population , immunocompromised patients are at risk for disseminated disease .
+280	However , patients with stable COPD may be transiently colonized by RSV , although viral load is lower than during acute infection [ 13 , 14 ] .
+281	Individuals from areas with endemic bacterial infectious diseases such as tuberculosis , and fungal infections such as Histoplasma , Blastomyces and Coccidioides are prone to new infection or reactivation of latent infection when receiving chemotherapy .
+282	Patients with cystic fibrosis are particularly susceptible to chronic Pa infection in the airways .
+283	Furthermore , chronic low-dose ozone exposure is known to increase the susceptibility to pulmonary infections .
+284	Nosocomial pneumonia is the leading cause of death in the ICU patient.[40 ] The ICU patients are particularly susceptible to pneumonias as they may be immune compromised and several iatrogenic factors are at play , which increase this susceptibility .
+285	Clinical complications of diabetes triggered by influenza infection cause impairment of leukocyte function and increase post-infection colonization rates resulting in poor prognosis in the elderly ( 33 , 34 ) .
+286	A high incidence of neutropenia is seen in HIV-infected patients , which considerably increases the risk for bacterial and fungal infections .
+287	Immunodeficient patients are more susceptible to infection , and relapse occurs more frequently [ 111 ] .
+288	Importantly , patients with active IBD are likely to have a higher risk of infection both in the community and during inpatient care , even in the absence of immunosuppressive treatment .
+289	Diabetic patients may have increased susceptibility to pneumonia for several reasons : increased risk of aspiration , hyperglycemia , decreased immunity and impaired lung function , and coexisting morbidity .
+290	Patients with solid organ cancer may be as susceptible to active Mycobacterium tuberculous infection as patients with hematologic malignancy and those undergoing hematopoietic stem cell transplantation [ 54 ] .
+291	Debilitated and immunocompromised individuals are susceptible to fungal infections , and irradiation , chemotherapy ( including new targeted therapies ) , and chronic motility disorders are predisposing factors .
+292	Delayed-onset CMV infection in LT recipients is more likely to cause tissue-invasive disease as compared to early-onset disease [ 248 ] .
+293	Circovirus infections are also related to lymphoid depletion and immunosuppression , which likely increase the severity of secondary infection [ 6 ] .
+294	Chronic graft versus host disease ( GVHD ) is also a significant risk factor and , rarely , patients with chronic lung disease or milder forms of immunosuppression can develop semi-invasive forms of aspergillosis .
+295	Studies , including predictors of disease severity , have indicated that chil-dren with younger age , underlying diseases , and immunodeficiency diseases are at higher risk for severe infection .
+296	Patients with cancer are more susceptible to infection and more likely to have severe events than other patients .
+297	Patients with cancer are more susceptible to infection and more likely to have severe events than other patients .
+298	Infection is a recognized risk factor for the development of CLAD , and both acute infection and chronic lung allograft colonization with microorganisms increase the risk for CLAD .
+299	In addition , after solid-organ transplantation although total immunoglobulin levels are normal , children and adolescents may be susceptible to encapsulated bacteria ( eg , Streptococcus pneumoniae , Haemophilus influenzae ) .
+300	As patients on PD have impaired immunity , they are susceptible to the infective pathogen .
+301	Patients affected by compromised cellular immunity ( such as those who have AIDS or lymphoma ) are more susceptible to histoplasmosis and may develop more severe disease .
+302	The majority of these infectious events are of bacterial etiology , but RA patients receiving CS exhibit a greater risk of developing even viral infections .
+303	Patients with prolonged neutropenia who have received intensive cytotoxic chemotherapy are at risk for invasive fungal infection [ 173 , 174 ] .
+304	The risk of severe pneumonia infected by HAdV is increased in lower than 7 years old patients , immunocompromised patients , or patients with chronic underlying disease or post-transplanting [ 24 ] .
+305	Since immune tolerance involves changes to both adaptive and innate immunity , pregnant women are at greater risk of infection , especially viral illness .
+306	Newborns , premature infants , and those with chronic lung disease are at greater risk of developing severe disease by infection with HRSV [ 48 ] .
+307	For example , up to 40 % of patients admitted with severe RSV bronchiolitis are infected with bacteria in their lower airways and are at increased risk of bacterial pneumonia .
+308	Children with asthma are believed to be prone to more severe respiratory illness than healthy children when infected with airway pathogens .
+309	Accordingly , individuals with CF are susceptible to chronic infections , primarily by the opportunistic pathogen P. aeruginosa .
+310	Patients with chronic lymphoid malignancies and those receiving immunosuppressive chemotherapy , such as BMT recipients , have impaired antibody production which predisposes to infection with encapsulated organisms such as Streptococcus pneumoniae .
+311	ECMO patients are susceptible to VAP due to severe illness , ECMO-induced immunosuppression and a high risk of intestinal microbial translocation [ 25 ] .
+312	Children with measles are prone to secondary bacterial infection with organisms such as pneumococci , H. influenzae , S. aureus , and Streptococcus pyogenes .
+313	AIDS patients who are intravenous drug users are also more likely to present with septic emboli or recurrent staphylococcal infections , with lung abscess and empyemas than other types of AIDS patients [ 11 , 19 ] .
+314	Immunocompromised patients such as those with human immunodeficiency syndrome with a CD4 count \100 cells/lL , organ transplantation , recipients of long-term steroids or biological immunomodulators , and those with cellular immune deficiencies , have a high risk of developing fungal infection after travel , specifically those with defects of the interleukin 12/interferon gamma ( IFN-c ) axis and/or tumor necrosis factor alpha ( TNF-a ) [ 58 ] .
+315	CARV infections can lead to serious complications in those with predisposing factors such as immunosuppression and altered pulmonary anatomical defense mechanisms , with LTR at particularly high risk of developing severe infections .
+316	Immunocompromised patients , especially those with neutropenia , are at increased risk of infection and sepsis .
+317	It is well known that adults infected by HIV have increased susceptibility to M. tuberculosis and progress more rapidly to disease .
+318	Children with higher respiratory syncytial virus loads are more likely to be hospitalized and require mechanical ventilation ( 10 , 12 , 15 ) .
+319	Underlying medical conditions , such as asplenia or immunosuppression from chemotherapy , may predispose children to overwhelming infections and sepsis .
+320	Viral infection of the sinus cavity can cause numerous changes such as post-viral inflammation and epithelial damage , which enhance the susceptibility to bacterial infection .
+321	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+322	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+323	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+324	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+325	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+326	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+327	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+328	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+329	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+330	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+331	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+332	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+333	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+334	Infection with RV is known to trigger acute exacerbations and subjects with COPD are particularly susceptible .
+335	Patients with lymphoproliferative diseases and hemolytic diseases , especially sickle cell anemia , are more likely to experience severe disease and develop complications from Salmonella infection .
+336	Patients with COPD have an increased risk for CAP , due to alterations in mechanical and cellular defenses that allow bacterial colonization of the lower airways .
+337	Patients at highest risk for PTLD are seronegative recipients who acquire primary infection after transplantation , making pediatric patients especially vulnerable .
+338	Elderly patients , who comprise the majority of CLL patients , are at great risk for CoVID-19 infections .
+339	Children are more susceptible to RSV infection than adults , especially those who have hemodynamic-significant congenital heart disease or heart failure .
+340	Likewise , patients without prior exposure to varicella-zoster virus are at increased risk of severe infection if exposed posttransplant .
+341	However , children with neurological and neuromuscular conditions are vulnerable to the respiratory complications of other viral infections .
+342	Patients with aplastic anemia are also likely to present with severe and persistent neutropenia , although unlike neutropenic patients with hematological malignancies , they may remain infection free for prolonged periods [ 41 ] .
+343	In particular , HSCT patients may be at greater risk of severe KIPyV infection than other immunocompromised patients .
+344	On the other hand , cancer patients who require surgery may be at risk of coronavirus infection due to hospitalization , infection by the ventilator during anesthesia , and ICU infection .
+345	The risk of mortality is relatively greater in the elderly and/or patients with high viral load and poor immune response at the initial stage of the infection ( 9 ) .
+346	Patients with granulocytopenia are apt to develop severe pneumonia and acute lung injury .
+347	However , patients with prolonged immunosuppression , such as those with chronic graft-versus-host disease ( cGVHD ) , remain at risk for TB .
+348	Immunosuppressed patients are also susceptible to nosocomial viral infections ( rotavirus , norovirus , adenovirus , and coxsackievirus ) .
+349	CLD patients with GI bleeding are at risk of developing bacterial infections .
+350	Moreover , in pregnant women , the severity of illness may progress quickly due to the immunosuppression inherent in these patients .
+351	Premature infants are at high risk to develop disseminated neonatal adenovirus infection with pneumonia and high lethality [ 9 ] .
+352	Miliary TB is more often associated with post-primary TB [ 21 ] , particularly when the host 's defense mechanism is overwhelmed like in elderly patients .
+353	Infection is more common in allogeneic than in autologous HSCT patients due to prolonged immunosuppressive therapy and graft-versus-host disease ( GVHD ) .
+354	Children , the elderly and individuals on immunosuppressive medication have a higher risk of developing severe disease and associated complications [ 17 ] .
+355	However , pneumonia also is a major problem in adults , and children can be important reservoirs for respiratory pathogens , including pneumococcus and influenza .
+356	Due to the systemic immunosuppressive of lung cancer patients caused by the malignancy and anticancer treatments , lung cancer patients are more susceptible to infection than healthy individuals .
+357	MS patients are at increased risk of infections , as disease-modifying therapies may alter the normal function of the immune system , or due to underlying changes in immune response [ 2 ] .
+358	Like HCT recipients , SOT recipients are exposed to highly immunosuppressive regimens that leave them susceptible to respiratory viral infections .
+359	Futhermore , cancer patients undergoing complex surgical procedures are inherently immunosuppressed and are at risk for superinfection by the COVID-19 virusn and the associated increase in morbidity and mortality .
+360	However , most viral infections are not associated with acute exacerations , and cofactors , including allergic inflammation and airway bacteria , have been described that increase the severity of infection and the probability of exacerbation .
+361	Repeated courses of antibiotics and corticosteroid therapy increase the risk of fungal infections , whereas viral infections may not only result from the immunosuppression but may themselves further impair immunity to increase the risk for additional opportunistic infections .
+362	In particular , elderly individuals with reduced immunity and patients with comorbidities are more susceptible to infection ( 20 ) .
+363	These patients are extremely susceptible to recurrent wheezing and bacterial superinfections , most commonly Pseudomonas aeruginosa , secondary to RSV infection .
+364	Although generally mild and self-limiting , rhinovirus infection may cause asthma or chronic obstructive pulmonary disease in chronic infection and lead to severe complications for asthmatics , elderly people , and immunocompromised patients [ 23 , 24 ] .
+365	Lung transplant recipients are at an increased risk for acquiring infections due to the immunosuppressed state , constant environmental pathogen exposure , decreased cough reflex , impaired mucociliary clearance , and lymphatic disruption .
+366	Many patients with cancer are at the risk of SARS-CoV-2 infection .
+367	Patients with PVL-positive MRSA pneumonia are more likely to present with shock , hemoptysis , leukopenia , and even death [ 70 , 72 , 81 ] .
+368	Patients with ESRD are vulnerable to infectious conditions due to multiple comorbidities and decreased immune function .
+369	Although meningitis from Staphyloccocus aureus is usually secondary to neurosurgical procedures , intravenous drug users are susceptible to staph CNS infections due to their frequent innoculation and impaired immunity .
+370	Elderly patients also appear to be at increased risk of severe COVID-19 infection and mortality [ 5 , 16 ] .
+371	Patients are at risk for hemorrhagic cystitis and for secondary malignancies , including carcinoma of the bladder , and are also susceptible to opportunistic infections .
+372	Hence , severe adenovirus infections are common in patients with defective or deficient T-cell immunity such as those with allogenic stem cell transplantation , solid organ transplants , and HIV infection .
+373	Many patients with CVID experience heightened susceptibility to both infections and autoimmune and inflammatory complications ( e.g. , autoimmune cytopenia , enteropathy , and lung disease ) .
+374	However , viral infections may be accompanied by bacterial complications or exacerbations of asthma , and therefore lead to a more serious illness .
+375	Patients with liver cirrhosis might be more susceptible to this infection because of their systemic immunocompromised status .
+376	However , because of the immunodeficiency and compromise , it is recognized that AIDS is associated with opportunistic infections that can put an individual at risk for ocular infection [ 49 ] .
+377	In general , children and especially infants are more susceptible to infection than adults .
+378	Older people and men are more susceptible to infection and development of more severe disease .
+379	Children with congenital anatomical defects , immunodefi ciencies , and genetic disorders are at increased risk for bacterial , viral and fungal pneumonia .
+380	Regardless of the type of malignancy , all patients with cancer are at increased risk of infection caused by Candida spp . , primarily as a result of the widespread use of IVDs and the intensive chemotherapeutic regimens used in this patient population .
+381	Many patients with AE-COPD are thought to have a combination of viral and bacterial infections , which contribute to their exacerbation .
+382	Children with severe T cell defects are also susceptible to systemic viral infections .
+383	Besides , bacterial or viral secondary infections may increase morbidity and mortality in PCMV infections [ 15 ] .
+384	Chronic obstructive pulmonary disease patients are susceptible to unfavorable outcomes in case of an infl uenza infection .
+385	Although infection in otherwise healthy persons is frequently self-limited , certain populations may be predisposed to severe manifestations , including bronchiolitis and pneumonia in infants and exacerbations of preexisting airway disease in persons with chronic obstructive lung disease , asthma , and cystic fibrosis [ 2 ] .
+386	In contrast to communityacquired sinusitis , nosocomial sinusitis is more likely to involve resistant bacteria , including Staphylococcus aureus and Gram-negative bacilli such as Pseudomonas [ 13 , 14 ] .
+387	Patients with cancer potentially have increased susceptibility to SARS-CoV-2 infection and have more serious sequelae , resulting from impaired immune function due to cancer itself , cancer treatment , or both .
+388	Secondary bacterial infections caused by pathogens such as Staphylococcus aureus ( S. aureus ) can increase the severity of IAV infections , resulting in higher pathogen load accompanied with higher morbidity and mortality .
+389	Children with underlying diseases are more vulnerable to viral infection .
+390	Patients with invasive GAS infection are at risk of developing STSS , a superantigen-mediated clinical syndrome .
+391	Individuals who are immunocompromised are especially susceptible to infections by this bacterium , such as cancer and AIDS patients .
+392	Nevertheless , recent MP infections play a significant role in exacerbations of asthma and occurrence of status asthmaticus in children ( 4 ) .
+393	In general , patients with underlying diseases tend to be relatively immunocompromised and more susceptible to viral infection .
+394	Patients with MSMD are susceptible to weakly pathogenic mycobacteria , such as BCG vaccine and environmental nontuberculous mycobacteria .
+395	Elderly persons and those with multiple comorbidities such as cancer , cardiovascular disease , diabetes , and immunosuppressive diseases are at a higher risk of acquiring the infection and developing complications and are more likely to succumb to the infection ( 13 , 14 ) .
+396	It is well-known that pregnant women are more susceptible to viral infection due to immune and anatomic factors .
+397	One of the risk factors involved in the acquisition of IPF is viral infections , especially respiratory viruses .
+398	Patients with hematologic malignancies , especially in the neutropenic state after aggressive chemotherapy or HSCT and HSCT recipients with GVHD , are particularly susceptible to invasive fungal infections [ 13 ] .
+399	Recurrent pneumonia may be a risk factor for lung cancer in younger patients with AIDS [ 147 ] .
+400	Conversely , epidemiologic data suggest that SCAP patients may have a different etiologic spectrum than patients hospitalized outside the ICU [ 2 , 52 ] , including a high incidence of viral infection .
+401	The liver failure in such patients is likely to be due to hepatic ischemia [ 49 ] and subsequent bacterial infections [ 50 ] .
+402	Solid organ transplant recipients are susceptible to infections similar to those following BMT .
+403	Patients with hematological malignancies undergoing cytotoxic chemotherapy while infected with Hepatitis B Virus ( HBV ) have a higher risk for severe liver dysfunction [ 85 ] .
+404	Infections play an important role in the overall morbidity and prognosis for persons with chronic liver disease including cirrhosis and may contribute to 30 - 50 % mortality [ 55 ] .
+405	However , immunocompromised conditions induced by IS exacerbate the risk of opportunistic infections .
+406	Patients with SCID are extremely susceptible to progressive infection with cytomegalovirus ( CMV ) as well as other systemic viral infections .
+407	For this reason , respiratory viral infections may be a greater clinical problem in HIVinfected infants and children , who may not have preexisting immunity to these pathogens .
+408	Premature infants are particularly susceptible to these viral infections and carry a higher morbidity and mortality relative to the adult population .
+409	However , the consequences of norovirus infection can be severe and pro- longed in vulnerable populations such as children , the elderly , and immunocompromised patients .
+410	Finally , patients with sarcoidosis , particularly black people , as well as patients with silicosis , have an increased prevalence of TB [ 8 ] .
+411	Furthermore , the oral cavity is a significant reservoir for respiratory pathogens , including Chlamydia pneumoniae ; and patients with periodontal disease are more likely to develop hospital-acquired pneumonia as a complication [ 18 ] [ 19 ] [ 20 ] .
+412	TB patients may present with more severe TB disease , particularly when they are co-infected with both bacteria and viruses .
+413	Patients with hematological malignancies undergoing cytotoxic chemotherapy while infected with HBV have a higher risk for severe liver dysfunction [ 92 ] .
+414	Therefore , recipients of transplants with higher risks for severe GVHD ( unrelated donor , mismatched transplant , haploidentical ) are at greater risk of mold infections .
+415	Patients with lung cancer are more susceptible to infection than normal individuals [ 1 , 2 ] .
+416	It is known that infections are a major concern in patients with overt inflammatory arthritis as they can contribute to disease flares [ 26 ] .
+417	Recurrent pulmonary infections are likely to worsen lung function , which may , in turn , contribute to greater susceptibility to repeat infections .
+418	Children with underlying medical conditions are at higher risk of MERS-CoV infection [ 63 ] .
+419	All types of immunosuppression are risk factors for classic bacterial pneumonia , and 1 out of 5 patients hospitalized for community-acquired pneumonia ( CAP ) is immunocompromised [ 21 ] .
+420	LT recipients with chronic rejection have an increased risk of NTM infections ( 9 ) .
+421	Children with atopic dermatitis have a propensity to infection with Staphylococcus aureus [ 6 ] .
+422	Although viruses are detected more frequently in CF children , a significant proportion of adults with CF also develop respiratory viral infections [ 144 ] .
+423	Viral agents play an important role in acute lower respiratory infections and may herald the onset of pneumonia caused by secondary bacterial infections [ 22 ] .
+424	For this reason , patients with NBS are susceptible to develop infections and malignancies .
+425	Pre-transplant conditions such as primary sclerosing cholangitis predispose recipients to postoperative biliary stenosis and anastomotic strictures , both associated with higher risk of bacterial sepsis [ 14 ] .
+426	Active CMV infection is known to occur frequently in adult patients lacking canonical immunosuppression with inflammatory diseases , and may lead to increased morbidity [ Söderberg-Nauclér , 2008 ] .
+427	Immunocompromised populations , such as HIV infected patients , patients with neoplasms , patients with long-term use adrenocortical hormone or immunosuppressive agents , are more susceptible to disseminated NTM infection .
+428	Due to the normal maternal physiologic changes and immune suppression during the pregnant period , these women are particularly susceptible to respiratory pathogens .
+429	Patients with diabetes are more susceptible to be infected by bacteria , viruses , and fungus than individuals without diabetes owing to relatively lower immune function [ 5 , 6 ] .
+430	Older adults and individuals with a compromised immune system or with heart or lung problems have an increased risk of developing complications from RSV infection [ 4 ] .
+431	Furthermore , the frequent use of antibiotics in these patients might promote the emergence of gram-negative bacterial colonization or infection .
+432	Furthermore , the frequent use of antibiotics in these patients might promote the emergence of gram-negative bacterial colonization or infection .
+433	Although diabetic patients are considered at higher risk for contracting infections , recent studies have shown that these are mainly fungal and bacterial , particularly soft tissue infections , urinary tract infections and community acquired pneumonia ( including pneumococcal pneumonia ) [ 19 ] .
+434	RSV also is an important cause of serious infection in elderly adults ; in fact RSV appears to cause substantially more fatalities in elderly adults than in children [ 17 , 51 ] .
+435	Generally , these patients are smokers , passive smokers or ex-smokers and the frequent use of inhaled corticosteroids make them more vulnerable to infections such as pneumonia [ 10 , 11 , 27 ] .
+436	Generally , these patients are smokers , passive smokers or ex-smokers and the frequent use of inhaled corticosteroids make them more vulnerable to infections such as pneumonia [ 10 , 11 , 27 ] .
+437	Notably , inefficient and ineffective immune responses in early life contribute to more severe clinical courses and higher incidence of RSV infection ; this is especially problematic in infants , who are most frequently affected by RSV pneumonia [ 15 ] .
+438	Conversely , bacterial pathogens in the respiratory tract may also predispose to influenza and other viral infection [ 9 ] .
+439	Malnutrition seems to increase the severity of acute lower-respiratory infection , increasing its probability of having bacteremia ( in many cases with multiple microbial organisms ) , pleural effusion , and other complications [ 48 ] .
+440	Most patients with coronavirus infection are in an inflammatory state , which places the patients in a hypercoagulable state .
+441	Patients with these chronic lung diseases are susceptible to respiratory lung infections and some of these viral infections can contribute to disease pathogenesis .
+442	Patients with these chronic lung diseases are susceptible to respiratory lung infections and some of these viral infections can contribute to disease pathogenesis .
+443	Infection with VRE is associated with increased morbidity and mortality because of the propensity of VRE to infect patients already at high risk for comorbidity .
+444	It is known that ' fragile ' patients are predisposed to contracting this virus and to develop serious complications , such as atypical pneumonia and acute respiratory distress syndrome ( ARDS ) .
+445	Infants are more vulnerable to LRTIs and may often present with bronchiolitis and pneumonia .
+446	Pregnant women with pneumonia are at risk for various medical complications , such as meningitis , pericarditis , empyema , and endocarditis .
+447	However , viral respiratory tract infections are known to predispose to bacterial chest infections .
+448	Inflammation is crucial to control dissemination of bacteria ; however , it could cause tissue damage and high mortality during pneumoccocal infection .
+449	Generally , immunocompromised patients are more susceptible to bacterial , fungal , viral , and parasitic infections than healthy persons due to their inability to mount successful immune responses .
+450	Immunosuppression may increase risk for infection or reactivation of viral agents [ 22 ] and specifically for respiratory infections such as influenza , immunocompromised patients have an increased risk for more severe disease [ 23 ] .
+451	Interestingly , endotoxemia is prevalent in septic patients , not only in those with Gram-negative infection .
+452	Adenovirus infection is a common cause of bronchiolitis in children and young adults [ 13 ] that could predispose to COPD in adulthood [ 14 ] .
+453	The risk of opportunistic infections is known to be high in SR-aGVHD , due to the strong immunosuppressive regimen imposed on a frail , recovering post-transplant immune system .
+454	Polymicrobial infections are the rule , not the exception [ 33 ] , and it is possible that they affect susceptibility to a secondary infection and the ability to clear either infection .
+455	The oral cavity is also a reservoir for respiratory pathogens , and patients with periodontal disease are more likely to develop hospital-acquired pneumonia than healthy individuals .
+456	Furthermore , dengue patients are more likely to be susceptible to dehydration caused by the high fever , vomiting , diarrhea and associated anorexia , which , if not carefully monitored and treated , may lead to shock , particularly in those with dengue haemorrhagic fever .
+457	Pregnant women are more susceptible to hepatitis E virus infection and are also more likely to develop fulminant hepatic failure as compared with non-pregnant women [ 23 , 24 ] .
+458	Additionally , the elderly are at increased risk for DRSP as an etiology of CAP , especially if other risk factors are present such as alcoholism , multiple medical comorbidities , treatment with a ␤ -lactam antibiotic within the previous 3 months , or immunosuppression .
+459	Elderly patients are more predisposed to pneumonia because of their impaired gag reflex , decreased mucociliary function , waning immunity , impaired febrile response , and chronic disease ( diabetes mellitus , chronic obstructive pulmonary disease , chronic heart failure , cancer and chronic renal insufficiency ) .
+460	The risks of bacterial pneumonia and COPD are elevated among those with HIV infection compared to uninfected individuals , even after adjustment for smoking exposure [ 19 , 20 ] .
+461	HIV infection is a major risk factor for CAP in adults due to a wide range of pathogens including pneumococcus , and in tuberculosis endemic settings , M. tuberculosis is important , either as a direct cause or because adults with pulmonary tuberculosis are at greater risk of secondary bacterial pneumonia .
+462	Patients with Wiskott-Aldrich syndrome are at risk of bacterial pneumonia as well as sepsis with Gram-positive organisms including MRSA .
+463	Of note , immunosuppressed APS patients with DAH are especially susceptible to pulmonary infections ( typically bacterial ) , which can manifest with hemoptysis .
+464	It is well established that cancer patients are more susceptible to infections because of the immunosuppressive state caused by both anticancer treatments and surgery .
+465	Preterm infants with underlying heart or pulmonary disease are more prone to developing severe symptoms when infected with RSV .
+466	However , patients with acute respiratory distress syndrome ( ARDS ) due to viral infection are prone to secondary complications like invasive aspergillosis despite lack of underlying well-defined immunocompromising disease .
+467	In particular , children under 5 years of age are more susceptible to contracting influenza since they are an immunologically naïve population [ 6 ] .
+468	There is a high frequency of detectable HHV-6 viral load in SCT recipients and it may lead to an increased risk of fatal symptomatic disease [ 19 ] .
+469	Seriously affected adults often develop a viral pneumonia and cardiac complications , and older patients are more susceptible to respiratory failure and death .
+470	In fact , CF children have increased susceptibility to virus infections as compared to non-CF siblings .
+471	Concomitant chronic illnesses , such as chronic pulmonary diseases or renal and hepatic failure , enhance the risk of infection .
+472	Additionally , patients with RA that undergo therapy with drug modifying antirheumatic drugs ( DMARDs ) may develop a secondary immunodeficiency .
+473	Adults with leukemia or hematopoietic stem cell transplant also have a very high incidence of prolonged RSV infection leading to severe disease and sometimes death .
+474	Additionally , viruses ( e.g. , influenza , RSV , and human metapneumovirus ) have an important role in predisposing patients to invasive bacterial pneumonia .
+475	Children are often exposed to pathogens that may chronically persist in tissues in the upper airways , especially in the adenoid and tonsils [ 13 , 14 , 25 , 26 ] .
+476	CVIDs patients are susceptible to rhinoviruses , noroviruses , and herpesviruses that on turn play a role in driving an underlying inflammatory condition .
+477	AIDS patients are particularly vulnerable to TB because of their weakened immune systems , which makes them more susceptible to contracting TB or allows previous infection with TB that has been suppressed and contained by the immune system to become active .
+478	Viral infections are common and also challenging ; however , patients who possess a compromised immune system , such as the young and the elderly , are hypersusceptible to infection .
+479	Also , unimmunized children are more likely to be malnourished and prone to serious complications of the infection .
+480	Children with respiratory failure induced by viral infection and admitted to paediatric intensive care units for mechanical ventilation frequently have concomitant bacterial infections [ 86 ] .
+481	Defects in cell-mediated immunity tend to predispose affected patients to development of infections with intracellular pathogens such as viruses and mycobacteria , as well as some unusual extracellular infections such as Pneumocystis pneumonia ( PCP ) .
+482	It is suggested that ARDS itself , including that caused by influenza viruses , may be a predisposing factor to bacterial infections , leading to multi-organ failure syndrome and death [ 46 , 47 ] .
+483	However , other major organs including the heart and kidneys may be susceptible to viral replication and damage leading to increased mortality in those with disseminated disease .
+484	However , it is known that SARS-CoV patients with viral hepatitis are more prone to develop liver damage and severe hepatitis .
+485	Similarly , those suffering from advanced chronic liver diseases are also at greatest risk of infection owing to autoimmune liver diseases and cirrhosis-associated immune dysfunction [ 6 ] .
+486	The development of mucositis , a common complication of myeloablative chemotherapies , may impair airway clearance and nutritional intake , thereby increasing the risk of pneumonia and bacteremic events .
+487	However , Those with immune impairment are at high risk of fungal diseases .
+488	Elderly persons are more susceptible to many infections , autoimmune disorders , and cancers when compared with younger adults .
+489	Furthermore , infants and young children tend to have more severe pneumonia with a greater need for hospitalization and a higher risk of respiratory failure .
+490	Middle-aged and elderly patients with underlying comorbidities are susceptible to respiratory failure and may have a poorer prognosis [ 18 ] .
+491	After trauma , immunosuppression leads to an increased risk of developing infections associated with increased mortality .
+492	Pregnant women are more susceptible to a variety of viral infections including pneumonia ( 189 , 190 ) .
+493	Transplant recipients are known to be at increased risk of pneumococcal sepsis .
+494	In patients with liver failure , their function is impaired , and there is an increased susceptibility to develop Gram-positive and Gram-negative bacterial infections as well as possible fungal and viral infections [ 26 ] .
+495	Viral infections acquired early in life are often associated with a higher rate of viral replication , a greater risk of persistent ( chronic ) infection , and more severe disease compared with those acquired in later life .
+496	Transplant recipients have more seasonal influenza-related complications than the general population , including primary viral and secondary bacterial pneumonias [ 8 , 27 ] .
+497	It is commonly believed that RV infection increases the risk for subsequent or secondary bacterial infections .
+498	Lung cancer patients are also prone to other community acquired and nosocomial infections , more commonly than other cancer types [ 2 ] .
+499	Moreover , beyond the morbidity associated with viral infections alone , infection with viruses has been shown to facilitate infection with P. aeruginosa and may lead to chronic infections in CF patients ( 10 ) .
+500	Moreover , many are elderly and more susceptible to aggressive coronavirus infection .
+501	Individuals infected with HIV are susceptible to serious bacterial and viral infections , such as pneumococcus and influenza , which are particularly problematic for lung health , resulting in lung injury .
+502	When pregnant women become infected with viral pneumonia , they are more likely to have complications and progress to severe cases [ 8 ] .
+503	Liver transplant recipients appear to be at increased risk for chronic infection resulting from reactivation of HEV after transplantation , as well as acute graft hepatitis from reactivation or primary infection [ 70 ] .
+504	These patients are also at a higher risk for getting fungal infections and CMV given the greater intensity of immunosuppression and long-standing diabetes [ 12•• , 28 ] .
+505	Cancer therapies , such as chemotherapy and radiotherapy , suppress the immune system , thus exposing patients , especially those over 75 years of age , to a greater risk of infection .
+506	The character of CF airway infection and frequent exposure to antimicrobials increases the risk of developing multidrug resistant infections .
+507	Both children and adults with primary immunodefi ciency or medically induced immunosuppression are at high risk of mortality due to RSV infection .
+508	Serious lower respiratory tract disease ( eg , pneumonia , bronchitis , and bronchiolitis ) can also occur with repeat infection , especially among the elderly and among patients with compromised immunity .
+509	The incidence of S. aureus infection in CF patients contributes to lung disease and increase in mortality .
+510	Additionally , adenovirus infections are quite common among the immunocompromised and often associated with significant morbidity .
+511	The incidence of viral infections in children with CF is not elevated in comparison to healthy children but the severity of clinical illness associated with infection is greater [ 102 ] .
+512	However , bloodstream bacterial infections may be more common in specific subsets of CF patients , for example , patients with an intravenous access device ( IVD ) .
+513	Finally , nosocomial infection with respiratory viruses such as influenza , parainfluenza , and respiratory syncytial virus ( RSV ) are most severe in the early period after transplantation .
+514	Furthermore , severe infections from human adenoviruses are more commonly associated with older age , immunosuppression , and chronic underlying conditions such as kidney failure [ 4 , 41 ] .
+515	134 Respiratory virus infection may also result in progressive loss of lung function , particularly in patients with HSCT .
+516	Severe HSV infections are typically associated with impaired cell-mediated immunity that may occur in a transplant recipient or in patients on high-dose steroids .
+517	Pregnant women are thought to be more vulnerable to infectious diseases and can have an increased severity of illness with rapid progression to complications and even death .
+518	Older patients affected by more than one comorbidity , or overweight patients , that are the ideal patients needing a total joint replacement , are commonly known to be at higher risk of developing severe acute respiratory syndrome coronavirus 2-Sars-Cov-2 [ 3 ] .
+519	Although bacteria are the main pathogens involved in community-acquired pneumonia , a significant number of community-acquired pneumonia are caused by viruses , either directly or as part of a co-infection .
+520	Patients undergoing HSCT are at high risk of developing bacteremias .
+521	Patients with congenital immune deficiency are prone to infection with a wide array of microbes ( bacterial , fungal , viral , and so forth ) including adenovirus .
+522	A significant proportion of patients with HSV pneumonia may have concomitant bacterial pneumonia [ 3 , 40 , 56 ] .
+523	In addition to the increased susceptibility , patients with CF have an abnormally intense and prolonged inflammatory response to infections .
+524	Patients undergoing thoracic organ transplantation procedures involving the heart or lung are at increased risk for developing a wide variety of infections due to their underlying immunosuppression and/or other factors .
+525	Immunocompromised individuals are at higher risk of HZ [ 7 , 8 ] , suggesting an important role of immune surveillance in controlling VZV infection .
+526	In addition to digestive symptoms , patients with COVID-19 are also at risk of developing liver injury .
+527	Despite the fact that HMPV infection occurs mildly in healthy younger adults , infection with HMPV increases disease severity and high morbidity and mortality rates in the elderly [ 11 ] .
+528	Severe and prolonged immunosuppression also places patients at risk for mucormycosis infections .
+529	Colitis from C. difficile is also more common in the immunosuppressed population owing to chronic antibiotic use and impaired immune system .
+530	Individuals with impaired immune response ( HIV , patients on immunosuppressive therapy for cancer or transplant ) have a higher risk of developing severe disease .
+531	Infants , children , the elderly , and persons with immune suppression ( due to malignancy , malnutrition , measles or pertussis infection , corticosteroid therapy , HIV infection ) are more vulnerable to develop tuberculosis .
+532	Children and severely immunocompromised patients are at higher risk of developing resistance most likely due to higher viral loads and prolonged viral shedding [ 31 ] .
+533	Infections caused by respiratory viruses may not necessarily occur more frequently in neutropenic patients , but their manifestations tend to be more severe in this setting [ 101 ] .
+534	Neutropenic patients with cancer are at increased risk for unusual microorganisms as a cause of rhinosinusitis as well as development of invasive or complicated disease .
+535	Lung transplant recipients with metapneumovirus pneumonia have a 14 % mortality rate and are at higher risk for acute and chronic rejection [ 92 , 93 ] .
+536	Allergic asthmatics are more susceptible to RSV infection and viral exacerbation .
+537	Those with cardiac and underlying pulmonary disease , such as obstructive lung disease , are the most susceptible to primary pneumonia .
+538	In fact , COVID-19 patients , particularly those recovering from a period in the intensive care unit , are at risk of developing fibrosis [ 5 ] .
+539	In particular , high-risk patients may develop life-threatening primary viral pneumonia or complications such as bacterial pneumonia [ 35 ] .
+540	These patients are more likely to develop persistent or chronic diarrhea after an acute episode because of their impaired immunity , with a significant increase in morbidity and mortality .
+541	Hence , pediatric cancer and HSCT patients are frequently immunosuppressed and at risk for a wide range of pathogens .
+542	Indeed , a proportion of elderly people have some level of sensitized immune system following exposure to the 1918 virus or related strains that circulated until 1957 [ 11 ] , and elderly and immunocompromised persons are at increased risk for the development of fulminant influenza virus pneumonia [ 12 ] .
+543	Regardless of such conditions , patients with liver cirrhosis are immune-compromised , whose risk of severe bacterial infection is increased according to the progression of Child-Pugh status .
+544	Regardless of such conditions , patients with liver cirrhosis are immune-compromised , whose risk of severe bacterial infection is increased according to the progression of Child-Pugh status .
+545	In addition , the severity of a respiratory illness may influence the outcome of a URI because more severe viral infections seem more likely than mild infections to lead to exacerbations of asthma [ 5 ] .
+546	It is known that coexistent infection with HDV tends to aggravate the course of HBV-associated liver disease .
+547	Furthermore , the concomitant development of acute/chronic graft-versus-host disease ( GVHD ) is a risk factor for the onset of pneumonia .
+548	Pregnant women are considered a high-risk group for development of disseminated disease , commonly manifested as bacteremia or meningoencephalitis [ 31 ] .
+549	Although RSV infection in adults is often mild , the effects of RSV infection can be substantial in both healthy adults and hospitalized patients [ 11 ] .
+550	Transplant recipients are susceptible to infection with M. tuberculosis species , and the progression to active disease can be quite rapid , similar to the experiences of patients infected with HIV [ 142 ] .
+551	The elderly and the immune compromised persons are also at risk to develop serious complications due to ARI .
+552	Because pregnant women have a suppressed immune system , they may be at an increased risk of developing severe or critical disease associated with COVID-19 , in particular pneumonia and respiratory failure .
+553	After infection with influenza virus , the frequency of secondary bacterial infections are high [ 24 ] and secondary infections by Gram-positive bacteria increase [ 25 , 26 ] .
+554	Patients with chronic P. aeruginosa colonization often acquire respiratory virus infections , which may trigger acute exacerbations .
+555	Viral infections of the lung are a recognized risk factor in the development of asthma and , more importantly , a major inducer of asthma exacerbation .
+556	Emerging clinical evidence has demonstrated an increased tendency of CHIKF patients to develop RA [ 11 ] , and RRVD patients with pre-existing arthritis such as RA have prolonged rheumatic symptoms after infection [ 12 ] .
+557	However , the patients are susceptible to secondary bacterial infection and relapse or exacerbation of tuberculosis .
+558	In addition to reduced athletic performance , infected horses may have a temporary suppression of cell-mediated immunity leading to opportunistic infections such as Pneumocystis carinii pneumonia .
+559	Patients with potential disease , especially for immunodeficiency , are more prone for the infection , especially the viral infection [ 26 , 27 ] .
+560	Sepsis patients are also prone to develop secondary infections which are site-dependent and occur later in the clinical course .
+561	Pseudomonas colonization of bronchiectasis is associated with forced expired volume decline [ 20 ] , increased courses of oral antibiotics , increased hospital admissions [ 21 ] , and subsequent alteration of the quality of life [ 22 ] .
+562	Furthermore , HIV and drug-induced immunosuppression has increased susceptibility and incidence of neurologic infections .
+563	In contrast , lower respiratory symptoms associated with HRV infection are prominent in patients who have underlying asthma or other chronic lung disease [ 28 ] .
+564	It is known that pregnant women may be more susceptible to acquisition of infectious diseases , and several infectious diseases can have an increased severity during pregnancy .
+565	Immunocompromised patients , including HIV-infected individuals , are at increased risk for NI , and 15 - 18.3 % of them are represented by lower respiratory tract infections .
+566	Children with underlying immunodeficiencies are susceptible to severe complications of viral infections .
+567	In addition to immunosuppression , patients may have other factors associated with both bacterial pneumonia and Pseudomonas pneumonia , such as structural lung disease [ chronic obstructive pulmonary disease ( COPD ) or bronchiectasis ] , diabetes mellitus , smoking , and alcohol abuse [ 21 ] .
+568	Patients with sepsis have the highest incidence of CMV infection [ 22 ] .
+569	Furthermore , ARIs in children are commonly the result of bacterial and viral infections .
+570	Patients with HIV infection are extraordinarily susceptible to tuberculosis .
+571	However , the prevalence of neurological signs and symptoms is higher in patients with severe COVID-19 infection , which may be the result of cerebral hypoxia due to respiratory failure [ 9 ] .
+572	Among patients with solid organ transplantation , lung transplant recipients are at the highest risk for influenza virus infection [ 46 ] .
+573	In ISP , respiratory viruses lead to prolonged clinical courses , with the risk of progression of the infection to the lower respiratory tract and increased mortality when compared to the immunocompetent population [ 2 , 18 ] .
+574	Immunocompromised patients with underlying hemato-oncological disorders or cancer are at risk for increased mortality , especially in the case of lower respiratory tract infection due to these viruses [ 5 ] , [ 6 ] , [ 7 ] .
+575	Patients with DS who have immune deficiencies tend to develop pneumonia from unusual microorganisms 6,7,12 ) , including viral agents .
+576	Furthermore , in children with invasive pneumococcal disease , superimposed viral co-infections are common and may lead to higher mortality rates [ 41 ] .
+577	Hemodialysis patients suffer from several immune defects which increase their risk of developing bacterial infections , particularly of the respiratory tract .
+578	HCV-infected infants are likely to develop persistent HCV infection which may in due course result in chronic liver damage .
+579	Chronic underlying conditions and advanced age increase the susceptibility and disease severity of CoV infections , and mortality occurs [ 44 , 53 ] .
+580	However , co-infected patients have a greater risk of antiretroviral therapy-associated hepatotoxicity than patients with HIV only [ 34 ] .
+581	90 Smokers , patients with chronic lung diseases and immunocompromised individuals are also at higher risk of developing varicella pneumonia and have higher mortality .
+582	Tumor patients are at high risk of this pathogen because of their impaired immune function .
+583	Tumor patients are at high risk of this pathogen because of their impaired immune function .
+584	Although age is a significant risk factor for the development of lower respiratory tract complications to influenza , pure viral pneumonia is uncommon outside pandemic settings in nonimmunocompromised hosts [ 18 , 19 ] .
+585	As cancer and cancer treatment frequently cause immunosuppression , they increase the susceptibility to contracting the virus .
+586	DM-affected patients are prone to infections due to immune dysfunctions ( 2 ) .
+587	Chemotherapy and other anti-cancer treatments may result in significant immune compromise in patients , rendering them more susceptible to viral and other infectious illnesses .
+588	Children with AIDS are also susceptible to fungal and mycobacterial infections .
+589	Additionally , patients may become superinfected following a viral respiratory infection .
+590	Additionally , patients may become superinfected following a viral respiratory infection .
+591	Patients suffering from SARS have overwhelming immune and inflammatory responses and high mortality rates from acute respiratory failure , and furthermore they are also associated cardiac sequelae .
+592	The elderly constitute a more vulnerable group of patients due to immunosenescence and increased malnutrition rates [ 2 ] , which in turn might result in a greater risk of developing severe complications after serious infections .
+593	Immunocompromised patients have a higher risk of developing severe disease from viral respiratory tract infections .
+594	Transplant patients are at higher risk due to immunosuppression , underlying chronic kidney disease , and other comorbidities , in particular diabetes and hypertension , which are now recognized as significant factors that influence outcomes in patients with COVID-19 infection .
+595	Pregnant women are particularly susceptible to respiratory pathogens and severe pneumonia because of their physiological adaptive changes ( e.g. , diaphragm elevation , increased oxygen consumption , and oedema of respiratory tract mucosa ) and immunosuppressive state .
+596	The elderly are particularly susceptible and at increased risk for adverse outcome as a result of C. difficile infection .
+597	Individuals with diabetes are more susceptible to a broad range of infections [ 30 ] .
+598	Indeed , ATL patients are susceptible to various opportunistic infections and it has been reported that infection-related mortality is significantly higher than in patients with AML and acute lymphoblastic leukemia ( ALL ) [ 27 ] .
+599	However , VGS can cause invasive disease including endocarditis , deep abscesses , and bacteraemia , and are especially problematic among neutropenic patients .
+600	These factors may result in increased risk of infections associated with T cell immunodefi ciency , like CMV , Pneumocystis jirovecii pneumonia ( PCP ) , and Epstein-Barr virus (EBV)-related posttransplant lymphoproliferative disorder ( PTLD ) .
+601	Neonates are more susceptible to infection because they lack an effective skin barrier , and have immature or ineffective immune systems , allowing invasion by many organisms from various colonized sites .
+602	Pediatric patients with cancer and transplant recipients have a substantial degree of immunosuppression and represent a population at higher risk for colonization and infection with multi-drug resistant organisms [ 106 , 107 ] .
+603	Disseminated TB occurs more frequently in transplant recipients because the major host defense against TB is cellmediated immunity [ 85 ] .
+604	However , patients without underlying diseases can also be infected , although most develop asymptomatic or mild clinical disease .
+605	HCV infection in children may also lead to lower respiratory illness , including bronchitis and pneumonia .
+606	In patients with underlying diseases or elderly persons with complications , bacterial ( e.g. , S. pneumoniae ) infection may occur following viral infection , although this is not frequent in healthy adults .
+607	E lderly persons , especially those with underlying comorbidities , are at risk of developing complications after infections caused by influenza viruses .
+608	Patients with chronic lung and airways diseases such as COPD are at a greater risk for severe morbidity and mortality associated with infl uenza infection .
+609	Patients with underlying conditions , notably COPD , seem to be at higher risk for invasive infections ( 209 ) .
+610	In addition , lung failure can be exacerbated by bacterial and fungal superinfections in debilitated individuals .
+611	The immune system in patients with MM is compromised by many different factors and patients with MM are at increased risk of infection [ 7 ] .
+612	In patients with CKD , innate and adaptive immune function impairment would result in increased susceptibility to bacterial and viral infections .
+613	Several comorbidities are known to increase the risk of lethal influenza virus infection .
+614	The incidence of TD is not increased in patients on immunosuppressive therapies [ 68 ] ; however , certain food or waterborne infections can be more severe or lead to chronic disease .
+615	An important complication of upper respiratory infections is middle ear inflammation and-related deafness [ 4 , 5 ] , and RSV infections are associated with the development of asthma at a later age [ 6 , 7 , 8 ] .
+616	Although S. aureus is considered to be an opportunistic pathogen , it is possible that certain clones are more prone to cause invasive disease than others due to the presence of virulence factors that increase chance of gaining access to normally sterile sites .
+617	Unexpectedly , patients with underlying haematologic malignancy are at higher risks for SARS-CoV-2 infection and disease progression .
+618	Well-known risk factors for severe illness include prematurity , young age or decreased body size when they are infected and preexisting medical conditions affecting lung function ( 14 ) .
+619	However , in immunocompromised individuals particularly children and in patients with obstructive airways disease , rhinovirus infection may result in more serious lower respiratory tract involvement [ 11 , 14 ] .
+620	Indeed , it is known that patients with cancer are susceptible to infection .
+621	Patients with ALF are particularly prone to developing sepsis .
+622	However , certain viruses such as respiratory syncytial virus ( RSV ) and rhinovirus seem to predispose affected individuals more often to bacterial OM .
+623	Unfortunately , co-infection with another agent , including emerging infections is likely to result in a less favorable clinical course , increasing the virulence of the pre-existing infection .
+624	With low spontaneous clearance rates by the host immune system , approximately 85 % of infected patients have increased risk for developing liver cirrhosis and hepatocellular carcinoma .
+625	Although older age and comorbidities such as cardiovascular disease confer a higher risk for severe disease , young and otherwise healthy patients are also at risk for complications ( 19 ) .
+626	The risk of PNTM is high among SOT recipients , especially in lung transplant patients , which have the highest risk of lung infection compared to other organ transplant recipients [ 134 , 135 ] .
+627	Although RSV is primarily considered a significant pathogen of young children , lung transplant recipients are at risk of developing severe lower respiratory tract infections from RSV .
+628	Pre-transplant colonization with fungal isolates such as Aspergillus is common in lung transplant recipients , particularly in cystic fibrosis patients .
+629	Pretransplant colonization with fungi such as Aspergillus is common in lung transplant recipients , particularly in cystic fibrosis patients .
+630	Furthermore , alterations in normal gut fl ora [ 15 ] , destruction of mucosal barriers [ 16 , 17 ] , transfusion-associated iron overload [ 18 ] , and loss of skin integrity further increase the risk of infection .
+631	High-risk patients may develop invasive aspergillosis even with low fungal spore counts [ 25 ] .
+632	In contrast , elderly individuals are at higher risk for developing hemorrhagic bronchitis , pneumonia , and death when infected with influenza [ 14 ] , and this population generally has a less-robust immune response following influenza immunization .
+633	Patients with ARD have a higher mortality compared to general population , due to increased susceptibility to infections , malignancy , and cardiovascular disorders .
+634	It is well reported that a subgroup of patients with Ad infection can progress to severe pneumonia with long-term complications .
+635	Solid organ transplant recipients are perceived to be at increased risk of severe COVID-19 because of their immunosuppressed conditions due to chronic use of immunosuppressive drugs ( ISDs ) .
+636	Solid organ transplant recipients are perceived to be at increased risk of severe COVID-19 because of their immunosuppressed conditions due to chronic use of immunosuppressive drugs ( ISDs ) .
+637	Progression to a lower respiratory tract infection can be influenced by patients ' age and lack of immune reconstitution after transplant ( El Saleeby et al , 2008 ; Srinivasan et al , 2011b ; Gooskens et al , 2016 ) .
+638	It appears that older age , diabetes , and immunosuppression increase the risk of morbidity and mortality associated with COVID-19 infection [ 138 ] .
+639	In addition , these individuals may develop pneumonia due to viruses , such as cytomegalovirus , that rarely cause lower respiratory tract disease in normal hosts .
+640	Patients with HIV infection have an increased frequency of invasive aspergillosis and their prognosis , despite aggressive antifungal treatment , remains dismal [ 50 ] .
+641	Individuals who recover from measles infection are at increased risk of secondary infection [ 75 , 76 ] .
+642	The development of antibiotic resistance in patients with CF is of particular concern because complete clearance of lung pathogens is difficult to achieve and PA can develop resistance to multiple antibiotics .
+643	Individuals with multiple comorbidities are prone to severe infection and may also present with acute kidney injury ( AKI ) and features of ARDS [ 3 , 26 ] .
+644	Patients with advanced cirrhosis are often malnourished and as such are at higher risk for infections , worsening encephalopathy , and decompensation .
+645	Adults C 60 years , especially those with preexisting heart disease , lung disease , hypertension , diabetes and cancer , are very vulnerable to SARS-CoV-2 infection and often develop severe disease .
+646	Additionally , the risk of transfusion-transmitted CMV is high in heavily transfused recipients ( liver , heart-lung , and pancreas transplants ) .
+647	Influenza following SOT leads to higher morbidity and mortality rates [ 16 ] , with increased rates of influenza pneumonia following lung transplantation , and a > 20 % mortality rate observed in SOT recipients infected with influenza [ 17 , 18 ] .
+648	Patient with SCD are therefore susceptible to sepsis caused by encapsulated bacteria such as Streptococcus pneumoniae and Haemophilus infl uenzae .
+649	Infants and young children also are at risk of severe adenovirus infections due to immature T-cell function .
+650	Immunosuppressed patients ( leukemia , organ transplantation , and hematopoietic stem cell transplantation ) have a higher rate of viral pneumonia and higher attributable mortality [ 18 ] ; viral shedding is also prolonged in these patients to an average of 11 days [ 19 ] , which is associated with the development of resistance [ 20 ] .
+651	Children with preexisting morbidities , such as congenital heart disease , genitourinary abnormalities , cancer , burns , sickle cell disease , severe malnutrition , and immune deficiencies , are at an increased risk of developing severe sepsis .
+652	Because of their general debility , ferrets with PBD are more susceptible to other infectious diseases .
+653	Because of their general debility , ferrets with PBD are more susceptible to other infectious diseases .
+654	Infection may also play a role in disease progression in patients with IPF , in whom active infection carries a high morbidity and mortality , [ 9 ] whereas immunosuppression ( e.g. , combination prednisone , azathioprine and N-acetylcysteine ) increases the risk of death and hospitalizations [ 10 ] .
+655	Patients who are receiving a potent immunosuppressant regimen have a higher risk of latent infection or vaccine re-activation , and may develop severe illness if VZV infection occurs , regardless of whether it is primary infection or re-activation .
+656	Patients Patients with cancer are considered more prone to infections because of the immunosuppressive status due to both malignancy and anticancer treatments [ 2 ] .
+657	A high proportion of lung transplant patients infected with CARVs develop lower RTIs , such as pneumonitis and bronchiolitis , which require hospitalization and occasionally lead to fatal outcomes .
+658	Moreover , post transplant immunosuppressive agents might cause colonic diseases and there is an abundance of opportunistic pathogens that can manifest in the large intestine .
+659	Bacterial infections may be an eliciting factor for episodes of hepatic encephalopathy , gastrointestinal bleeding , kidney failure , hyponatremia , and development of acute-on-chronic liver failure [ 9 ] .
+660	ATM infections are more common in immunocompromised patients whom also have a greater risk of disease dissemination [ 13 ] .
+661	There is a substantial mortality among neutropenic patients with Gramnegative bacteremia and the prognosis of both E. coli and P. aeruginosa bacteremia is worsened by a decreasing neutrophil count , delay in appropriate antibiotic therapy and concomitant pneumonia [ 15 , 16 ] .
+662	Patients with underlying cardiovascular disease and cancer are at an increased risk of life-threatening complications from COVID-19 due to poor tolerance of a decreased respiratory capacity , and they account for a large proportion of COVID-19related deaths .
+663	Immunosuppressed hosts , particularly HSCT and oncohematological patients , are more prone to present PIV infections with an incidence of 4 % and 2 % , respectively [ 42 ] .
+664	Mortality is signifi cantly increased in HIV-infected patients with BP [ 111 , 112 , 118 , 122 ] , especially patients who are bacteremic with pneumococcus [ 123 ] .
+665	Primary genital herpes infection during pregnancy may be associated with fulminant hepatitis and disseminated disease , as compared to primary herpes simplex virus ( HSV ) infections in non-pregnant adults , though the data for this is not conclusive [ 41 ] .
+666	An immature immune system and poor mechanical defense mechanisms may increase susceptibility to invasion of pathogens into the lungs .
+667	An immature immune system and poor mechanical defense mechanisms may increase susceptibility to invasion of pathogens into the lungs .
+668	Furthermore , many bacterial infections , e.g. , with enterotoxic E. coli , are more severe if combined with a viral infection .
+669	Nonetheless , influenza virus infection may result in pneumonia and acute respiratory failure , frequently complicated by bacterial coinfection .
+670	Although children are infected most often compared with adults , RSV infection can cause severe illness with high rates of morbidity and mortality in the elderly and immunocompromised , in particular , patients with lymphopenia .
+671	Immunosuppressed patients ( leukemia , organ transplantation , and hematopoietic stern cell transplantation ) have a higher rate of viral pneumonia and higher attributable mortality [ 18 ] ; viral shedding is also prolonged in these patients to an average of 11 days [ 19 ] , which is associated with the development of resistance [ 20 ] .
+672	These infections are also prevalent among HSCT recipients who develop graft vs. host disease and receive adrenocorticosteroid therapy .
+673	Studies so far suggest that diabetics , as well as subjects with obesity , are at a greater risk of hospitalization and increased complications from influenza ( 17 , 18 ) .
+674	Older patients have a higher risk than younger individuals of developing and dying from ARDS [ 4 , 83 ] .
+675	Indeed , due to exposure to immunosuppressive treatments , these patients are at particularly high risk of developing opportunistic and/or severe infections .
+676	Cancer patients who have undergone splenectomy and those who are functionally asplenic such as HSCT recipients are at increased risk for infections with the encapsulated bacteria S. pneumoniae , H. influenzae , and N. meningitidis .
+677	Pregnant women have a high propensity to acquire this infection due to their altered physiological and immunological function .
+678	Elderly men with complications are more likely to be infected and may lead to serious or even fatal respiratory diseases [ 2 ] .
+679	Immunocompromised children are susceptible to common viruses and develop more severe local or disseminated disease .
+680	Patients with COPD and the elderly are also at risk for the development of serious lower respiratory tract illness caused by rhinoviruses .
+681	Patients with COPD and the elderly are also at risk for the development of serious lower respiratory tract illness caused by rhinoviruses .
+682	In particular immunosuppressed patients are at risk for cytomegalovirus ( CMV ) infection , which can affect various organ systems , including the gastrointestinal tract [ 158 , 171 ] .
+683	Viruses also suppress macrophage and lymphocyte function , resulting in patients with viral URIs being generally more vulnerable to secondary overgrowth and subsequent bacterial infection by pathogens residing in the nasopharynx , such as S pneumoniae and H influenzae .
+684	Patients with T-cell dysfunction caused by an underlying hematological disorder or its treatment may also be at increased risk for fungal infection .
+685	Symptomatic patients usually have more risk factors , and certain intrinsic patient factors infl uence the relative risk of developing symptomatic infection [ 118 ] .
+686	Increased lower respiratory tract symptoms have been reported with HRV infection , especially in infants who have underlying lung diseases such as CF [ 5 , 7 ] .
+687	Moreover , the most serious manifestations of influenza viral infections are DAD reactions within the lungs , and recent studies have suggested that viruses may play role in IPF and its exacerbations .
+688	2 Cancer patients have an elevated risk for acquiring COVID-19 and subsequent complications because of their immunodepression , poor functional status , and frequent hospital visits and admissions .
+689	Unfortunately , the elderly may be particularly vulnerable to the consequences of inappropriate use of antibiotics , such as adverse drug events , super-infection by Clostridium difficile , and , ultimately , selection of resistant bacteria [ 26 ] .
+690	A variety of pulmonary infections may also be responsible for more pulmonary symptoms in HIV-infected patients [ 13 ] .
+691	Patients with prolonged and profound neutropenia ( less than 100 cells /μL ) are at high risk for invasive aspergillosis .
+692	In addition , surgery , a treatment modality for cancer , can cause additional lung injury [ 2 ] which may make cancer patients be more susceptible to the development of pneumonia .
+693	In such patients , persistent HEV infection after transplantation may increase the risk for rapidly progressive hepatic fibrosis which may ultimately result in graft failure [ 331 ] .
+694	Though the majority of adults infected with the virus experience recovery , 1 - 5 % of immunocompetent adults are at risk for chronic hepatitis and thus cirrhosis and hepatocellular carcinoma [ 21 ] .
+695	[ 3 ] Although most immunocompromised children who are HIV-negative are those with hematologic malignancies or solid tumors and hematopoietic cell or solid-organ transplant recipients , children with PID are also at risk for PCP .
+696	In addition , infected persons are more susceptible to other infections ( due to immunosuppression ) .
+697	Moreover , coinfection with Streptococcus pneumoniae and Staphylococcus aureus can lead to severe respiratory failure .
+698	There is an increased incidence of chronic nasal carriage of S. aureus in patients with WG , and this is associated with an increased risk of disease relapse [ 45 ] .
+699	5 , 17 Pregnant women , because they are in an immunosuppressive state that causes adaptive changes such as diaphragm elevation , increased oxygen consumption , and edema of respiratory mucosa , are particularly susceptible to respiratory pathogens .
+700	In addition , older adults tend to be colonized in the upper respiratory tract with more virulent pathogens such as Enterobacteriaceae , Pseudomonas aeruginosa , and Staphylococcus aureus ( 11 ) .
+701	HSCT recipients are at high risk of infection with these organisms , which are largely acquired via inhalation of conidia that are inadequately cleared in the setting of immunosuppression .
+702	Virus infections have long been known to precipitate the rejection of allografts , and the immunosuppressive drug treatment given to graft recipients makes the patient more susceptible to viral infections [ 72 , 73 ] .
+703	In contrast , toddlers and infants suffer from a lower risk of influenza cluster infection , and they are more susceptible to other viral infections , such as respiratory syncytial virus and enterovirus .
+704	It is recognized that specific risk groups ( African Americans , Asians , pregnant women , patients with diabetes , patients receiving corticosteroids ) are more likely to develop disseminated disease ( Adam et al. 2009 ) .
+705	Solid organ transplant recipients are perceived to be at increased risk of severe COVID-19 because of their chronic immunosuppressed status because of the use of immunosuppressive drugs ( ISDs ) .
+706	In general , IBD patients taking immunomodulators may be more susceptible to infection , especially in combination with biologics , mainly anti-TNF agents .
+707	HT recipients are also at risk for opportunistic bacterial infections , such as listeriosis and nocardiosis .
+708	For instance , unimmunized children are at much higher risk of infection with Hemophilus influenza type B ( HiB ) , which can be a significant pathogen in both meningitis and pneumonia .
+709	It has been suggested that lung transplant recipients infected with community-acquired viral RTIs have a high rate of progression to severe viral pneumonitis ( 8) .
+710	It is not clear that HCoVs infect the lower respiratory tract but the occurrence of HCoV upper respiratory tract infections coupled with other factors , e.g. in immunocompromised people , may cause more serious disease , including pneumonia [ 14 ] .
+711	The risk of typhoid fever and non-typhoidal Salmonella invasive infections is highest in infants , young children , and young adults with underlying comorbidities , including severe anemia , malaria , malnutrition , and HIV infection [ 24 ] .
+712	Progression Long-Term Shedding of Respiratory Viruses of RSV infection from URTI to LRTI is associated with an increased risk of death in these patients , resulting in a 7%-70 % case fatality rate among patients with hematological disorders [ 2 , 25 , 26 ] .
+713	Between 1.6 % and 11.9 % of lung transplant recipients may develop PIV infection , although some may be asymptomatic infections detected during frequent bronchoscopies [ 22 ] .
+714	However , in infants and children , upper respiratory tract infections may spread to the lower respiratory tract , where they can cause more severe infections and even death .
+715	However , compared to immunocompetent hosts and due to alterations in cellular and humoral immunity , infections can cause protracted symptoms with greater risk of progression to LRTI , prolonged periods of viral shedding , and increased mortality .
+716	Viral infections other than influenza , especially respiratory syncytial virus , are more frequent in patients who underwent hematopoietic stem cell or lung transplantation [ 38 , 39 ] .
+717	2 3 However , changes to the immune system mean that pregnant women may be more vulnerable to severe infection .
+718	However , globulin dysfunction or depletion is common in chronic lymphocytic leukemia ( CLL ) and nearly universal in multiple myeloma , predisposing to invasive infection with encapsulated organisms , particularly Streptococcus pneumoniae .
+719	HIV-infected individuals appear to be particularly susceptible to pneumococcal disease [ 34 ] .
+720	Viral and bacterial coinfections have an adverse impact on the severity of the pneumonia , and increase morbidity and mortality in patients with CAP .
+721	However , pathological bacterial colonization is common in the lower airways of affected patients that is associated with frequent exacerbations .
+722	It is known that especially in children , the risk of developing COVID-19 infection is lower and symptoms are less severe .
+723	Premature babies born at 30–35 weeks of gestation , infants with cyanotic congenital heart disease , HIV-infected subjects , and patients on intensive immunosuppressive therapy especially after bone marrow transplant are considered to be at risk for increased mortality and morbidity during RSV infection .
+724	Many immunocompromised patients are highly susceptible to fungal infections : transplant recipients under immunosuppressive therapy , cancer patients treated with cytotoxic drugs , and AIDS patients .
+725	Elderly and immunocompromised individuals are also susceptible to severe respiratory diseases , highlighting the importance of preventing nasocomial and in-house RSV infections in hospitals and care centers for the elderly ( Englund et al. , 1988 ; Falsey and Walsh , 2000 ) .
+726	Patients with hematological neoplasms are also at risk of infection with Mycobacterium tuberculosis and atypical mycobacteriae .
+727	Patients with acute liver failure , like those with cirrhosis , are at an increased risk of infection due to the impaired innate immunity and exposure to indwelling lines , and up to 90 % of ALF patients will develop an infection while hospitalized [ 50 ] .
+728	Hematopoietic cell transplantation recipients who develop respiratory viral infection have high mortality rates , approaching 96 % by 3 months , in the presence of co-pathogens , such as molds , especially Aspergillus , other viruses or bacteria [ 9 ] .
+729	Pediatric patients undergoing transplant procedures , specifically solid organ transplant , are at increased risk of acquiring gastrointestinal infections when compared to their healthy counterparts .
+730	Pregnant women , because of their altered immunity and physiological adaptations , are at higher risk of developing pulmonary complications , especially in the second and third trimesters .
+731	Because of the period of prolonged neutropenia and delayed donor adaptive immune reconstitution , allogeneic HSCT recipients during the pre-engraftment period are at a much higher risk for developing infections , including pneu-monia .
+732	Patients with liver failure are prone to various infections , which act as a trigger for HLH development and a key independent factor for survival in adults with HLH 13 .
+733	Because HSCT recipients are immunocompromised and tightly cohorted , they are vulnerable to nosocomial spread .
+734	Even if children are not the population most at risk of developing severe forms of COVID-19 , rheumatic diseases and the related immunosuppressive therapies are known to predispose to several infections [ 1 , 2 ] .
+735	In addition , pregnant women and newborns infected with SARS-CoV-2 are also prone to develop severe pneumonia [ 44 , 45 ] .
+736	Immunocompromised hosts , especially children , are at a high risk of developing severe and sometimes disseminated adenovirus infections with high mortality [ 3 ] .
+737	The patients with hematological malignancies have an increased risk of opportunistic infections , such as invasive mycoses , Pneumocystis jirovecii pneumonia ( PCP ) , or cytomegalovirus ( CMV ) pneumonia ( Rano et al. 2001 ; Joos et al. 2007 ) .
+738	Children with bacterial tracheitis are acutely ill , with symptoms to suggest dehydration and organ failure in the presence of other host factors such as immunodefi ciency .
+739	Patients with ABPA are at risk of developing PNTM [ 70 , 71 ] and the infection with MAC and M. kansasii is associated with a higher risk of developing chronic pulmonary aspergillosis ( CPA ) [ 72 ] , with poor prognosis related to the use of systemic corticosteroid treatment [ 72 ] .
+740	The liver plays an important role in the hosts ' immunity against bacterial pathogens ; therefore , the development of chronic liver disease and cirrhosis renders such patients to an increased risk for infections .
+741	More severe disease and cases of chronic gastroenteritis may also occur among the elderly and immunosuppressed [ 9 ] .
+742	HIV-infected patients have markedly increased risks for primary infection , reactivation of tuberculosis , and second episodes of tuberculosis from exogenous reinfection [ 47 ] .
+743	Compared to general populations , patients who are institutionalized in a closed unit are also very vulnerable to COVID-19 infection and complications .
+744	Compared to general populations , patients who are institutionalized in a closed unit are also very vulnerable to COVID-19 infection and complications .
+745	In addition , fungal infections are the cause of significant comorbidity and mortality in HIV patients .
+746	Children and elderly adults ( > 65 years ) are reportedly at higher risk of hMPV infection due to incomplete immunity .
+747	It is well known that respiratory viral infection is the most common cuase for severe asthma exacerbation .
+748	Infants with CF who are infected with RSV not only have a higher rate of respiratory exacerbations but also prolonged hospitalizations and prolonged symptoms over the ensuing 2 years [ 150 ] .
+749	Pregnant women have a relatively immunocompromised status and physiological adaptive changes during pregnancy that could cause them to be more susceptible to COVID-19 infection than the general population .
+750	Although the mortality rate is high ( about 40 % ) , subclinical infections may be more prevalent than severe disease , which occurs mainly in elderly individuals and those with pre-existing conditions .
+751	In general , patients who are significantly immunosuppressed will be at higher risk of common bacterial , viral , and fungal infections as well as certain other opportunistic infections .
+752	In addition , hyperinflammatory response to the infection may be responsible for organ damage associated with severe COVID-19 in the immunocompromised [ 4 ] .
+753	People with compromised immune systems and infants are at greater risk for serious illness , such as the development of myocarditis , pericarditis , encephalitis , or paralysis .
+754	It is widely accepted that common cold is almost always caused by viruses , most frequently by HRV [ 9 ] , and viral infections are considered to contribute to the generation of complications of common cold , such as acute otitis media and sinusitis .
+755	Whereas , most individuals with IgA deficiency do not have increased respiratory infections , those with IgG or certain IgG subclass deficiency have recurrent respiratory infections [ 8 ] .
+756	As set out above , patients with ARD are inherently prone to infections with opportunistic agents , including mycobacteria , atypical bacteria , virus , fungi , and parasites .
+757	The elderly and people with underlying diseases are susceptible to infection and prone to serious outcomes , which may be associated with acute respiratory distress syndrome ( ARDS ) and cytokine storm .
+758	Patients with severe parasitemia and children under the age of 5 years , pregnant women , and individuals with HIV or AIDS are at an increased risk [ 31 , 32 ] .
+759	CMV-infected transplant recipients are more likely to develop EBV-associated PTLD or to develop coinfections with other viruses such as human herpes virus HHV6 and HHV7 [ 63 ] .
+760	In addition to immunosuppression , with most of the effect targeted against the cell-mediated ( T-cell ) immune response , infection with FIV carries an increased risk for development of certain types of neoplasia , with B-cell lymphoma being the most common .
+761	In addition , patients with severe mucositis are at increased risk to develop bloodstream infections caused by anaerobes [ 16 ] , alpha-hemolytic streptococci [ 17 , 18 ] , Stenotrophomonas maltophilia [ 19 ] , vancomycin-resistant enterococci [ 20 ] , and Candida spp [ 21 , 22 ] .
+762	Nosocomial infections are more common in cancer patients who are at increased risk for viral , bacterial , and fungal pathogens .
+763	The important causes of immunosuppression are solid organ transplantation , hematopoietic stem cells transplantation , cancer therapy , HIV infection , autoimmune diseases , primary immunodeficiencies , long-term steroid use , diabetes mellitus , and chronic debilitating illness.[12 ] The immunocompromised patients are more prone to various infections as compared to the immunocompetent ones .
+764	Patients with advanced HIV disease and recipients of hematopoietic stem cell or lung transplants are particularly at risk of developing CMV pneumonia .
+765	Cystic fibrosis patients have high salt concentration in respiratory secretions that are thought to inactivate the antimicrobial activity of AMPs , thus leading to a heightened susceptibility to infection .
+766	Patients with silicosis have increased incidence of autoimmune diseases [ 39 ] and pulmonary tuberculosis [ 40 ] .
+767	Bronchial epithelial cells of COPD are susceptible to replication of influenza virus because of their impaired antiviral immunity [ 21 ] ; thus , the effect of influenza on disease progression may be stronger in patients with this condition .
+768	Immunosuppressed patients are at increased risk for more severe disease from respiratory viruses .
+769	Pregnant women are uniquely susceptible to severe illnesses caused by viral infection , possibly due to the shift from cellular to humoral immunity during pregnancy and the puerperium [ 1 ] .
+770	Pregnant women are uniquely susceptible to severe illnesses caused by viral infection , possibly due to the shift from cellular to humoral immunity during pregnancy and the puerperium [ 1 ] .
+771	Since the majority of the diabetes population are older [ 9 ] and have multiple comorbidities of obesity , emphysema , hypertension , and heart failure [ 10 , 11 ] , they are at greater risk of viral infection .
+772	Moreover , immunocompromised states , such as those of individuals with cirrhosis and on immunosuppressive therapy , may place the patient at higher risk of severe illness .
+773	Preterm infants with cystic fibrosis are also at risk of accelerated decline in respiratory function over the course of their lives due to RSV infection .
+774	It is also established that viruses , such as RSV , may directly infect the lower airway in patients with COPD .
+775	Acute respiratory infections are also associated with high mortality in the elderly and individuals with compromised cardiac , pulmonary , or immune systems .
+776	Infection with Mycobacterium tuberculosis primarily impacts lung function , and may lead to TB-related death .
+777	Diabetes and hypercholesterolemia are also important clinical conditions that can predispose individuals to infection .
+778	As reported by the authors , patients with CKD may be more susceptible to SARS-CoV-2 infection compared to the general normal population [ 1 ] .
+779	Corticosteroids exert a broad range of immunosuppressive activities [ 286 ] , and patients on corticosteroids long-term run the risk of developing opportunistic pulmonary infections , including Pneumocystis jiroveci pneumonia [ 8 ] .
+780	Thus , patients with compromised or disorganized immune function are susceptible to acquired VTE .
+781	However , pneumocystis pneumonia is associated with intense inflammation in children and after initiation of therapy in patients with HIV/AIDS ( 10 , 11 ) .
+782	Viral infections in both adults and children with CF are associated with an increased risk of pulmonary exacerbation [ 142 , 147 ] .
+783	Patients with neoplastic disease are often highly susceptible to severe infections .
+784	Patients with neoplastic disease are often highly susceptible to severe infections .
+785	In the early post-transplant period , patients are most susceptible to infections caused by both Gram-negative and Gram-positive organisms and by fungi .
+786	Patients with HF and other cardiovascular comorbidities are at risk for severe disease and complications of infection .
+787	Maternal immune tolerance may come at the cost of increased susceptibility to infection , with pregnant women at greater risk of infection from intracellular bacteria and viruses [ 10 ] .
+788	When chronic bronchitis is exacerbated by these factors , bronchitis , in turn , may predispose to a secondary bacterial infection [ 31 ] .
+789	In addition , cattle with long-term IV catheters have increased risk of endocardial infections .
+790	In addition , cattle with long-term IV catheters have increased risk of endocardial infections .
+791	Patients with neutropenia are mainly at risk for infection with extracellular pathogens such as pyogenic bacteria and filamentous fungi .
+792	In comparison to the general population , cancer patients who contract COVID-19 have an increased risk of developing critical symptoms , leading to death [ 9 ] .
+793	For instance , certain lung diseases may predispose patients to infection : patients affl icted with obstructive lung diseases , as well as cystic fi brosis patients , commonly suffer from severe and recurrent bacterial infections .
+794	The unfavorable evolution of infection in the elderly is possibly due to the prevalence of comorbidities , deficiencies in defense mechanisms , and poor antibody response to vaccination , as cellmediated and humoral responses limit severity of disease ( 26 ) .
+795	Those with underlying HCV infected with HAV have higher mortality rates and are more likely to develop acute liver failure compared with individuals with underlying HBV or no underlying viral liver disease at the time of HAV infection [ 32 , 34 , 35 ] .
+796	Due to associated architectural derangements and possibly because of impaired phagocytosis by alveolar macrophages , pneumoconioses are well-established predisposing conditions for NTM infection .
+797	Since neutrophils play a key role in the innate immune defense against microbes , neutropenia is a predisposing risk factor for infections .
+798	Furthermore , CMV suppresses the immune system , and may predispose to other bacterial and/or viral infections in these cases .
+799	Similarly , in elderly people or adults with underlying lung pathologies , such as pneumonia , asthma , or chronic obstructive pulmonary disease , RSV can induce severe respiratory complications by affecting the lower respiratory tract .
+800	Host risk factors for SSI include morbid obesity , disease severity , advanced age , low blood-protein levels and malnutrition , diabetes , malignancy and sepsis , while other risk factors that include susceptibility include immunosuppression , smoking and having a distant infection site [ 10 ] .
+801	Recurrent bacterial respiratory infections may damage lungs and lead to worse outcomes in future lung disease [ 32 ] .
+802	The risk of hematogenous dissemination with various yeasts is greater in patients who have indwelling vascular catheters and chemotherapy-induced mucositis or graft versus host disease [ 99 , 105 ] .
+803	Risk factors for candidal infections in lung transplant recipients are often related to postoperative complications including prolonged stays in the intensive care unit , prolonged indwelling catheters and broad-spectrum antibiotic therapy and parenteral nutrition , as well as heavy growth of Candida from the donor lung .
+804	TB patients ( especially the ones with severe pulmonary TB ) are prone to get HAP due to their prolonged hospitalization , time in the ICU because of respiratory failure , or receiving mechanical ventilation .
+805	However , patients with hematologic malignancies and solid tumors receiving chemotherapy do have a higher risk of PCP compared to that of other HIV-negative patients [ 6 ] [ 7 ] [ 8 ] .
+806	Past studies have demonstrated that critically ill patients on high dose steroids are susceptible to developing viremia with HSV [ 3 ] .
+807	Patients with cancer are among those most vulnerable to severe illness from respiratory viral infections .
+808	Moreover , patients with compromised immune systems , have a much higher risk of tuberculosis .
+809	Patients with CVID are at increased risk for autoimmune disease , granulomatous disease , and malignant tumors , such as lymphoma .
+810	In addition , the aging of the structure and function of the lungs contributes to increased incidence of pneumonia , acute respiratory distress syndrome ( ARDS ) and sepsis in the elderly after respiratory viral infection .
+811	As expected , immunosuppression also places patients at greater risk for fungal and parasitic causes of ARDS , including Pneumocystis jirovecii [ 46 ] .
+812	As a result CVID patients are vulnerable to infections especially that of the respiratory tract .
+813	In addition to VZV and CMV , respiratory viral infections are frequent in autologous HSCT recipients and may contribute to signifi ca nt morbidity , especially in patients with lymphopenia [ 56 ] .
+814	Infection with HIV predisposes to the activation of latent TB , and active TB in HIVseropositive patients carries a high risk of death .
+815	When infected with SARS-CoV-2 , they are more likely to have acute cardiovascular events and develop into severe diseases .
+816	These patients are at greater risk of developing bacterial infections , particularly by encapsulated bacteria .
+817	These patients are at greater risk of developing bacterial infections , particularly by encapsulated bacteria .
+818	Since HIV reduces cellular immunity , people with latent TB have a high risk of activation of the disease .
+819	Respiratory viral infections may have a severe course and a poor prognosis in hospitalized patients , due to underlying comorbidities .
+820	Respiratory viral infections may have a severe course and a poor prognosis in hospitalized patients , due to underlying comorbidities .
+821	RSV infections also increase the risk of developing chronic PA infections and increase inflammation in patients already chronically infected with PA [ 55 ] .
+822	Bacterial and fungal infections are common complications of viral pneumonia , especially in critically ill patients .
+823	The elderly and immunocompromised are the most vulnerable for developing severe neurological disease , long-term morbidity , and death [ 8 ] , although genetic factors also are associated with an increase risk of disease [ 9 , 10 ] .
+824	Therefore , patients with advanced disease may become neutropenic , increasing their risk of gram-negative bacterial infections [ 216 , 219 ] .
+825	The elderly and patients with comorbidities are susceptible to infection and prone to severe complications , which may be associated with acute respiratory distress syndrome ( ARDS ) and cytokines storm .
+826	The elderly and patients with comorbidities are susceptible to infection and prone to severe complications , which may be associated with acute respiratory distress syndrome ( ARDS ) and cytokines storm .
+827	CAP patients are also susceptible to sepsis and meningitis [ 1 ] .
+828	In fact , patients with ESRD are more susceptible to infections ( such as bacterial sepsis ) with poor clinical outcomes compared with the general population 21 .
+829	One effect of reovirus infection is immunosuppression , which predisposes the host to infection with other pathogens .
+830	Despite anecdotal reports , there is no conclusive evidence that infection or hyperinfection is more common in patients with HIV , although it may be implicated in immune reconstitution syndromes [ 112 ] .
+831	HIV-infected patients with PAH may present at later stages of PAH and die more quickly from untreated PAH compared to HIV-uninfected patients [ 148 ] .
+832	Immunosuppression and immunosuppressive drugs ( corticosteroids ) predispose to fungal infection , as does intensive antibiotic therapy , which may deplete normal bacterial flora and promote fungal growth .
+833	In comparison to the general population , influenza may lead to more severe and life-threatening complications among hospitalized patients with underlying conditions [ 2 ] .
+834	Because of immunosuppressive therapy , cardiac transplant recipients are at risk for infection in a generally predictable pattern based on time after transplantation .
+835	Young children , the elderly and immunocompromised individuals are more susceptible to viral infections .
+836	It has been shown that patients with bronchiectasis and post-TB sequelae have a higher risk than other chronic respiratory diseases to develop non-tuberculous mycobacteriosis [ 24 ] .
+837	Because of underlying conditions or the treatment of these diseases , older populations also have an increased susceptibility for infectious diseases and are more likely to develop life-threatening complications .
+838	Because of underlying conditions or the treatment of these diseases , older populations also have an increased susceptibility for infectious diseases and are more likely to develop life-threatening complications .
+839	However , prior antibiotic exposure predisposes patients to subsequent colonization and infection with resistant pathogens [ 28 , 41 ] .
+840	Young children , the elderly , and people who are medically compromised or immunosuppressed have the highest risk for severe infections [ 8 ] .
+841	Furthermore , the critically ill patients develop a state of immunosuppression , which can promote the onset and exacerbation of viral infections [ 24 ] .
+842	Furthermore , ARIs due to HRV infection can exacerbate or result in a much greater burden of disease in those with asthma , COPD , or cystic fi brosis .
+843	Severe mucositis predisposes to the establishment of BSI by skin , oral , or gastrointestinal ( GI ) tract flora .
+844	However , it is known that these patients are likely to have other underlying conditions and it is recognized that both the risk of contracting an invasive MRSA infection and the risk of dying are related to a patients ' underlying disease and treatment .
+845	Systemic immunosuppression is a high risk for recipients of organ transplantation , as it uses high doses of immunosuppression agents that make them more susceptible to infections and in some cases cause death .
+846	Bacterial pneumonia has a high possibility to progress to sepsis and related severe lung injury [ 17 ] .
+847	The immunocompromised are at risk for severe RSV infection , with mortality rates of up to 80 % reported for RSV pneumonia [ 115 ] .
+848	Additionally , bacterial pneumonia can result in worse outcomes in HIV-infected individuals who abuse alcohol .
+849	In general , indolent lymphoma patients on treatment are at risk of infectious complications .
+850	It is conceivable that diabetes-induced abnormalities , such as the underlying metabolic changes , low-grade systemic inflammation and impaired innate cell-mediated immunity , may predispose these patients to infectious events of greater severity [ 2 ] .
+851	Patients with IPEX usually present with autoimmunity and allergies , but are also prone to significant infections .
+852	Mixed infections raise the question as to whether a single pathogen is responsible for the illness or whether several pathogens act in synergy and may predict a more severe outcome in children [ 20 ] .
+853	Patients with severe CAP are more likely to be infected with pathogens other than S. pneumoniae , including S. aureus , P. aeruginosa , and other gram-negative bacilli [ 77 - 80 , 95 , 113 , 114 ] .
+854	While not a risk factor that usually distinguishes patients with asthma from each other , asthmatics have been demonstrated to have deficient immune response to viral infection .
+855	Among these patients , elderly people , younger children , pregnant women and patients with underlying chronic diseases are at high risk of developing severe forms and influenza-related complications , such as bacterial pneumonia and extra-pulmonary influenzarelated disease [ 1 ] .
+856	The elderly and young children are usually considered more vulnerable to respiratory infections because of their weakened immune system and immature immunity , respectively .
+857	The risk of infection is particularly high in patients with autoimmune inflammatory rheumatic diseases ( AIIRD ) because associated diseases and immunosuppressive therapies increase the contagious burden .
+858	The etiology of HIV-associated CAP is thought to be similar to that in HIV-uninfected adults , but there are limited data on the role of atypical bacteria [ 1 ] .
+859	Male , elderly and immunocompromised patients , including those with HIV , patients with poorly controlled diabetes mellitus or chronic kidney disease or those receiving immunosuppressant treatments , are generally more susceptible to the disease [ 4 ] .
+860	Although the virus can infect healthy individuals , several high-risk groups are more vulnerable to complications secondary to a more severe infection course .
+861	Viral infections predispose the respiratory epithelium to secondary bacterial infections by multiple mechanisms resulting in frequent pulmonary exacerbations [ 9 , 10 ] .
+862	Co-factors for the development of lung damage in patients with SARS infection are immune-mediated processes arising from overexuberant immune responses [ 12 ] .
+863	Younger age and ventilator or ECMO use at time of heart transplant are attribute to bacterial infections of pediatric patients [ 8 ] .
+864	Moreover , viral-bacterial pneumonia and secondary bacterial pneumonia due to concomitant or subsequent infection with bacteria , respectively , contribute significantly to morbidity and mortality of influenza infections .
+865	It is known that viral infection has a high profile in origin and progression of glomerulonephritis and noninflammatory nephropathies in children and adults .
+866	Also , immunocompromised patients are susceptible to other viruses such as herpesvirus and cytomegalovirus pneumonias , which are not common pathogens in normal hosts [ 242 ] .
+867	In addition to depressed host immunity , these patients are at increased risk for exposure to healthcare-acquired infections due to their frequent need for hospitalization to manage the many complications associated with chronic and end-stage liver disease .
+868	Furthermore , as COVID-19 is associated with lymphopenia , patients receiving immune modulating treatment may be prone to secondary infections , such as bacterial pneumonia .
+869	Furthermore , others who are immunocompromised ( e.g. , cancer and organ transplant patients ) are at risk of infection by opportunistic pathogens , such as Aspergillus , Cryptococcus , and Candida , which normally are not major problems in the human population .
+870	All age groups are susceptible to this infection , although the very young , elderly , individuals with chronic medical complications , such as those with compromised pulmonary and cardiovascular conditions , kidney impairment , diabetes or immunosuppressive disorders , and pregnant women in the second and third trimester are at increased risk .
+871	In fact , malabsorption , particularly of fat but also certain minerals and vitamins , is common in patients with protracted diarrhea , and patients with HIV infection are prone to develop a variety of enteric infectious processes that cause diarrhea .
+872	Viral pneumonia is associated with higher morbidity and mortality than bacterial pneumonia responsive to antibiotics [ 22 ] .
+873	Acute liver failure patients with multi-organ dysfunction are at high risk of infective complications [ 6 ] , especially overwhelming Gram-negative and fungal sepsis .
+874	For instance , certain lung diseases may predispose patients to infection : patients afflicted with obstructive lung diseases , as well as cystic fibrosis patients , commonly suffer from severe and recurrent bacterial infections .
+875	Patients with juvenile idiopathic arthritis are more prone to infections , especially during periods of disease activity .
+876	It is now becoming clear that many cases of bacterial pneumonia result from co-infections or consecutive infections ( especially influenza virus infections ) ( 37 ) .
+877	The conditioning regimen ( chemotherapy , radiation therapy ) , mucosal damage , type of transplant , immune suppressive therapy , and graft-versus-host disease ( GVHD ) all predispose the HSCT recipient to infection .
+878	The conditioning regimen ( chemotherapy , radiation therapy ) , mucosal damage , type of transplant , immune suppressive therapy , and graft-versus-host disease ( GVHD ) all predispose the HSCT recipient to infection .
+879	Moreover , HRV may be associated with more severe lower respiratory tract infections in children , including bronchiolitis and pneumonia [ 21 ] .
+880	4 , 48 , 52 Influenza can also cause serious infections in these patients and is associated with secondary bacterial infections , which may progress to sepsis .
+881	Pseudomonas aeruginosa infections of the CF airway are associated with decreased lung function , increased hospitalizations and shorter lifespan .
+882	Risk factors for viral pneumonia overlap those for bacterial pneumonia , and co-infection is common in patients with severe pneumonia [ 53 ] .
+883	Environmental factors may also contribute to invasive aspergillosis in patients with a relatively sound immune status , such as those undergoing major surgery .
+884	Patients with immunodeficiency and/or under immunosuppressive therapy have an increased risk of complications due to infectious diseases .
+885	Patients with immunodeficiency and/or under immunosuppressive therapy have an increased risk of complications due to infectious diseases .
+886	Patients with IBD are generally at increased infectious risk , especially when being treated with steroids , immunosuppressants or biologics .
+887	In general , both motor and non-motor symptoms of PD may be exacerbated by intercurrent infections including viral infections .
+888	However , women who do develop sepsis , particularly older women , may have worse outcomes than men [ 15 , 16 ] .
+889	Patients with homozygous CARD9 mutations are known to have a significantly increased susceptibility to life-threatening systemic candidiasis .
+890	Particularly vulnerable are patients with immune deficiency or dysregulation whose inability to fight infections leads to increased risk of disseminated infection and greater dependency on antimicrobial therapy [ 2 ] .
+891	Increased incidence of viral infections has been associated with worsening pulmonary function as well as secondary bacterial infection and colonization ( 11 ) .
+892	CMV is a major problem in compromised hosts with impaired CMI and in those on steroids or immunosuppressive therapy that facilitates the reactivation of CMV .
+893	Such patients often present dramatic weight loss due to prolonged norovirus-related diarrhea which together with malnutrition , dehydration , and altered intestinal mucosal barrier may contribute to increased morbidity and aggravate the outcome of underlying disease [ 16 ] .
+894	Klebsiella pneumoniae infections are more common in patients with impaired immunity such as those with alcoholism , liver disease , diabetes or cancer patients receiving chemotherapy .
+895	In addition , foals with enteritis are at an increased risk for developing ulcers , particularly in the glandular region of the stomach .
+896	Pregnant women with severe falciparum malaria are particularly prone to the development of ARDS and have a high rate of mortality [ 61 ] .
+897	Risk factors for the development of invasive fungal diseases include colonization with these organisms prior to transplant , especially in patients with cystic fi brosis [ 38 ] .
+898	However , it is possible that immunosuppressed patients may not be at increased risk for severe Nevertheless , immunosuppressed patients have higher viral titers and may be more infectious than immunocompetent individuals .
+899	These patients have a pro-inflammatory state with functional defects in their immune system that leaves them at a higher risk for URTIs and Pneumonia ( 32 , 33 ) .
+900	However , since these patients are immunocompromised , they are at increased risk for infections with pathogens such as Cryptococcus neoformans , Legionella , and also West Nile virus .
+901	HIV-infected patients are affected by TB independent of their CD4 T-cell count [ 213 ] , although incidences increase with advanced immunodeficiency [ 214 ] .
+902	Thus , immunocompromised individuals who lack the ability to mount cell-mediated immune responses are particularly at risk for infection with these pathogens .
+903	Compared to normal hosts , where influenza infection is typically a self-limited upper respiratory syndrome with myalgias and fever , the risk of lower respiratory tract involvement is higher for LTRs and immunocompromised populations in general [ 35 , 43 ] .
+904	Patients with underlying conditions , such as congenital heart disease , prematurity or cystic fibrosis , and bronchopulmonary dysplasia , as well as immunocompromised hosts of any age , are at risk for severe and fatal HRSV infections .
+905	Whereas many CF and bronchiectasis patients are colonized with Pseudomonas pre-transplant , Pseudomonas may also be acquired de novo post-transplant in any recipient , and is associated with an intense inflammatory response [ 52 ] .
+906	Dialysis patients with underlying lung disease and those on immunosuppressive medications are at an even higher risk for infection-related complications .
+907	Antibiotic-resistant bacteria in the air , particularly pathogenic bacteria , may cause respiratory diseases of a longer duration due to their resistance to antibiotic treatment .
+908	Because of delayed adaptive immune reconstitution in allogeneic HSCT recipients ( particularly those on immunosuppression ) , community-acquired respiratory viral infections can become deadly with the development of lower respiratory tract involvement .
+909	End-stage HIVinfected patients with a CD4 lymphocyte count of less than 50 cells/mm 3 are at the highest risk of developing CMV retinitis [ 2 ] .
+910	Compared with immunocompetent hosts , immunocompromised patients , either children or adults , are at greater risk of developing much more severe lower respiratory tract infection due to RSV ( 12 ) ( 13 ) ( 14 ) ( 15 ) .
+911	Infants , immune-compromised children , or those with underlying respiratory disorders have a significantly higher risk of developing severe hRSV infections that can be complicated by opportunistic viral pneumonia and respiratory distress .
+912	Patients with CF represent a specific population that is susceptible to more severe clinical manifestations of respiratory infections overall , because of limitations in mucocilliary transport and anatomic distortions of the bronchial tree that facilitate the retention and infection of respiratory secretions .
+913	The prevalence of LRTIs in the elderly population is not only related to underlying diseases and aging itself , but also to a variety of clinical issues , such as history of hospitalization , previous antibacterial therapy , mechanical ventilation , antibiotic resistance .
+914	The presence of infection following liver transplantation may lead to poor graft function , prolonged ICU stay , and increased risk of multi-organ failure [ 19 ] .
+915	Bacterial co-infections in the interpandemic period are also common in critically ill influenza patients [ 32 ] .
+916	Interestingly , despite the elevated levels of immunoglobulins observed in AITL , patients exhibit immunodeficiency and a propensity to develop opportunistic infections .
+917	Patients with immune deficiency , especially hypogammaglobulinemia due to X-linked agammaglobulinemia or common variable immunodeficiency ( CVID ) , are predisposed to develop bronchiectasis secondary to recurrent pulmonary infections .
+918	Risk factors for Nocardia pneumonia include profound deficiencies in cellular immunity , prolonged use of high-dose systemic corticosteroids , especially in the treatment of chronic lung diseases [ 84 ] , and the presence of GVHD .
+919	In addition , pneumonia is common in people in COPD , with risk factors including older age , lower body mass index , more severe airflow limitation , greater COPD exacerbation rates , and low eosinophil counts [ 6 ] .
+920	Patients with cirrhosis have depressed phagocytosis , which may increase their risk for severe infections .
+921	Immunocompromised children with primary immunodeficiencies , organ transplantations , malignancies , HIV-infection , diabetes and auto-immune diseases are susceptible to increased morbidity ( including ICU admission ) , and of increased mortality from viral URTIs [ 109 ] .
+922	Moreover , pregnant women with latent CMV infection are still susceptible to primary infection with different CMV strains , which have been shown to have distinct virulence patterns .
+923	Cancer patients are at a greater risk of catastrophic outcomes of Coronavirus infectious disease 2019 because of the older age , immunosuppressive condition and combined comorbidity .
+924	As these immunocompromised people are at high risk of severe disease from other opportunistic infections [ 20 ] , they also may be at risk of severe disease from infection with APMV-1 , including PPMV-1 .
+925	Fungal infections can be another cause of treatment failure in patients with cirrhosis , especially in patients who are hospitalized in intensive care units [ 72 ] or with alcoholic hepatitis [ 73 ] .
+926	Individuals with diabetes are at risk of infections , especially influenza and pneumonia .
+927	Infected patients may develop graft failure and there seems to be an association between CARV infection and development of chronic lung allograft dysfunction ( CLAD ) .
+928	In addition , these patients are more likely to be infected with unusual pathogens such as the Gram-negatives such as Enterobacteriaceae and Staphylococcus aureus .
+929	Individuals which are immunocompromised as a consequence of treatment after organ transplantation or those subjected to anticancer chemotherapy become particularly vulnerable to viral infections .
+930	Patients are also at a high risk of sepsis and even death , especially staphylococcal sepsis [ 46 ] .
+931	Nevertheless , a body of epidemiological , clinical and experimental evidence suggests that patients with COVID-19 are at higher risk of thromboembolic complications , including neurovascular diseases , in the acute phase of infection .
+932	The absence of specifi c immunity in the recipient to some viral infections , especially CMV or Epstein-Barr virus ( EBV ) , implies a higher risk of acquiring these infections when the donor lung harbors latent infection by these viruses .
+933	Since transplant recipients are immunosuppressed to reduce graft rejection , they could be particularly susceptible to infection with viruses from the donor species .
+934	Disruption of the normal microbiome of both oropharynx and lung by antibiotics , viruses , or other factors not only leads to increased risk of pneumonia but also predisposes to more antibiotic-resistant pathogens .
+935	Viral pneumonia renders a host more susceptible to other infections , and severe bacterial pneumonias can develop concomitantly .
+936	In both children and adults , viral infections of the airways may be associated with the development of chronic asthma , as well as with acute disease exacerbations .
+937	Some patients , especially those diagnosed with influenza , are at risk for MRSA .
+938	In addition , viral infections are associated with development of chronic asthma and disease exacerbation in both children and adults .
+939	In particular , parainfluenza virus infection may be an important cause of life-threatening pneumonia in patients who undergo SCT or who have received treatment for leukemia , with mortality rates of up to 66 % [ 22 , 23 ] .
+940	Obviously , not all causes of diarrhea in HIV patients are secondary to opportunistic infections .
+941	In addition , cytomegalovirus ( CMV ) infection may increase the risk of other infections , including bacterial and fungal infections [ 3 , 7 , 8 ] .
+942	Patients with burns , neutropenia , pancreatitis or after organ transplantation ( 40 % of liver transplants , 15 - 35 % of heart transplants and 5 % of kidney transplants ) are also predisposed to fungal infection .
+943	7 , 14 , 23 ICU patients are often in a very critically ill , immuno-compromised status which increases their susceptibility to HCAIs .
+944	Despite similar epidemiology , immunocompromised patients often suffer from prolonged periods viral shedding and progress to pneumonia more frequently [ 50 ] .
+945	Patients with chronic liver disease and cirrhosis may be at higher risk of COVID-19 infection , due to systemic immunodeficiency [ 55 ] .
+946	Patients with burns and acute respiratory distress syndrome ( ARDS ) have also been reported to be at particular risk of HSV-1 infection [ 3 , 5 ] .
+947	In addition , patients with cancer are known to have intermittent and prolonged shedding of respiratory viruses [ 11 ] .
+948	Patients with bronchiectasis and NTM lung disease have a higher prevalence of being sensitized to Aspergillus than patients with NTM-free bronchiectasis [ 12 ] .
+949	Compared with immunocompetent individuals , infection with the respiratory viruses in SOT recipients is associated with a longer duration of infection , increased risk of lower respiratory tract infection and complications , increased mortality , and increased viral shedding [ 1 , 4 , 5 ] .
+950	Moreover , active virus replication in the upper respiratory tract is observed in patients also after the peak of respiratory symptoms , which may result in prolonged viral spreading of the infection [ 8 ] .
+951	Although the risk of contracting COVID-19 may be no greater , viral infections can cause more severe symptoms and complications in people with diabetes [ 24 ] .
+952	PID patients usually have increased susceptibility to infections and have difficulties eliminating pathogens .
+953	Pregnant women are thought to be at an increased risk of acquiring infections due to the underlying immune system modulations that are necessary to prevent fetal rejection in the gravid state [ 2 ] .
+954	It remains uncertain whether diabetes is an independent risk factor for increased incidence or severity of common upper or lower respiratory tract infections [ 30 ] ; however infections caused by certain micro-organisms ( Staphylococcus aureus , Gram-negative organisms and M. tuberculosis ) occur with increased frequency .
+955	Whereas HMPV infection is typically mild in otherwise healthy younger adults , infection with HMPV leads to increased disease severity and high morbidity and mortality rates in the elderly .
+956	Factors that predispose bone marrow transplant recipients to Candida infections include allogeneic bone marrow transplantation , increased age , and a prolonged neutropenia ( Verfaillie et al. 1991 ) .
+957	Elderly people with underlying diseases are more likely to be infected with the virus and develop severe disease and children and infants are also at risk .
+958	The incidence of pyogenic bacterial infection is increasing in AIDS patients , which is caused by their weakened cellular and humoral immunity .
+959	Children with decreased gastric acidity , which may result from chronic asymptomatic infection with Helicobacter pylori or other causes , are at higher risk for the development of infection with bacterial pathogens .
+960	Similarly , patients with MERS-CoV infections have a high probability of experiencing neurological complications .
+961	The clinical manifestations of viral diseases in immunocompromised individuals , including transplant recipients may be different with the immunocompetent population [ 40 ] .
+962	The classical predisposing factors to viral infections include advanced age , chronic illnesses and poor immune responses .
+963	Furthermore , the risk of developing severe pneumococcal bacteremia is higher in diabetic patients [ 89 ] .
+964	In addition , children with underlying diseases ( e.g. , bronchopulmonary dysplasia , congenital heart diseases , neurological disorders ) are at greater risk of developing severe viral infections and sepsis ( 98 , 100 , 101 ) .
+965	Furthermore , some critically ill patients with SARS-CoV-2 infection have severe thrombocytopaenia , another highrisk factor for cerebral haemorrhage .
+966	Pregnancy can theoretically accelerate the progression of underlying HIV infection-related immune suppression , and respiratory infection can be the AIDS-defining illness for some pregnant patients , leading to an increased risk of maternal and fetal mortality .
+967	In addition to traditional risk factors associated with CRKP infections in other patient populations , pre-transplant colonization with CRKP can place such patients at an increased risk for CRKP infections following transplantation [ 175 , 176 ] .
+968	CVID patients are in particular prone for infections with encapsulated bacteria including S. pneumoniae .
+969	Risk factors for P aeruginosa infection are multifactorial , but infection is mostly frequently seen in the hospital setting , and burn patients are at very high risk of Pseudomonas sepsis 11 -13 .
+970	In addition to immunosuppression , with most of the effect targeted against the cellmediated ( T-cell ) immune response , infection with FIV also carries an increased risk for development of certain types of neoplasia , B-cell lymphoma being the most common .
+971	Individuals with severe obesity and/or T2D are at increased risk for infection , complications , and death from COVID-19 [ 24 ] .
+972	People with atopic asthma are not at greater overall risk of RV infection than healthy individuals but suffer from more frequent LRTI and have more severe and longer-lasting LRT symptoms [ 41 ] .
+973	Because Legionella sp are intracellular pathogens , patients with impaired cellular immunity ( CMI ) are particularly predisposed to legionnaires ' disease ( eg , patients infected with the human immunodeficiency virus [ HIV ] ) .
+974	Patients suffering from acute GVHD are at higher risk for gastrointestinal infections .
+975	Furthermore , the mortality rate of NF type II is higher than in NF type I because of the possible development of Streptococcal TSS [ 88 ] .
+976	Exacerbation of asthma is often precipitated by a viral respiratory infection , and atypical bacteria such as Mycoplasma pneumoniae and Chlamydophila pneumoniae may play a role in its pathogenesis [ 23 ] [ 24 ] [ 25 ] .
+977	RSV infection in infants and children has been associated with an increased risk of secondary bacterial infections , such as otitis media mainly due to secondary Streptococcus infection [ 12 ] [ 13 ] [ 14 ] .
+978	Infections occur not only before diagnosis but remain a major cause of complications during the course of disease , immunoglobulin substitution , and death in patients with XLA [ 32 , 10 ] .
+979	SCD , a hematological condition with functional asplenia , puts patients at a greater risk to develop acute pulmonary complications , including viral infections .
+980	Around 2 % of lung infections in immunocompromised patients are due to Nocardia , and like mycobacterial infections , nocardial infections tend to affect patients with defects in cell-mediated immunity .
+981	Infections due to other micro-organisms ( S. pneumoniae and influenza virus ) are associated with increased mortality and morbidity [ 31 ] .
+982	However , premature infants and immunocompromised patients especially those with heart and lung disease can have severe RSV infection [ 60 ] .
+983	GVHD is a substantial risk factor for infection among HSCT recipients because it is associated with a delayed immunologic recovery and prolonged immunodeficiency ( 19 ) .
+984	Certain medical conditions such as asthma influence the host immune response and are risk factors for complication in H1N1pdm infection [ 6 ] .
+985	DENV-related illness is more common in children , and in contrast to other infections , well-nourished children are more predisposed to severe illness [ 7 ] .
+986	Viruses also decrease the function of macrophages and lymphocytes , resulting in patients with viral URTIs being generally more vulnerable to secondary overgrowth and subsequent bacterial infection by pathogens that colonize the nasopharynx , such as Streptococcus pneumoniae and Haemophilus influenzae .
+987	However , late-onset VAP ( > 7 days ) can be caused by a plethora of organisms that are generally more virulent and more likely to be antibiotic-resistant .
+988	Risk of infection with pulmonary and rhinocerebral mucormycosis is also increased in cancer patients with iron overload treated with deferoxamine [ 77 , 78 ] .
+989	High percentages of SOT patients are found to be colonized with MRSA or VRE , leading to increased risk of ensuing infections .
+990	In addition , increasing age , smoking , and compromised cell-mediated immunity are associated with Legionnaires ' disease [ 33 ] .
+991	The presence of comorbid pneumonia may also affect the susceptibility of asthmatic patients to bacterial infection .
+992	Conversely , immunocompromised patients are at risk for severe and chronic diarrhea that may be life threatening .
+993	Children with myocarditis who have a swollen endothelium and depressed heart function are particularly vulnerable to cardiotoxic medications , such as hydroxychloroquine alone or in combination with azithromycin [ 71 ] .
+994	However , allogeneic HSCT recipients undergoing long-term immunosuppressive therapy for chronic GVHD remain at risk of infection .
+995	However , asymptomatic respiratory virus shedding in the upper respiratory tract may occur even in immunocompromised patients , and URTI may be followed by LRTI , particularly during influenza infections .
+996	Lung cancer patients may be further at risk as they have a reduced lung function and often suffer from recurrent pulmonary infections .
+997	Patients with cirrhosis are susceptible to developing AKI because of the progressive vasodilatory state and reduced effective blood volume .
+998	Additionally , the risk of infection is higher for the elderly and for patients suffering from pre-existing illnesses such as cardiovascular disease , hypertension , diabetes , and chronic respiratory disease [ 66 ] .
+999	Additionally , the risk of infection is higher for the elderly and for patients suffering from pre-existing illnesses such as cardiovascular disease , hypertension , diabetes , and chronic respiratory disease [ 66 ] .

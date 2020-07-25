@@ -20,3 +20,982 @@ the recommended arg1:[w]quarantine period is arg2:14 :[w]days
 18	Quarantine duration depends on national regulations but should be a minimum of 30 days .
 19	We recommend that the duration of quarantine should be at least 14 days on the basis of the 95th percentile estimate of the incubation period ( 10 ) .
 20	A minimum quarantine period of 60 to 90 days is recommended in a building that is separate from the main facility .
+21	The quarantine period , which starts when the most recently received animals are placed into a quarantine , should not be less than several weeks , to allow time for seroconversion to infectious agents acquired in transit .
+22	The incubation period of SARS was described as 20 days , meaning a quarantine officer could detain a person suspected of having SARS up to that period of time .
+23	Upon the finding of longer and more volatile incubation period in travelers , the duration of quarantine should be extended to three weeks .
+24	If there is a potential exposure risk during the process , a 14-day quarantine is required .
+25	We recommend a 22-day quarantine period .
+26	From official reports , the quarantine buffer in January is around 15 d and around 6 d on February 8 .
+27	The incubation period alone suggests that 95 % effectiveness in preventing the release of symptomatic infected individuals is achieved by quarantine of 2.73 days .
+28	TFWs able to travel will have to be in quarantine for 14 days .
+29	In principle , an outbreak can always be controlled with a sufficiently long quarantine period .
+30	The duration of quarantine depends on the incubation period of COVID-19 , which is 14 days from the last date of exposure .
+31	The recommended 14-day quarantine period may lead to a 6.7 % failure for quarantine .
+32	Flight-based quarantining would extend the median delay to 70 days .
+33	Now , the quarantine is relaxed only after 27 , 26 and 53 days , respectively .
+34	The exposure time for low-level disinfection of noncritical items is at least 1 minute .
+35	The official incubation period for SARS-CoV-2 is 2 - 14 days and therefore 14 days is the chosen cut-off for self-quarantine .
+36	For example , for New York and Michigan , isolation of persons exposed to the virus needs to be imposed within 2 days to prevent a broad outbreak , whereas for other states this period can be 3.6 days .
+37	The optimal time for vaccination is between the beginning of October and the end of November .
+38	This means a latent period of four days , and symptomatic persons are infectious in the city population during 2 days .
+39	With an incubation time of 5 days on average , 15 initial recommendations for quarantine of exposed health care workers were up to 2 weeks .
+40	Initially , the duration of quarantine was 14 days , but after 10 June this was revised to ten days in accordance with the incubation period for SARS .
+41	If the use of rapid diagnostic testing can be combined with quarantine , the quarantine period could be shortened to 6 days ( rounding 5.7 days to the next integer ) .
+42	Strict quarantine with respiratory isolation is also mandatory for 17 days .
+43	The quarantine is relaxed for the young , adults and elderly after 13 , 11 and 47 days , respectively .
+44	After the infectious disease is diagnosed at sentinel medical institutions , at least 10 days are required until it is announced nationwide .
+45	To prevent the virus spreading , any individual who may have been exposed should go into isolation for 14 days , this being the outer limit of predictions for incubation times .
+46	We recommend to increase the quarantine period to 22 days .
+47	According to the infection control and health quarantine rules at airports , the time taken between specimen collection and the reporting of results was within 4 h.
+48	Quarantine of newly arriving dogs , if feasible in training kennels or shelters , should therefore last for at least 2 weeks .
+49	A 14-day quarantine may need to be prolonged .
+50	For reliable serological laboratory diagnosis , the quarantine period should take at least 4 - 6 weeks before testing .
+51	In this case of Hepatitis E-only , the latrines should be increased to 16.1 % and boreholes must cover 16.6 % of the population .
+52	However , in the vaccine-only case , vaccine availability must occur within just 10 days .
+53	Generally , an influenza outbreak can be declared over if no new cases occur within 8 days following the onset of symptoms in the last resident case ( 8 days is the sum of the usual infectious period [ 5 days ] plus maximum incubation period [ 3days ] ) .
+54	On the basis of the 95 th percentile estimate for the incubation period , the researchers recommended that exposed individuals should be quarantined for a minimum of 14 days .
+55	The duration of quarantine should be of sufficient length to allow risk periods for respiratory and digestive diseases to pass ; this has generally been recommended to be 21 to 30 days .
+56	Mandatory home confinement of 10 days has generally been recommended to quarantine close contacts of SARS cases .
+57	We suppose that 20 pairs of gloves/doctor ( high risk)/day will be required because 1 SARS report showed that 1 doctor can treat 5 to 10 patients per day from the view of infection control .
+58	However , for such importation containment measures to effectively exclude new cases from a COVID-free Tanzania in the future , isolation periods may need to be extended to three weeks .
+59	In the Wuhan region ( China ) , where no new cases of infection have been officially reported for a few days , at least 8 weeks of strict containment were necessary .
+60	An average of 3 days was taken to detect imported cases by Macau SAR .
+61	This period is reduced to 50 days if infected cases double every 10 days ( R=2.0 ) .
+62	According to Diagnosis Guidance for Novel Coronavirus Pneumonia the 5 th Edition [ 11 ] , individuals with close contact history need to be quarantined for 14 days .
+63	As of May 13 , 2020 , the number of active cases in Brazil doubles every 10 days [ 26 ] , so this means waiting 10 or 20 days , respectively , to start the quarantine .
+64	People with “ Red code ” who have already arrived in Ningbo will be required to have 14 days of centralized quarantine or strict home quarantine for medical observation .
+65	The 19-day incubation period is a low probability event , and experts suggest 14 days for quarantine .
+66	If others enter the quarantine cohort later , the quarantine duration should reset .
+67	The minimum estimated time necessary to complete reference virus development and safety testing is 3 months .
+68	As COVID-19 has an incubation period of 2 - 14 days , the individuals are to be quarantined for this time period until their medical checkup is confirmed .
+69	Longer quarantine periods might be more justified for extreme cases .
+70	If a highly pathogenic avian infl uenza virus outbreak arose , all live poultry and poultry products from the aff ected province would be suspended for up to 21 days .
+71	Therefore , the 14 day quarantine period would capture the majority of cases .
+72	avoid the risk of virus spread , all potentially exposed subjects are required to be isolated for 14 days , which is the longest predicted incubation time .
+73	The mean removal time for symptomatic individuals will be considered to be around a week .
+74	The length of quarantine is based on the incubation period of the illness .
+75	For practical purposes , a 7-day period is considered sufficient to identify close contacts for prophylaxis .
+76	A 14‐day quarantine may need to be prolonged .
+77	The minimum interval between vaccinations is 2 weeks , and the maximum recommended interval is 4 weeks .
+78	We , therefore , recommend prolonging the quarantine period to three weeks when necessary .
+79	Even when economic losses are uniform over time and by putting relatively higher importance on the economic aspects , the lockdown should not be delayed by more than 3 days from the date at which the epidemic is identified ( here on March 1 ) .
+80	Upper estimates range up to 11 days , which is important to determine the appropriate duration of quarantine .
+81	Additionally , international travelers have to spend a minimum of 2 days in Côte d'Ivoire before entering quarantine .
+82	If the patient is diagnosed with the SARS-CoV-2 infection , all medical personnel involved in the operation are quarantined for 14 days .
+83	We recommend prolonging the quarantine period to three weeks .
+84	Quarantine for contacts should at least be for 8 days , the usual maximal incubation period of RSV .
+85	The average incubation period for COVID-19 expands to 5 days and the period of quarantine is 14 days from the last date of exposure .
+86	Most clinicians advise a quarantine of 2 to 4 weeks .
+87	The definition suggested waiting for 42 days , which is derived from double the observed maximum incubation period , from the time at which the last Ebola confirmed case tested negative for the second time or the time of burial .
+88	Furthermore , if the asymptomatic period is very long , then the quarantine period must also be correspondingly long ( 21 ) .
+89	The time period for exposed individuals to be infectious is 1 day ( CDC 2009 ) .
+90	Then to contain the epidemic , in addition to public health measures such as contact tracing and quarantine , the average number of unique close contacts per person should be less than 7 over the 5 day generation interval of COVID-19 , ( 3 household contacts and 4 non-household contacts ) .
+91	For the Ebola virus disease ( EVD ) outbreak in West Africa from 2014 to 2016 , the World Health Organization ( WHO ) recommended securing 42 days ( World Health Organization , 2015 ) , or twice the observed maximum incubation period , from the time at which the last case was found negative for the virus at second testing .
+92	The quarantine probability was 100 % and delay-time was two days .
+93	This quarantine interval is based on the knowledge that dogs do not shed rabies in the saliva for more than a few days before the onset of neurologic disease .
+94	To avoid the risk of virus spread , all potentially exposed subjects are required to be isolated for 14 days , which is the longest predicted incubation time .
+95	If the current government actions remain unchanged , the outbreaks would likely to end at the beginning of June ( ranging from May 21 to June 10 ) and the average duration of the outbreaks is 127 days ( ranging from 115 to 138 days ) .
+96	However , in India 14 days minimum quarantine period is declared by Government for suspected cases .
+97	According to the US Department of Labor , 5 the pandemic period in each region is considered to be 12 weeks at maximum .
+98	This time could be the basis for setting a quarantine time .
+99	Median incubation period is thought to be 5.1 days , while onset of symptoms has been reported up to 14 days after exposure ( Lauer et al. 2020 ) , providing basis for the length of quarantine/self-isolation .
+100	Similarly , the time before hospitalization ( and presumably quarantining and therefore removal ) is 3 - 5 days .
+101	The overall period of COVID outbreak is less than 100 days .
+102	Based on previous studies , WHO has set a 14-day quarantine period for Covid-19 .
+103	At that period the number of active quarantined cases will be still above 500 cases .
+104	According to the loose estimate , after coming into contact with a H1N1 virus carrier , a person will have an incubation period of 4 days , namely , 4 days before the onset of symptoms .
+105	Quarantine period which was planned as 3 days at the beginning elongated to 14 days .
+106	The normal procedure to approve a new vaccine takes 18 - 24 months , which obviously is too long for a novel vaccine in the case of influenza pandemics .
+107	Unless a cold storage room is available , healthcare waste should not exceed 48 h during the winter and 24 h during the summer in warm climate regions , 72 h in cool season and 48 h in hot season in regions with temperate climate .
+108	The actual TB treatment period was usually longer than the recommended six months .
+109	The average incubation period for leptospirosis is 10 days .
+110	These values approximate the duration of quarantine recommended to positive-tested cases .
+111	These values approximate the duration of quarantine recommended to positive-tested cases .
+112	For a vaccinated ferret exposed to a possible rabid animal , recommendations are to revaccinate the ferret immediately and quarantine for 45 days .
+113	The time from patient entering the facility until wearing a mask should be as short as possible since it is considered to be an important outbreak control measure [ 31 ] .
+114	In [ 16 ] , the authors stated that 14-day quarantines may be insufficient to protect the public in 6.7 % of cases ; they therefore proposed that quarantine should be a minimum of 22 days .
+115	Where the crop is a salad , which might be eaten raw , the harvest interval must be at least 30 months .
+116	Generally speaking , a longer quarantine time can be considered for the old patients ( > = 40 years ) than young patients ( < 40 years old ) .
+117	Ideally , all movement of horses on and off the premises must be stopped and new horses should be isolated for 3 weeks .
+118	Based upon preliminary reports on COVID-19 [ 6 ] , the quarantine time was established at 14 days .
+119	This period of six months was anticipated to cover the period of transmission of influenza virus during one season .
+120	In Wuhan , with tens of thousands of active infections , four weeks were necessary , starting from lockdown .
+121	In the base-case situation , the mass vaccination strategy needs almost 30 million vaccine doses .
+122	And the final epidemic size should be between 194,000 and 206,000 cases .
+123	However , a long quarantine period may be too costly to be implemented .
+124	Therefore , we suggest to seal off villages for minimum 30 days to maximum 60 days duration .
+125	Thus , it may be wise to not relax quarantine measures after sufficient time has elapsed , during which maximum of the quarantined/isolated people are recovered .
+126	The incubation period providing a better fit of the dead individuals is 4.25 days and the infection period is 4 days , with a fatality rate of 0.00144/day [ values based on the reported ( official ) number of casualties ] .
+127	The incubation period providing a better fit of the dead individuals is 4.25 days and the infection period is 4 days , with a fatality rate of 0.00144/day [ values based on the reported ( official ) number of casualties ] .
+128	If half of contacts are high-risk , quarantine spaces will be required for 638 to 470,175 contacts .
+129	Therefore , if a person was infected before the lockdown ( 25 March 2020 ) , they should not infect others except their family members if that person is entirely inside their house for more than 14 days .
+130	However , since the epidemic is very near to the endemic state , the predicted duration is very long , especially if no quarantine is applied .
+131	Within the conditions of the outbreak in Italy this time must fall under 12 - 8 hours in order to make the reproduction number less than 1 to minimize the case numbers .
+132	Within the conditions of the outbreak in Italy this time must fall under 12 - 8 hours in order to make the reproduction number less than 1 to minimize the case numbers .
+133	Alternatively , if cattle must be bought-in , quarantine for one month .
+134	If the capacity of the health system is large enough , and the number of hospital or ICU beds is at or above the threshold level , then no quarantine is required .
+135	However , if it is technically and politically feasible , home quarantine may be extended for up to 21 days ( one incubation period ) for EVD .
+136	Our model suggests that to eradicate the epidemic , the minimum number of additional latrines required is 3,47 .
+137	The minimum contact period is half an hour .
+138	A comparison among different countries suggests that it would be safe to release the quarantine when the probability for positive is lower than 4 % , the maximum value for S. Korea .
+139	The average time required for the laboratory confirmation of JEV is approximately 7 days in Taiwan .
+140	Depending on the risk level , some staff are required to quarantine for14 days at home .
+141	Quarantine period , which lasts 14 days ( according to the currently known incubation period of the virus ) , can be extended due to delayed exposure [ 24 ] .
+142	Even if 99.9 % of all travel could be stopped , epidemics in most cities would be delayed by no more than 4 mo .
+143	This would correspond to the first day after the end of quarantine in this study .
+144	The final reported infected number of the whole Given the inferred end times , rigorous quarantine and control measures should be kept before March in Beijing , Shanghai , Guangzhou and Shenzhen , and before late March in China ( including Hubei ) .
+145	If R is growing above 1 , we deduct a release day on the expense of a quarantine day in each 14-days cycle .
+146	Ideally , intervals between testing dates would be between two and five months .
+147	This is presently the period of quarantine recommended [ 15 ] .
+148	The incubation period providing a better fit of the dead individuals is 4.25 days and the infectious period is 4 days , with a fatality rate of 0.00144/day [ values based on the reported ( official ) number of casualties ] .
+149	The case-to-case intervals in household clusters have generally been 2 to 5 days with a upper limit between 8 and 17 days ( possibly resulting from unrecognized exposure to infected animals or environmental sources ) .
+150	Thus , the considered average daily temperature is with an interval of 1 to 14 days before the definitive cases of COVID-19 .
+151	Hence , WHO recommends a quarantine period of 14 days with constant follow-up of the symptoms .
+152	Clearly for pathogens that have a high degree of transmissibility and/or a high degree of severity , the quarantine time should be greater than for agents with lower transmissibility and/or severity .
+153	Quarantine periods for both staff and patients who have been exposed to any person under investigation have been set provisionally at 14 days ; however , in a critical staffing shortage , it is reasonable to return staff to work after 8 to 9 days of quarantine provided they are symptomfree .
+154	As a common practice , individuals exposed to , or infected by , the virus are usually required to be quarantined for 14 days .
+155	This delay could be as long as 3 days in some households during the 2010/11 season .
+156	( The median length of the quarantine periods was 14 days ) .
+157	A quarantine of 14 days must be taken by any person that comes in contact with a laboratoryconfirmed case of infection .
+158	Note that the duration of quarantine is set at 2 days as it is the length of time after exposure for symptoms to appear .
+159	First , quarantined medical workers are required to be quarantined for 14 days .
+160	From our quantitative findings , we recommend a quarantine period of 9 days ( rounding 8.7 days to the next integer ) to reduce by more than 99 % the risk of introducing infectious individuals and to ensure the absence of secondary transmissions caused by released infectious individuals in the community .
+161	Home quarantine measure extend to close contactors of a suspected case to minimize the opportunities of transmission for the virus since 25th of April 2003 .
+162	The confirmed influenza-like illness cases have a maximum SI length of five days , while the probable cases have a maximum length of six days .
+163	Therefore , a period of 12 days is enough for quarantine , which would capture over 90 percent of all probable SARS cases with a probability of 0.8 and reduce the resources expended for quarantine , including the time that adults spend in quarantine .
+164	The minimum time requirement for the full maturation process for pigs is 60h .
+165	In our model , this intense quarantine is supposed to be applied around 20 days after our initial time ( March , 21 ) .
+166	Specifically , if the poultry death rate in any facility was greater than 10 % within a single day , all birds , their products , and other potentially contaminated materials have to be destroyed without delay .
+167	On average , a quarantine period of 14 days may lead to a failure rate of 6.7 % , i.e. , 6.7 % quarantined patients may show symptom after quarantine .
+168	According to recent studies , Jiang et al. ( 2020 ) ; Cohen ( 2020 ) , the creation of such vaccine for a sufficient quantity of individuals can presumably be assumed to require around 500 days .
+169	With weaker surveillance , unrecognised transmission may still occur : if the surveillance sensitivity is only 40 % , then 62 days must be waited for 95 % certainty .
+170	For cats in low-risk situations ( eg , indoor-only cats ) , 3-yearly intervals suffice .
+171	Quarantine period for all felid species is typically 30 days , but this may vary depending on the source of the cat or institutional practices .
+172	The minimum delay is one day .
+173	For official control purposes , the maximum incubation period of HPAI is 21 days .
+174	The national average days of accumulated temperature greater than 10 ° C will extend 15 days when the annual average temperature increases by 1 ° C .
+175	There needs a longer quarantine period in Hubei Province than outside .
+176	To account for the logistic work that precedes control initiation ( identifying the outbreak , laboratory confirmation , mobilizing resources etc . ) we selected a minimum control start of 3 days .
+177	This high mortality rate together with the lack of a cure for the COVID-19 virus , are the reasons for the severe restrictions on those that were in contact with COVID-19 confirmed cases , which mainly includes strict quarantine of 14 days .
+178	This high mortality rate together with the lack of a cure for the COVID-19 virus , are the reasons for the severe restrictions on those that were in contact with COVID-19 confirmed cases , which mainly includes strict quarantine of 14 days .
+179	While the recommended quarantine time of 14 days would require extensive additional qualified workforce , which is likely not readily available in most hospitals , an abbreviated quarantine of 7 days covers the median incubation time of 3 days ( range 0 - 24 days ) and mean of 5 days , allowing for testing before starting into a new cycle of shifts .
+180	The shedding period is thought to be 14 days .
+181	Patients returning from China , and in particular from Hubei province are quarantined for 14 days .
+182	Communities with more than 100,000 infectious cases essentially have to reduce transmission to zero in order to have about 100 cases after 60 days .
+183	Communities with more than 100,000 infectious cases essentially have to reduce transmission to zero in order to have about 100 cases after 60 days .
+184	When S-OIV was confirmed in HCWs , a seven-day sick leave would be issued .
+185	The buffer period of 1 day helps reduce transmission by keeping people in isolation when their fever symptoms temporarily subside .
+186	If there is a larger number of initial cases , higher R 0 , and later start of intervention by the public health authority , more than 24 million vaccine doses are necessary .
+187	Within these administrative zones , if infections can not be controlled in a worst-case scenario , the " saturation time " will be about 90 days 1 .
+188	Quarantine lasts for a time identified to correspond to the incubation period of the infection during which it could turn into disease .
+189	As least about one month is still required if strict measures are immediately implemented .
+190	The researchers made a recommendation that quarantine periods should be extended to 3 weeks where appropriate .
+191	We recommend a quarantine period of 9 days to reduce by more than 99 % the risk of introducing infectious individuals and to ensure the absence of secondary transmissions .
+192	The initial quarantine period is necessary to avoid overwhelming our hospital systems .
+193	In an emergency situation , approximately 4 months are currently estimated to produce significant vaccine quantities .
+194	Quarantine ends after a set period .
+195	To control the spread of SARS , public health officials held large numbers of their residents in quarantine for an average of 10 days ( the incubation period of SARS ) .
+196	Using current technologies , at least 20 weeks would be required from the time the pandemic virus was identified until the first vaccine doses become available .
+197	The incubation period for falciparum malaria is at least 7 days .
+198	It seems obvious that the total time between an infection and its reporting to the government is rarely below 10 days .
+199	Direct application of this concept to pandemic influenza suggests that the optimal quarantine period for pandemic influenza is only 2.73 days since exposure , which is far shorter than those for SARS and smallpox .
+200	If there has been a recent exposure , a 2-week quarantine is recommended .
+201	Domiciliary quarantine of 14 days since a positive test is applied also for patients with a diagnosed mild disease who did not need medical support .
+202	This group of people should usually be required to quarantine themselves at home for a period of 14 days .
+203	The average reporting delay on COVID-19 tests is about 6 days in Arizona .
+204	Periods of shutdowns or complete lockdowns can not include the several months necessary for effectively reducing deaths based on the felt need and demands to open the nation after seven weeks .
+205	In contrast , other birds that are caught on request [ for example , from a wholesaler in the EU or their client ] will follow the quickest route , but this should still contain a quarantine period of at least 21 days in the exporting country .
+206	In terms of public health implications , in order to stop the outbreak , at least 58e76 % of transmissions should be blocked .
+207	Female and male donors are required to wait at least 8 weeks between blood donations in Korea , which is the shortest period among all northeast Asian countries .
+208	In cases where limited human-to-human transmission likely occurred , the incubation period was estimated to be between 2 and 10 days .
+209	The optimal time for vaccination is in the late spring to provide good immunity during the summer months .
+210	If possible , entry into the population by new people should be batched based off the duration of required quarantine .
+211	The duration of this epidemic was thus considered to be 88 days .
+212	Therefore , we highly recommend that all people with an exposure history be strictly quarantined , and for immunocompromised people with long-term use of glucocorticoids , this time should not be limited to 14 days .
+213	However , in an outbreak of such a magnitude , some professional societies recommend keeping a distance of at least two meters between two beds .
+214	As major government actions are taken when COVID-19 outbreaks deteriorate seriously , the maximum number of daily new cases occurs during the period after the day of major government actions .
+215	For animals that will be remaining on our property a minimum of 30-day quarantine is recommended before introducing new animals to our herd .
+216	For official milk records , the lactation length is 305 days , to be followed , if possible , by a 60-day dry period .
+217	The minimum distance between pig farms to theoretically avoid airborne transmission has been calculated to be at least 3 km .
+218	Specifically , individuals who came from hardest-hit area should be quarantined at a designated location for 14 days , as for those from non-hardest-hit area , they also should be quarantined at home 14 days .
+219	If feasible , waiting the full 14-day incubation period will exclude the risk of transmission .
+220	It was estimated that the number of newly confirmed cases would reach its peak at 8 ( 6 - 10 ) days after the lockdown initiation and that the quarantining might last for two weeks [ 12 ] .
+221	With weaker surveillance , unrecognized transmission may still occur : if the surveillance sensitivity is only 40 % , then 62 days must be waited for 95 % certainty .
+222	If the current quarantine measures are maintained , the forecasted number of active cases of COVID-19 will not fall below 1,000 cases until early September .
+223	Two thirds of vaccinations per day are required each day to prevent the epidemic .
+224	Two thirds of vaccinations per day are required each day to prevent the epidemic .
+225	Therefore , assuming that the real number of infected persons is four to ten times higher , at least 150,000 tests have to be performed prior to decide on stopping containment .
+226	The World Health Organization recommends at least 14 days of quarantine , and the U.S. Center of Disease Control and Prevention at least 3 days after fever resolution .
+227	This criterion of 4 consecutive days with incident cases is needed in particular for the Île-de-France region which had 3 consecutive days with 1 imported confirmed case in late January which did not lead to a spreading outbreak at that time .
+228	For unaff ected farms within 3 km of the index farm aff ected by the highly pathogenic avian infl uenza virus , there would be a 90 day suspension for live poultry and poultry products .
+229	To reach a threshold of 70 % of vaccinated owned dogs , vaccination should not cost more than 0.2 € .
+230	The recommended period of quarantine ranges from 3 ( Maunsell and Donovan , 2008 ) to 6 weeks ( Caldow , 2009 ) , but commonly 4 weeks is advised ( Bazeley , 2009 ) to cover the period of greatest risk of clinical disease after purchase , e.g. salmonellosis ( Evans , 1996 ) .
+231	After returning to prison , the accompanying prison guards and the prisoner must have a 14-day quarantine ( Chinese Center for Disease Control and Prevention , 2020 ) .
+232	If an outbreak is suspected , the animal premises should be quarantined immediately .
+233	To halt a pandemic , a suitable quarantine period should be set by investigating incubation periods .
+234	Thus , the lockdown would require of order 100 days of quarantine ( or at least extensive social distancing ) per person , whereas testing and isolation only requires on average around 20 days per person with a 14-day quarantine ( with a 5-day quarantine , it is only slightly more than five days ) .
+235	The time before becoming contagious , or the latent period L , is around 4 days .
+236	The time before becoming contagious , or the latent period L , is around 4 days .
+237	The Level A quarantine was started on 18 March , for those who had been in close contact with a SARS patient were quarantined from 10 - 14 days .
+238	Incubation time for COVID-19 is considered 14 days , at most .
+239	According to the WHO , the duration of the infectious period for HPAI-infected human cases is six to seven days .
+240	Latent patients can show obvious symptoms and be quarantined with the probability of σ on any day of 14 days , which is the time of the incubation period .
+241	The duration of each voyage was assumed to be sufficiently longer than the incubation period of influenza ( e.g. , more than 5 days ) .
+242	The minimum vaccination protocol in this situation would be a single administration of core vaccines at or before the time of admission to the shelter .
+243	The minimum vaccination protocol in this situation would be a single administration of core vaccines at or before the time of admission to the shelter .
+244	The minimum vaccination protocol in this situation would be a single administration of core vaccines at or before the time of admission to the shelter .
+245	The minimum vaccination protocol in this situation would be a single administration of core vaccines at or before the time of admission to the shelter .
+246	Based on the loose estimate , B 's incubation period will last 4 days .
+247	14 In Australia , the home isolation ( quarantine ) of contacts or suspected cases is recommended for 14 days .
+248	For respiratory infection , the appropriate time period is suggested to be about 1 week .
+249	The analysis in this study showed that the epidemic can be controlled within a few weeks if the comprehensive quarantine was conducted on January 20 th or earlier .
+250	The most effectively vaccine injection timing is about one to two months prior to the flu season .
+251	The breeding season should be restricted to less than 4 months to reduce the duration of the possible transmission period as much as possible .
+252	These incubation periods are reasonable for influenza-like diseases .
+253	We have assumed that it takes 6 weeks to roll out a pandemic vaccination program at the national level .
+254	It is also considered that 2 sets of PPE are required for HCWs in medium-and low-risk groups because HCWs work around 12 hours a day and are required to change PPE every 6 hours during pandemics .
+255	In the combined scenario , a vaccine must be made available within 15 days before epidemic sizes increase .
+256	This means that a maximum of 1 million infected people will rise to 1.34 million infected people if the consistent implementation of the measures is delayed by one day .
+257	However , if it is technically and politically feasible , home quarantine may be extended for up to 21 days ( one incubation period ) for Ebola virus disease .
+258	Considering the incubation period of SARS-CoV-2 , it is recommended to home isolation for 14 days .
+259	If the compliance could be raised to 100 % , the three-day extension would be adequate to prevent the seasonal flu epidemic ( attack rate < 5 % ) .
+260	We assumed the day of personal protection was equal to the time from the day first case occurred to the last case recovered in the area plus 14 days .
+261	It is recommended to isolate all suspected cases from other patients and healthcare workers and keep a distance of at least 3 feet ( 1 m ) .
+262	This is longer than the necessary duration of control measures to achieve disease suppression for almost all control strengths where suppression is possible .
+263	The current projected peak is the worst time to begin relaxing quarantine measures .
+264	Accordingly , a very high testing rate would be required to reduce the number of quarantined cases ( Fig. 4 ) , with up to a fifth of the population requiring tests in a single week during outbreak peaks .
+265	o To minimize future epidemics similar to COVID-19 , the max number of days per year in which Italian provincial capitals can exceed the limits set for PM10 ( particulate matter 10 micrometers or less in diameter ) or for ozone , considering their meteorological conditions , is about 45 days .
+266	The period we select is 28 days , it is just twice of the least home quarantine period .
+267	This suggests extending quarantine only for contacts of symptomatic SARS cases ( Ou 2003 ) .
+268	In such a city , during a single trough generation period , only 3 cases of measles would be expected .
+269	Thus the length of a quarantine period might well be set in light of the expected number of quarantined individuals .
+270	For diseases where testing is undertaken , the quarantine period must last at least long enough for test results to return and establish the disease status of the cattle .
+271	The current recommendation of 14-day quarantine period may be too short , resulting in a 6.7 % failure rate .
+272	Confi rmation of a disease would lead to a reporting delay of at least 10 days , which could have led to further disease transmission .
+273	The maximum number of active cases is likely to be nearly 75,000 during the second week of June .
+274	Appropriate contact time of items/tools with the disinfectant in the tank is 10 min .
+275	After exposure to infected poultry , the incubation time is generally 2−5 days .
+276	This testing interval would suffice to end the pandemic , even if no other mitigation strategies were applied .
+277	Presently , there is no universal proposal for quarantine period following exposure to pandemic influenza cases .
+278	However , since no other new cases were reported for about two weeks , we assume a starting time of one month later than for the West Coast .
+279	A pandemic vaccine would need to have been prepared in parallel to the seasonal vaccine , with a lag of about 2 months , assuming no delays .
+280	Based on these criteria , quarantined persons could be released if strictly negative nucleic acid test results were obtained after 5 days in the hospital and in tests performed every 2 days .
+281	29 with an asymptomatic infection should be quarantined for 14 days .
+282	This staff member can return to work after the child is excluded for infection ; if any staff member in the center happens to have unprotected contact with a child diagnosed with COVID-19 infection , the medical isolation period will be at least 14 d.
+283	The quarantine ended 1 week later , which covered the incubation period of influenza of 1 to 7 days .
+284	Microbiological testing for AIV and NDV takes place between days 7 and 15 of the quarantine period , but there is no indication that formal testing for AChl in the quarantine station takes place .
+285	Although , the CDC has recommended closing schools from one to three months if the next pandemic is similar to the 1918 influenza pandemic ( US HHS 2008 ) .
+286	The epidemic threshold is 10 suspected cases/ 100,000 population in any given week .
+287	All new arrivals onto stables and farms should ideally be isolated for at least 3 weeks .
+288	So , we also assume the time interval between being infected by SARS virus and being diagnosed as a SARS case is 8 days , with the first 5 days in the E-class ( with low infectivity ) and the last 3 days in the I-class ( high infectivity ) , or in the P-class if promptly isolated as a result of the effective control measures .
+289	At stables and farms , all newly arrived horses should ideally be isolated for at least 3 weeks .
+290	At stables and farms , all newly arrived horses should ideally be isolated for at least 3 weeks .
+291	The incubation period for malaria is at least 6 days .
+292	For infected cases , the semi-saturation period ( SSP ) ranges from 63 to 170 days ( March 3 to June 18 ) .
+293	Strict quarantine with respiratory isolation for 17 days is also mandatory .
+294	Since kZ100 , 100 contacts are quarantined for 10 days .
+295	This figure shows that a five-day delay is highly unlikely to result in major Ebola outbreaks .
+296	Assuming that the outbreak is located in a single source , all patients should become ill within the incubation period .
+297	In the Netherlands the timeframe for DCD to proceed is set at two hours .
+298	We assumed a sole change of quarantine rate occurred as of April 7 .
+299	The incubation period is estimated to be between 2 and 10 days ( World Health Organization 2020a ) , 5.2 days , or 3 days ( median , Guan et al. ( 2020 ) ) .
+300	Thus , a time gap is required to start the vaccination procedure until a vaccine is invented and supplied .
+301	Turnover of domestic dogs in rural Tanzania is very high ( Table 3 ) ; therefore , annual campaigns should aim to vaccinate 60 % of the dog population to maintain vaccination coverage above P crit for the duration of the interval between campaigns .
+302	If the current quarantine measures are maintained , the total number of cases is forecasted to plateau by mid-July in Mandaluyong , by early August in Makati , and by September in Parañaque .
+303	Even if the rate of transmission is assumed to be similar to that in Hubei Province , the probability of no local transmission is approximately 54.9 % with the implementation of a 24-h quarantine strategy .
+304	While the WHO recommends a quarantine period of 14 days , the CDC gives a less stringent recommendation of 10 days [ 2 ] .
+305	The peak of the epidemic would happen in June with approximately 50 % infected in some moment during that month .
+306	Therefore , the current best estimate for the duration of disruption to health systems caused by COVID-19 is around 12 weeks .
+307	The healthcare authorities traced thousands of suspected contacts and monitored them for 14 days – the maximum incubation period of the disease .
+308	The estimated number of exposed individuals is much greater than the reported infectious individuals on January 17 , 2020 ( 7 days or an incubation period after January 10 , 2020 ) in Wuhan .
+309	However , we assumed a short delay between isolation/quarantine and testing , so our results on testing only apply to situations where testing of quarantined cases can be carried out rapidly ( in less than 2 days ) .
+310	Given that the index case could be symptomatic for a further 5 days , and asymptomatic incubation of the disease in household contact could take 1 - 2 days before symptoms appear , we propose that the hygiene measures should be maintained for at least 7 days .
+311	The results of the prognostic calculations show that for the Berlin context , the maximum daily increase in the number of infected patients is about 40 days after the quarantine attenuation .
+312	11 This limits vaccination to days when vaccine can be transported from district facilities in cold boxes to the health centers for immediate use .
+313	The quarantine typically lasts 4 - 8 weeks to allow sufficient time for sentinels to get infected and seroconvert .
+314	Under the actual condition in Wuhan ( with quarantine ) , the estimated time from symptom to quarantine was around 5.65 days at the initial stage , possibly due to a lack of sufficient resources during this period .
+315	According to early models total 10–12 weeks is required to control an outbreak in the community .
+316	According to their research study , controlling virus transmission is within 12 weeks or by a threshold of accumulative 5000 cases .
+317	Two consecutive negative screens of 100 % of cages in the room are required to lift quarantine .
+318	In accordance to the current reopening in many countries , the containment is relaxed to level c at Day 120 .
+319	To reduce bias , the length of the delay should be relatively long compared to the disease incubation period and the time required for the immune response to develop among vaccinated people .
+320	The average time from onset to release form quarantine was 20 days .
+321	Considering no social protection , vast regions of the Bay Area have an average recovery time over 9 months , even exceeding 12 months in certain cases .
+322	The infective period has an average duration of 14 days and the average infective is in contact with 0.1 persons per day .
+323	If the number of infected patients can be expected to double compared to the number of patients under strict quarantine , the daily maximum increase in the number of infected patients will reach over 150 per day .
+324	However , the threshold for declaring an outbreak and initiating control measures may be much lower .
+325	As a result , at all stages , flocks which have mixed with other poultry flocks should undergo a week-long quarantine period , after which , asymptomatic birds can be released .
+326	In general , distance between patient beds should not be less than 3 feet in case of a droplet infection .
+327	To ensure heath safety , a conservative measure indicates that such paradigm of recurrent short periods of reduced isolation , followed by hard isolation periods would proceed until roughly 2021/01/21 .
+328	o To minimize future epidemics similar to COVID-19 , the max number of days per year in which Italian provincial capitals can exceed the limits set for PM 10 ( particulate matter 10 micrometers or less in diameter ) or for ozone , considering their meteorological conditions , has to be less than 50 days .
+329	According to the statistics recently collected [ 6 ] , the length of incubation period is three days .
+330	Thus , the Robert Koch Institute recommends an isolation period for influenza patients of 7 days .
+331	The WHO currently recommends that an incubation period of 7 days be used for monitoring of patient contacts ( WHO , 2006a ; 2006 g ) .
+332	People who have been in contact with a person with a confirmed case of COVID-19 , and people who have travelled from , or who have transited through , affected areas are required to quarantine for 14 days .
+333	incubation period should be 5.8 days ( 95 % CI : 4.6 - 7.9 days ) and the range of variation be 1.3 - 11.3 days , according to the travel records and symptoms of 34 confirmed cases found outside Wuhan .
+334	The incubation period is between 3 and 15 days after a mosquito bite ( http://www.cdc.gov/ncidod/ dvbid/westnile/wnv_factsheet.htm ) .
+335	In the standard program the wash time is 3 minutes with special detergent and the disinfection time is 5 minutes .
+336	The control policy , in terms of social isolation , shows that relaxations ( loosening the isolation measures ) should be performed in , at most , periods of 25 days of reduced-isolation , after the first infection peaks has passed , until roughly January 2021 .
+337	For symptomatic workers the quarantine period lasted for at least 14 days from the full termination of all symptoms , even if the symptoms were reported later during the disease ( after the swab ) .
+338	We know that the herd owners waited for an average of 8 days before communicating about a respiratory outbreak , which is quite a long time .
+339	At this maximum , the average flow ( incidence ) is about 1000 new Covid-19 cases per day , i.e. 10 thousand prevalent cases divided by the presumed average duration of infectiousness of 10 days .
+340	The testing protocol for Health care professionals ( HCPs ) would be symptom driven , except before termination of the quarantine period , when it would be mandatory .
+341	daily infection rate should go down to less than 1 , 000 , due to at least one-third of 285 the population becoming immune to the virus .
+342	If a patient becomes COVID-19 positive during RT , we recommend holding RT until the patient self-quarantines for 14 days after positive test date .
+343	To ensure the absence of secondary transmissions for plausible ranges of prevalence at the source and a modest number of incoming travellers , we recommend quarantining the incoming individuals for 9 days if quarantine alone is implemented and 6 days if quarantine is combined with rapid diagnostic testing .
+344	The average incubation period is normally 5 - 6 days but it may take 2 - 14 days according to the Center for Disease Control and Prevention ( CDC ) .
+345	Thereby , there is a 12.5 % ( 25 % * 50 % ) chance of a measles outbreak during the 6-month suspension period .
+346	Quarantined persons are required to monitor their temperature twice a day which should be controlled daily by public health authorities .
+347	As most of these workers are in age group 2 , we suppose that all of age groups 1 and 3 can be quarantined ( for age group 3 , indeed , this is especially important since they are a risk group for the COVID-19 pandemic ) .
+348	Ideally , animals should be quarantined for a minimum of 14 to 21 days .
+349	This suggests that quarantine only needs to be extended for contacts of symptomatic SARS cases [ 22 , 23 ] .
+350	Under the point forecast for the pandemic , 135 days of lock-down are required and hospitalizations remain safely below capacity .
+351	For example , an interval of at least 10 days should be scheduled between a dose of oral cholera vaccine and the initial dose of chloroquine or mefloquine .
+352	The prepatent period for the fluke is 8 weeks .
+353	If rapid diagnostic testing is combined with quarantine , the lengths of quarantine to achieve 95 % and 99 % effectiveness could be shortened to 2.6 and 5.7 days , respectively .
+354	In the ring vaccination , 200 vaccine shots can be performed per day per public health worker , but the workers have to trace the contacts .
+355	Since the incubation period for the COVID-19 usually ranged from one to 14 days , the majority of imported cases would be identified in this period .
+356	o The finding here suggests that to minimize future epidemic similar to COVID-19 , the max number of days per year in which cities can exceed the limits set for PM10 or for ozone , considering their meteorological condition , is less than 50 days .
+357	Due to the persistence of viral particles in the air after aerosolizing procedures , six full air exchanges on a closed-door room are recommended before unmasked individuals should be allowed back within 23 .
+358	When rapid diagnostic testing is combined with quarantine , we recommend quarantine for 6 days to similarly prevent secondary transmissions .
+359	Recent visitors to high COVID-19 risk areas are required to self-quarantine for 14 days at home or in designated facilities .
+360	According to the report , twelve to eighteen months are required to make vaccines of COVID-19 [ 8 ] .
+361	Movement between EU member states only requires identification of the animal and rabies vaccination , followed by a 21-day waiting period .
+362	The time of preparation in a Biosafety-Level 2 ( BSL2 ) lab is 10 min , whereas it is 30 min for a BSL3 lab , and two hours for a BSL4 .
+363	The estimated recovery time is much longer than the current minimum interval of 58 days between donations .
+364	The incubation period is estimated to be between 2 and 10 days ( World Health Organization , 2020b ) , 5.2 days ) , or 3 days ( median , Guan et al. ( 2020 ) ) .
+365	Optimally , new cats should be quarantined for 3 weeks , then retested before free access to the household is given .
+366	In the abbe quarantined for a 10-day period , since there is a high risk of sence of fever or respiratory symptoms , they need not limit their SARS .
+367	8 , the contact tracing and quarantining should improve dramatically from 10 days to 5.5 days , while isolation should improve from 5 days to 4 days , in order for the disease to be eliminated .
+368	Incubation , defined as the period between the primary and the secondary case , is estimated to last an average of 5 days ( 2 - 14 days ) .
+369	For a patient who has contracted SARS , the incubation period ranges from 2 to 16 days ; the median incubation period is 6 days .
+370	A 14 days quarantine is applied to subjects coming from endemic areas or who had contact with confirmed cases .
+371	We consider quarantine intervention where any person tested positive and all its contacts are placed under quarantine for 10 days .
+372	This means that the peak infection time will be between day ( June ) and day ( August ) of the outbreak given that no other interventions or process changes occur .
+373	In quadrant IV , where quarantine but not symptom monitoring can control the disease , quarantine would be strongly considered as the minimum sufficient strategy to prevent exponential epidemic growth .
+374	For designated contagious infectious diseases , any epidemic events are required to be investigated , and once a case occurs , it should be reported by a health care provider within 7 days .
+375	The epidemic threshold is 10 suspected cases/100,0000 population in any given week .
+376	To be effective , the frequency of policy revisions should be comparable to the doubling time of the outbreak .
+377	During the five peak days of SARS-2 , the combined number of quarantine days was 910 .
+378	Traveling from one country to another may require a mandatory quarantine period and travel restrictions .
+379	Where HPAIV outbreaks had occurred , all live poultry and poultry products from the affected province would be suspended for 21 days ; and unaffected farms within 3 km of index farms would also have suspension for live poultry/products for 90 days .
+380	Once new animals arrive on the farm , or animals return to the farm from contract-growers or exhibitions , they should be quarantined for at least 30 days .
+381	Once new animals arrive on the farm , or animals return to the farm from contract-growers or exhibitions , they should be quarantined for at least 30 days .
+382	Once new animals arrive on the farm , or animals return to the farm from contract-growers or exhibitions , they should be quarantined for at least 30 days .
+383	This means that young kittens should have completed the full vaccination course , and adult cats should have had their annual booster , at least 7 days before admission .
+384	For diseases such as bovine leukemia virus or Anaplasma , which may have a significant insect vector , quarantine must be far enough away to prevent travel of vectors from quarantined cattle to the resident herd .
+385	If breeding is planned , then the best time to vaccinate overdue animals , for optimal protection for the offspring , is several weeks before the bitch is bred .
+386	Quarantine should last this long at a minimum .
+387	If 70 % of cases can be detected , schools and businesses can reopen if 2-layer quarantine is imposed on each confirmed case .
+388	Based on these data , the first vaccination time should be between the 2nd and 4th months of age .
+389	The incubation period for COVID-19 is considered to be 14 days .
+390	In general , termination of quarantine required a symptom-free period of 48 hours , a fever-free period of 72 hours , or seven days of SLS without the development of a fever .
+391	There is no prescribed duration for sheep blow fly field trials , but for practical purposes , the control agent should protect sheep from flystrike for at least 10 , and preferably 12 weeks .
+392	As discussed , the only scenario which considerably reduces the number of infected persons and deaths is an intense quarantine .
+393	A 10-month harvest interval is required if enhanced treated sludge is used .
+394	Thus quarantine rate of 0.047 estimated over the time period 2/25 - 6/25 indicates that , on a daily basis , only one out of every 21 exposed persons who should be quarantined was actually quarantined .
+395	At this time the national average incidence values for influenza are greater than 60 cases per 100,000 inhabitants , which is the threshold determined by SISS , based on data from the 2010 - 2011 seasonal epidemic , to be the start of the influenza season .
+396	For those who are yet to start treatment , we will defer non-urgent cases until their period of quarantine or SHN is over .
+397	Currently , we set the quarantine compliance rate at 50 per cent .
+398	Time periods usually range from 4 h to 6 h for an anthrax attack and one to several days for an influenza outbreak .
+399	Usually , in countries like the UK or the USA , there will be a 2 - 3-month period during the winter when the level of clinical infl uenza activity rises above the baseline threshold .
+400	A Q value of 0.4 means a 60 % effective quarantine .
+401	Officials declared regions to be free of SARS when no new cases were identified after 20 days , twice the time of an incubation period .
+402	According to Chinese researchers , a treatment of 500 mg of chloroquine per day for ten days would be sufficient .
+403	According to Chinese researchers , a treatment of 500 mg of chloroquine per day for ten days would be sufficient .
+404	As examples , the prepatent period for schistosomiasis would be a minimum of 2 months and for HIV about 4 - 6 weeks .
+405	The mean incubation period of the virus is set to 4.1 days , referring to the KCDC briefing on February 16 .
+406	However , for cats in lowrisk situations ( eg , indoor-only cats without contact with other cats ) , 3-yearly intervals are recommended .
+407	This does not account for the facilities required for quarantine of contacts , which must additionally be planned for , and in the worst-case scenario would require over 400,000 high risk contacts to be quarantined .
+408	Based on the available data for China and S Korea , using countermeasures , the overall recovery timescale is about 20 - 30 days to attain the minimum infection rate of about 50 per day .
+409	Length of noncontagious period is 12 days , and early rash contagious period is 3 days .
+410	Length of noncontagious period is 12 days , and early rash contagious period is 3 days .
+411	Length of noncontagious period is 12 days , and early rash contagious period is 3 days .
+412	Since each generation takes a couple of weeks , this is about 5 months which is approximately the time from March , when the outbreak started in earnest , till the end of the summer .
+413	These deferral periods are based on CDC data indicating that 97 % of malaria cases in travelers occur within 1 year of leaving the risk area and that 99 % of cases in permanent residents of endemic areas occur within 3 years of leaving the endemic area .
+414	A 99.9 % travel restriction might delay a pandemic wave by 2 months .
+415	The expected time for laboratory confirmation of index cases and identification and tracing of contacts should be related to the maximum period during which quarantine , PEP or other control measures are effective in order to decide on the benefit of this time consuming procedure .
+416	Thus , the duration of the HMPV season was approximately six months .
+417	Before their availability , the canonical 14 days period of quarantine should be respected .
+418	Strict quarantines must be observed for all positive cases .
+419	In some areas with low population density , to sum at least 40 000 persons in a BUU , the travel time is necessarily more than 1 hour .
+420	Persons with close contacts and suspicious exposure should be advised to have a 14-day health observation period , which starts from the last day of contact with the 2019-nCoV infected patients or suspicious environmental exposure .
+421	Residents recently admitted from hospital or home must be cared for in the quarantine unit for at least 14 days .
+422	Patients who become apyrexial for several days still need up to 10 days of quarantine and follow-up .
+423	Zone 2 ( suspected quarantine zone ) is for suspected cases of COVID-19 ; each patient should be isolated in a single room .
+424	The immunity development period for the vaccine was taken as 10 days .
+425	According to the Implementation manual for the National Epidemiological Surveillance of Infectious Diseases Program , sentinel sites for laboratory-based surveillance are to send at least one specimen per reporting interval .
+426	The average time from the onset of symptoms to release from quarantine was 20 days .
+427	The maximum number of new patients in a day is predicted to be 2 at day 23 from the first domestic imported case , and the epidemic duration is estimated to be approximately 2 months ( 58 days ) .
+428	However , on February 5 , the government set a 14-day health observation period because of the severity of the infection .
+429	Should the risk level reach 20 % , the peak will be above 1000 active cases after 90 days .
+430	Should the risk level reach 20 % , the peak will be above 1000 active cases after 90 days .
+431	While a 5-day quarantine does not cover the complete incubation period , it does cover 71 % of the HRSV incubation period ( 83 % for HMPV ) , and thus , lowers the risk considerably .
+432	For a 99 % probability of epidemic extinction , the equivalent time period was 37 to 44 days .
+433	Due to the rapid spread of COVID-19 , the window for such suppressive measures is relatively short .
+434	The period of exclusion should be longer in cold weather .
+435	With reduced probability of a major epidemic , the time delay to a major epidemic was estimated at a maximum of 2 days in Japan and a minimum of less than 1 day .
+436	With reduced probability of a major epidemic , the time delay to a major epidemic was estimated at a maximum of 2 days in Japan and a minimum of less than 1 day .
+437	The infectious contact rate must be brought less than 0.215 to control the disease , even when the hospitalization rates are increased , and the contact tracing is implemented at full potential .
+438	10 The mean period from symptom onset to confirmation and isolation is considered as four days .
+439	Fourteen days of quarantine are recommended after this exposure .
+440	[ 11 , 12 ] The incubation period is mostly in the region of 5 -6 days , but could be as short as 2 , and it is recommended that anyone with a significant travel or contact history be monitored for 14 days .
+441	This stopping time is reasonable since most population flow in China during winter travels took place before this date , right after which the government took urgent measures and asked the entire domestic population to self-quarantine and abandon inter-city public transportation .
+442	The detention time varies between five and 30 days .
+443	Affected animals should have at least two consecutive negative-fecal examinations before being released from quarantine .
+444	The day from when such a policy is implemented is TCTQ , i.e. , Start Time of Contact Tracing and Quarantining .
+445	Definitions requiring more than four hours of contact , are unlikely to control an outbreak as the expected number of untraced secondly cases is greater than one .
+446	The end time with zero unquarantined infections as a criterion is usually earlier than that with zero new confirmed infections .
+447	We estimated that in the city of Cali the outbreak under current intervention of isolation and quarantine will last for 5 - 6 months and will need around 3500 beds on a given during the peak of the outbreak .
+448	The government requires anyone from a high-risk region to be quarantined for 14 days after arrival .
+449	All new stock should be adequately quarantined from the main flock for at least 90 days .
+450	The time from tick bite to onset of disease was reported as 4 days .
+451	Also , after the last case occurs at the end of an epidemic , the goal is to control the risk of transmission for a 21-day time period .
+452	For public health purposes , it could therefore be argued that , based only on such data and an assumed log-normal model , that a quarantine time of 20 days might be necessary to ensure that SARS cases were not released ' too early ' .
+453	In this case isolation also begins on March 23rd and the reduction in contact rates is 60 % .
+454	13 This is also the span of two maximal incubation periods ( 14 days , which is being used for determining the length of quarantine for incoming travellers in New Zealand ) .
+455	For this reason when a case is being referred from the field it is advisable to initiate antimicrobial therapy on the farm before referral if transport to the referral center is likely to require more than 30 minutes .
+456	Thus , ideally , only 600/7.5 = 80 days are needed to reach the required number of immunes in this province .
+457	The entire vaccination campaign is completed in 66 days , which is an acceptable limit in order for it to be considered necessary and helpful , taking into account the already mentioned fact that the epidemic peak is around day 60 .
+458	In order to obtain an epidemic peak , it is assumed that the most likely time period of the current disease exposure that led to the outbreak will probably be the next couple of weeks .
+459	The minimum suggested interval between dose 1 and dose 2 is 4 weeks , according to most vaccines in current use ( Castiglione et al. 2012 ) .
+460	The Chinese government suggested home quarantine for suspected cases and reducing gathering during the Chinese New Year holiday ; thus , we assumed the P g ( d ) to be 20 % from 24 Jan 2020 to 9 Feb 2020 ( 25<d≤41 ) .
+461	The safety precautions need to be extended much beyond the lockdown period in every country .
+462	The delivery window set between the isolation ward and the polluted area should be Type B1 or C1 .
+463	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 þ 6 ¼ 11 days from the initial incubation of infection to post-morbidity isolation .
+464	The incubation period for milkborne exposure is usually shorter ( 3 - 4 days ) .
+465	Therefore , it was recommended that the distances that birds are transported between BIP and quarantine should be reduced to the minimum possible .
+466	Therefore , it was recommended that the distances that birds are transported between BIP and quarantine should be reduced to the minimum possible .
+467	This means that most Danish veal and young bull producers have a veterinary visit at least every second month .
+468	If HCWs strictly follow the Centers for Disease Control and Prevention hand-hygiene recommendations , the ratio between soap and alcohol consumption should be close to 1:10 .
+469	It is known that a quarantine period above 14 days is sufficient to recover exposed and infected individuals , who are idealized immune after such period .
+470	Certain restrictions should be considered , such as more initial imported cases , longer quarantine delay-time and lower quarantine probability .
+471	Without further 217 interventions , the doubling time of the epidemic would be around 19 days .
+472	Without any controls , the smallpox outbreak will peak around day 150 .
+473	If we are willing to vaccinate 10 % of the population , it suffices to ask a random sample of 4 % of the population for their contacts in order to obtain a median outbreak size of less than 2,000 cases .
+474	The window of opportunity for full containment is believed to be limited to a situation with a very low number of infected people ( maximum 40 cases ) ;  Proper early detection based on early warnings would lower the intervention time .
+475	As a consequence an average person will stay around 5 days in quarantine during the course of the epidemics with testing efficiency of 2 % .
+476	Because of this , an additional 14 days in quarantine or discharge to a dedicated COVID-19 step-down unit has been recommended [ 18,20 ] .
+477	Considering February 15 , 2020 , as the start of the outbreak , the duration to the culmination of new cases was 15 days ( February 15 , 2020 , to March 5 , 2020 ) .
+478	Due to that , Brazilian blood regulation authority established a 4 week deferral period after YFV vaccination .
+479	The period from the last births until the first matings after cessation of breeding should be at least 6 weeks [ 99 ] .
+480	The estimated quartile delay ( the median in this case is undefined ) to the start of a major epidemic in an at-risk country is extended from 50 to 125 days .
+481	The one to two calendar-year timeframe is particularly relevant for influenza pandemics , which are typically around that duration .
+482	The current estimate of the mean incubation period for the COVID-19 was 6.4 days , which ranges from 2.1 to 11.1 days .
+483	That the estimated 97.5 th percentile of COVID-19 incubation is 12.89 days ( 95 % CI : ( 11.00 , 16.13 ) ) may suggest a long isolation or quarantine time ( e.g. 17 days ) can be better than the widely accepted 14 days .
+484	This means that a minimum of 18 h will elapse before even presumptive results are available .
+485	Staff members with unprotected contact with a SARS patient are subject to a compulsory 10-day quarantine period at home .
+486	If regular testing and quarantining is done , the number of infections will decrease if the lock down period is suitably long .
+487	A hatch window of 24 hours should be achievable .
+488	The regular machine slots of 4.5 patients/hour per machine before the outbreak was reduced to 3 patients/hour , in order to accommodate disinfecting procedures between treatments .
+489	The estimated incubation period is two days to one week .
+490	Since the average value of the incubation period is 6.8 days and the average number of days delayed from the onset to the announcement is 8 days , the number of infected persons reported is information two weeks before .
+491	Thus we assume that a vaccination program can be completed in 4 - 6 weeks or about 40 days , this means that for a population of 200,000 , a maximum of 5000 doses a day can be used .
+492	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 + 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
+493	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 + 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
+494	These were voluntary quarantine recommendations , which advise that persons who have had contact with a confirmed case of MERS since onset of illness should quarantine themselves at home or in a health care facility for 14 days .
+495	For health authorities , as usually is in certain countries , the Holy Week should be a period for additional enhancements of surveillance of infectious diseases , including COVID-19 in order to prevent more additional cases .
+496	The duration of quarantine period must be considered with caution .
+497	Depuration periods may vary from 1 to 7 days , since minimum time periods for depuration are not stipulated in the legislation , with around 2 days being probably the most widely used period .
+498	Our calculation shows that the use of a 10-day quarantine period in Singapore is safe .
+499	For the 70 % of the nodes for which the vaccine will be effective , a two week span to reach full immunity is assumed ( Clark et al. , 2009 ) .
+500	This may not be practical as most foals die within days .
+501	In sheep , the average incubation period is between 6 and 8 days [ 13 ] , so a conservative delay of twice that period ( 14 days ) was considered between the infection of the farm and the detection of the clinical signs by the farmer .
+502	A moderated quarantine is applied after 27 days , representing the isolation measures applied on March 24 by most Brazilian states , such as São Paulo [ 1 ] .
+503	Health departments should expect to quarantine 100 contacts and investigate 8 possible cases for each case of SARS that meets the epidemiologic criteria .
+504	The maximum time between UCB collection and NAT assay was 15 days ( 8 days on average ) , depending on time needed to complete the pool ; so the quarantine proved to be dramatically shortened ( 15 vs 180 days ) .
+505	Patients who test positive for the novel coronavirus will , at a minimum , require a 14-day quarantine per CDC recommendations .
+506	After detection , cases ought to be isolated immediately , but the number of isolation units is limited .
+507	Then B 's incubation period will be 1 day according to the conservative estimate .
+508	It can take up to 8 weeks before the maximum effectiveness of CQ/HCQ is reached .
+509	The lengths of the incubation period and the reporting delay imply that April 7 infections would not be reported until April 17 on average , with most cases being reported during April 11 - 22 .
+510	For example , a 20 % lock-down success in Maharashtra means that 20 % of the susceptible population in this state is successfully home quarantined during the lock-down time period .
+511	Thus , it may be wise to relax quarantine measures after sufficient time has elapsed , during which maximum of the quarantined/isolated individuals are recovered .
+512	The local transmission of infected case per import case is 1/11 , and this implies that the rate of transmission is reduced by approximately 90 % compared to that in the Hubei Province , if a patient can be quarantined within 24 h after symptom onset .
+513	The total number of casualties is approximately 14000 and the effective duration of the epidemic is about 90 days .
+514	We can see the best time to reopen the province is at least 100 d after the outbreak .
+515	In the absence of supplementary immunisation activities this would yield a 25 % chance that an outbreak starts during the 6 months of suspension .
+516	This is the main reason why a dog that bites a human is quarantined for 10 days .
+517	This is the main reason why a dog that bites a human is quarantined for 10 days .
+518	If the public authority could start intervention within 30 days and it adopted ring vaccination , the total number of patients may be constrained to less than 2500 .
+519	At least 2 weeks should elapse between vaccinations .
+520	Tracing 20 contacts per case could mean up to 2,000 contacts in the week of peak incidence .
+521	Quarantine periods of 8 - 12 weeks are recommended for random-source cats ( Griffi n and Baker , 2002 ) .
+522	Moreover , starting each year from a no vaccination situation seems reasonable as the rotavirus epidemic takes place every year during each winter period , and the vaccination of each new birth cohort each year must be maintained .
+523	We assume that once the symptoms appeared the patient is strictly quarantined .
+524	Targeting a range of 5 % to 10 % positivity rate of performed tests 39 , 10,000 to 20,000 tests per day would thus be required in the region .
+525	They were required to be quarantined for 14 days .
+526	Assuming that transmission rate was increased 10 fold after schools open , approximately 60 cases would be expected to occur more , and it means more than eight cases could be additionally confirmed every day from March 2 to March 9 .
+527	This time is generally 1 hour if HEPA filters or other airflow management systems are not in place .
+528	The incubation period is 1~14 days , mostly 3 - 7 days , based on the current epidemiological evidence [ 13 ] .
+529	However , when the community transmission of ebolavirus is uncontrolled , implementation of home quarantine for up to 21 days ( one incubation period ) can be considered .
+530	Seven days is the duration recommended by the Center for Disease Control and Prevention ( 2007 ) .
+531	A COVID response unit should meet frequently , at least weekly , until the pandemic has cleared .
+532	Because of the strong isolation and testing measures in China , it seems reasonable to take f = 0.8 which means that 80 % of symptomatic infectious cases go reported .
+533	Only q-N implies quarantine for every locally exposed individual immediately after exposure , which would prevent all cases except those 35 imported cases mentioned above and their first level infecteds of those unquarantined on arrival .
+534	in the case , of the US this could be 100 days or less without mitigation .
+535	When SARS transmission occurred in ICUs , entire units were quarantined for 12 - 14 days .
+536	If they fulfil any of the above criteria , their clinic appointments would be postponed for at least 14 days , which is current understanding of the incubation period of COVID-19 [ 3 ] .
+537	The average incubation period is normally 5 - 6 days but it may take 2 - 14 days according to the CDC .
+538	When general measures ( such as patient isolation procedures ) are able to reduce hospital transmission rate to c ¼ 0.05 , outbreaks can be contained if R 0 o5.0 with a 2-day admission interval .
+539	The average epidemic lengths might last for 11 - 12 weeks .
+540	The ban on countries with local transmission of SARS will be lifted only after more than 20 days ( twice the maximum incubation period ) have elapsed since the last locally acquired SARS case .
+541	This 10-day travel time , plus the additional 10-day waiting period , will approximate the 21-day Ebola incubation period ( Hellenic Shipping News 2014 ) .
+542	It was , however , shown by Haas ( Haas , 2014 ) that the three-week period may not be optimal ( in particular , it was shown that exposed individuals with 0.2%e12 % risk of developing disease may be released from quarantine prior to the end of the incubation period ) .
+543	Quarantine should continue until certain conditions are met .
+544	If the contrast effort is working , the final number of infected individuals should be 1618 ± 143 or less .
+545	The outbreak at KSMC required 30 full days to be brought under control .
+546	However , the pandemic periods in each region may be shorter than 122 days , which is the national average .
+547	If dogs with a current rabies immunization are exposed to a rabid animal , they should be revaccinated immediately , and kept under the owner 's control and observed for 45 days .
+548	If dogs with a current rabies immunization are exposed to a rabid animal , they should be revaccinated immediately , and kept under the owner 's control and observed for 45 days .
+549	If any member of the subgroup encountered a suspicious COVID-19 case , the whole subgroup undergoes a 14-day quarantine .
+550	A continuous weekend extension allows disease transmission between household members , but eliminates the transmission among co-workers for a relative long period ( e.g. , 3~5 days ) .
+551	In a country with 80 % routine measles vaccine coverage , the inter-epidemic period of measles outbreaks is about 4 years [ 20 ] .
+552	When estimating the extrinsic incubation period , we assume that the average temperature in Angola was 28 degrees Celsius during the outbreak .
+553	According to a research , the mean incubation period is 3.0 days .
+554	When one considers that most programs rely on quarterly testing and an adventitious infection is likely to require at least several weeks to spread to and reach a detectable level or elicit seroconversion in sentinels , it is reasonable to expect that a period of a month or longer has elapsed between the occurrence and detection of an outbreak .
+555	For influenza , the culling of poultry in cases of confirmed or suspected infection is also necessary .
+556	The staff member should be subjected to a self-imposed quarantine for a period of at least 14 days [ 7 ] .
+557	The maximum number of confirmed cases is about 20 % of the number of infections , which reflects the reporting rate for a testing strategy that limits tests to only severe cases .
+558	It is very unlikely that seroconversion in a shelter takes 60 days to occur .
+559	However , it is unrealistic to expect an entire population to stay under quarantine for a long time .
+560	As an example , in Illinois , the relationship shows that to limit further infections to TH value of 75 % of the active infection peak cases under lockdown , reopening the economy should start after waiting for at least 1.5 times the number of days to the first peak .
+561	However , if only 0·04 % of traced contacts are infected , a median of 2495 individuals need to be quarantined to prevent one secondary infection relative to active monitoring .
+562	The incubation period tends to be 1 day longer than that for HRV colds , with illness duration of 6 - 7 days .
+563	In the case of SARS , the incubation period ( the time between exposure and onset of symptoms ) has a median of 4 - 5 days ( up to a maximum of 10 days ) .
+564	The duration is 3 weeks , but it is flexible : 2 weeks in 1999 , 4 weeks in 2000e2008 , 1 week in the 2009 influenza pandemic , and 3 weeks in 2010e2012 .
+565	During the outbreak , the unit is only open to patients with SARS to avoid infection of other patients .
+566	The duration of 4 days was in relation with the national protocol with alert to the authorities when 5 cases occurred within 4 days [ 9 , 10 ] .
+567	People who are exposed to the virus but do not show any symptoms must remain in home quarantine for 14 days .
+568	Individuals in the infective and quarantined classes will enter the diagnosed class after three days on average and individuals in the diagnosed class will recover or die after three weeks in hospital on average .
+569	For Germany , at least an 80 % reduction of social contacts outside households is required for the epidemic to become subcritical , and with this reduction , the time to disease extinction amounts to more than a year .
+570	The observation period is 14 days after the last contact with ineffective protection or suspected exposure with the case .
+571	The authorities must take strict measures to stop the pandemic of COVID-19 , because the peak can be reached around mid-May .
+572	The length of the quarantine typically depends on the time from virus 64 exposure to the emergence of symptoms , i.e. the incubation period .
+573	Even if the tests are negative , close contact cases are quarantined until 14 days after exposure .
+574	The target period for detection is 5 days , and the survey is repeated every week .
+575	25 , 30 These data suggest a 14-day medical observation period or quarantine for exposed and close contact persons .
+576	The time to discharge after the onset of COVID-19 symptoms is two weeks minimum .
+577	If there are 10 infected travellers per week at the time of these interventions being introduced , the outbreak is typically delayed by only 2 days ( 50 % : < 1 - 5 days ) .
+578	c Recommended duration is 10 days when administered after a household exposure and 7 days after the most recent known exposure in other situations .
+579	From the coinfection model , latrines should be increased to 17.5 % : 4,908 , ( 3,870 extra ) , 1 for 6 people .
+580	The final epidemic size in Italy should be around 200,000 cases .
+581	The final epidemic size in Italy should be around 200,000 cases .
+582	To be effective , quarantine of contacts should occur within 3 days of symptom onset .
+583	A period of 30 days is generally adequate for collecting and submitting samples as well as receiving and interpreting results .
+584	In reality , for many coun-tries the time from first to last probable case was barely one month .
+585	Reports by ISS indicate that for COVID-19 casualties the median residence time at a hospital is about 5 days .
+586	The quarantine period serves to prevent transmission to the resident herd while waiting for the test to establish disease status .
+587	Under normal circumstances , the indoor mold level should be no higher than that of outdoors .
+588	Since the conditions during calculation are relatively stringent , and the requirement for the indoor average concentration of the isolation ward is not so important as that for protecting the medical personnel , it is reasonable to choose 8 - 12 h −1 .
+589	The average serial interval is assumed to be 15.3 days , as reported by the WHO emergency response team [ 6 ] .
+590	A Covid-19 waiting room is not planned because we assume that they are inpatients or on quarantine .
+591	Some authors recommended 40 days , others 90 days , and one author recommended a quarantine period of 6 months for a large captive population that may be at risk ( Gisler et al. 1960 ; NAS 1973 ) .
+592	In the case of straw yards , epidemiologic studies in the UK suggest that all bedding should be removed at the end of June ( to remove eggs shed in preceding months before they become infec tive ) and again at the end of August ( to remove eggs deposited in the summer ) .
+593	Quarantine and isolation for COVID-19 should be ordered only if the person is known or highly suspected to have been exposed to the disease , and only for the maximum duration of incubation ( fourteen days for COVID-19 ) .
+594	After having worked for some consecutive days , such as 14 days , they have to be placed under quarantine for another 14 days .
+595	Testing and tracing coverage need to exceed 50 % in order for contact tracing to reduce transmission by at least 10 % .
+596	In practice , only a fraction of exposed are infectious , but ideally all E should be quarantined .
+597	After exposure to avian flu ( H5N1 ) , the incubation time ( time between exposure and onset of illness ) is approximately 4 days .
+598	The average treatment period ( admission to discharge ) of hospitalized SARS patients is 14 days .
+599	Depuration periods may vary from 1 to 7 days , since minimum time periods for depuration are not stipulated in the legislation , with around 2 days being probably the most widely used .
+600	In a lockout situation , if the number of infected doubles every 20 days ( R=1.5 ) , at least 300 ICU beds are likely to be required by the end of 100 days .
+601	Therefore , the total number of cases should be equal to twice the number of deaths on 15 th of April .
+602	Based on the current epidemiological investigation , the incubation period is 1 - 14 days , mostly 3 - 7 days .
+603	The study suggested that the quarantine rate should be at least 63 % ( threshold ) for the epidemic to be averted [ 13 ] and that such strong control measures should be kept in place over the course of the outbreak .
+604	The overall interval between vaccine approval and issuance of a recommendation typically is 3 years .
+605	When the NIP for influenza was established in 1997 , the recommended period for vaccination was from September to October .
+606	There are legislative provisions in most States ; a 45-day treatment with oxytetracycline of all in-contact birds is required .
+607	The infection period can be assumed to start 2.5 days before onset of symptoms , the duration is unclear .
+608	The typical turnaround time for specimen collection to verification of test results was less than 15 hours .
+609	Based on the current epidemiological investigation , the incubation period is one to 14 days , mostly three to seven days .
+610	The class with the outbreak of ILI cases suspended classes for 1 week till no new ILI cases occurred in the next week .
+611	The time from getting infected to the start of IC treatment ( for those who need it ) is around 2 weeks , thus making the delay shorter .
+612	24 Asymptomatic but tested positive health care personnel must also quarantine for at least 7 days from the date of the test .
+613	The diagnosis of asymptomatic infected is much harder , we estimate the period ( 1/ A ) as 3 to 15 days .
+614	The detention time of wastewater is generally 3 to 5 days .
+615	The total number of casualties is approximately 15600 and the effective duration of the epidemic is about 100 days .
+616	We must assume that in Italy the average duration of time from contracting Covid-19 to death for those unfortunate enough to succumb is around 3.5 weeks .
+617	A lock-down success 20 % in Delhi means that current implemented lock-down will successfully home-quarantine 20 % of the total susceptible population .
+618	For the nosocomial case , a reasonable choice is T Nos~3 3:5 days , which is the average duration of nosocomial outbreaks observed in Jos and Zorzor hospitals ( 44 and 23 days respectively , the last days correspond to when the last person developed symptoms ) .
+619	Recommended duration is 7 days after exposure , and the CDC recommends a minimum of 2 weeks for control of influenza outbreaks in long-term care facilities ( i.e. , nursing homes with elderly ) and hospitals [ 70•• ] .
+620	The CRT for chikungunya was .14 days , as reflected by the time required to conduct laboratory tests for specimens of convalescence period to definitively confirm or exclude chikungunya .
+621	Unimmunized pets have to be quarantined in a controlled facility for 10 days , observed for onset of illness , and , if well , vaccinated before being released from quarantine .
+622	Therefore , infected colonies should be quarantined immediately .
+623	Therefore , infected colonies should be quarantined immediately .
+624	In both cases , according to the calculation , the epidemic would continue for about a year after the quarantine was removed .
+625	At the same time , the notice period should not be excessive ( e.g. 6 months for a junior vet ) or too short ( e.g. inconsistent with the minimum 1 month notice period provided for in the Animal Care and Veterinary Services Award 2010 ) .
+626	It was determined that a minimum treatment period should be around 12 weeks .
+627	The incubation period of COVID-19 has been estimated at 4 - 7 days on average , but there is evidence that it could be as long as 14 days [ 8 ] , which is now the commonly adopted duration for medical observation or quarantining .
+628	We would generally consider an outbreak detected late if > 1 maximum incubation period ( 10 days ) elapsed before the outbreak was recognized .
+629	It requires people to stay at home for at least 14 days , which is aiming at reduce the chance of contact with the infected people as much as possible .
+630	Thus , we estimate the fatality rate of the outbreak to be about 4.8 % in Hubei .
+631	As discussed in the second section , a widely acknowledged criteria of the WHO to decide the end of an epidemic has been to ensure no further report of cases , setting twice the long incubation period ( i.e. 14 days for MERS ) as the standard waiting period since the latest date of diagnosis or recovery .
+632	The recommended wait time before flying above 2400 m ( 8000 ft ) MSL is 24 h after the last dive that had a controlled ascent .
+633	The recommended wait time before flying above 2400 m ( 8000 ft ) MSL is 24 h after the last dive that had a controlled ascent .
+634	A high-level quarantine is recommended in this health security emergency ( Yoo and Hong , 2020 ) .
+635	At that moment , only emergency vaccinations of dogs and cats inside a buffer area of 5 km ( i.e. blockage area ) around suspicious or confirmed dog or cat rabies cases could be performed .
+636	The Dutch authorities recommend a duration of three hours .
+637	This assumes that the tracing and quarantining are done nearly instantaneously , which is reasonable since the time scale involved is usually a few hours and not days .
+638	Based on the typical seasonal influenza vaccine production , an estimate of 4 million doses per week was used with vaccine becoming available after 5 months .
+639	If OPV vaccine is inadvertently given to a household contact , close contact should be avoided for approximately 4 to 6 weeks after vaccination ( AII ) .
+640	An even higher frequency of handwashing is expected if the anticipated outbreak occurs .
+641	The disinfection time should be longer than 30 min .
+642	Adopting 28 days as the waiting time and count days from 4 July , the date on which the latest case was diagnosed , the earliest date that Korean government could have declared the end of outbreak was 2 August adhering to the WHO criteria .
+643	In Italy , the total number of cases reached 100 on February 24 , and subsequently reached 1,000 on March 1 , therefore Italy 's SS1000 was 6 days .
+644	The larger number of beds available for other cities allows an increase in the number of infected people in the other cities , shortening the period of rigid control , mainly for cities in interior of the state , in about 45 days , from early October to mid August .
+645	However , in heavy-challenge areas , particularly on multiage farms , a second spray vaccination at 18 days may be necessary .
+646	If most infected have been quarantined before they became infectious , the average time between 218 symptoms and quarantined must be below 0 and can not go lower than ( minus ) the average incubation 219 time .
+647	Generally , a 10-to 14-day home quarantine of close contacts of probable and suspect SARS cases was instituted .
+648	25 Based on the SARS experience , the maximum incubation period is currently considered to be no more than 14 days , but one case in our study was significantly longer at 17 days .
+649	It is considered that the epidemic region can be locked-down for only 30 days .
+650	A R0 below 0.15 would be desirable , i.e. a new case of infection every 6.7 infected cases .
+651	At the most 3 new patients would be observed per day in the day 24 after the first EVD patient arrives , and the epidemic duration is expected approximately 77 days .
+652	According to the product labeling , 2 to 3 punctures are recommended for primary vaccination and 15 for revaccination .
+653	Quarantine was first required for 14 days .
+654	Indoor personnel should not leave the room during the operation , and outdoor personnel should not enter the infected room .
+655	If the control agent under trial is to be claimed to reduce lice numbers to undetectable levels , the field trials must run for 20 weeks or until the next shearing , whichever is the sooner .
+656	The doctor-patient distance during examination is usually < 1 m , where the possibility of droplet transmission is high if there is no proper protection .
+657	With a total lag of 19 days between the onset of symptoms and death , I assume that the average time lag between the onset of symptoms and test results on April 7 th was 5 days .
+658	All HCWs who are exposed to VZV should be monitored daily during days 8 - 21 after
+659	The WHO stipulates a thoroughly studied inactivation curve where the inactivation time used for manufacture must exceed the time taken to reduce the virus titer to undetectable levels by at least a factor of 2 ( WHO 2002 ) .
+660	The SARS-2 quarantine program lasted 18 days .
+661	An increase in the lockdown period up to 42 days is required to significantly reduce the number of COVID-19 cases in the country .
+662	Importantly , staff with a travel history to COVID-19-affected areas or a history of exposure to COVID-19-affected individuals should first self-quarantine for 14 days , to eliminate risk of transmission .
+663	i.e. , about 1.4 million tests per day would be required to control the pandemics by testing only .
+664	i.e. , about 1.4 million tests per day would be required to control the pandemics by testing only .
+665	The hospitalization in smallpox is compulsory in all the period of contagiousness that means minimum 3 - 4 weeks .
+666	Unimmunized pets have to be quarantined in a controlled facility for 10 days , observed for onset of illness , and if well , vaccinated before being released from quarantine .
+667	On an assumption that the total number of cases would keep on increasing at this rate , by May 23 the total number of COVID-19 cases outside China should be slightly less than 5.8 million .
+668	Periods of closure vary based on facility capacity but a minimum of 180 days is recommended .
+669	The 14 days quarantine period , which has been adopted by many countries , is a result of the higher limit of the 95 % confidence levels [ 10 ] of this incubating period .
+670	The 14 days quarantine period , which has been adopted by many countries , is a result of the higher limit of the 95 % confidence levels [ 10 ] of this incubating period .
+671	With 100 undetected , imported cases and no intervention 280'000 cases of infected persons would be expected in Singapore after 80 days , assuming a low R value ( R = 1.5 ) .
+672	Total documented infections under moderate lockdown scenario will range from 2,500,000 to 3,000,000 around 23 rd July if 200,000 individuals are tested daily .
+673	Moreover , it is forecasted under community quarantine that the recovery time will take around four to five months ( up to July ) [ 15 ] .
+674	In order to prevent human-to-human transmission , quarantine should be observed until the patient has received at least 4 days of antibiotic treatment .
+675	If the laboratory does not have a central air exhaust system , entrance should be delayed ( e.g. for 24 h ) .
+676	If the control agent is to have a lesser claim -for example , to reduce lice numbers by at least 95 % over a period of 1 or 2 or 3 months , then the field trials must run for the claimed period plus at least 10 days , or until next shearing , whichever is the sooner .
+677	35 The quarantine period could be very long such as Mary Mallon ( also known as Typhoid Mary , a typhoid fever carrier who spent the last 24 years of her life under quarantine ) , or it could be very short , such as in the case of suspected anthrax attack ( the person is allowed to leave as soon as he or she sheds his or her potentially contaminated clothes and undergoes a decontamination shower ) .
+678	According to model projections , a maximum of about 1,000 infected individuals per day will need to be isolated in Île-de-France at the largest epidemic activity ( end of school calendar ) in the scenarios allowing control of the epidemic .
+679	For COVID-19 , this time delay may be a week or more .
+680	Suppression intervention from the 32 nd day : the peak of daily infectious populations greatly reduces to 30 thousands , but this intervention needs to be followed at least 120 days .
+681	When necessary , high-risk areas or communities with virus transmission will undergo lockdown until there are no new cases for 14 days after confirmation of the last case .
+682	This is likely a lower bound for the value of an additional 20 - 30 minutes at home for reducing COVID-19 cases .
+683	A minimum of 2 miles ( 3.2 km ) is suggested between farms , although little scientific data are available to support this claim .
+684	We assumed healthcare workers and infected inpatient cases need N95 facemasks while suspected and observational cases and the general population need non-N95 facemasks .
+685	It appears based on the data presented here that a quarantine time of 10 days for SARS might release one infectious patient in twenty .
+686	However , it would take at least 6 months ( and realistically 18 months ) to prepare a vaccine ( according to WHO ) .
+687	This is a reasonable assumption especially in the case of COVID-19 because the great majority of reported infected individuals would be quarantined and not allowed to travel .
+688	The estimated duration for each subject to complete immunizations and follow-up is 32 weeks .
+689	Based on the death toll and serological tests in New York city which indicated that 25 percent of the population had been infected with COVID-19 , the fatality rate for infected individuals is set at 0.5 % .
+690	As symptoms arise after 5 days ( see incubation period ) , this means the latent period is about 3 days .
+691	In other auxiliary rooms , the air change rate should be 6 - 10 h −1 .
+692	We assume that once an HCW becomes symptomatic , he/she will be quarantined or isolated at home as soon as possible , on average 1 day past COVID-like symptoms , depending on the heterogeneous level of symptomatic .
+693	Persons returning from one of the affected areas should monitor their health for 10 days .
+694	If logistics allow , then adding this one additional day to the quarantine process should be strongly considered .
+695	A large case fatality lag indicates a low infection quarantine lag , which means the confirmed cases had little time to infect other people before being quarantined .
+696	The TMRCA for the Icelandic isolates was estimated to be July 2008 .
+697	The delay between contacts being notified and entering quarantine should be minimal with high levels of public understanding , as should the delay for case isolation .
+698	For these two countries , the net rate of infection without containment measures , that is , with free proliferation of the virus , is between 20 and 40 % /day or doubling times of infected persons between 3.5 and 2 days .
+699	To avoid the aggravation of CoV-19 infection , and the collapse of the health system , individuals should remain at home in quarantine for a period of approximately one month in order to limit viral transmission .
+700	To avoid the aggravation of CoV-19 infection , and the collapse of the health system , individuals should remain at home in quarantine for a period of approximately one month in order to limit viral transmission .
+701	The Ratio of Infected Individuals per Reported Cases was around 15 on May 05 , 2020 .
+702	The estimated " actual " number of infection cases is 2.48 times the reported cases during the first 20 days after the Wuhan lockdown , on average .
+703	Once a positive horse is identified , either state or voluntary quarantine must be imposed for 21 days after the last clinical sign ( usually the temperature rise ) , although quarantine may last at least 28 days .
+704	Moreover , domestic animals including cats and dogs should be isolated for certain days during the vaccination period .
+705	Under the most restrictive measures , the outbreak is expected to peak within two weeks ( since 23 January 2020 ) with a significant low peak value .
+706	Bona fi de quarantine periods generally last at least 3 - 4 weeks , however , because 2 - 4 weeks is the commonly accepted time period for micro-organisms to proliferate to levels detectable using serology , bacterial culture or molecular diagnostics ( Rehg and Toth , 1998 ; Shek and Gaertner , 2002 ) .
+707	The period between contamination and appearance of the first Covid19 symptoms can extend to 15 days .
+708	According to the different risk of COVID-19 importation from individual countries , passengers were required to conduct home quarantine or self-health monitoring for 14 days .
+709	[ 5 ] Those having a travel history from these countries are likely to be quarantined for 14 days .
+710	Obviously , the suitable length of the quarantine period is directly related to the length of the incubation period .
+711	Currently , vaccinated dogs , cats and ferrets should be revaccinated immediately following exposure and kept under control and observation for 45 days .
+712	With a population of 57 million people in Hubei province , the attack rate would be below 2 % .
+713	In practice , a person will be quarantined immediately when they are confirmed to be infected with the disease .
+714	• τ Q = 14 days is the quarantine time .
+715	The PPE stockpile should be prepared to cover at least an 8-week pandemic .
+716	If the reclaimed water is used for augmentation of drinking water supplies , a 9.5 LR of viruses along with an 8 LR of bacteria and protozoa is required according to QMRA studies .
+717	The average length of time to develop a vaccine may be 20 years or more .
+718	In particular , for a Covid-19 pandemic without any mitigation attempts we can estimate 2 months t H 6 months .
+719	In addition , duration of the epidemic was estimated of 2 months about .
+720	Thus , we further analyzed the subset ( n=233 ) and found that 98.7 % and 97.9 % , respectively , of the men and women cases who are developing the disease , will be quarantined , if everybody or adults alone , respectively , take an extra 7-day of isolation ( i.e. , a quarantine period of 21 days ) .
+721	Therefore , access to public/private facilities will be denied to such individuals till his/her quarantine period is over .
+722	The median time between exposure and symptoms onset is three days ( ranges from 0 to 24 days ) .
+723	Lockdown time period can be extended if the country faces a sharp increase in the number of cases and or deaths .
+724	Lockdown time period can be extended if the country faces a sharp increase in the number of cases and or deaths .
+725	In order to prevent TT by YFV vaccine strain , the AABB recommends a 2 weekperiod deferral after YFV vaccination .
+726	If the process remains free , without introducing containment measures , the number of people infected would , therefore , double in less than three days .
+727	The estimated incubation period for SARS is 2 to 10 days ( median 5 to 6 days ) .
+728	I assume 19 days between the onset of symptoms and death and three days between the onset of symptoms and test confirmation , which leaves 16 days as the average lag between confirmed test results and death .
+729	For such a strategy to be effective , we require most incubation periods to be less than 14 days , so that the majority of infected people would develop symptoms before quarantine ended , enabling them to be further isolated .
+730	The current restrictions would lead to about 220,000 confirmed cases and a prolonged epidemic duration into
+731	The average time is 5 days of infection before an individual begins to become mildly symptomatic , although it can be as long as 14 days .
+732	If the first case is missed and the government intervention is not activated until 2 cases of secondary infection occur , the median number of patients is estimated at 15 , and the maximum , at 35 .
+733	The end time ( increment of confirmed infections equals zero ) is predicted to be 147 days from Jan 28th , 2020 .
+734	The threshold for COVID-19 testing in health care workers was low , and staff with respiratory symptoms or fever were given at least 5 days of medical leave .
+735	20 Steam-cleaned housing and utensils may be beneficial in controlling parasite numbers , and they are susceptible to 5 % ammonia solutions ; however , the required contact time is 18 hours .
+736	However , a more “ average ” timeframe is within the range of 2 to 3 weeks , and it is felt that the utility of testing results will be greatest if a period of 21 to 28 days is allowed for seroconversion .
+737	If the strict quarantine measures are being retained , the peak value of confirmed cases would be in the range of [ 52438 , 64090 ] and the peak date would be expected in the range February 7 to February 19 , 2020 .
+738	The detection of enteroviruses in water samples , for example , is reduced to 5 days .
+739	The chosen time schedule for lifting control means that the last supercluster in the country will lift control 840 days ( 2 years and 4 months ) after the first supercluster .
+740	Specifically , for those areas with poor ventilated conditions including elevators and basement garages , they are required to be disinfected for no less than four times daily .
+741	During the Influenza season , an institutional directive obligates to wear a mask by all unvaccinated HCWs in contact with patients .
+742	Incubation time is reported to be between 3 days and 6 days , that is , shorter than for poliomyelitis , which has a typical incubation period of 9 - 12 days .
+743	Minimum value for MAE appears for 3 days shift , meaning death cases were confirmed 3 days before .
+744	Minimum value for MAE appears for 3 days shift , meaning death cases were confirmed 3 days before .
+745	However , quarantine for 14 days is becoming the critical issue since some reports from WHO and other scientific reports revealed that the incubation period of COVID-19 could go to 24 days .
+746	The findings here also suggest that to minimize the impact of future epidemics similar to COVID-19 , the max number of days per year in which Italian provincial capitals can exceed the limits set for PM10 or for ozone , considering their meteorological conditions , is about 48 days .
+747	Potency data from the currently deployed vaccine lots show that a 2-fold dosage reduction would on average still approximate a concentration of 2 × 10 7 PFU , and , therefore , a 50 % reduced vaccine dose is recommended to be given to high-risk contacts ( including health-care workers as well as contacts and contacts of confirmed EVD cases ) .
+748	We predict that 95 % and 99 % effectiveness in preventing the release of infectious individuals is achieved with quarantine periods of longer than 4.74 and 8.62 days , respectively .
+749	People with ” Yellow code ” will be subject to 7 days of home quarantine or centralized quarantine for medical observation according to the provisions .
+750	Real data are 10 times lower ( that could be due to the lack of testing at the beginning of the outbreak and undetected mild symptomatic cases ) and delayed 16 days ( due to the incubation period , developing symptoms period and testing period , plus possible time for undetected first cases ) .
+751	This means that there is still around 2 - 3 months to prepare for the worst phase of the epidemic .
+752	The duration of the loss of marketable eggs appears to be 16 days .
+753	We also predict that the peak of the infection curve on Brazil should be 100 days after the first case , in which we considered to be the beginning of February .
+754	It should also be noted that a large number of PPE will be required in the short-term because it is estimated that the rate of infected people would be 25 % of the total population during an influenza pandemic .
+755	Patients who were discharged from hospital had to be quarantined for 2 weeks .
+756	In China , the unloading of ships is delayed due to a 14-day quarantine on incoming ships .
+757	In the case of disease outbreak in other countries , all imports will be quarantined .
+758	If the response is delayed , or if the attack infects 10000 people , all available beds will be exceeded within 40 days , with corresponding surge requirements for clinical health care workers ( HCWs ) .
+759	The recommended dose to supply adequate immunity is 16 mL for puppies and 15 mL for kittens .
+760	If staff members have come into contact with rodents outside the SPF area they should not be allowed to enter it until a certain period of time ( 4 - 7 days ) has elapsed .
+761	To reach on the numbers of infection , on 30 th of May , Bangladesh should expect around 259270 patients on a single day .
+762	From the latest date of either burial or second negative test result , it took 92 - 122 days to confirm the cases of recrudescenceall more than double the 42-day waiting period .
+763	For Tunisia , where the pandemic started with some delay , the recorded period is from March 2nd to 29th .
+764	For every case of SARS , health authorities should expect to quarantine up to 100 contacts of the patients and to investigate 8 possible cases .
+765	For example , in autumn the risk of larger outbreaks is five times larger than in summer .
+766	During the testing period , no new cats should be allowed to enter the household .
+767	When quarantine can be instituted within 24 h , the probability that the number of local transmission cases exceed 40 is 3.2 % ( scenario with a 0 % reduction in the rate of transmission ) .
+768	Vacdnated livestock exposed to rabies should be revaccinated and observed for 45 days ( Compendium , 2006 ) .
+769	In Guangzhou , strict disease control measures were implemented within one week of case importation .
+770	In this case , the epidemic will last until September 6 with the total number of confirmed cases about 400,000 .
+771	During this outbreak period , standard precautions are applied in the general population ( avoid mass gathering , keep distance greater than one meter between two people ) .
+772	In the EC , future legislation may force an improvement : the current proposals for a new broiler welfare directive indicate that all birds should be inspected twice daily from a distance of less than 3 m.
+773	However , agents should be at work at noon , in the pre-determined office , and stay at the office predetermined duration , here we adopted one-third of a day .
+774	If they are not symptomatic , simply quarantining for 14 days may suffice .
+775	The target response time , from receipt of the call to the arrival of the emergency ambulance services , is 15 min , and it is higher in rural areas .
+776	This period is approximately 70 days for 2009 A(H1N1 ) epidemic [ 20 ] .
+777	Furthermore , many cities require that recent visitors to high COVID-19 risk areas quarantine themselves at home or in designated facilities for 14 days .
+778	During the five peak days of SARS‐2 , the combined number of quarantine days was 910 .
+779	Since the outbreak of COVID-19 meets the criteria for a PHEC , the duration of public attention toward ARS-CoV-2 should be longer .
+780	Quarantine requires complete isolation of the ferret and its food , water , and cage supplies from other animals in the household for a period of at least 30 days .
+781	Ideally class size should be limited to fewer than eight kittens , and kittens should receive at least one FPV , FHV-1 , and FCV vaccine at least 10 days before the first class .
+782	The Chinese National Health Commission initially expected a 10 to 14 days incubation period 28 .
+783	When allowing only positive serial intervals for cases with no known infector , the mean generation time is estimated to be 3.50 days .
+784	There is a 4-day delay between symptom onset and isolation for positive cases .
+785	There is a 4-day delay between symptom onset and isolation for positive cases .
+786	Due to the large scale of contamination and low testing capacity , the Ministry of Health started to recommend since mid-March that in places with community transmission only serious cases should be tested .
+787	time required to reach a natural peak of an epidemic , so that a subsequent lifting of the quarantine would not result in a major resurgence of infections and critical care cases .
+788	A quarantine period of 21 days should be adequate to allow clinical identification of animals that are incubating any infection due to these enteric agents at the time of purchase .
+789	According to the previous analysis , the disease develops on average after 6 days of incubation , and it takes an average of 5 days from the morbidity to the diagnosis ( data from CHCC ) ( http://www.labour-daily.cn ) , that is , 5 þ 6 ¼ 11 days from the initial infection and incubation to the diagnosis and isolation after the morbidity .
+790	However , children receiving their measles containing vaccines will only get one dose during that time window because the two doses are given more than six months apart .
+791	Assuming the same rate of transmission as in Hubei Province , the possibility of no local transmission is 54.9 % with a 24-h quarantine strategy , and the possibility of more than 20 local transmission cases is 7 % outside of China .
+792	The home quarantine period in most province can be much shorter than Hubei and the disease can also be controlled well .
+793	In an ideal situation , the spread of smallpox would be halted within a short period if infected people went to hospital during the symptomatic period rather than during the infectious period .
+794	If the asymptomatic transmission during the incubation period contributes to a significant number of infection cases , a loophole of quarantine will ensue .
+795	In the worst-case scenario , available hospital beds will be exceeded in less than 40 days .
+796	In Guangzhou , strict disease control measures were implemented within 1 week of case importation .
+797	The minimum number for an organism to be in the database during the time period was once per week .
+798	48 For COVID19 , our estimates imply that approximately 50 - 60 % of the population must be infected or vaccinated in order to attain longterm epidemic control .
+799	305 It is expected that a second peak in infections may be observed one to two months after this release date , and that the remaining 306 population in quarantine should remain so until , once again , several weeks of low newly infected cases daily have been observed .
+800	The quarantine became effective roughly 10 days after saturation .
+801	The ultraviolet disinfection period should be no less than 30 min each time [ 13 ] .
+802	According to the manufacturer 's recommendations , only seronegative dogs should be vaccinated ; however , many dogs can be infected without seroconversion , and therefore , be improperly vaccinated .
+803	In the 72 cases that have clear contact history , the shortest incubation period is 1 day , the longest incubation period is 20 days .
+804	Category A quarantines took place in the person 's home , unless he/she was a health care worker or hospital patient exposed to a SARS patient .
+805	Samples from selected premises should occur " once during the first 3-week period of the area quarantine , " then " once during each additional 3-week period of the area quarantine , " for a minimum of two sample collections per surveillance zone .
+806	The necessary levels of latrine and bore hole coverages needed to eradicate the epidemic are both around 16 to 18 % .
+807	If a patient has been to any epidemic regions within the past 14 days , quarantining for at least 14 days is recommended .
+808	With respect to transportation services , only intra-state travel may be allowed in states where population density is less and reported cases are less than 50 right now .
+809	The assumed mean incubation is 5.67 days which is similar to the previous literature on SARS and MERS incubation period [ 7 , 8 , 15 ] .
+810	Ideally , only vaccinated animals should be brought in to infected premises .
+811	Ideally , only vaccinated animals should be brought in to infected premises .
+812	quarantine has to be maintained for a longer time and the drop in the quarantine rate is slower for higher contact rates .
+813	Considering the possibility of asymptomatic infections , we adopt a relatively short mean incubation period as 3 days and mean infectious period as 4 days .
+814	The peak number of simultaneously infected persons can be reduced to about 970.000 cases when enforcing this strategy no later than day 20 .
+815	We estimated that the highest number of the subdistricts to be infected at a given week was 15 .
+816	Warranty periods should generally extend for one year following occupancy .
+817	In many cases , the period available before leaving Japan is 2 months at the most .
+818	According to researchers , the use of quarantine will be most beneficial only when there is significant asymptomatic transmission and if the asymptomatic period is neither very long nor very short .
+819	To minimize virus transmission , it is crucial to avoid cross contaminations between COVID and non-COVID areas ; consequently it should be considered to dedicate an entire building to COVID cases .
+820	Annual boosters are necessary , although in high-risk situations where pet rabbits are potentially exposed to insects or wild rabbits infected with myxomatosis , the interval between vaccinations can be reduced to 6 months .
+821	Depending on local infection control policy , it may be clear at the outset that Owen needs to be isolated for seven days .
+822	Vaccine-induced immunity requires at least 7 - 14 days to become effective , and moreover , the reporting delay was assumed to be about four days ( based on additional analyses ; results not shown ) .
+823	This means that if travel from the first affected city was restricted to 1/128 of its former value on ( and after ) day 1 , there would be approximately the same number of influenza cases leaving the city on day 21 þ t as there would have been on day t had there been no intervention ; even such an extreme intervention would therefore buy only about 3 wk .
+824	Particularly , a three-day continuous extension is sufficient to suppress the epidemic and confine the spread of disease .
+825	Once there was a high-risk or suspected person , strict isolation was required for 14 days .
+826	Doubling time of ICU beds for Covid-19 emergency can be as low as 2 - 3 days at the outbreak of the pandemic .
+827	If a patient has been to epidemic regions within the past 14 d , quarantine for at least 14 d is suggested .
+828	The average targets for the start of increased lighting are 20 weeks for layer pullets and 23 weeks for meat pullets .
+829	For example , the duration for transmissionbased precautions can be as brief as seven days based on current CDC recommendations A c c e p t e d M a n u s c r i p t [ 9 ] .
+830	These figures indicate that between 79 % and 88 % of COVID-19 deaths occur until the 14 th day .
+831	The estimated pandemic peak is around 5/30/2021 , which would be 441 days after the … rst CoVID-19 fatality was reported , on 3/14/2020 .
+832	A region with high score should be quarantined as early as possible .
+833	However if infections are frequently imported from outside the vaccinated region , at least 40 % coverage would need to be maintained to reduce the probability of subsequent outbreaks ( of at least ten cases ) to , 0.05 .
+834	The quarantine measures for visitors are the same with those for patients .
+835	For a ferret with a current vaccine status exposed to a possible rabid animal , recommendations are to revaccinate the ferret within 96 hours of exposure and then keep the ferret under the owner 's observation and care for 45 days .
+836	Detailed advance planning for quarantine measures may therefore be justified during the pre-pandemic period .
+837	The optimal time for influenza vaccination is October and November , although vaccination in December and later is recommended for those who were not vaccinated earlier .
+838	Generally , people with influenza are considered infectious for five days .
+839	Schools were usually recommended to close for at least seven days .
+840	This estimate is plausible since the first cases in Mexico were reported on February 28th but given that the incubation period is of 6 days they likely arrived to Mexico City on February 21st or 22nd .
+841	This distance is required in case an outbreak happens on the current day but it remains undetected .
+842	As for air travel , it 's necessary to target at the main route to the source of influenza , and if 99 % air travel restriction is implemented , the peak of the epidemic will be postponed for up to two weeks .
+843	A typical time schedule would be three years .
+844	Because of its small allocated budget , salaries for such staff members can be covered by ECDC only when an outbreak occurs .
+845	People who are in close contact with suspicious exposure have been advised under a 14-day health observation period that should be started from the last day of contact with infected individuals .
+846	In general , the duration of treatment should not exceed 14 days .
+847	In most public places such as banks and hotel lobbies with good conditions for transmission of influenza , the time people spend is on the order of 10 minutes .
+848	In the first half of January , the fatality rate was less than 10 % because the outbreak was not very serious and prevalent .
+849	It was recommended to expose bottles of water to sun waves for 6 h in sunny or 2 days in cloudy days .
+850	The delay from illness onset to detection and isolation was set as a constant of 11 days as that on January 16 - 18 , 2020 .
+851	The time required for pharmaceutical analysis each day is 7.4 h ( including 0.9 h in the evening ) , 4.2 h on Saturdays and 3.1 h on Sundays .
+852	Conversely , in mass vaccination , contact tracing is not required , and so the public health authorities can administer shots to 1 million persons per day .
+853	The previous dates are 3 - 5 times multiplied during flu epidemics .
+854	Given that not all areas or individuals will respond , and travel and public gatherings are still unlikely , the partial unlock might be 5 full working days per week .
+855	Therefore , it was recommended that inoculated individuals should undergo a preparation procedure and be isolated during the vesicular period to avoid starting an outbreak among contacts .
+856	If the disease diagnosed in a flock , quarantine and slaughter , followed by strict sanitation , are usually required .
+857	If these ships are heading to Egypt , they must be observed , examined , and approved by Egyptian Ministry of Health , Maritime and Quarantine Bureau within 5 days , so that they can receive a plague-free pass permit .
+858	This reflects the following delays : ( a ) the incubation period of approximately 5 days ( on average ) ; ( b ) a period of about 2 to 3 days until symptoms become severe enough to satisfy test restriction criteria ; and ( c ) a period of about 3 to 4 days to obtain permission for the test , perform the test , get the results , and have the results included in the officially reported numbers .
+859	Hence , for outbreaks with low reporting rates , a longer waiting time would be needed to declare the EO .
+860	Only 31%(20 − 40 ) of cases could be detected if quarantine was delayed by 6 247 days .
+861	On-site inspection and health procedures should be used at this time ( pregnancy check , primary vaccination , parasite control ) .
+862	The time from testing the water supply until the building was taken in use was several month without any precautions was taken .
+863	People who were under quarantine were to stay at home for fourteen days to prevent potential transmission to others .
+864	In congruence with the delayed availability of the ERAS applications , the interview season could be postponed by 1 - 2 months , extending even into early February .
+865	If the transmission rate was increased 10 fold for 14 days after school opening on March 9 , approximately 100 cases are expected to occur more .
+866	Anyone who has had direct contact with an infected person should undergo strict quarantine with respiratory isolation for 17 days .
+867	The average rest days were estimated to seven days .
+868	In this area there is no flu-seasonality and the surveillance must be extended the whole year .
+869	The interval between the primary immunization and the first booster , and between subsequent boosters , is about 4 weeks .
+870	Returning residents with travel history to these areas are subject to a 14-day quarantine .
+871	The first shipments of vaccine to leave those facilities would take several months to develop .
+872	This assumption could have overestimated the optimal length of quarantine .
+873	The approximate bench time per sample for cobas testing of 600 to 700 samples per day is around one-tenth of the time needed previously .
+874	If someone gets symptoms of COVID-19 , the whole household is obligated to self-quarantine for 14 days [ 63 ] .
+875	At least two inoculations must be performed before the laying period , with an interval of four to six weeks .
+876	Experience from Toronto suggests that for each case of SARS , health authorities should expect to quarantine up to 100 contacts , and to investigate eight possible cases .
+877	For patients without COVID-19 related symptoms , the history of close contact with positive patients must have been greater than 14 days .
+878	The average incubation period for COVID-19 has been projected to be 5 to 6 days , although there is evidence that it can last as long as 14 days , which is now the widely accepted length for medical monitoring and quarantine of potentially exposed individuals [ 14 ] .
+879	During a pandemic , even targeted prophylaxis of health care workers would likely mean giving 6 to 8 weeks of prophylaxis ( oseltamivir , 75 mg per day ) to all or most of the persons working in hospitals and on the front lines of the outbreak .
+880	The beginning of an epidemic to the end of the cycle lasts 3 months .
+881	The end time ( increment of confirmed infections equals zero ) is predicted to be 147 days from Jan 28 , 2020 .
+882	We choose the upper bound of u 1 equals 0.50 , according to the reasonable case in China that it took at least an average of 2 days to quarantine the asymptomatic individuals who had been exposed to the virus , but had not yet developed clinical symptoms .
+883	Based on these estimates , it can be assumed that 101 out of 10,000 cases will develop symptoms after 14 days of observation or quarantine [ 19 ] .
+884	For a quarantine of 60 days , the number of cases at the end is , indeed , much smaller than they are in the beginning .
+885	Also , there might be a large number of asymptomatic carriers of COVID-19 , the quarantine should be continued for a long time until the epidemic is totally under control .
+886	Therefore , annual MDA programmes ( with all eligible community members complying ) must be sustained for at least five years to halt transmission , although this timeframe remains a matter of conjecture .
+887	The minimum protection rate for this scenario was 70 % for São Paulo .
+888	Thus , based on the reproduction number R t to control the epidemic , 50 % to 90 % of contacts need to be traced and isolated .
+889	While a closure of 7 days would apply as emergency control response in markets in a small geographic area , a 21-day closure would come into force in case of geographic spread of the disease and would include markets in a wider geographic area .
+890	The optimal duration of home isolation is uncertain , but in consideration of incubation time around 14 days without symptoms ( fever , dyspnoea , others ) are considered sufficient to end home isolation .
+891	The time necessary for 95 % of HCWs to be considered cured ( between the positive and two negative NF swabs ) was 30 days .
+892	Thus , all contacts should ideally be tested at the end of quarantine irrespective of symptoms .
+893	The quotas of the clinics for appointments are usually filled months before the clinics are held , with the result that all clinics for the 10-week period since the outbreak were fully booked before the outbreak .
+894	Since 23 March , all international flights must arrive in 12 designated first-entry cities , and all entry personnel much be forced to perform the COVID-19 detection and quarantine at the local centralized isolation points for 14 days .
+895	The seasonality of the disease in endemic regions like Samarqand dictates that the best timing for the intervention program is in the fall ( SeptÁDec ) , before lambing season ( FebÁJun ) .
+896	We refer to 2003 SARS outbreak in Taiwan , when it was estimated that the onset-to-diagnosis interval is 1.20 days for previously quarantined persons and 2.89 days for non-quarantined persons [ 37 ] .
+897	A certain percentage of the population may be successfully home quarantined during the lock-down period .
+898	A certain percentage of the population may be successfully home quarantined during the lock-down period .
+899	The duration of twice weekly monitoring was at least about 100 days .
+900	Any resident who exits the facility must quarantine for two weeks upon returning to the facility .
+901	During this time , 1 . 1 m distance between patients placed in the separate radioactive patient areas ( PET patients ) or in the common waiting rooms ( for gamma camera patients ) should be maintained to prevent novel coronavirus transmission among patients .
+902	The size of individual flocks should be large enough to monitor and sample no less than 20 lambs/kids of each breed per year ( the ideal situation is only one large flock ) .
+903	In contrast , all imported cattle have to be killed in the slaughterhouses within the quarantine premises .
+904	Based on this data , the mean time required to produce consistently negative piglets on PCR ( as defined by four consecutive samples representing 30 or more litres ) was 29.5 weeks after the outbreak .
+905	A strictly observed quarantine of three weeks has thus the potential to basically eliminate all carriers of the disease .
+906	For the asymptomatically infected individuals , the interval for day of infection ranges from the day of the person 's last negative serological test to the day of their first positive serological test .
+907	All of the above epidemiological exposure should happen within 14 days before the onset of illness .
+908	In China , it is required that the logarithmic value of the killing of thermophilic lipobacillus spores should be ! 5 ( MEE , 2006 ) .
+909	In the second phase , the time interval from disease onset to quarantine was assumed to drop by another 50 % due to the implication of the square cabin hospitals .
+910	Most patients will miss the A c c e p t e d M a n u s c r i p t real last positive assays since nucleic acid tests for SARS-CoV-2 were not performed every day , so this time might be shorter than the actual time .
+911	40 Imposing a cordon indefinitely on whole cities with no clear time limit ( such as has been seen in Wuhan , China ) might be more detrimental than strictly applied quarantine procedures limited to the period of incubation .
+912	Once an outbreak occurs , ring and mass vaccination would occur .
+913	In Sweden minimum container height should be 24 cm , and in England it should be 21 cm .
+914	At that time , the estimated number of total positive cases will be over 12500 , if lockdown remains continue .
+915	Since annual dengue cases emerge in early summer , the authorities concentrate mainy on physical and chemical interventions ( eg , breeding site clean-up and pesticide spray ) during summer , dengue transmission is under controlled .
+916	For a malaria-free or low transmission country or region , it is feasible to quarantine sporadic imported or autochthonous cases to limit the disease transmission from humans to mosquitoes .
+917	In the two scenarios , 6 versus 3 months are needed to stop the virus from spreading in Germany .
+918	Following French guidelines health authorities , maximum death-to-procurement time was 24 hours .
+919	A few staff members contracting the disease or in quarantine can result in shut down a program for weeks .
+920	If contact rate is cut by half , the required rate is closer to once per fortnight .
+921	A quarantine of two weeks had become mandatory from March 8 , 202 .
+922	While it is very difficult to predict an outbreak of widespread epidemic , all the healthcare facilities should stockpile a certain amount of critical PPE to ensure an adequate supply at the onset .
+923	Thus , according to the model , the peak of disease will be 62 days after the epidemic outbreak , that is about the 2 nd of April 2020 .
+924	When neither a private room is available nor cohorting is achievable , a space separation of at least 1 meter ( 3 feet ) should be present between the infected patient and other patients or visitors .
+925	When neither a private room is available nor cohorting is achievable , a space separation of at least 1 meter ( 3 feet ) should be present between the infected patient and other patients or visitors .
+926	Considering that illness developed in 2 persons on July 2 , the end of MERS outbreak could be declared on July 31 , at the earliest , following the WHO criteria .
+927	For example , type A areas ( ≥100 cases per 10⁵ inhabitants in the past 7 days ) implement a complete shutdown of the region and citizen lockdown , except for essential services ( eg , hospitals , health care , and research centres ) for a minimum period of 15 - 21 days .
+928	As noted earlier , the first priority of the government was to monitor those who had had contact with the index case for 21 days ( the incubation period of the virus ) .
+929	The infectious period is assumed for this study , an average of 7.6 days based on reported 14 days quarantine period COVID-19 [ 35 ] [ 36 ] [ 37 ] [ 38 ] [ 39 ] .
+930	For core vaccines , after a 26 week ' booster ' , another core vaccine would not be required for at least another 3 years ( for a low-risk cat ) .
+931	Similarly , those who have been exposed but showing no symptoms are hereby advised to self-quarantine for 14 days .
+932	However , all incoming birds must be vaccinated , regardless of age .
+933	In Italy , measles is a disease subject to mandatory notification , and according to the routine procedure , physicians must report suspected measles cases to their LHU within 48 hours of diagnosis .
+934	Reporting times for test results may be longer during summer months when arbovirus activity increases .
+935	All hens need to be molted after approximately a year in lay .
+936	A 2-week suspension from the end of symptoms is implemented in the case of donors showing respiratory symptoms , while similarly a 2-week suspension is required from donors who have returned from an area at risk ( La Marca et al. , 2020 ) .
+937	For other emerging infectious diseases , this interval may be much longer .
+938	Air travel restric-tion would delay introduction by one week to one month .
+939	Based on current infection data a tenfold increase of infected persons in 7 days is quite realistic for most countries without any interventions .
+940	Vaccinated ferrets exposed to a potentially rabid animal should be revaccinated and quarantined for 45 days .
+941	Revaccination is required after a year to maintain protection .
+942	Revaccination is required after a year to maintain protection .
+943	Based on viral shedding dynamics , this would imply tracing and quarantine within around 2 - 3 days of exposure ( 6 ) .
+944	HH-COVID-19 predicts that in 1 May , the infected cases exceed 50 000 , during May , to reach quickly the herd immunity stage at beginning of July .
+945	Recognized minimum exposure periods for sterilization of wrapped health care supplies are 30 minutes at 121 ° C in a gravity displacement sterilizer or 4 minutes at 132 ° C in a prevacuum sterilizer .
+946	In the present case-study , the time from faeces emission to the arrival at the WWTP has been estimated to be about 6 - 8 hours according to the mean corrivation times of WWs provided by the WWST managers .
+947	In regions with severe winters , treatment may be suspended during the winter months .
+948	If an individual is already infected , hospitalization will be required after at most δ −1 = 5.5 days or after δ −1 + γ −1 = 10.6 days on average if the infection was recent .
+949	The 5-day interval between immunization of ND-IB and H5-H9 vaccines is based on the immune program of poultry farm .
+950	29 Smaller calves such as Jerseys should be limited to 3 quarts ( 2.83 L ) delivered in the same time frame .
+951	In 58.8 % of simulated outbreaks , the number of additional tests required is less than ten thousand ( per day ) .
+952	For a country with the total population 10 million and duration of the incubation period is one week , the critical level of epidemic is about 1400 new daily cases .
+953	Even in the mid-range scenario of 1000 initial cases , up to 40 % of all available hospital beds will be required for smallpox control .
+954	The VGG recommends that MLV vaccines , after being reconstituted , should be used within 1 - 2 hrs .
+955	The duration of the public health measures is unknown but may last for a year or more .
+956	The same OR and the same anesthesia machine will only be used for COVID-19 cases for the duration of the epidemic .
+957	The same OR and the same anesthesia machine will only be used for COVID-19 cases for the duration of the epidemic .
+958	There is , however , no reason to restrict the targeted quarantine threshold to 65 or 70 years of age , and , as we shall show , lowering this age threshold to 50 can reduce fatalities substantially .
+959	Even if the public health authority could start intervention within 30 days after the initial case was exposed , the total number of patients would exceed 5000 .
+960	Burkina Faso uses an alert threshold of 5 cases per 100 000 persons per week , which is recommended by WHO when epidemic activity is confirmed in neighboring countries .
+961	Considering keeping the current isolation levels , the peak of daily new cases occurs around 100 days after the first case ( June 5 ) , with around 11,000 confirmed cases .
+962	57 In low-risk areas and communities without cases , people entering from higher risk areas ( or overseas ) are subject to quarantine for 14 days .
+963	The VGG recommends that MLV vaccines , after reconstitution , should be used within 1 to 2 hrs .
+964	Quarantine and traveler surveillance is employed in airports during the endemic period .
+965	On a larger scale , rooms in which autopsies are performed should adhere to a standard of at least 12 air exchanges per hour .
+966	If these strict measures were held for an additional eight weeks before being partially relaxed , our modelling suggests that ~115,000 diagnosed cases would occur over that 100 day period .
+967	Considering the sensitivity of SARS-cov2 PCR is 43 - 70 % ( it depends on where the sample took place ) in our hospital , even if the PCR is negative for COVID-19 , we withhold the radiotherapy for at least two weeks .
+968	Most of the confirmed cases in this period should be infected in cities outside Hubei .
+969	International travel is greatly curtailed ; anyone entering China is required to be in quarantine for 2 weeks .
+970	The one-week duration is the averaged incubation time that it takes an infected person to show symptoms .
+971	In conclusion , all HCWs in contact with confirmed MERS-CoV patients need to be quarantined for 14 days no matter how significant the contact is , if the full compliance with personal protective equipment can not be assured with certainty .
+972	Based on the afore-mentioned trends , some restrictions would need to remain through July to limit outbreaks .
+973	At the beginning of the outbreak , the ratio was approximately 4 - 5 patients per nurse , a potentially dangerous ratio that could lead to transmission .
+974	The minimum interval of 2 weeks is recommended in high-risk settings to narrow the window of susceptibility as maternal antibody wanes .
+975	On the other hand , the minimum incubation period of malaria is seven days , and a traveler becoming febrile immediately after a weekend trip to an endemic area can be essentially ruled out for malarial fevers , assuming no previous exposure risk .
+976	To prevent the occurrence of the second peak 200 especially in the countries that enforced quarantine measures , it is crucial to release the quarantine order in an appropriate time .
+977	A delay of 4 months from the start of the global pandemic would mean that the initial epidemic would be largely over by the time most of the modelled populations could be vaccinated .
+978	The Ministry of Health , Labor , and Welfare of Japan also supposes that a pandemic will last 8 weeks 4 ; therefore , a stockpile of PPE should be prepared to cover at least 8 weeks , although influenza pandemics could last longer with 2 or more waves .
+979	Besides , to impede an outbreak by several weeks or more would need a 99 % effectiveness of border controls and internal travel checks ( Ferguson et al. , 2006 ) .
+980	Based on the global evidence , we assumed that the mean duration between the onsets of symptoms to deaths is 14 days .
+981	The actual number of persons diagnosed as virus-infected persons is less than the lower limit ( 850 persons ) at present .
+982	The target for control is at least 70 % of dogs vaccinated every year with a vaccine that has a 3-year duration of immunity .
+983	The duration of operations is considered to be acceptable .
+984	A delay for 7 days would make the epidemic finally out of control .
+985	The incubation period for SARS CoV is 2 to 10 days ( median , 4 days ) .
+986	Persons who come into contact with plague patients should receive antibiotic prophylaxis for 7 days .
+987	Furthermore , the duration of isolation for suspected cases should be extended to 21 days or even four weeks to ensure they will not be able to transmit the virus without being identified .
+988	The out-patient facilities and personnel should be separated in non-COVID and COVID treatment units during the pandemic .
+989	It is recommended to wait 3 months before attempting to re-stock waters in which crayfish have been killed by crayfish plague , to allow all zoospores to die out .
+990	Given that the incubation period was about 5 days and the confirmation of COVID -19 190 infection can often be delayed , to guarantee an early quarantine of all suspected cases before symptom onset is 191 a critical criterion to reduce the chance of community spread .
+991	Individuals who may have been exposed to the SARS virus were quarantined for a ÿxed period of time , most commonly 10 days .
+992	Our estimate of the generation time for this region is of the order of 2 days , whereas the values previously assumed for the infectious period were defined per flock as the time between detection and culling plus an additional 4 days to cover the time before the infection was detected but during which birds were infectious .
+993	However , shutting down all live poultry markets nationwide , even in areas with high incidence of H7N9 , is unrealistic .
+994	Under this scenario , the DAY-ZERO for the outbreak in Lombardy was found to be the 21st of January .
+995	The total infectious period is set to 6 days regardless of the length of the symptomatic period .
+996	In an emergency scenario where every day counts , one could use the minimum production scale for the first batches ( for example , 200 liters versus 2,000 liters ) and thus save 3 - 4 days in the inoculum stage of production .
+997	Sampling frequency for a national-level early detection system was estimated at every 3 days , the ideal frequency to detect disease prior to clinical signs .
+998	State regulations vary as to the minimum age for canine rabies vaccination : in California the legal minimum age of canine vaccination against rabies is 16 weeks .
+999	Interestingly , incubation periods of 233 cases ( 11.6 % ) were longer than the WHO-established quarantine period ( 14 days ) .
