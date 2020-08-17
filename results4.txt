@@ -1,43 +1,29 @@
 people with arg1:[e]asthma are $susceptible to arg2:[e]asthma
-0	This is explained by the fact , that patients with inhalation injury are more susceptible to ( respiratory tract ) infections with potential septic progression than patients without inhalation injury but equal TBSA ( 31 ) ( 32 ) ( 33 ) .
-1	It is well established that patients with fractures are susceptible to pulmonary infection , especially those with lower-limb fracture and limited ambulatory capacity 9 .
-2	Patients with cystic fibrosis are particularly susceptible to chronic infection with P. aeruginosa , and infection ultimately leads to respiratory failure .
-3	48 Patients with atopic dermatitis are also highly susceptible to widespread disseminated viral infections , including eczema molluscatum , eczema herpeticum , and eczema vaccinatum .
-4	The laboratory findings on admission showed that leucocytes and neutrophils count and the proportion of increased leucocytes were higher in COVID-19 patients with diabetes than those without , which might be explained by the fact that patients with diabetes were more susceptible to pathogens after a viral infection due to lower immune function .
-5	Transplant patients with prolonged ( > 21 days ) neutropenia are especially susceptible to fungal infections and may present with high fever , dyspnea , and occasionally hemoptysis .
-6	In addition , patients with atopic dermatitis are highly susceptible to cutaneous bacterial , viral , and fungal infections , most notably Staphylococcus aureus and herpes simplex virus .
-7	Patients with COPD are more susceptible to viral infections , and up to one half of cases of COPD exacerbations are associated with viral infections ( 16 , 34 ) .
-8	Accordingly , individuals with CF are susceptible to chronic infections , primarily by the opportunistic pathogen P. aeruginosa , which is particularly difficult to eradicate due to the high basal levels of antibiotic resistance and the ability of P. aeruginosa to form antimicrobial resistant biofilms .
-9	Neurons are generally the cells most susceptible to necrosis , especially from hypoxia or ischemia , and develop ( early in the process of cell death ) the morphologic features of coagulative necrosis .
-
-Performed query of type 'Start with Query'. Similarity search results:
- 	0
-0	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
-1	Patients with lung cancer are highly susceptible to infection compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
-2	Patients with ARDS triggered by viral infection , in particular influenza , are prone to invasive aspergillosis even in absence of prior immunodeficiency .
-3	Individuals with SCD are strongly susceptible to encapsulated bacterial organisms such as S. pneumoniae , a common colonizer of the nasopharynx in healthy children .
-4	Individuals with diabetes , immunosuppressive disorders , and liver disease including hemochromatosis and alcoholic liver disease are especially susceptible to infection .
-5	Moreover , children receiving immunomodulatory or immunosuppressive therapies due to malignancy , transplantation , or autoimmune disease are more susceptible to viral infection or reactivation .
-6	Accordingly , young children , compared with adult transplant recipients , are at higher risk of acquiring primary infection with many organisms after they are immunosuppressed , which can lead to increased severity .
-7	On one hand , elderly patients are at risk for gram-negative and anaerobic polymicrobial aspiration pneumonia , and on the other hand are more prone to bacterial superinfections following influenza infection .
-8	Patients with cancer are known to be at an increased risk for community-acquired respiratory viruses , such as influenza , because of their frequently observed immunocompromised state .
-9	However , immunocompromised patients , including those with HIV/AIDS and patients taking immunosuppressants post-transplant , are at an increased risk for viral and fungal pneumonia .
-10	Although the incidence of RSV infection is low among patients with AML , it is associated with high mortality in children with AML [ 21 ] , and it is well known that infants , both immunocompetent and immunocompromised , are particularly vulnerable to RSV .
-11	However , neonates , older individuals , and those with immune deficiencies are prone to more frequent and more serious CNS viral infections .
-12	However , immunocompromised individuals , both children and adults , are prone to develop severe illness as a result of HPIV infection .
-13	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
-14	Due to the physiological changes in their immune and cardiopulmonary systems , pregnant women are more likely to develop severe illness after infection with respiratory viruses .
-15	The patients with rheumatic immune diseases have immune dysfunction and are often on glucocorticoid and immunosuppressant therapy , which in turn predispose them to an increased risk of contracting SARS-CoV-2 infection .
-16	Although most infected patients have mild to moderate symptoms or are even asymptomatic , older patients or those with existing chronic diseases are at greater risk of developing serious complications such as pneumonia or multiple organ failures .
-17	Among patients , those with cystic fibrosis ( CF ) , chronic obstructive pulmonary disease ( COPD ) , and on mechanical ventilation are particularly prone to develop pneumonia caused by PA infection [ 6 ] .
-18	Cancer patients , particularly those under anticancer treatment , are potentially more susceptible for a severe infection .
-19	Affected individuals are immunosuppressed , and therefore , are more susceptible to influenza , viral enteritis , and distemper [ 1 , 26 ] .
-20	Preterm infants , especially very low birth weight infants , have low immune function , which is the main risk group of neonatal fungal infection .
-21	Patients with cancer are more susceptible to the infection owing to their immunocompromised state .
-22	Individuals with underlying medical conditions are at increased risk of pneumonia , which may be due to viral extension to the lungs or bacterial superinfection .
-23	Patients with immunodeficiency due to human immunodeficiency virus ( HIV ) infection are highly susceptible to viral sepsis depending on the stage of disease and access and response to the treatment ( 19 ) .
-24	Elderly patients are also more prone to RSV infections due to their decreased immunologic response to the virus [ 13 ] .
-25	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
+0	Patients with <s1>h:lung h:cancer<e1> are highly susceptible to <s2>h:infection<e2> compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
+1	Patients with <s1>h:lung h:cancer<e1> are highly susceptible to <s2>h:infection<e2> compared to healthy individuals because of systemic immunosuppression induced by malignancy and anticancer therapy .
+2	Patients with <s1>h:ARDS<e1> triggered by viral infection , in particular influenza , are prone to <s2>invasive aspergillosis<e2> even in absence of prior immunodeficiency .
+3	Individuals with <s1>h:SCD<e1> are strongly susceptible to <s2>h:encapsulated h:bacterial h:organisms<e2> such as S. pneumoniae , a common colonizer of the nasopharynx in healthy children .
+4	Individuals with <s1>h:diabetes , h:immunosuppressive h:disorders , and h:liver h:disease including h:hemochromatosis and h:alcoholic h:liver h:disease<e1> are especially susceptible to <s2>infection<e2> .
+5	Moreover , children <s1>h:receiving h:immunomodulatory or h:immunosuppressive h:therapies due to h:malignancy , h:transplantation , or h:autoimmune h:disease<e1> are more susceptible to <s2>h:viral h:infection or h:reactivation<e2> .
+6	Accordingly , <s1>h:young h:children<e1> , compared with adult <s1>h:transplant h:recipients<e1> , are at higher risk of acquiring <s2>h:primary h:infection with many organisms<e2> after they are immunosuppressed , which can lead to increased severity .
+7	On one hand , <s1>h:elderly h:patients<e1> are at risk for <s2>h:gram-negative and h:anaerobic h:polymicrobial h:aspiration h:pneumonia<e2> , and on the other hand are more prone to <s2>h:bacterial h:superinfections<e2> following <s1>h:influenza h:infection<e1> .
+8	Patients with <s1>h:cancer<e1> are known to be at an increased risk for <s2>h:community-acquired h:respiratory h:viruses<e2> , such as <s2>h:influenza<e2> , because of their frequently observed immunocompromised state .
+9	However , <s1>h:immunocompromised h:patients<e1> , including those with <s1>h:HIV/AIDS and patients taking h:immunosuppressants h:post-transplant<e1> , are at an increased risk for <s2>h:viral and h:fungal h:pneumonia<e2> .
+10	Although the incidence of <s2>h:RSV<e2> infection is low among patients with <s1>h:AML<e1> , it is associated with <s2>h:high h:mortality<e2> in <s1>h:children with h:AML<e1> [ 21 ] , and it is well known that <s1>h:infants , both h:immunocompetent and h:immunocompromised<e1> , are particularly vulnerable to <s2>h:RSV<e2> .
+11	However , <s1>h:neonates , h:older h:individuals , and those with h:immune h:deficiencies<e1> are prone to more frequent and more serious <s2>h:CNS h:viral h:infections<e2> .
+12	However , <s1>h:immunocompromised h:individuals<e1> , both children and adults , are prone to develop <s2>h:severe h:illness<e2> as a result of <s1>h:HPIV h:infection<e1> .
+13	Due to the physiological changes in their immune and cardiopulmonary systems , <s1>h:pregnant h:women<e1> are more likely to develop <s2>h:severe h:illness<e2> after infection with <s1>h:respiratory h:viruses<e1> .
+15	The patients with <s1>h:rheumatic h:immune h:diseases<e1> have immune dysfunction and are often on glucocorticoid and immunosuppressant therapy , which in turn predispose them to an <s2>h:increased h:risk of contracting h:SARS-CoV-2 h:infection<e2> .
+16	Although most infected patients have mild to moderate symptoms or are even asymptomatic , <s1>h:older h:patients or those with h:existing h:chronic h:diseases<e1> are at greater risk of developing <s2>h:serious h:complications such as h:pneumonia or h:multiple h:organ h:failures<e2> .
+17	Among patients , those with <s1>h:cystic h:fibrosis ( h:CF ) , h:chronic h:obstructive h:pulmonary h:disease ( COPD ) , and on mechanical h:ventilation<e1> are particularly prone to develop <s2>h:pneumonia caused by h:PA h:infection<e2> [ 6 ] .
+18	<s1>h:Cancer h:patients<e1> , particularly those <s1>under h:anticancer h:treatment<e1> , are potentially more susceptible for a <s2>h:severe h:infection<e2> .
+19	<s1>Affected individuals are h:immunosuppressed<e1> , and therefore , are more susceptible to <s2>h:influenza , h:viral h:enteritis , and h:distemper<e2> [ 1 , 26 ] .
+20	<s1>h:Preterm h:infants<e1> , especially <s1>very h:low h:birth h:weight h:infants<e1> , have low immune function , which is the main risk group of <s2>h:neonatal h:fungal h:infection<e2> .
+21	Patients with <s1>h:cancer<e1> are more susceptible to <s2>the h:infection<e2> owing to their immunocompromised state .
+22	Individuals with <s1>h:underlying medical h:conditions<e1> are at increased risk of <s2>h:pneumonia<e2> , which may be due to viral extension to the lungs or bacterial superinfection .
+23	Patients with <s1>h:immunodeficiency due to h:human h:immunodeficiency h:virus ( h:HIV ) h:infection<e1> are highly susceptible to <s2>h:viral h:sepsis<e2> depending on the stage of disease and access and response to the treatment ( 19 ) .
+24	<s1>h:Elderly h:patients<e1> are also more prone to <s2>h:RSV h:infections<e2> due to their decreased immunologic response to the virus [ 13 ] .
+25	Patients with <s1>h:DS<e1> are highly susceptible to <s2>lower and higher h:respiratory h:tract infection<e2> .
 26	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
 27	Patients with DS are highly susceptible to lower and higher respiratory tract infection .
 28	In comparison to immunocompetent individuals , respiratory viral infections in patients with hematological malignancy ( particularly after HSCT ) are more prolonged , lasting weeks and even months , and lead to an increased risk of respiratory compromise due to the development of viral or secondary bacterial pneumonia .
@@ -88,7 +74,7 @@ Performed query of type 'Start with Query'. Similarity search results:
 73	Compared with other solid organ transplant recipients , LTR are more vulnerable to infections .
 74	Although immunocompromised patients acquire HMPV infections at the same frequency as immunocompetent individuals , they are at higher risk for severe infections .
 75	Patients with prolonged neutropenia are predisposed to become infected with candida or aspergillus [ 33 ] and fungal infections constitute a majority of fatal infections in patients with acute leukemia [ 34 , 35 ] .
-76	Neutropenic patients with associated CD4 + cell depletion not receiving appropriate prophylaxis are at high risk for Pneumocystis jiroveci pneumonia [ 14 , 15 ] .
+76	Neutropenic patients with associated CD4 <s2> cell depletion not receiving appropriate prophylaxis are at high risk for Pneumocystis jiroveci pneumonia [ 14 , 15 ] .
 77	Although women of reproductive age have much lower mortality , they are susceptible to pneumonia from bacterial , viral , and fungal sources .
 78	Infants with underlying cardiopulmonary compromise such as surgical congenital cardiac disease and infants born prematurely with chronic lung disease are considered to be more susceptible to RSV infection , with resultant increased mortality and morbidity .
 79	However , these immunocompromised patients are more susceptible to infections caused by both conventional and opportunistic infections , and infection is now the first cause of death of SOT recipients .

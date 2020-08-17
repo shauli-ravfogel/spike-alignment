@@ -1,30 +1,28 @@
 infected arg1:patients $usually $develop <>arg2:[entity]respiratory illness.
-0	After an incubation period of 5 to 14 days , SARS-CoV-2-infected people commonly manifest features of pneumonia , including fever , dry cough , dyspnoea , myalgia and fatigue .
-1	After an incubation period of 2 to 3 days , patients who have pneumonic plague typically develop fulminant pneumonia , with malaise , high fever , cough , hemoptysis , and septicemia with ecchymoses and extremity necrosis .
-2	Patients suffering from severe DENV infection often exhibit encephalopathy and encephalitis .
-3	Following an incubation period of usually 4 - 5 days , patients infected with SARS-CoV often present with symptoms of fever , headache , and myalgias .
-4	Cats with FIP show nonspecific clinical signs such as fever , weight loss and anorexia , often accompanied by body cavity effusions and/or ocular and neurological signs .
-5	Cats with signs from FIV often have lethargy , anorexia and weight loss associated with secondary infections of the skin , and gastrointestinal or respiratory tracts .
-6	Enteric FCoV infection typically results in inappetence and/or mild gastrointestinal signs such as vomiting and diarrhea .
-7	Most patients with MERS develop severe acute respiratory illness accompanied by fever , cough , and shortness of breath [ 50 ] .
-8	The terminal stages of Ebola virus infection usually include diffuse bleeding , and hypotensive shock accounts for many Ebola virus fatalities .
-9	In rats , infection is usually asymptomatic , although nonspecific clinical signs such as weight loss and dyspnea may occur .
-10	Following an average incubation period of 20 days , infected patients can present with severe headache , fever , chills , fatigue , and myalgia .
-11	Patients infected with EVD rapidly deteriorate and commonly present with gastrointestinal symptoms including vomiting , diarrhea and dehydration .
-12	Adult rabbits usually develop a chronic disease course , which can lead to intestinal fi brosis , liver necrosis and stenosis , and myocardial disease .
-13	Cats are primarily infected subclinically , but gastrointestinal disease manifested as enterocolitis and endotoxemia can occur and is initially associated with fever , malaise , and anorexia followed by vomiting , abdominal pain , and diarrhoea [ 7 ] .
-14	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
-15	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
-16	Affected rabbits usually develop sepsis , which quickly leads to death ; however , diarrhea may occur as well .
-17	Common marmosets with measles infection become clinically apparent with lethargy , facial edema , and nasal discharge and occasionally develop an exanthema .
-18	In humans , VEEV infection causes a sudden onset of malaise , fever , chills , headache , and sore throat .
-19	Humans infected with RVFV usually develop an acute febrile myalgic syndrome ; however , a small percentage of patients have a lethal illness that results in hepatic damage , hemorrhagic fever-like illness , encephalitis and/or retinal vasculitis [ 8 ] .
-20	In humans , infection is associated with fever and liver damage , but a subset of patients progress to hemorrhagic fever , encephalitis , ocular disease or death .
-21	After an incubation period of 9 - 12 days , MERS generally presents in humans as a lower respiratory infection with fever ( often with chills or rigors ) , dry or productive cough and dyspnea .
-22	Patients with bubonic plague usually develop symptoms of fever , headache , chills , and swollen , extremely tender lymph nodes ( buboes ) within 2 to 6 days after contact with the pathogen .
-23	Symptomatic CHIKV infection often manifests itself by short-lived fever and recurrent joint pain , which can last for months to years ( 10 ) .
-24	Pneumonia caused by SARS-CoV typically has an insidious onset , and respiratory symptoms worsen slowly but steadily during the first 10 to 15 days [ 10•• ] .
-25	Those infected with SARS suffer fever , cough , muscle aches , and shortness of breath and often progress to severe lung inflammation .
+0	After an incubation period of 5 to 14 days , <s1>h:SARS-CoV-2-infected h:people<e1> commonly manifest <s2>features of h:pneumonia<e2> , including <s2>h:fever , h:dry h:cough , h:dyspnoea , h:myalgia and h:fatigue<e2> .
+1	After an incubation period of 2 to 3 days , <s1>h:patients who have h:pneumonic h:plague<e1> typically develop <s2>h:fulminant h:pneumonia , with h:malaise , h:high fever , h:cough , h:hemoptysis , and h:septicemia with h:ecchymoses and h:extremity h:necrosis<e2> .
+2	<s1>h:Patients suffering from severe h:DENV h:infection<e1> often exhibit <s2>h:encephalopathy and h:encephalitis<e2> .
+3	Following an incubation period of usually 4 - 5 days , <s1>h:patients infected with h:SARS-CoV<e1> often present with <s2>symptoms of h:fever , h:headache , and h:myalgias<e2> .
+4	<s1>h:Cats with h:FIP<e1> show <s2>h:nonspecific h:clinical h:signs such as h:fever , h:weight h:loss and h:anorexia<e2> , often accompanied by <s2>h:body h:cavity h:effusions and/or h:ocular and h:neurological h:signs<e2> .
+5	<s1>h:Cats with signs from h:FIV<e1> often have <s2>h:lethargy , h:anorexia and h:weight h:loss<e2> associated with secondary infections of the skin , and gastrointestinal or respiratory tracts .
+6	<s1>h:Enteric h:FCoV h:infection<e1> typically results in <s2>h:inappetence and/or mild h:gastrointestinal h:signs such as h:vomiting and h:diarrhea<e2> .
+7	Most <s1>h:patients with h:MERS<e1> develop <s2>severe h:acute h:respiratory h:illness accompanied by h:fever , h:cough , and h:shortness of h:breath<e2> [ 50 ] .
+8	The <s1>h:terminal h:stages of h:Ebola h:virus h:infection<e1> usually include <s2>h:diffuse h:bleeding , and h:hypotensive h:shock<e2> accounts for many Ebola virus fatalities .
+9	In <s1>h:rats<e1> , infection is usually asymptomatic , although <s2>h:nonspecific h:clinical h:signs such as h:weight h:loss and h:dyspnea<e2> may occur .
+10	Following an average incubation period of 20 days , <s1>h:infected h:patients<e1> can present with <s2>severe h:headache , h:fever , h:chills , h:fatigue , and h:myalgia<e2> .
+11	<s1>h:Patients infected with h:EVD<e1> rapidly deteriorate and commonly present with <s2>h:gastrointestinal h:symptoms including h:vomiting , h:diarrhea and h:dehydration<e2> .
+12	<s1>h:Adult h:rabbits<e1> usually develop a <s2>h:chronic h:disease h:course<e2> , which can lead to <s2>h:intestinal h:fi h:brosis , h:liver h:necrosis and h:stenosis , and h:myocardial h:disease<e2> .
+13	<s1>h:Cats<e1> are primarily infected subclinically , but <s2>h:gastrointestinal h:disease manifested as h:enterocolitis and h:endotoxemia<e2> can occur and is initially associated with <s2>h:fever , h:malaise , and h:anorexia followed by h:vomiting , h:abdominal h:pain , and h:diarrhoea<e2> [ 7 ] .
+14	<s1>h:Affected h:rabbits<e1> usually develop <s2>h:sepsis<e2> , which quickly leads to death ; however , <s2>h:diarrhea<e2> may occur as well .
+17	<s1>h:Common h:marmosets with h:measles h:infection<e1> become clinically apparent with <s2>h:lethargy , h:facial h:edema , and h:nasal h:discharge<e2> and occasionally develop an <s2>h:exanthema<e2> .
+18	In <s1>h:humans<e1> , VEEV infection causes <s2>a sudden onset of h:malaise , h:fever , h:chills , h:headache , and h:sore h:throat<e2> .
+19	<s1>h:Humans infected with h:RVFV<e1> usually develop <s2>an acute h:febrile h:myalgic h:syndrome<e2> ; however , a small percentage of patients have a <s2>h:lethal h:illness that results in h:hepatic h:damage , h:hemorrhagic h:fever-like h:illness , h:encephalitis and/or h:retinal h:vasculitis<e2> [ 8 ] .
+20	In <s1>h:humans<e1> , infection is associated with <s2>h:fever and h:liver h:damage<e2> , but a subset of patients progress to <s2>h:hemorrhagic h:fever , h:encephalitis , ocular disease or h:death<e2> .
+21	After an incubation period of 9 - 12 days , MERS generally presents in <s1>h:humans<e1> as <s2>a h:lower h:respiratory h:infection with h:fever ( often with h:chills or h:rigors ) , h:dry or h:productive h:cough and h:dyspnea<e2> .
+22	<s1>h:Patients with h:bubonic h:plague<e1> usually develop <s2>symptoms of h:fever , h:headache , h:chills , and h:swollen , extremely h:tender h:lymph h:nodes ( h:buboes )<e2> within 2 to 6 days after contact with the pathogen .
+23	<s1>h:Symptomatic h:CHIKV h:infection<e1> often manifests itself by <s2>short-lived h:fever and h:recurrent h:joint h:pain<e2> , which can last for months to years ( 10 ) .
+24	<s1>h:Pneumonia caused by h:SARS-CoV<e1> typically has an insidious onset , and <s2>h:respiratory h:symptoms<e2> worsen slowly but steadily during the first 10 to 15 days [ 10•• ] .
+25	<s1>h:Those h:infected with h:SARS<e1> suffer <s2>h:fever , h:cough , h:muscle h:aches , and h:shortness of h:breath<e2> and often progress to <s2>severe lung inflammation<e2> .
 26	RVFV infection in humans usually causes a self-limiting , acute and febrile illness ; however , a small number of cases progress to neurological disorders , partial or complete blindness , hemorrhagic fever , or thrombosis .
 27	Human leptospirosis presents with a variety of signs and symptoms , including general febrile disease an influenza-like illness , and results in liver or kidney failure .
 28	Pigs that are infected with TGEV usually present symptoms such as vomiting , dehydration , and severe diarrhea .

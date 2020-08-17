@@ -1,32 +1,30 @@
 the recommended arg1:[w]quarantine period is arg2:14 :[w]days
-0	If we aim to control the failure rate of quarantine to be below 1 % with 95 % confidence , then the quarantine period must be at least 22 days .
-1	In general , the duration of the quarantine period should be 21 to 30 days .
-2	Although for extreme cases , the quarantine period should be extended up to three weeks .
-3	At the beginning and the end of a SARS epidemic , to control the epidemic completely , we recommend a period of 22 days for quarantine , which would capture 99 percent of all probable SARS cases with a probability of 0.9 .
-4	Based on the 95th percentile estimate of the incubation period , we recommend that the length of quarantine should be at least 14 days .
-5	Based on the 95th percentile estimate of the incubation period , we recommend that the length of quarantine should be at least 14 days .
-6	As such , the quarantine period should be extended up to three weeks .
-7	For example , if the rate of transmission is reduced by 10 % , the quarantine from symptom onset needs to be implemented within 32.37 h.
-8	If testing is not done , the quarantine period should at least exceed the incubation and shedding period of the diseases of concern .
-9	Therefore , the quarantine period should be around 2 weeks after a close contact with a person with symptoms .
-10	As per the CDC guidelines , 14 days should be the period of quarantine ( Science Daily website ) .
-11	The quarantine period is typically 30 days .
-12	Because a longer and more volatile incubation period has been observed in travelers , the duration of quarantine should be extended to 3 weeks .
-13	The time for which a patient can infect others varies between 7 and 14 days for moderate cases according to [ 3 ] , and this is why quarantine should last at least two weeks .
-14	Therefore , we suggest that the appropriate duration of quarantine is 4 days .
-15	A quarantine period of at least 15 days should allow adequate time for the return and evaluation of test data .
-16	At the moment , the WHO-established quarantine period is 14 days based on previous reports which had studied small sizes of hospitalized cases ( 10 and ~100 , respectively ) , however , over 80 % of adult- and 95 % of child-cases were not necessary to stay in hospitals , and therefore , had not been hospitalized .
-17	The temporary storage time for COVID-19 related medical waste in the hospital should not exceed 24 hours .
-18	Quarantine duration depends on national regulations but should be a minimum of 30 days .
-19	We recommend that the duration of quarantine should be at least 14 days on the basis of the 95th percentile estimate of the incubation period ( 10 ) .
-20	A minimum quarantine period of 60 to 90 days is recommended in a building that is separate from the main facility .
-21	The quarantine period , which starts when the most recently received animals are placed into a quarantine , should not be less than several weeks , to allow time for seroconversion to infectious agents acquired in transit .
-22	The incubation period of SARS was described as 20 days , meaning a quarantine officer could detain a person suspected of having SARS up to that period of time .
-23	Upon the finding of longer and more volatile incubation period in travelers , the duration of quarantine should be extended to three weeks .
-24	If there is a potential exposure risk during the process , a 14-day quarantine is required .
-25	We recommend a 22-day quarantine period .
-26	From official reports , the quarantine buffer in January is around 15 d and around 6 d on February 8 .
-27	The incubation period alone suggests that 95 % effectiveness in preventing the release of symptomatic infected individuals is achieved by quarantine of 2.73 days .
+0	If we aim to control the failure rate of <s1>h:quarantine<e1> to be below 1 % with 95 % confidence , then the quarantine period must be <s2>at least h:22 h:days<e2> .
+1	In general , the <s1>duration of the h:quarantine h:period<e1> should be <s2>h:21 to h:30 h:days<e2> .
+2	Although for extreme cases , the <s1>h:quarantine h:period<e1> should be extended <s2>up to h:three h:weeks<e2> .
+3	At the beginning and the end of a SARS epidemic , to control the epidemic completely , we recommend <s2>a period of h:22 h:days<e2> for <s1>h:quarantine<e1> , which would capture 99 percent of all probable SARS cases with a probability of 0.9 .
+4	Based on the 95th percentile estimate of the incubation period , we recommend that the <s1>length of h:quarantine<e1> should be <s2>at least h:14 h:days<e2> .
+6	As such , the <s1>h:quarantine h:period<e1> should be extended <s2>up to h:three h:weeks<e2> .
+7	For example , if the rate of transmission is reduced by 10 % , <s1>the h:quarantine<e1> from symptom onset needs to be implemented within <s2>h:32.37 h+.
+8	If testing is not done , the <s1>h:quarantine h:period<e1> <s2>should at least exceed the h:incubation and h:shedding h:period<e2> of the diseases of concern .
+9	Therefore , the <s1>h:quarantine h:period<e1> should be <s2>around h:2 h:weeks<e2> after a close contact with a person with symptoms .
+10	As per the CDC guidelines , <s2>h:14 h:days<e2> should be <s1>the h:period of h:quarantine<e1> ( Science Daily website ) .
+11	The <s1>h:quarantine h:period<e1> is typically <s2>h:30 h:days<e2> .
+12	Because a longer and more volatile incubation period has been observed in travelers , the <s1>duration of h:quarantine<e1> should be extended to <s2>h:3 h:weeks<e2> .
+13	The time for which a patient can infect others varies between 7 and 14 days for moderate cases according to [ 3 ] , and this is why <s1>h:quarantine& should last <s2>at least h:two h:weeks<e2> .
+14	Therefore , we suggest that the appropriate <s1>duration of h:quarantine<e1> is <s2>h:4 h:days<e2> .
+15	A <s1>h:quarantine h:period<e1> of <s2>at least h:15 h:days<e2> should allow adequate time for the return and evaluation of test data .
+16	At the moment , the WHO-established <s1>h:quarantine period<e1> is <s2>h:14 h:days<e2> based on previous reports which had studied small sizes of hospitalized cases ( 10 and ~100 , respectively ) , however , over 80 % of adult- and 95 % of child-cases were not necessary to stay in hospitals , and therefore , had not been hospitalized .
+18	<s1>h:Quarantine duration<e1> depends on national regulations but should be <s2>a minimum of h:30 h:days<e2> .
+19	We recommend that the <s1>duration of h:quarantine<e1> should be <s2>at least h:14 h:days<e2> on the basis of the 95th percentile estimate of the incubation period ( 10 ) .
+20	A minimum <s1>h:quarantine period<e1> of <s2>h:60 to h:90 h:days<e2> is recommended in a building that is separate from the main facility .
+21	<s1>The h:quarantine period<e1> , which starts when the most recently received animals are placed into a quarantine , <s2>should not be less than h:several h:weeks<e2> , to allow time for seroconversion to infectious agents acquired in transit .
+22	The incubation period of SARS was described as <s2>h:20 h:days<e2> , meaning a <s1>h:quarantine officer<e1> could detain a person suspected of having SARS up to that period of time .
+23	Upon the finding of longer and more volatile incubation period in travelers , the <s1>duration of h:quarantine<e1> should be extended to <s2>h:three h:weeks<e2> .
+24	If there is a potential exposure risk during the process , a <s2>h:14-day<e2> <s1>h:quarantine<e1> is required .
+25	We recommend a <s2>h:22-day<e2> <s1>h:quarantine period<e1> .
+26	From official reports , the <s1>h:quarantine buffer<e1> in January is around <s2>h:15 h:d<e2> and around 6 d on February 8 .
+27	The incubation period alone suggests that 95 % effectiveness in preventing the release of symptomatic infected individuals is achieved by <s1>h:quarantine<e1> of <s2>h:2.73 h:days<e2> .
 28	TFWs able to travel will have to be in quarantine for 14 days .
 29	In principle , an outbreak can always be controlled with a sufficiently long quarantine period .
 30	The duration of quarantine depends on the incubation period of COVID-19 , which is 14 days from the last date of exposure .
@@ -344,7 +342,7 @@ the recommended arg1:[w]quarantine period is arg2:14 :[w]days
 342	If a patient becomes COVID-19 positive during RT , we recommend holding RT until the patient self-quarantines for 14 days after positive test date .
 343	To ensure the absence of secondary transmissions for plausible ranges of prevalence at the source and a modest number of incoming travellers , we recommend quarantining the incoming individuals for 9 days if quarantine alone is implemented and 6 days if quarantine is combined with rapid diagnostic testing .
 344	The average incubation period is normally 5 - 6 days but it may take 2 - 14 days according to the Center for Disease Control and Prevention ( CDC ) .
-345	Thereby , there is a 12.5 % ( 25 % * 50 % ) chance of a measles outbreak during the 6-month suspension period .
+345	Thereby , there is a 12.5 % ( 25 % <s1> 50 % ) chance of a measles outbreak during the 6-month suspension period .
 346	Quarantined persons are required to monitor their temperature twice a day which should be controlled daily by public health authorities .
 347	As most of these workers are in age group 2 , we suppose that all of age groups 1 and 3 can be quarantined ( for age group 3 , indeed , this is especially important since they are a risk group for the COVID-19 pandemic ) .
 348	Ideally , animals should be quarantined for a minimum of 14 to 21 days .
@@ -491,8 +489,8 @@ the recommended arg1:[w]quarantine period is arg2:14 :[w]days
 489	The estimated incubation period is two days to one week .
 490	Since the average value of the incubation period is 6.8 days and the average number of days delayed from the onset to the announcement is 8 days , the number of infected persons reported is information two weeks before .
 491	Thus we assume that a vaccination program can be completed in 4 - 6 weeks or about 40 days , this means that for a population of 200,000 , a maximum of 5000 doses a day can be used .
-492	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 + 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
-493	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 + 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
+492	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 <s2> 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
+493	According to the previous analysis , the disease develops after an average of six days of incubation , and it takes an average of five days from morbidity to diagnosis ( according to NHCC ) , that is , 5 <s2> 6 = 11 days from the initial incubation of infection to post-morbidity isolation .
 494	These were voluntary quarantine recommendations , which advise that persons who have had contact with a confirmed case of MERS since onset of illness should quarantine themselves at home or in a health care facility for 14 days .
 495	For health authorities , as usually is in certain countries , the Holy Week should be a period for additional enhancements of surveillance of infectious diseases , including COVID-19 in order to prevent more additional cases .
 496	The duration of quarantine period must be considered with caution .
@@ -947,7 +945,7 @@ the recommended arg1:[w]quarantine period is arg2:14 :[w]days
 945	Recognized minimum exposure periods for sterilization of wrapped health care supplies are 30 minutes at 121 ° C in a gravity displacement sterilizer or 4 minutes at 132 ° C in a prevacuum sterilizer .
 946	In the present case-study , the time from faeces emission to the arrival at the WWTP has been estimated to be about 6 - 8 hours according to the mean corrivation times of WWs provided by the WWST managers .
 947	In regions with severe winters , treatment may be suspended during the winter months .
-948	If an individual is already infected , hospitalization will be required after at most δ −1 = 5.5 days or after δ −1 + γ −1 = 10.6 days on average if the infection was recent .
+948	If an individual is already infected , hospitalization will be required after at most δ −1 = 5.5 days or after δ −1 <s2> γ −1 = 10.6 days on average if the infection was recent .
 949	The 5-day interval between immunization of ND-IB and H5-H9 vaccines is based on the immune program of poultry farm .
 950	29 Smaller calves such as Jerseys should be limited to 3 quarts ( 2.83 L ) delivered in the same time frame .
 951	In 58.8 % of simulated outbreaks , the number of additional tests required is less than ten thousand ( per day ) .

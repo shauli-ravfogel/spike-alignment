@@ -255,7 +255,7 @@ a arg1:subset of patients $progress to arg2:hemorrhagic fever
 253	Many patients will experience no , or only minor , non-specific symptoms , but in a minority of cases severe disease may develop ( 4 , 5 ) , progressing from pneumonia to the acute respiratory distress syndrome and ultimately shock with multi-organ failure ( 5 ) ( 6 ) ( 7 ) ( 8) .
 254	In symptomatic cases , the onset of disease begins with flu-like symptoms and rapidly progresses to encephalitis with disorientation , delirium , and coma .
 255	In symptomatic cases , the onset of disease begins with flu-like symptoms and rapidly progresses to encephalitis with disorientation , delirium , and coma .
-256	In those with cirrhosis , ACLF , a unique condition , can evolve following bacterial infections and the presentation is characterized by acute hepatic decompensation and multi-organ failure .
+256	In those with cirrhosis , ACLF , a unique condition , can evolve following bacterנץ ביער הררי, זוכה פרס הכסף בקטגוריית ציפורים בסביבה (כוס ניצי (Hawk-owl))ial infections and the presentation is characterized by acute hepatic decompensation and multi-organ failure .
 257	The terminal stages of Ebola virus infection usually include diffuse bleeding , and hypotensive shock accounts for many Ebola virus fatalities .
 258	Primary liver disease most commonly occurs from toxic , infectious , or metabolic causes and may progress to loss of function and clinical signs of hepatic failure .
 259	However , malaria can also evolve into severe life-threatening complications , including cerebral malaria , severe anemia , respiratory distress , and acute renal failure .

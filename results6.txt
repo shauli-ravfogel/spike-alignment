@@ -1,33 +1,31 @@
 arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
-0	Acute kidney injury is a possible manifestation in severe forms of COVID-19 , conferring a high mortality 7 .
-1	Coagulation dysfunction is one of the major causes for death in patients with severe COVID-19 [ 4 ] .
-2	Coagulopathy is one of the main complications occurring in hospitalized patients with severe COVID -19 .
-3	Hypoxia is the most common manifestation of patients with COVID-19 , especially in severely or critically ill patients .
-4	Early-onset pneumonia is a common and severe complication that is related to aspiration in patients with GBS .
-5	Barotrauma is a common complication in patients with SARS .
-6	COVID-19 infection is associated with several cardiac complications with high rates of adverse outcomes .
-7	COVID-19 infection is associated with several cardiac complications with high rates of adverse outcomes .
-8	AKI is one of the common complications with COVID-19 , and is associated with increased morbidity and mortality .
-9	Spontaneous pneumothorax is a specific and potentially life-threatening complication in SARS patients .
-10	COVID-19 pneumonia may lead to acute respiratory distress syndrome and severe respiratory failure ( 1 ) .
-11	Pneumonia is the most frequent and serious complication of COVID-19 , due to excessive host immune response causing an acute respiratory distress syndrome .
-12	Acute respiratory distress syndrome developing in patients with COVID-19 pneumonia is associated with a high mortality rate and is the main cause of death in patients with SRAS-Cov-2 infection [ 1 ] .
-13	Pneumonia is a life-threatening complication of COVID-19 infection 10 .
-14	ARDS and shock are common complications that can lead to death in COVID-19 patients .
-15	Multiorgan injury , which significantly increases mortality , is often evident in patients with COVID-19 .
-16	Acute IH is a significant complication of high-dose IVIg infusion .
-17	Multiorgan failure and disseminated intravascular coagulation ( DIC ) are also frequently observed during COVID-19 infection .
-18	Acute Respiratory Distress Syndrome ( ARDS ) is one of the commonest complications developing in patients with COVID-19 [ 6 ] .
-19	Cardiac injury is a common condition among the hospitalized patients with COVID-19 .
-20	DIC is a severe complication in COVID-19 patients and it has been related to poor prognosis and increased mortality ( 71.4 % of patient who die of COVID-19 ) ( 2 ) .
-21	Thrombocytopenia is one of the most common symptoms in patients with COVID-19 .
-22	AKI occurs frequently among patients with Covid-19 disease .
-23	AKI occurs frequently among patients with Covid-19 disease .
-24	HTN is a comorbid condition which has been reported to be associated with increased mortality in patients with COVID-19 infection .
-25	AKI is a common consequence of COVID-19 , either due to ATN or hypotension .
-26	Acute respiratory distress is one of the major causes of mortality associated with COVID-19 disease .
-27	Acute respiratory distress is one of the major causes of mortality associated with COVID-19 disease .
-28	RSV-induced ARDS is very uncommon but can be lethal in immunocompetent patients .
+0	<s1>h:Acute h:kidney h:injury<e1> is a possible manifestation in severe forms of <s2>h:COVID-19<e2> , conferring a high mortality 7 .
+1	<s1>h:Coagulation h:dysfunction<e1> is one of the major causes for death in patients with <s2>severe h:COVID-19<e2> [ 4 ] .
+2	<s1>h:Coagulopathy<e1> is one of the main complications occurring in hospitalized patients with severe <s2>h:COVID-19<e2> .
+3	<s1>h:Hypoxia& is the most common manifestation of patients with <s2>h:COVID-19<e2> , especially in severely or critically ill patients .
+4	<s1>h:Early-onset h:pneumonia<e1> is a common and severe complication that is related to aspiration in patients with <s2>h:GBS<e2> .
+5	<s1>h:Barotrauma is a common complication in patients with <s2>h:SARS<e2> .
+6	<s2>h:COVID-19 h:infection<e2> is associated with several <s2>h:cardiac h:complications<e2> with high rates of adverse outcomes .
+8	<s1>h:AKI<e1> is one of the common complications with <s2>h:COVID-19<e2> , and is associated with increased morbidity and mortality .
+9	<s1>h:Spontaneous h:pneumothorax<e1> is a specific and potentially life-threatening complication in <s2>h:SARS<e2> patients .
+10	<s2>h:COVID-19 h:pneumonia<e2> may lead to <s1>h:acute h:respiratory h:distress h:syndrome and severe h:respiratory h:failure<e1> ( 1 ) .
+11	<s1>h:Pneumonia<e1> is the most frequent and serious complication of <s2>h:COVID-19<e2> , due to excessive host immune response causing an acute respiratory distress syndrome .
+12	<s1>h:Acute h:respiratory h:distress h:syndrome<e1> developing in patients with <s2>h:COVID-19 h:pneumonia<e2> is associated with a high mortality rate and is the main cause of death in patients with SRAS-Cov-2 infection [ 1 ] .
+13	<s1>h:Pneumonia<e1> is a life-threatening complication of <s2>h:COVID-19 infection 10 .
+14	<s1>h:ARDS and h:shock<e1> are common complications that can lead to death in <s2>h:COVID-19<e2> patients .
+15	<s1>h:Multiorgan h:injury<e1> , which significantly increases mortality , is often evident in patients with <s2>h:COVID-19<e2> .
+16	<s1>h:Acute h:IH<e1> is a significant complication of <s2>high-dose h:IVIg h:infusion<e2> .
+17	<s1>h:Multiorgan h:failure and disseminated h:intravascular h:coagulation ( h:DIC )<e1> are also frequently observed during <s2>h:COVID-19 infection<e2> .
+18	<s1>h:Acute h:Respiratory h:Distress h:Syndrome ( h:ARDS )<e1> is one of the commonest complications developing in patients with <s2>h:COVID-19<e2> [ 6 ] .
+19	<s1>h:Cardiac h:injury<e1> is a common condition among the hospitalized patients with <s2>h:COVID-19<e2> .
+20	<s1>h:DIC<e1> is a severe complication in <s2>h:COVID-19<e2> patients and it has been related to poor prognosis and increased mortality ( 71.4 % of patient who die of COVID-19 ) ( 2 ) .
+21	<s1>h:Thrombocytopenia<e1> is one of the most common symptoms in patients with <s2>h:COVID-19<e2> .
+22	<s1>AKI<e1> occurs frequently among patients with <s2>h:Covid-19 disease<e2> .
+23	<s1>AKI<e1> occurs frequently among patients with <s2>h:Covid-19 disease<e2> .
+24	<s1>h:HTN<e1> is a comorbid condition which has been reported to be associated with increased mortality in patients with <s2>h:COVID-19 infection<e2> .
+25	<s1>h:AKI<e1> is a common consequence of <s2>h:COVID-19<e2> , either due to ATN or hypotension .
+26	<s1>h:Acute h:respiratory h:distress<e1> is one of the major causes of mortality associated with <s2>h:COVID-19 disease<e2> .
+28	<s2>h:RSV-induced<e2> <s1>h:ARDS<e1> is very uncommon but can be lethal in immunocompetent patients .
 29	Acute respiratory distress syndrome , which is a type of respiratory failure characterized by a rapid onset of generalized inflammation in the lungs , is the leading cause of mortality of patients with COVID-19 .
 30	A significant proportion of patients with COVID-19 may develop shock and multiorgan failure 1 , 5 .
 31	Acute respiratory distress syndrome ( ARDS ) is a major complication of COVID pneumonia in patients with severe disease .
@@ -953,7 +951,7 @@ arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
 951	In immunocompetent patients , RSV is often a self-limiting upper respiratory infection .
 952	Pneumonia occurs frequently among trauma patients , especially those who require mechanical ventilation .
 953	Introduction : COVID-19 is an infectious disease whose etiopathogenic agent is the Severely Acute Respiratory Syndrome Coronavirus 2 ( SARS-CoV-2 ) RNA virus ( 1 ) .
-954	Acute kidney failure * has been observed after rhabdomyolysis complicated by compartment syndrome ( 2 ) .
+954	Acute kidney failure <s1> has been observed after rhabdomyolysis complicated by compartment syndrome ( 2 ) .
 955	IMPLICATIONS/DISCUSSION : Although possible in immunocompetent hosts , cryptococcal meningoencephalitis presents most commonly in patients with HIV infection , drugassociated immunosuppression , leukemia and complement deficiency .
 956	Vasculitis is one of the common inflammatory lesions in cats with FIP and ferrets with FRSCV-associated disease .
 957	COVID-19-associated coagulopathy is increasingly recognized as a result of acute infection and is likely caused by inflammation , including inflammatory cytokine storm .
