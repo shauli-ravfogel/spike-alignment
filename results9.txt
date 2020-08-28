@@ -1,5 +1,5 @@
 arg1:[e]COVID-19 activates the arg2:ATP $receptor
-0	+Human h:angiotensin-converting h:enzyme 2 ( h:ACE2 )<e2> is a functional receptor hijacked by <s1> h:SARS-CoV-2<e1> for cell entry , similar to SARS-CoV [ 8 , 16 ] .
+0	<s2>Human h:angiotensin-converting h:enzyme 2 ( h:ACE2 )<e2> is a functional receptor hijacked by <s1> h:SARS-CoV-2<e1> for cell entry , similar to SARS-CoV [ 8 , 16 ] .
 1	Molecularly , like SARS-CoV , the <s1> h:SARS-CoV-2 h:virus<e1> likely uses <s2>h:ACE-2<e2> as entry receptor , which is highly expressed in the lung and gastrointestinal tract [ 10 ] [ 11 ] [ 12 ] .
 2	<s1>h:SARS-CoV-2<e1> enters respiratory epithelial cells by attaching to <s2>h:angiotensin h:converting h:enzyme-2 ( h:ACE-2 )<e2> via S-protein ; <s2>h:ACE-2<e2> is also a receptor for SARS-CoV-1 [ 27 ] .
 3	With regard to <s1> h:COVID-19<e1> , it is known that the <s2>h:angiotensin-converting h:enzyme h:2 ( h:ACE2 ) h:ACE2<e2> provides the cell membrane receptor entry point for SARS-CoV-2 .
@@ -9,17 +9,17 @@ arg1:[e]COVID-19 activates the arg2:ATP $receptor
 7	<s1>h:SARS-CoV-2<e1> , much like the structurally similar and precedent SARS-CoV , uses the <s2>h:ACE2 h:receptor<e2> to establish host uptake [ 2 ] .
 8	<s1>h:SARS-CoV-2<e1> seems to use the same cell entry receptor , <s2>h:ACE2<e2> , as the SARS-CoV because ACE2 shows binding to RBD of both SARS-CoV and SARS-CoV-2 [ 11 ] .
 9	<s1>h:SARS-CoV-2<e1> exploits the <s2>h:ACE-2 h:receptor<e2> , the same receptor as SARS , in the human lower respiratory tract for entry into lung cells [ 41 , 42 ] .
-10	Similar to severe acute respiratory syndrome-associated coronavirus ( SARS-CoV ) 16 , 17 , the <s1> h:SARS-CoV-2<e1> employs <s2>h:angiotensin-converting h:enzyme-2 ( h:ACE2 )<e2> as a receptor for cellular entry .
-11	Like SARS-CoV , <s1> h:2019-nCoV<e1> may use <s2>h:angiotensin-converting h:enzyme h:2 ( h:ACE2 )<e2> as a potential receptor for host cell infectivity [ 17 ] .
-12	The SARS-CoV-2 virus utilizes Angiotensin Converting Enzyme 2 ( ACE2 ) receptors as its cell surface receptor , similar to the SARS 2002 - 3 virus .
-13	Presumably , SARS-CoV infects cells through the S protein , which binds to cell surface receptor-angiotensin-converting enzyme 2 [ 4 ] .
-14	SARS-CoV-2 utilizes ACE2 as a receptor for entry into the host pneumocytes [ 13 ] .
-15	Several studies also confirm that SARS-CoV-2 also leverages the ACE2 receptor to gain entry into target cells ( 5 ) ( 6 ) ( 7 ) .
-16	The receptor-binding motif of 2019-nCoV has undergone modification SARS-CoV and 2019-nCoV enter the cell in the same waythrough binding ACE2 , which is present in lung and gastrointestinal epithelia [ 30 ] .
-17	Similar to SARS , SARS-CoV-2 is believed to invade the host through the cell entry receptor ACE2 [ 4 ] .
-18	Similar to SARS-CoV , SARS-CoV-2 exploits angiotensin-converting enzyme 2 ( ACE2 ) as a receptor to invade cells , notably type II alveolar epithelial cells .
-19	Both SARS-CoV and SARS-CoV-2 bind to the ACE2 receptor through the Spike ( S ) protein ( Kuba et al. , 2005 ; Yan et al. , 2020 ) .
-20	Further extensive structural analysis strongly suggests that SARS-CoV-2 may use host receptor angiotensin-converting enzyme 2 ( ACE2 ) to enter the cells [ 42 ] , the same receptor facilitating SARS-CoV to infect the airway epithelium and alveolar type 2 ( AT2 ) pneumocytes , pulmonary cells that synthesize pulmonary surfactant [ 43 ] .
+10	Similar to severe acute respiratory syndrome-associated coronavirus ( SARS-CoV ) 16 , 17 , the <s1>h:SARS-CoV-2<e1> employs <s2>h:angiotensin-converting h:enzyme-2 ( h:ACE2 )<e2> as a receptor for cellular entry .
+11	Like SARS-CoV , <s1>h:2019-nCoV<e1> may use <s2>h:angiotensin-converting h:enzyme h:2 ( h:ACE2 )<e2> as a potential receptor for host cell infectivity [ 17 ] .
+12	The <s1>h:SARS-CoV-2<e1> virus utilizes <s2>h:Angiotensin Converting h:Enzyme 2 ( ACE2 ) receptors<e2> as its cell surface receptor , similar to the SARS 2002 - 3 virus .
+13	Presumably , <s1>h:SARS-CoV<e1> infects cells through the S protein , which binds to <s2>cell h:surface h:receptor-angiotensin-converting h:enzyme 2<e2> [ 4 ] .
+14	<s1>h:SARS-CoV-2<e1> utilizes <s2>h:ACE2<e2> as a receptor for entry into the host pneumocytes [ 13 ] .
+15	Several studies also confirm that <s1>h:SARS-CoV-2<e1> also leverages <s2>the h:ACE2 h:receptor<e2> to gain entry into target cells ( 5 ) ( 6 ) ( 7 ) .
+16	The receptor-binding motif of <s1>h:2019-nCoV<e1> has undergone modification SARS-CoV and <s1>h:2019-nCoV<e1> enter the cell in the same waythrough binding <s2>h:ACE2<e2> , which is present in lung and gastrointestinal epithelia [ 30 ] .
+17	Similar to SARS , <s1>h:SARS-CoV-2<e1> is believed to invade the host through <s2>the h:cell h:entry h:receptor h:ACE2<e2> [ 4 ] .
+18	Similar to SARS-CoV , <s1>h:SARS-CoV-2<e1> exploits <s2>h:angiotensin-converting h:enzyme 2 ( h:ACE2 )<e2> as a receptor to invade cells , notably type II alveolar epithelial cells .
+19	Both <s1>h:SARS-CoV<e1> and <s1>h:SARS-CoV-2<e1> bind to <s2>the h:ACE2 h:receptor<e2> through the Spike ( S ) protein ( Kuba et al. , 2005 ; Yan et al. , 2020 ) .
+20	Further extensive structural analysis strongly suggests that <s1>h:SARS-CoV-2<e1> may use <s2>h:host h:receptor h:angiotensin-converting h:enzyme h:2 ( h:ACE2 )<e2> to enter the cells [ 42 ] , the same receptor facilitating SARS-CoV to infect the airway epithelium and alveolar type 2 ( AT2 ) pneumocytes , pulmonary cells that synthesize pulmonary surfactant [ 43 ] .
 21	SARS-CoV S protein and 2019-nCoV S protein engages angiotensin-converting enzyme 2 ( ACE2 ) as their entry receptor ( Li et al. , 2003 ; Zhou et al. , 2020 ; Wrapp et al. , 2020 ) .
 22	SARS-CoV-2 employs angiotensin-converting enzyme 2 ( ACE2 ) as a receptor for cellular entry [ 11 ] .
 23	SARS-CoV-2 has been shown to use the same cell entry receptor as SARS-CoV , angiotensin-converting enzyme 2 ( ACE2 ) .
@@ -377,7 +377,7 @@ arg1:[e]COVID-19 activates the arg2:ATP $receptor
 375	20 , 21 Similar to SARS-CoV , SARS-CoV-2 also recognizes ACE2 as its host receptor binding to viral S protein .
 376	SARS-CoV-2 has a spike protein surface unit 1 that has a high binding affinity to the human receptor angiotensin-converting enzyme 2 ( ACE2 ) [ 11 ] .
 377	Biomolecular studies have demonstrated that the transmembrane protease , serine 2 ( TMPRS22 ) , which is regulated by androgen receptors , is required for SARS-CoV-2 infectivity [ 21 ] .
-378	Like HIV gp120 protein , SARS-CoV-2 spike protein recognizes cell surf ace receptors , allowing the virus to enter cells ; the difference lies in specific receptors an d target cells-SARS-CoV-2 binds to ACE2 and enters mucosal epithelial cells , while HI V binds to cluster of differentiation 4 ( CD4 ) receptor and enters CD4 <s2> T cells [ 8 ] .
+378	Like HIV gp120 protein , SARS-CoV-2 spike protein recognizes cell surf ace receptors , allowing the virus to enter cells ; the difference lies in specific receptors an d target cells-SARS-CoV-2 binds to ACE2 and enters mucosal epithelial cells , while HI V binds to cluster of differentiation 4 ( CD4 ) receptor and enters CD4 T cells [ 8 ] .
 379	Interestingly , 2019n-CoV just specifically uses ACE2 to infect mammal cells , but not other coronavirus receptor(6 ) .
 380	ACE-2 has been shown to be a co-receptor for viral entry of SARS-CoV-2 , through interaction with viral spike proteins ( VPS ) [ 13 ] .
 381	Hoffmann et al. found that SARS-CoV-2 uses the angiotensin-converting enzyme 2 ( ACE2 ) for host cell entry [ 1 ] .
@@ -534,7 +534,7 @@ arg1:[e]COVID-19 activates the arg2:ATP $receptor
 532	The transmembrane serine protease TMPRSS2 and cathepsin L have been implicated in SARS-CoV-2 entry [ 21 ] .
 533	The S protein is reported to bind to the human angiotensin converting enzyme-2 ( hACE-2 ) protein to mediate viral entry to the cell [ 10 ] .
 534	By contrast to SARS-CoV , mice are not naturally susceptible to infection by MERS-CoV because the mouse DPP4 receptor differs from human DPP4 ( hDPP4 ) in crucial areas of interaction with the MERS-CoV spike protein [ 44 ] .
-535	SARS-CoV-2 infects ACE2 <s2> cells in the oral mucosa and lungs , including ACE-2 cells in the alveoli [ 97 ] .
+535	SARS-CoV-2 infects ACE2 cells in the oral mucosa and lungs , including ACE-2 cells in the alveoli [ 97 ] .
 536	The entry receptor utilized by both SARS-CoV and SARS-CoV-2 is the Angiotensin-Converting Enzyme 2 ( ACE2 ) ( Central Illustration ) , which is type I transmembrane carboxypeptidase with 40 % homology ACE .
 537	The entry receptor utilized by both SARS-CoV and SARS-CoV-2 is the Angiotensin-Converting Enzyme 2 ( ACE2 ) ( Central Illustration ) , which is type I transmembrane carboxypeptidase with 40 % homology ACE .
 538	In pulmonary tissue , SARS-CoV-2 interacts with a membrane protein , Angiotensin Converting Enzyme 2 ( ACE-2 ) , to enter the host ’s cells [ 2 ] .

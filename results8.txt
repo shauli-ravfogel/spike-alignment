@@ -4,7 +4,7 @@ arg1:[e]COVID-19 $infects arg2:cells
 2	Like other viruses , <s1>h:SARS-CoV-2<e1> infects <s2>h:lung h:alveolar h:epithelial h:cells<e2> using receptor-mediated endocytosis via the angiotensin-converting enzyme II ( ACE2 ) as an entry receptor [ 4 ] .
 3	Initially , <s1>h:SARS-CoV-2<e1> infects <s2>h:cells in the h:respiratory h:system<e2> and causes inflammation and cell death .
 4	<s1>The h:SARA-CoV-2<e1> primarily invades <s2>h:alveolar h:epithelial h:cells<e2> and interacts with ACE2 , leading to respiratory symptoms in patients [ 33 ] .
-5	In the lungs , SARS-CoV-2 infects type I and type II alveolar epithelial cells , as well as alveolar macrophages that are among the first producers of pro-inflammatory cytokines .
+5	In the lungs , <s1>h:SARS-CoV-2<e1> infects <s2>type I and type II h:alveolar h:epithelial h:cells<e2> , as well as <s2>h:alveolar h:macrophages<e2> that are among the first producers of pro-inflammatory cytokines .
 6	<s1>h:SARS-CoV-2<e1> binds to the ACE2 receptor on <s2>h:ciliated h:bronchial h:epithelial h:cells<e2> to gain entry into these cells for viral replication and dissemination in the airway [ 6 ] .
 7	<s1>h:SARS-CoV-2<e1> infects <s2>h:ACE2positive h:cells<e2> in the oral mucosa and lungs , including <s2>h:ACE2 h:+ h:AT2 h:cells<e2> in the alveoli .
 8	<s1>h:SARS-CoV<e1> enters <s2>h:host h:cells<e2> by a mechanism involving the interaction between its spike ( S ) protein and human angiotensin-converting enzyme 2 ( ACE2 ) expressed on host cells in the lung [ 5 ] .
@@ -303,7 +303,7 @@ arg1:[e]COVID-19 $infects arg2:cells
 303	Severe acute respiratory syndrome coronavirus 2 ( SARS-CoV2 ) , the virus that causes COVID-19 , infects humans via the mucosal membrane ACE2 receptor , expressed in multiple tissues including the lung parenchyma and gastrointestinal tract .
 304	Similar to SARS , COVID-19 binds to ACE2 to infiltrate cells [ 48 , 49 ] .
 305	The SARS-CoV-2 virus utilizes ACE2 receptors to gain entry into the human cells .
-306	SARS-CoV-2 has proteins on its surface that mediate viral infection by binding to angiotensin-converting enzyme 2 ( ACE2 ) receptor ( Batlle et al. , 2020 ; Chen <s2> Hao , 2020 ) .
+306	SARS-CoV-2 has proteins on its surface that mediate viral infection by binding to angiotensin-converting enzyme 2 ( ACE2 ) receptor ( Batlle et al. , 2020 ; Chen , Hao , 2020 ) .
 307	Upon infection with SARS-CoV-2 , the virus binds to a host cell 's angiotensinconverting enzyme 2 ( ACE2 ) receptors .
 308	The SARS-CoV binds to both bat and human cells , and the virus can infect both organisms ( Ge et al. , 2013 ; Kuhn et al. , 2004 ) .
 309	Severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) infects host cells following binding with the cell surface ACE2 receptors , thereby leading to coronavirus disease 2019 ( COVID-19 ) .
@@ -550,7 +550,7 @@ arg1:[e]COVID-19 $infects arg2:cells
 550	When infected with SARS-CoV-2 , the virus predominantly targeted ACE2 in human alveolar type 2cells , resulting in pulmonary symptoms [ 27 ] .
 551	After attachment , the human transmembrane protease serine 2 ( TMPRSS2 ) cleaves and activates the S protein , thus allowing SARS-CoV-2 to enter the host cells [ 8 ] .
 552	With regard to COVID-19 , it is known that the angiotensin-converting enzyme 2 ( ACE2 ) ACE2 provides the cell membrane receptor entry point for SARS-CoV-2 .
-553	Similar to SARS-CoV-1 , the interaction between the SARS-CoV-2 Spike protein and the angiotensinconverting enzyme 2 ( ACE2 ) on human cells is critical for viral entry into host cells ( Gralinski <s2> Menachery , 2020 ; Tai et al. , 2020 ; Wu et al. , 2020 ) .
+553	Similar to SARS-CoV-1 , the interaction between the SARS-CoV-2 Spike protein and the angiotensinconverting enzyme 2 ( ACE2 ) on human cells is critical for viral entry into host cells ( Gralinski , Menachery , 2020 ; Tai et al. , 2020 ; Wu et al. , 2020 ) .
 554	Despite similarities in overt clinical disease , MERS-CoV is distinct from SARS-CoV in that the virus utilizes a different cellular receptor , dipeptidyl peptidase-4 ( DPP4 ) [ 3 ] , and exhibits an expanded host cell tropism , readily replicating in a variety of human lung cell types including fibroblasts , microvascular endothelial cells , and type II pneumocytes [ 4 ] .
 555	SARS-CoV-2 ( severe acute respiratory syndrome coronavirus 2 ) binds to the angiotensin-converting enzyme 2 ( ACE2 ) , a ubiquitous trans-membrane carboxypeptidase , to enter the cells .
 556	It is suspected that SARS-CoV-1 can take advantage of the permeabilization of the blood-brain barrier ( BBB ) caused by excessive amounts of cytokines and chemokines released after viral infection of the airways ( McCray et al. , 2007 ) .

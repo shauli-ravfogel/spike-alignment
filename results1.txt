@@ -7,11 +7,11 @@
 5	In immunocompetent adults , <s1>h:primary h:infection with h:HHV-6<e1> can produce a <s2>h:mononucleosis-like h:illness<e2> and , more rarely , <s2>severe h:disease , including h:encephalitis<e2> [ Stoeckle , 2000 ] .
 6	<s1>h:Infection with h:MV<e1> typically results in an <s2>acute h:febrile h:illness and h:rash<e2> due to viral replication first in mono-and lymphocytic cells , and then in a variety of tissues ( Katz 1995 ) .
 7	<s1>h:BRV<e1> is a lytic infection and <s2>h:destruction of infected mucosal epithelial cells<e2> is an important component of disease pathogenesis .
-8	<s1>h:FIV h:infection<e1> , in domestic cats , causes<e2> a variable h:immunodeficiency h:syndrome <s2>characterized by<e2> recurrent h:gingivitis-stomatitis , h:cachexia , h:wasting , h:neurology , and an increased incidence of h:tumor h:development<e2> [ 1 , 4 , 48 , 76 ] .
+8	<s1>h:FIV h:infection<e1> , in domestic cats , causes<s2> a variable h:immunodeficiency h:syndrome <e2>characterized by<s2> recurrent h:gingivitis-stomatitis , h:cachexia , h:wasting , h:neurology , and an increased incidence of h:tumor h:development<e2> [ 1 , 4 , 48 , 76 ] .
 9	<s1>h:Adenovirus h:infection<e1> can result in <s2>severe h:respiratory h:disease<e2> in lung transplant recipients , including <s2>rapidly progressive , necrotizing and potentially fatal h:pneumonia<e2> , as well as <s2>development of h:chronic h:lung h:disease with h:fibrosis and h:bronchiectasis<e2> ( Liu et al. 2010 ) .
 10	<s1>h:Filovirusinduced h:disease<e1> begins with <s2>h:flu-like h:symptoms<e2> and progresses rapidly to the final stages of viral hemorrhagic fever infection , which are characterized by <s2>h:fever , h:hemorrhage , and h:hypotensive h:shock<e2> ( Groseth et al. , 2007 ; Zampieri et al. , 2007 ) .
 11	<s1>h:PEDV<e1> infects the epithelium of the small intestine , an environment rich in proteases , and causes <s2>h:atrophy of the villi resulting in h:diarrhea and h:dehydration<e2>.
-12	In humans , <s1>h:coronavirus h:infection<e1> results in <s2>h:respiratory h:tract h:complications<e2> with varying degree of severity and has been associated with<e2> h:gastroenteritis<e2>.
+12	In humans , <s1>h:coronavirus h:infection<e1> results in <s2>h:respiratory h:tract h:complications<e2> with varying degree of severity and has been associated with<s2> h:gastroenteritis<e2>.
 13	Humans infected with <s1>h:RVFV<e1> usually develop <s2>an h:acute h:febrile h:myalgic h:syndrome<e2> ; however , a small percentage of patients have a lethal illness that results in <s2>h:hepatic h:damage , h:hemorrhagic h:fever-like h:illness , h:encephalitis and/or h:retinal h:vasculitis<e2> [ 8 ] .
 14	<s1>h:PRRSV<e1> increases the <s2>h:susceptibility of the host to a wide range of viral and bacterial respiratory pathogens<e2> , resulting in <s2>h:increased h:severity of h:clinical h:signs and h:lung h:lesions<e2> .
 15	In humans , the <s1>h:virus<e1> causes <s2>a lower h:respiratory h:tract h:disease<e2> and may progress to <s2>h:ARDS , h:multiorgan h:failure , and h:death<e2> in severe cases .
@@ -92,7 +92,7 @@
 90	Viral encephalitis can develop after JEV infection in humans and has a 30 % mortality rate .
 91	In humans , the clinical manifestations of IAV infection range from mild disease to severe pneumonia .
 92	Clinical observations have shown that PCMV infection is typically accompanied by porcine reproductive and respiratory syndrome virus ( PRRSV ) infection in immunosuppressed swine , and a series of secondary bacterial infections frequently occur after viral infection .
-93	Infection with the domestic cat ( Felis catus ) strain of FIV ( FIV Fca ) results in CD4<e2> T-cell depletion and pathogenic disease which progresses to AIDS-like immune dysfunction and ultimately death [ 4 , 5 ] .
+93	Infection with the domestic cat ( Felis catus ) strain of FIV ( FIV Fca ) results in CD4 T-cell depletion and pathogenic disease which progresses to AIDS-like immune dysfunction and ultimately death [ 4 , 5 ] .
 94	In neonates , TGEV infects the epithelial cells of the small intestine , leading to potentially fatal gastroenteritis .
 95	Infection of humans is characterized by a rapid and extensive spread of the virus in several organs , with symptoms including respiratory distress and encephalitis [ 7 ] .
 96	EBOV infection is characterized by rapid viral replication and dysregulated innate and adaptive immune responses .
@@ -266,7 +266,7 @@
 264	WNV strongly activates host immune responses , which play important roles in controlling viremia , viral dissemination to the central nervous system ( CNS ) , and recovery from the disease [ 11 ] .
 265	Similarly to severe acute respiratory syndrome coronavirus ( SARS-CoV ) , MERS-CoV infection can result in acute respiratory distress syndrome and organ dysfunction , including progressive renal function impairment .
 266	Feline panleukopenia ( FPL ) is an important systemic parvoviral infection of cats associated with replication in and cytopathic effects on rapidly dividing cells , such as bone marrow , lymphoid cells , and intestinal epithelia .
-267	Retinitis is the primary manifestation of HCMV infection in AIDS patients with low CD4<e2> T-cell counts , while transplant recipients are at great risk of developing pneumonia , gastrointestinal disease or to suffer an acute graft rejection ( Gandhi & Khanna , 2004 ; Steininger et al. , 2006 ; Buyck et al. , 2010 ) .
+267	Retinitis is the primary manifestation of HCMV infection in AIDS patients with low CD4 T-cell counts , while transplant recipients are at great risk of developing pneumonia , gastrointestinal disease or to suffer an acute graft rejection ( Gandhi & Khanna , 2004 ; Steininger et al. , 2006 ; Buyck et al. , 2010 ) .
 268	Ebola virus causes a fulminant infection in humans resulting in diffuse bleeding , vascular instability , hypotensive shock , and often death .
 269	Immunosuppression is the main consequence of FeLV infection and leads to exacerbation of the clinical course of infections caused by mild pathogens such as Mycoplasma hemofelis and other feline hemoplasmas , Crytpococcus spp , Toxoplasma gondii , feline coronavirus , and calicivirus .
 270	IBV infection often causes severe respiratory and urogenital diseases in chickens .
@@ -910,7 +910,7 @@
 908	BoHV-1 infection can cause conjunctivitis , pneumonia , genital disorders , abortions , and an upper respiratory infection known as bovine respiratory disease ( BRD ) or " Shipping Fever " [ 136 ] .
 909	Except for asymptomatic carriers , infection with this virus causes a large fraction of patients to develop moderate clinical illness in a short period , with a small but a substantial number of patients experiencing severe disease characterized by fatal acute lung injury ( ALI ) and acute respiratory distress syndrome ( ARDS ) .
 910	Coronavirus infection is mainly associated with respiratory and enteric diseases but , depending on the virus , can also lead to hepatic ( Lane and Hosking 2010 ) and neurologic manifestations ( Foley and Leutenegger 2001 ) .
-911	Virus-specific CD8<e2> T cell-mediated cytolysis of infected liver cells can result in severe immunopathological damage .
+911	Virus-specific CD8 T cell-mediated cytolysis of infected liver cells can result in severe immunopathological damage .
 912	CHV-1 spreads by aerosol and initiates infection in the oropharyngeal mucosa and the local lymph nodes and results in reticuloendothelial cell viraemia .
 913	In contrast , some FCoV-infected cats sporadically develop an invariably fatal immune-mediated disease called feline infectious peritonitis ( FIP ) .
 914	In susceptible individuals , enteroviruses cause subclinical infection or mild disease , although occasional infections may cause serious disease , such as the poliomyelitis caused by poliovirus in humans [ 10 ] .

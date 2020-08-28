@@ -72,7 +72,7 @@ arg1:[e]paracetamol is $not useful for treating arg2:[e]asthma.
 70	Although immune-modulating therapies such as steroids , plasma exchange ( PE ) , IVIG and immunosuppressive drugs are routinely used , many patients are refractory to treatment .
 71	Ribavirin , the only therapeutic option for LCMV disease , is not generally recommended in pregnancy due to findings of teratogenicity in animal models [ 22 ] .
 72	Aminoglycoside monotherapy for the treatment of pneumonia is not recommended due to poor lung penetration and alveolar concentration , prompting higher antibiotic dosing that potentially can lead to nephro-and ototoxicity [ 1 , 27 ] .
-73	Early studies report hydroxychloroquine may actually substantially worsen outcomes in COVID-19 <s2> patients , so it is difficult to recommend them as prophylactic therapy or treatment at this time [ 3 ] .
+73	Early studies report hydroxychloroquine may actually substantially worsen outcomes in COVID-19 patients , so it is difficult to recommend them as prophylactic therapy or treatment at this time [ 3 ] .
 74	Overall , there is no unique reason to expect that patients with COVID-19 infection will benefit from corticosteroids , and such treatment may be harmful [ 75 ] .
 75	Immune thrombocytopenia develops in about 20 % of patients [ 71 ] [ 72 ] [ 73 ] [ 74 ] [ 75 ] [ 76 ] and may respond relatively poorly to ITP therapies , although recent experience with rituximab and mycophenylate have been encouraging .
 76	As was mentioned earlier , systemic glucocorticoids are currently contraindicated in SARS-CoV-2 infection , as they may prolong viral clearance .

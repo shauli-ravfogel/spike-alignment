@@ -74,7 +74,7 @@ people with arg1:[e]asthma are $susceptible to arg2:[e]asthma
 73	Compared with other solid organ transplant recipients , LTR are more vulnerable to infections .
 74	Although immunocompromised patients acquire HMPV infections at the same frequency as immunocompetent individuals , they are at higher risk for severe infections .
 75	Patients with prolonged neutropenia are predisposed to become infected with candida or aspergillus [ 33 ] and fungal infections constitute a majority of fatal infections in patients with acute leukemia [ 34 , 35 ] .
-76	Neutropenic patients with associated CD4 <s2> cell depletion not receiving appropriate prophylaxis are at high risk for Pneumocystis jiroveci pneumonia [ 14 , 15 ] .
+76	Neutropenic patients with associated CD4 cell depletion not receiving appropriate prophylaxis are at high risk for Pneumocystis jiroveci pneumonia [ 14 , 15 ] .
 77	Although women of reproductive age have much lower mortality , they are susceptible to pneumonia from bacterial , viral , and fungal sources .
 78	Infants with underlying cardiopulmonary compromise such as surgical congenital cardiac disease and infants born prematurely with chronic lung disease are considered to be more susceptible to RSV infection , with resultant increased mortality and morbidity .
 79	However , these immunocompromised patients are more susceptible to infections caused by both conventional and opportunistic infections , and infection is now the first cause of death of SOT recipients .

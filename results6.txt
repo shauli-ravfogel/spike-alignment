@@ -2,16 +2,16 @@ arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
 0	<s1>h:Acute h:kidney h:injury<e1> is a possible manifestation in severe forms of <s2>h:COVID-19<e2> , conferring a high mortality 7 .
 1	<s1>h:Coagulation h:dysfunction<e1> is one of the major causes for death in patients with <s2>severe h:COVID-19<e2> [ 4 ] .
 2	<s1>h:Coagulopathy<e1> is one of the main complications occurring in hospitalized patients with severe <s2>h:COVID-19<e2> .
-3	<s1>h:Hypoxia& is the most common manifestation of patients with <s2>h:COVID-19<e2> , especially in severely or critically ill patients .
+3	<s1>h:Hypoxia<e1> is the most common manifestation of patients with <s2>h:COVID-19<e2> , especially in severely or critically ill patients .
 4	<s1>h:Early-onset h:pneumonia<e1> is a common and severe complication that is related to aspiration in patients with <s2>h:GBS<e2> .
-5	<s1>h:Barotrauma is a common complication in patients with <s2>h:SARS<e2> .
-6	<s2>h:COVID-19 h:infection<e2> is associated with several <s2>h:cardiac h:complications<e2> with high rates of adverse outcomes .
+5	<s1>h:Barotrauma<e1> is a common complication in patients with <s2>h:SARS<e2> .
+6	<s1>h:COVID-19 h:infection<e1> is associated with several <s2>h:cardiac h:complications<e2> with high rates of adverse outcomes .
 8	<s1>h:AKI<e1> is one of the common complications with <s2>h:COVID-19<e2> , and is associated with increased morbidity and mortality .
 9	<s1>h:Spontaneous h:pneumothorax<e1> is a specific and potentially life-threatening complication in <s2>h:SARS<e2> patients .
 10	<s2>h:COVID-19 h:pneumonia<e2> may lead to <s1>h:acute h:respiratory h:distress h:syndrome and severe h:respiratory h:failure<e1> ( 1 ) .
 11	<s1>h:Pneumonia<e1> is the most frequent and serious complication of <s2>h:COVID-19<e2> , due to excessive host immune response causing an acute respiratory distress syndrome .
 12	<s1>h:Acute h:respiratory h:distress h:syndrome<e1> developing in patients with <s2>h:COVID-19 h:pneumonia<e2> is associated with a high mortality rate and is the main cause of death in patients with SRAS-Cov-2 infection [ 1 ] .
-13	<s1>h:Pneumonia<e1> is a life-threatening complication of <s2>h:COVID-19 infection 10 .
+13	<s1>h:Pneumonia<e1> is a life-threatening complication of <s2>h:COVID-19 infection 10<e2> .
 14	<s1>h:ARDS and h:shock<e1> are common complications that can lead to death in <s2>h:COVID-19<e2> patients .
 15	<s1>h:Multiorgan h:injury<e1> , which significantly increases mortality , is often evident in patients with <s2>h:COVID-19<e2> .
 16	<s1>h:Acute h:IH<e1> is a significant complication of <s2>high-dose h:IVIg h:infusion<e2> .

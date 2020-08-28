@@ -1,22 +1,990 @@
 low blood oxygen arg1:levels are a $risk factor in arg2:[e]COVID-19 infection
-0	Similar to other studies ， our data indicated senior and hypertension are the high risk factors for severe COVID-19 infection .
-1	These findings suggested that men with severe COVID-19 is susceptible to secondary infections with virus or bacteria , resulting in higher utilization rate of advanced antiviral therapy and antibiotics .
-2	In this study , preceding RVIs was one of the independent risk factors associated with severe pneumococcal pneumonia ( a higher PSI score ≥91 ) , suggesting a potential role of preceding RVIs on clinical severity .
-3	Our study also identified that CVD is an independent risk factor associated with the progression of COVID-19 to a critical illness at the early stage .
-4	Our findings suggested that , similar with other severe acute respiratory outbreaks , comorbidities such as COPD , diabetes , hypertension and malignancy predisposed to adverse clinical outcomes in patients with Covid-19 .
-5	Additionally , our study identified that age is a risk factor for the development of ARDS or death in critically ill patients with COVID-19 .
-6	According to previous reports , male gender , presence of older siblings , tobacco smoke exposure , and siblings attending daycare center were important risk factors for RSV infection .
-7	Older age , higher CCI scores , smoker , ulcer disease , and previous pneumonia history increased the risk of POP development in cancer patients .
-8	In contrast , frequency of pregnant women among those of reproductive age hospitalized with severe manifestation of influenza A (H1N1)pdm09 was high , suggesting that pregnancy could be associated with development of SARI .
-9	Further , age was an independent predictor of adverse outcome and discriminator of severe/critical illness , which suggested that old people are more vulnerable to SARS-CoV-2 and more likely to develop severe/critical disease .
-10	We demonstrated that some underlying co-morbidities ( DM , hypertension , and CKD , but not IHD ) , high BMI and male gender were associated with a higher susceptibility of contracting SARS-CoV-2 infection .
-11	In line with the previous findings , the SARS-CoV-2 infection showed a clustering onset , a higher likelihood of affecting older males with comorbidities , and the possibility of resulting in severe and even fatal respiratory diseases such as ARDS .
-12	Overweight and obesity may be independent risk factors of more severe COVID-19 , as well as severe pneumonia during hospitalization due to COVID-19 .
-13	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
-14	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
-15	Furthermore , underlying comorbidities such as diabetes mellitus , renal insufficiency , chronic obstructive pulmonary disease ( COPD ) , and malignancy were significant risk factors for developing an Acinetobacter infection .
-16	Our results suggest that male patients , delayed admission to hospital after illness onset , and invasive mechanical ventilation during hospitalization were associated with prolonged SARS-CoV-2 RNA shedding .
-17	In conclusion , in this study , we found that the clinical factors of age older than 50 years , comorbidities , dyspnea , chest pain , cough , expectoration , decreased lymphocytes , and increased inflammation indicators may be risk factors for severe/critical COVID-19 pneumonia .
-18	Our retrospective cohort study from the Japanese sepsis registry revealed that admission route , severity , and infection site could be risk modifiers for ARDS in patients with non-pulmonary sepsis .
-19	Based on our meta-analysis , hypertension was shown to be associated with increased composite poor outcome that consists of mortality , severe COVID-19 , ARDS , need for ICU care and disease progression in patients with COVID-19 .
-20	Our study demonstrated that high level of peripheral blood cytokine IL-6 , CRP and the existence of hypertension were independent risk factors for assessing the severity of COVID-19 .
+11	In this study , preceding RVIs was one of the independent risk factors associated with severe pneumococcal pneumonia ( a higher PSI score ≥91 ) , suggesting a potential role of preceding RVIs on clinical severity .
+12	Our study adds evidence to the notion that older age , obesity and more advanced illness are factors associated to an increased risk of death among patients hospitalized with COVID-19 .
+13	Our study adds evidence to the notion that older age , obesity and more advanced illness are factors associated to an increased risk of death among patients hospitalized with COVID-19 .
+14	Our retrospective cohort study from the Japanese sepsis registry revealed that admission route , severity , and infection site could be risk modifiers for ARDS in patients with non-pulmonary sepsis .
+15	Our findings suggested that , similar with other severe acute respiratory outbreaks , comorbidities such as COPD , diabetes , hypertension and malignancy predisposed to adverse clinical outcomes in patients with Covid-19 .
+16	Our brief meta-analysis demonstrated that diabetic patients with COVID-19 infection have an higher risk to be admitted to ICU during the infection .
+17	These findings suggest that PD patients of older age ( mean , 78.3 years ) with longer disease duration ( mean , 12.7 years ) are particularly susceptible to COVID-19 with a substantially high mortality rate ( 40 % ) .
+18	This study reports a significant association between the prevalence of obesity and severe COVID-19 , including critical COVID-19 , and suggests that obesity might be a risk factor of pejorative evolution of COVID-19 , increasing the risk of ICU admission .
+19	Both the US CDC and Spanish data suggest that the severe lung disease and pneumonia is a feature more frequently associated with COVID-19 in men .
+20	Our study also demonstrates that patients older than 66 years of age are at increased risk of COVID-19 .
+21	Advanced age and comorbidities may be associated with an increased risk of COVID-19-related death in cancer patients , as has been reported for general populations without cancer .
+22	Furthermore , our results suggest that diabetes can be considered a risk factor for death in patients with severe covid-19 .
+23	Our study showed the age differences in clinical outcomes likely also resulted partially from the increased incidence of comorbidities with age including hypertension , coronary heart disease , chronic obstructive pulmonary disease , and diabetes , which may have increased the susceptibility of virus infection ; such comorbidities are identified as a risk factor of more severe disease including respiratory failure and death in patients with COVID-19 .
+24	The incidence of viral infections in adult outpatients with CAP is lower than that in adult inpatients ( 10 vs. 22 % ) as demonstrated in the subgroup analysis , implying that viral infections could aggravate the condition of patients presenting with pneumonia .
+25	Based on our meta-analysis , hypertension was shown to be associated with increased composite poor outcome that consists of mortality , severe COVID-19 , ARDS , need for ICU care and disease progression in patients with COVID-19 .
+26	HCoV-infected children with cardiovascular disease are more likely to receive respiratory support and enter a pediatric intensive care unit ( PICU ) , suggesting that the underlying cardiovascular disease increased the severity of HCoV infection in the children .
+27	Based on a contrite meta-analysis of early and preliminarily available data , CKD seems to be associated with enhanced risk of severe COVID-19 infection .
+28	Our findings indicate that patients with pulmonary fibrosis , heart failure , and virus infection have a higher risk and are more susceptible to SARS-CoV-2 infection .
+29	Our findings indicate that patients with pulmonary fibrosis , heart failure , and virus infection have a higher risk and are more susceptible to SARS-CoV-2 infection .
+30	Regardless , our findings do imply that hospital admission and recurrent hospital visits are potential risks for SARS-CoV-2 infection , and these factors may account for the increased incidence among cancer patients .
+31	Thus , our study suggests that preexisting diabetes might increase the risk of composites outcomes of patients with COVID-19 .
+32	Obesity represents a higher risk of severe COVID-19 infection , which may lead to the requirement of a mechanical ventilation in intensive care units and premature death .
+33	In summary , older age , increased number of comorbidities and systemic corticosteroid use among patients with IBD are strong risk factors for adverse COVID-19 outcomes .
+34	According to the current studies , numerous diseases including lung disease , cardiovascular disease , and immunosuppression appear to be at higher risk for severe forms of the COVID-19 .
+35	According to the current studies , numerous diseases including lung disease , cardiovascular disease , and immunosuppression appear to be at higher risk for severe forms of the COVID-19 .
+36	Compared to other potentially susceptible populations , oncology patients with immunosuppression are at a higher risk of developing severe post-infection events during the SARS-CoV-2 outbreaks .
+37	The individuals with OUD and multiple comorbidities have a high risk of COVID-19 infection .
+38	Our brief meta-analysis demonstrated that patients with COVID-19 infection and HT have a significant high mortality risk .
+39	Further , age was an independent predictor of adverse outcome and discriminator of severe/critical illness , which suggested that old people are more vulnerable to SARS-CoV-2 and more likely to develop severe/critical disease .
+40	This study suggests that cold environment might be an additional risk factor for COVID-19 cases .
+41	These findings indicate that the development of COVID-19 pneumonia in patients with fracture can lead to severe adverse outcomes and increase mortality .
+42	These results suggest that people with comorbidities , especially with DM , are susceptible to COVID-19 infection .
+43	Therefore , gender is a risk factor for higher severity and mortality in patients with COVID-19 , independent of age and susceptibility .
+44	According to preliminary data from China and Italy , cancer , along with other comorbidities , may increase the mortality from COVID-19 .
+45	34 Our results depicted that age is a risk factor related to severe COVID-19 , progression of disease and mortality .
+46	Our data confirm that advanced age is a risk factor for more severe clinical outcomes and mortality related to COVID-19 .
+47	Thus , COVID-19 infection is a risk factor for a poor control of hyperthyroidism , which , in turn , may contribute to the infection-related mortality risk .
+48	This study showed that patients with hypertension might have more severe respiratory symptoms , more abnormality laboratory indication , and more proportion of severe/critical type of COVID-19 .
+49	These finding suggests that human coronavirus infection might be associated with a risk of pneumonia development through bacterial coinfection in COPD patients .
+50	Thus , HMPV lower respiratory tract disease is associated with high mortality in HCT recipients .
+51	Taken together , diabetes may be associated with a higher risk of severe covid-19 disease and a necessity for mechanical ventilation as well as risk of death .
+52	Obesity represents a higher risk of severe COVID-19 infection , which may lead to the requirement of a mechanical ventilation in intensive care units ( ICU ) and premature death .
+53	Obesity represents a higher risk of severe COVID-19 infection , which may lead to the requirement of a mechanical ventilation in intensive care units ( ICU ) and premature death .
+54	In addition to male sex , smoking is a risk factor for COVID-19 susceptibility and poor clinical outcomes .
+55	A majority of COVID-19 patients who were clinically diagnosed are older than ϳ60 years and have underlying complications , including heart disease , diabetes , hypertension , or cancer , indicating that age and reduced immune activity are the critical risk factors or determinants for COVID-19 morbidity and mortality .
+56	Our statistical analysis found that advanced age and an elevated NLR were high risk factors for death in patients with COVID-19 .
+57	These data suggest that being more than 50 years and having and underlying disease are independent risk factors associated with co-infection among outpatients with acute respiratory tract infections ( ARTIs ) in Beijing .
+58	Among the large population of elderly patients who are treated for COVID-19 , there is a strong prevalence of cardiovascular and pulmonary comorbidity , which suggests that frailty rather than age confers susceptibility to COVID-19 .
+59	It seems that obesity is one of the biggest risk factors related to COVID-19 hospitalization and critical illness .
+60	Studies on ICU patients with COVID-19 suggest that the older [ 8 , 11 ] , male patients , and complications are all risk factors for death and disease severity associated with COVID-19 .
+61	The increased prevalence of hypertension in China may play a role in COVID-19-related deaths .
+62	There is an association between preexisting cardiovascular disease and severe COVID-19 and patients with cardiovascular comorbidities suffer higher mortality rate .
+63	Our findings suggest that primary infection with ORT might play a major role in the development of severe pneumonia , and secondary infection with H9N2 further increases the mortality .
+64	However , the experience from prior coronavirus outbreaks , including SARS CoV-1 and MERS , were limited among PLHIV , suggesting that PLHIV may not have a significantly higher risk of infection or mortality from SARS-CoV-2 .
+65	Our brief meta-analysis suggests that hypertensive patients with COVID-19 have a greater risk of ICU admission .
+66	Unexpectedly , chronic hepatitis B infection was an important independent risk factor for progression to ARDS .
+67	Although data is limited , patients with severe and/or uncontrolled asthma and those with COPD appear to be at increased risk of a more severe course of COVID-19 infection .
+68	Besides , patients with heart and lung diseases , diabetes , decompensated cirrhosis , HIV with low CD4 counts and other immunosuppressed patients are at higher risk for contracting COVID-19 and developed severe disease .
+69	The present study demonstrates that comorbid CVD is an independent risk factor for the development of severe COVID-19 and requirement of intensive care among patients with mild COVID-19 .
+70	Our study showed that immunosuppression and immunodeficiency were associated with the increased risk of severe COVID-19 disease , although the statistical differences were not significant .
+71	However , influenza A , influenza B co-infections may increase the risks of COVID-19 patients .
+72	Furthermore , other predisposing diseases such as malaria , malnutrition , and diarrhea may be contributory factors to febrile ARI exacerbation among hospitalized children .
+73	These findings suggested that men with severe COVID-19 is susceptible to secondary infections with virus or bacteria , resulting in higher utilization rate of advanced antiviral therapy and antibiotics .
+74	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
+75	In soldiers with HAdV infection in Korea , HAdV-55 was the most prevalent type and might be associated with severe clinical outcomes .
+76	Despite the outcome of viral infections in our study being similar to the healthy population , the results suggest that viral ARI and ILI may be associated with JIA exacerbations or flares .
+77	Older age , higher CCI scores , smoker , ulcer disease , and previous pneumonia history increased the risk of POP development in cancer patients .
+78	Our study demonstrated that high level of peripheral blood cytokine IL-6 , CRP and the existence of hypertension were independent risk factors for assessing the severity of COVID-19 .
+79	Consistent with other reports , our results indicate that patients with higher levels of inflammation at admission might be at higher risk for severe COVID-19 as well .
+80	Our results supported person-to-person transmission of SARS-CoV-2 and suggested that patients with severe COVID-19 may be more likely to have an older age , present with lymphopenia and bilateral lung infiltration , receive multiple treatments and stay longer in hospital .
+81	Data from apparent COVID-negative patients after elective surgery suggests that advanced age , comorbidities , surgical time , and surgical complexity may be risk factors for poor prognosis in the event of postoperative development of SARS-CoV2 .
+82	However , our data suggest that other factors , such as older age and comorbidities , contribute significantly to the more severe course of SARS-CoV-2 infection in cancer patients .
+83	People with HIV might be at an increased risk of SARS-CoV-2 infection or severe COVID-19 , especially those with comorbidity , lower CD4 count , or high HIV RNA load .
+84	We demonstrated that some underlying co-morbidities ( DM , hypertension , and CKD , but not IHD ) , high BMI and male gender were associated with a higher susceptibility of contracting SARS-CoV-2 infection .
+85	Our study indicated that patients with underlying disease may be more prone to HCoV-HKU1 infection with no impact on clinical symptoms , hospitalization rate or hospital stay duration .
+86	Furthermore , morbid obesity seems to be associated with the risk of ICU hospitalization and lethal outcome .
+87	The mean FBG at admission for intubated patients was also significantly increased when compared to that of patients not requiring intubation ( 238.0 vs 163.7 mg/dL ; p = 0.013 ; C.I. = 9.02 - 135.9 ) suggesting that uncontrolled glycemia , due to obesity or DM , is a significant risk factor for severe Covid-19 .
+88	Elevated CRP levels , underlying comorbidities , and NCP severity are the main risk factors for cardiac complications in COVID-19 patients .
+89	While the risk factors of COVID-19 are still under investigation , environmental factors , such as urban air pollution , may play an important role in increasing population susceptibility to COVID-19 pathogenesis .
+90	Also , age is an independent mediating factor between mortality due to COVID-19 and non-pulmonary involvement , as non-specific multiorgan dysfunction syndrome ( MODS ) and septicemia are common in the geriatric population .
+91	And kidney dysfunction may be a risk factor for COVID-19 patients developing into the severe condition .
+92	Although more cases and larger studies are needed , HEV109 infection may be associated to ARDs both in infants and in hematopoietic stem cell transplantation recipients .
+93	Stopping biologics may lead to higher risk of asthma exacerbations , increased OCS use and higher probability to emergency room access and hospitalization that represent themselves risk factors for SARS-CoV-2 exposure / infection .
+94	Therefore , medical comorbidities are a risk factor for a poor prognosis for patients with COVID-19 .
+95	Older individuals with pre-existing chronic health condition shave a higher risk of developing severe complications after SARS-CoV-2 infection .
+96	In contrast , frequency of pregnant women among those of reproductive age hospitalized with severe manifestation of influenza A (H1N1)pdm09 was high , suggesting that pregnancy could be associated with development of SARI .
+97	However , HIV positivity appears to increase the risk of AKI and ARDS in trauma patients .
+98	According to this study , higher counts of neutrophils , bands , and platelets , in addition to a low level of hemoglobin and a lack of defervescence within the first day of IVIG treatment are associated with higher risk .
+99	The risk of ischemic stroke is linked to SARS-CoV-2 infection among critically ill elderly patients with vascular risk factors , such as hypertension , diabetes mellitus , hyperlipidemia , smoking and history of previous stroke or transient ischemic attacks ( TIA ) .
+100	The risk of ischemic stroke may be higher in patients with COVID-19 infection similar to those with other respiratory tract infections .
+101	COVID-19 infection may also be connected with an elevated long-term CV risk .
+102	Our results support that within the first week following influenza infection , the risk of acute hospitalization was high among MS patients .
+103	Moreover , respiratory viral co-infection has a possible role in exacerbation , severity , and longer hospitalization .
+104	Therefore , elderly male patients with a history of smoke and underlying comorbidities are at increased risk of becoming critically severe if they are suffered from COVID-19 infection , which deserves more attention and intensive care treatment .
+105	Furthermore , there is a close relationship between the presence of TLR3 rs5743313/CT polymorphism and an increased risk of pneumonia in children infected by the pandemic A/H1N1/2009 influenza virus .
+106	Additionally , heavy cigarette smoking may be a risk factor for RF seropositivity in individuals without RA .
+107	Our data reveal that a history of asthma was more common among adult SARI case-patients with confirmed influenza , suggesting that adults with asthma may be at greater risk for SARI if they have influenza compared to other etiologies of SARI .
+108	Our meta-analysis also found that chronic pulmonary disease was a risk factor for increased disease severity in SARS-CoV-2 infected patients .
+109	This study identified several risk factors for disease progression in patients who were hospitalized with COVID-19 in Beijing .
+110	Thus , older age , pre-existing concurrent diseases , and delayed confirmation increase the odds of a fatal outcome in nosocomial MERS-CoV outbreaks in the Middle East and South Korea .
+111	These data also implies that unplanned preventive withdrawal of diseasemodified antirheumatic drugs ( DMARDs ) could lead to increase the risk of COVID-19 .
+112	In line with the previous findings , the SARS-CoV-2 infection showed a clustering onset , a higher likelihood of affecting older males with comorbidities , and the possibility of resulting in severe and even fatal respiratory diseases such as ARDS .
+113	The data in the present study suggested that the use of corticosteroids 7 days before ICU admission was an independent risk factor for fungal super-infection .
+114	In general , our current work demonstrated that in 110 discharged patients with confirmed COVID-19 in Wuhan , China , hypertensive patients had a significantly lower lymphocyte count on admission , the elderly and comorbidities such as hypertension may together constitute risk factors for poor prognosis .
+115	Findings from this meta-analysis supported the hypothesis that liver injury is associated with severe outcomes in patients with COVID-19 infection .
+116	Findings from this meta-analysis supported the hypothesis that liver injury is associated with severe outcomes in patients with COVID-19 infection .
+117	This study suggests that previous lung disease such as treated or untreated mycobacterium tuberculosis ( TB ) and old age are independent risk factors of a worse prognosis of those infected with COVID-19 .
+118	From our analysis , active cancer might be a risk factor associated with worse COVID-19 outcomes , especially in patients who have progressive disease .
+119	In conclusion , patients with previous cardiovascular metabolic diseases may face a greater risk of infection of 2019-nCoV and it can also greatly affect the development and prognosis of pneumonia .
+120	Our analysis suggests that diabetic patients with COVID-19 infection have an higher risk to be admitted to the ICU and show an higher mortality risk during the disease .
+121	Nevertheless , on univariate analysis , age and hypertension were associated with disease severity rather than the extent of disease or ongoing cancer therapy , suggesting that breast cancer patients share the same risk factors for severe COVID-19 as the general population .
+122	Both of these studies suggest that COVID-19 occurrence and outbreaks in LTCFs are possible and can be associated with high morbidity and mortality .
+123	In our study , we found that chest operation was significantly associated with death in COIVD-19 patients , and COPD is significantly associated with severe Covid-19 and death .
+124	Moreover , patients with COVID-19 with a history of stroke were observed to have a higher risk of severe events and poorer outcomes compared with those without stroke .
+125	The development of ARF is an important negative prognostic indicator for survival with SARS .
+126	In this cohort , BVAS and the frequency of diabetes in the infectious group were higher than that in the control group , indicating that higher BVAS and diabetes are potential risk factors of infection .
+127	However , HIV positivity is associated with an increased incidence of AKI and ARDS in trauma patients .
+128	This suggests that patients in Italy and Spain with severe Vit D deficiency may be at higher risk of severe COVID-19 .
+129	As reported by other groups , our study also showed that patients admitted for hMPV LRTI with previous comorbidities and those with severe complications during hospitalization were at higher risk for LTD .
+130	In this retrospective case control study , we suggested that Cushing syndrome , chronic renal diseases , anemia , bone marrow dysfunction , diabetes with complications , and solid organ malignancy might be the risk factors for COVID-19 .
+131	Therefore , we think SLoS with or without nasal obstruction is a strong predictor of SARS-CoV-2 infection in the context of an epidemic .
+132	Our meta-analyses indicated that cancer patients have an increased risk of COVID-19 , and cancer is associated with a 2.84-fold increased risk of severe illness and a 2.60-fold increased risk of death in patients with COVID-19 .
+133	These findings add to the growing literature highlighting obesity as a significant risk factor for the development of severe COVID-19 , especially in younger patients aged < 60 years old .
+134	Our study showed that higher body temperature on presentation , and higher peak LDH and CRP levels during hospitalization , were associated with respiratory failure and mechanical ventilation .
+135	Smoking is another potential risk factor for SARS-CoV-2 infection .
+136	Our results demonstrate that underlying or previous history of CVD is directly associated with both worse prognosis and severity outcomes in COVID-19 patients .
+137	Thus , vitamin D deficiency may play a role in increasing the risk of developing COVID-19 infection .
+138	In conclusion , CVD might have a significant role in disease severity and mortality of COVID-19 patients .
+139	Interestingly , our analysis indicated that ABO blood group incompatibility may be associated with an increased risk of ARF following OLT .
+140	Pre-existing heart disease , diabetes mellitus and obesity clearly predispose to adverse outcome from COVID-19 infection .
+141	All in all , whether interference from other comorbidities is present or not , we found that SARS-CoV-2 pneumonia patients with diabetes are more severe than those without diabetes evaluating from organ damage , inflammatory factors or hypercoagulability , and are more likely to progress into a worse prognosis .
+142	Our analysis demonstrated that coinfection with viruses is common in severe lung infections in children with comorbidities .
+143	Our study shows that obesity is associated with a severer respiratory presentation of COVID-19 and severer elevation of inflammatory markers , likely leading to higher oxygen demands at admission , prolonged oxygen requirement during hospitalization , delayed viral clearance and extended hospital stay .
+144	In China , older age ( ≥65 years ) and the presence of comorbidities are associated with a more severe course of COVID-19 in patients infected with the novel corona virus ( SARS-CoV-2 ) .
+145	In this study , we found that four variables including study , patients aged 50 years or older and NLR equal to or greater than 3.13 may 2 0 serve as a high-risk factor for COVID-19 patients .
+146	Advanced age and underlying cardiopulmonary diseases are two risk factors for severe hMPV infection in the older population .
+147	Based on the available limited published data , severe AKI in patients with COVID-19 is an ominous clinical predictor and is associated with high mortality .
+148	Lastly , our data confirm that hospitalized children born preterm and children with chronic diseases have an increased risk of developing severe LRTI among HMPV-and RSV-infected .
+149	Overall , our data suggest that breast cancer patients share the same risk factors for severe COVID-19 as the general population .
+150	Taken together , the patients with COVID-19 showed an increased tendency to present with GI symptoms in dissemination , increasing infection risk in healthcare providers who were treating suspected patients with COVID-19 without respiratory symptoms and fever .
+151	This large-sample cohort study showed that illness severity and clinical outcomes were poorer in patients hospitalized with FluA-p as opposed to FluB-p after adjusting for potential confounders , suggesting a direct impact of influenza virus types on the characteristics and outcomes of influenza related pneumonia .
+152	Additionally , we found that COVID-19 patients with diabetes also had preexisting cardiovascular disease , and were more susceptible to having acute cardiac injury during hospitalization , which might increase the possibility of short-term poor prognosis in patients with diabetes after SARS-CoV-2 infection .
+153	Our results suggest that male patients , delayed admission to hospital after illness onset , and invasive mechanical ventilation during hospitalization were associated with prolonged SARS-CoV-2 RNA shedding .
+154	Our data suggest that prior HCT and hypogammaglobulinemia may be risk factors for infections in the first 28 days post-CTI .
+155	Cardiac injury and inflammation is a relatively common association among patients hospitalized with COVID-19 , and it is related to higher risk of in-hospital mortality .
+156	Cardiac injury and inflammation is a relatively common association among patients hospitalized with COVID-19 , and it is related to higher risk of in-hospital mortality .
+157	These results suggested that VTE could remain underdiagnosed in patients with severe COVID-19 .
+158	In addition , the detection rate for ambient respiratory viral infections in the population was associated with an increased number of incident RA cases , which suggests a possible role for respiratory infections as a trigger for the development of RA .
+159	We have identified higher BMI , diabetes and cardio/ cerebrovascular disease as independent risk factors for the development of COVID-19 .
+160	The past medical history of CHD and increased level of cTnI are two independent determinants of clinical disease status in patients with COVID-19 .
+161	The past medical history of CHD and increased level of cTnI are two independent determinants of clinical disease status in patients with COVID-19 .
+162	Older age and medical comorbidity are factors associated with more severe illness and risk of death due to COVID-19 infection .
+163	Older age and medical comorbidity are factors associated with more severe illness and risk of death due to COVID-19 infection .
+164	The relationship of HSV infection to ARDS is unclear , but the presence of HSV in the lower respiratory tract was associated with the need for prolonged respiratory support and an increased late mortality .
+165	Unexpectedly , patients with underlying haematologic malignancy are at higher risks for SARS-CoV-2 infection and disease progression .
+166	The most important risk factors related to a higher death risk for COVID-19 pneumonia are elderly age and comorbidities ( hypertension , diabetes , previous cancer ) .
+167	The most important risk factors related to a higher death risk for COVID-19 pneumonia are elderly age and comorbidities ( hypertension , diabetes , previous cancer ) .
+168	In particular , this finding indicated that delayed confirmation is a high-risk factor for human nosocomial outbreaks with MERS-CoV in the Middle East .
+169	The elderly and comorbidities such as hypertension may together constitute risk factors for poor prognosis in patients with COVID-19 .
+170	However , increased risks of two-to threefold were observed with other respiratory viruses , suggesting that any single acute infection severe enough to lead to a pediatric consultation early in life is also a risk factor for asthma later in life .
+171	Our data indicate that males and patients aged ≥65 years are at increased risk of viral sepsis .
+172	Our data indicate that males and patients aged ≥65 years are at increased risk of viral sepsis .
+173	In addition , ILI clinical presentation was associated with rhinovirus infection in half of the study population and is likely to contribute to the misconceptions about influenza vaccine effectiveness , particularly during the influenza season , with there being high circulation of both viruses .
+174	Patients with hypertension who had taken ACEI/ARB drugs for antihypertensive treatment have an increased tendency to develop severe pneumonia after infection with SARS-COV-2 .
+175	Patients with hypertension who had taken ACEI/ARB drugs for antihypertensive treatment have an increased tendency to develop severe pneumonia after infection with SARS-COV-2 .
+176	Through the current meta-analysis , it was found that hypertension is the most prevalent underlying disease in hospitalized COVID-19 cases .
+177	Our results suggest that hypoproteinemia and cholestasis at the early stage elevate death risk of COVID-19 patients .
+178	Our findings suggest that an unhealthy lifestyle synonymous with an elevated risk of non-communicable disease is also a risk factor for COVID-19 hospital admission , which might be partly explained by low grade inflammation .
+179	Although COPD prevalence in COVID-19 cases was low in current reports , COVID-19 infection was associated with substantial severity and mortality rates in COPD .
+180	Obesity is also a risk factor for increasing severity of SARS-CoV-2-related illness .
+181	The available evidence implicates diabetes and obesity as important risk factors impacting the clinical severity of coronavirus infections , including SARS-CoV-2 .
+182	This speculation supports the theory that patients on immunosuppressive treatment could be at lower risk of developing complicated SARS-CoV-2 complications .
+183	Thus , our findings show the prevalence of kidney disease on admission and the development of AKI during hospitalization in patients with COVID-19 is high and is associated with in-hospital mortality .
+184	This observation suggests that RVs infection is common among young children and is more likely to be associated with severe ARIs when compared with other age groups , while in adults and elderly people , though RVs infection is not uncommon , RVs are less likely to cause severe ARIs in this age group .
+185	Patients with obesity and diabetes have higher risk for severe complications and mortality from COVID19 infection .
+186	Although hospitalisation for COVID-19 is rare in children , ethnicity and the presence of pre-existing comorbidities might be independent risk factors for severe disease .
+187	The absence of an increased risk of COVID-19 in PLWHIV was thought to be surprising because dysregulation of the immune response especially that which involves the T-lymphocyte system seems to be involved in the pathogenesis of COVID-19 infections , and the occurrence of lymphopenia is a recognized risk factor for the occurrence of ARDS and death among infected patients .
+188	We found that older age , higher SOFA score , and elevated d-dimer at admission were risk factors for death of adult patients with COVID-19 .
+189	This suggests that HRV/EVs are associated with severe disease requiring hospitalization even in previously healthy children .
+190	There is a likely connection between COVID-19 infection and fragility hip fracture in elderly patients .
+191	Like LRTVI in general , younger age and greater immunosuppression appear to be risk factors for serious RSV disease .
+192	Our analysis confirms that smoking is a risk factor for progression of COVID-19 , with smokers having 2.25-times the odds of severe COVID-19 outcomes than never smokers .
+193	Secondary infection by a different dengue virus serotype has been confirmed as an important risk factor for the development of DHF .
+194	This imbalance supports a higher susceptibility of men to develop severe respiratory disease following SARS-CoV2 infection , leading to more hospital admissions .
+195	The present study suggests that elevated C-reactive protein , and decreased albumin are factors associated with poor prognosis of COVID-19 infection .
+196	As discussed in the study , pregnant women are susceptible to respiratory pathogens and to development of severe pneumonia , which possibly makes them more susceptible to COVID19 infection than the general population , especially if they have chronic diseases or maternal complications .
+197	Thus , the mortality among hospitalized hemodialysis patients diagnosed with COVID-19 is high .
+198	Hypertension , diabetes , COPD , cardiovascular disease , and cerebrovascular disease are major risk factors for patients with COVID-19 .
+199	Hypertension , diabetes , COPD , cardiovascular disease , and cerebrovascular disease are major risk factors for patients with COVID-19 .
+200	Based on our observations and literature reports , older males with underlying diseases , high IL-6 levels , and detectable RNAaemia are more likely to have adverse clinical outcomes .
+201	However , our survey shows that OTDs are fairly frequent in patients with SARS-CoV-2 infection and may precede the onset of full-blown clinical disease .
+202	Similar to this study , the current work confirmed that thrombocytopenia at admission is associated with death in patients with COVID-19 .
+203	Based on a significant amount of accumulated data , age is a significant factor predicting hospitalization of COVID19 patients and fatal outcome .
+204	The results of this retrospective study suggested that COVID-19 with liver injury in non-ICU hospitalized patients was common , and it may be related to the degree of CT lesions in the lung .
+205	However , temperature elevation is common , and high maximum temperature during the course of SARS-CoV-2 infection was a significant harbinger of poor outcomes .
+206	Our current results suggest that the presence of underlying CKD , older age , lower serum albumin level and time to hospital presentation after symptom onset were important risk factors to determine occurrence of AKI .
+207	This study found that body temperature higher than 37.3˚C was not a risk factor in COVID-19 , and patients without fever in the early stage of the disease had a higher risk of developing severe conditions .
+208	The role of age in COVID-19 seems to be similar to its role in SARS and MERS , which has been reported as an independent predictor of adverse outcome .
+209	Our data showed a down-trend in the number of parturients with COVID-19 , which implied the importance of proper home quarantine and personal protection to reduce exposure , and ultimately reduced the chance of COVID-19 infection in pregnant women .
+210	These findings indicate that patients with cancer appear more vulnerable to SARS-CoV-2 outbreak .
+211	Interestingly , however , the patients > 2 years of age did not have more known risk factors for severe RSV infection compared to their younger counterparts , suggesting there may be other factors predisposing them to RSV-associated mortality .
+212	On the other hand , diabetes , which reached statistical significance despite the limited number of patients ( p<0.05 ) , is a likely underlying susceptibility factor for COVID-19 hospitalization and severity , as reported recently .
+213	4 , 5 In conclusion , patients with preexisting CVD risk , such as DM and HTN risk , as well as patients with established CVD , are associated with a higher risk of developing severe COVID-19 disease .
+214	Data suggest that a prior history of cardiovascular comorbidities including hypertension is associated with a more severe respiratory disease upon COVID-19 infection .
+215	This meta-analysis showed that cerebrovascular and cardiovascular diseases were important risk factors for mortality and severity of COVID-19 .
+216	In addition , our data showed that the concurrent infection of bacterial and viral pathogens was identified as one of the significant risk factors independently associated with mortality .
+217	In conclusion , in this study , we found that the clinical factors of age older than 50 years , comorbidities , dyspnea , chest pain , cough , expectoration , decreased lymphocytes , and increased inflammation indicators may be risk factors for severe/critical COVID-19 pneumonia .
+218	Furthermore , patients from a BAME background appear to have increased mortality after SARS-CoV2 infection ; they also have a higher prevalence of central obesity and its metabolic complications .
+219	Diabetes increases the risk of pneumonia in COVID-19 infected individual and it is an important risk factor for adverse outcome .
+220	This small , retrospective observational study suggests a link between VDI and severe COVID-19 .
+221	Although the COPD prevalence was not high in the included confirmed COVID-19 cases , COVID-19 causes a substantial burden on COPD patients with increased disease severity .
+222	40 Liver failure , as defined by a total bilirubin ≥ 12 mg/dl in the CANONIC study , was an independent predictor of a severe lifethreatening course of ACLF , suggesting a central role as a trigger or perpetuating factor of multiorgan failure .
+223	This finding suggests that patients with HLA-B*46:01 may be at increased risk for infection with SARS-CoV-2 .
+224	It seems that COVID-19 infection in pregnant patients may increase the risk of maternal mortality .
+225	However , we did find heavier density of S. pneumoniae colonization among elderly patients ( > 65 years ) regardless of detectable URTI pathogens , which combined with our finding that the S. pneumoniae frequency was also increased in this age group , provided consistent evidence to help explain why elderly patients are at higher risk of developing streptococcal pneumonia .
+226	This observation suggests that a negative PPD reaction , reflecting reduced cellular immunity , is a potential risk factor for hMPV infection , as well as tuberculosis and shingles , in older people .
+227	However , the -1031CT/CC and -863 AC genotypes may be risk factors of femoral head necrosis in discharged SARS patients .
+228	28 The uncontrolled state of underlying hematological malignancies and the presence of co-infections were significantly associated with the development of LRI in this study , which underscores the importance of the host 's overall immune status in the outcome of RVI .
+229	This cross-sectional study spanning 6-years suggests that CoV accounts for an important burden of respiratory infection , representing 1 out of 9 viral respiratory infections , with a propensity to cause lowerrespiratory tract infection and severe outcomes .
+230	The most interesting finding of our analysis is that severe obesity is a significant factor for severe respiratory disease and death in hospitalized patients with COVID-19 .
+231	The most interesting finding of our analysis is that severe obesity is a significant factor for severe respiratory disease and death in hospitalized patients with COVID-19 .
+232	Currently , there are limited data on hMPV infections in patients with HM and their impact ; however , underlying HM was reported as a significant risk factor for progression to LRI in patients with PIV-associated respiratory infections .
+233	We have observed that influenza-like illness defined by clinical features , which may be caused by both influenza and other viral infections such as those highlighted above are associated with an increased risk of MI .
+234	The present review found that older age and concomitant disease were risk factors of MERS infection and mortality .
+235	In conclusion , the results of this updated meta-analysis suggest that active smoking is significantly associated with the risk of severe COVID-19 .
+236	In this study , cyclophosphamide was associated with an 11.3-times increased risk of ILD , and it raises a high suspicion for cyclophosphamide having a causative role in late-onset drug-induced ILD .
+237	This correlation persisted in severely obese women even after multivariate adjustment , suggesting that in women , obesity may be an independent risk factor for developing CKD .
+238	In summary , we found an association between virologic and host factors , including an immunocompromised state , and an increased risk of serious HCoV-related LRTD in children .
+239	Through a systematic review , meta-analysis and retrospective cohort study , we found that the low blood sodium population may significantly increase the risk and severity of SARS-CoV-2 infection .
+240	Risk factors for severe COVID-19 in children are currently unknown , although a study of seasonal coronaviruses in children found that co-infection , younger age and immunocompromise were associated with an increased risk of severe lower respiratory tract infection .
+241	Although HIV-infected children with RSV-associated ALRTI are at increased risk of hospitalization and death , this could be due to greater susceptibility to co-infections .
+242	Though COPD prevalence in reported COVID-19 cases is low , COVID-19 infection is associated with significant severity and mortality in COPD .
+243	Though COPD prevalence in reported COVID-19 cases is low , COVID-19 infection is associated with significant severity and mortality in COPD .
+244	Although the data are limited in number , C. diff infection may be associated with a higher incidence and severity of gut aGvHD .
+245	Additionally , data indicate that hypertension , diabetes , and cardiovascular diseases are important risk factors for progression and unfavorable outcome in COVID-19 patients .
+246	Additionally , data indicate that hypertension , diabetes , and cardiovascular diseases are important risk factors for progression and unfavorable outcome in COVID-19 patients .
+247	This study revealed that the proportion of CA-RV species , vulnerable age , and all-cause mortalities in symptomatic CA-RVI were different between SOT and HSCT recipients and non-transplant critically ill patients in ICU group that are populations typically at risk of invasive viral infections .
+248	16 It has been observed that : MALFD patients with obesity had more severe COVID-19 disease than non-obese ones ( 37.5 % vs.9.5 % , p = 0.021 ) , subjects with severe COVID-19 were more obese compared to those with non-severe disease ( 89.5 % vs.59.6 % , p = 0.021 ) , while , the presence of obesity in MAFLD patients was associated with a ~6-fold increased risk of severe COVID-19 illness , and this association remained significant even after adjusting for age , sex , smoking , diabetes , hypertension and dyslipidemia , suggesting that , in the context of MAFLD , obesity represents an important risk factor for COVID-19 severity .
+249	Obesity was shown as an independent risk factor for developing ARDS among hospitalized patients .
+250	Our results suggested that history of smoking and/or underlying clinical conditions may increase risk for infection , especially for patients with hypertension , diabetes , and heart-pulmonary insufficiency .
+251	Moreover , type 2 diabetes mellitus appears to be an important driver of this susceptibility to COVID-19 .
+252	Besides many reasons for spreading infection , cold environmental temperature could be an underestimated additional risk factor for COVID-19 cases .
+253	Thus , in this limited cohort of long-term kidney transplant patients , SARS-CoV-2 induced pneumonia is characterized by high risk of progression and significant mortality .
+254	Thus , in this limited cohort of long-term kidney transplant patients , SARS-CoV-2 induced pneumonia is characterized by high risk of progression and significant mortality .
+255	Therefore , preexisting diabetes is a predictive factor for virus infection .
+256	Particularly in HSCT recipients , LRTI with hPIV significantly increased the risk of airflow decline ( odds ratio : 17.9 ; 95 % confidence interval : 2.0e160 ) , and this complication is associated with increased mortality risk .
+257	However , elevated IgM levels in the RRMS group indicate that recent exposure or reactivation of HHV-6 may be associated with RRMS .
+258	In conclusion , the presence of HF/CVD or risk factors for these conditions may increase susceptibility to the infection with SARS-CoV-2 and is probably associated with worse outcomes .
+259	In addition to the elderly and males , we found that patients with a history of diabetes and hypertension are at increased risk of severe COVID-19 and mortality , in agreement with previous studies [ 4 , 23 ] .
+260	Our data establish that impaired glucose metabolism , due to either DM or obesity , is significantly associated with severe Covid-19 in this high-risk population .
+261	In this study , infection with S. pneumoniae was the risk factor for adult asthma exacerbation in clinical practice .
+262	Our findings suggest that vitamin D deficiency may partly explain the geographic variations in the reported case fatality rate of COVID-19 , implying that supplementation with vitamin D may reduce the mortality from this pandemic .
+263	Our data also identifies cardiovascular disease as a comorbidity that increases the susceptibility to COVID-19 .
+264	In summary , the prevalence of malignancies was low among ICU patients with SARS-CoV-2 infection and did not exceed that in the general population .
+265	Nonetheless , the available studies indicate an association between pre-existing CVD and severe cases of COVID-19 infection .
+266	Our study showed that multiple organ damage , such as ARDS , acute kidney injury , acute cardiac injury , and acute liver injury , were common complications in patients with COVID-19 .
+267	Bilateral pneumonia on CT scan , shorter period of illness onset to admission , lymphopenia , severity of disease are the risk factors for longer hospitalization duration of COVID-19 .
+268	Our study indicates that acute infection is a common risk factor for pediatric VTE , especially in critically ill children , and can be the primary trigger in a significant proportion of VTE cases associated with acute infections .
+269	The results emphasize that the risk of ARDS development in SARS-CoV-2 infections include underlying disease such as diabetes mellitus and secondary infection .
+270	Lymphopenia is a common feature in the patients with COVID-19 and might be a critical factor associated with disease severity and mortality .
+271	COVID-19 infection seems to escalate the risk in older patients with heart disease .
+272	COVID-19 infection seems to escalate the risk in older patients with heart disease .
+273	In summary , in 2009 H1N1 hospitalized children , older age and having an underlying neurological medical condition were significant independent risk factors for development of severe disease .
+274	In conclusion , sex ( male ) , smoking history , diabetes , hypertension , and fatigue or myalgia can be considered as significant risk factors for the severity of COVID-19 .
+275	Moreover , this meta-analysis demonstrated that smoking , tracheostomy , blood transfusion on admission , barbiturate infusion , ISS , and head AIS are risk factors for VAP , providing specific target population for the prevention of VAP .
+276	In fact , since smoking habit was correlated with higher risk of SARS-COV-2 infection and severe COVID-19 manifestations , 5 patients with lung cancer patients could be considered more susceptible for the infection and its complications .
+277	Additionally , late new-onset DAD ( > 90 days post-transplant ) was a signifi ca nt risk factor for developing RAS .
+278	These results confirm that socioeconomic disadvantage is a significant risk-factor for CPV infection and outcome , and high temperature may also contribute to risk .
+279	In this study , we found that higher duration of sunlight exposure was related to more cases of recovery from Covid-19 among patients .
+280	Household crowding seems to be another important risk factor for severe viral lower respiratory illness including that caused by RSV .
+281	Importantly , that study suggests that hospital admission and recurrent hospital visits , inherent to cancer patients ' management , are potential risk factors for SARS-CoV-2 infection [ 6 ] .
+282	Previous respiratory disease was significantly associated with death due to COVID-19 ( P < .001 ) , indicating that older patients with previous respiratory disease often have a poorer prognosis after infection with SARS CoV-2 .
+283	However , those who are in close contact with patients with symptomatic and asymptomatic COVID-19 , including health care workers and other patients in the hospital , are at higher risk of SARS-CoV-2 infection .
+284	Our study results suggest that the rates of cardiac complications were high in the hospitalized COVID-19 patients , especially in patients with confirmed AMI from among those who required ICU care .
+285	In conclusion , the severity of MERS-HCP and SARS-HCP was lower than that of MERS-non-HCP and SARS-non-HCP due to younger age and early confirmation in HCP groups .
+286	This study suggested that critically ill patients with COVID-19 had high proportion of underlying diseases and high risk for developing multiple organ failure , which made the treatment more challenging .
+287	While our study can not determine the incidence of COVID-19 infection among breast cancer patients , the small number of diagnosed cases suggests that breast cancer patients , as a whole , are not at high risk of symptomatic COVID-19 infection .
+288	The present study revealed that compared with COVID-19 population , MERS-COV population had a higher rate of ICU admission , discharge and fatality and longer incubation time .
+289	In line with previous studies , we found that exposure to secondhand smoke was a risk factor for development of wheezing in children with viral LRTIs requiring hospitalization .
+290	The use of antimicrobial and GI therapy and previous healthcare contacts are possible risk factors for community-onset CDI .
+291	All these results suggested that VTE remains underdiagnosed in patients with severe COVID-19 .
+292	In summary , COVID-19 mortality is more common in older male patients with comorbidities and is mainly caused by multiple organ dysfunction syndrome .
+293	In summary , older age of the population , urbanization , and longer duration of the outbreak in a country were independently associated with higher country-wide percapita coronavirus mortality .
+294	Herein , we observed that hypertension was significantly associated with the severity and fatality in SARS-CoV-2 infection in both age < 50 years and ⩾50 years groups , suggesting that hypertension could independently increase the risk of disease severity and predict poor outcomes of SARS-CoV-2 infection .
+295	Our main outcomes show that the prevalence of COPD in COVID-19 patients was low , but that the risk of severity ( 63 % ) and mortality ( 60 % ) were high , which indicates COPD patients with confirmed COVID-19 are at a greater risk of severe complications and death .
+296	Our main outcomes show that the prevalence of COPD in COVID-19 patients was low , but that the risk of severity ( 63 % ) and mortality ( 60 % ) were high , which indicates COPD patients with confirmed COVID-19 are at a greater risk of severe complications and death .
+297	qRT-PCR demonstrated that 3 patients ( Cases 1 , 2 , and 5 ) were negative The present study documented that patients with a fracture may be at a higher risk of COVID-19 pneumonia .
+298	OD therefore appears to be a highly prevalent symptom of COVID-19 , and sudden-onset OD should be considered a potential predictor of COVID-19 .
+299	This study suggests that VRTI during the first year after lung transplantation is associated with longterm CLAD development and that coronavirus infections in particular might be a risk factor .
+300	In our study , RSV was the most prevalent viral agent in hospitalized patients with LRTI and the co-detection of HRV in patients with RSV infection increased hospital stay and days in use of supplemental oxygen .
+301	These findings of our study revealed that pulmonary sequelae , especially fibrosis , are a frequently long-term complication of H1N1 virus-associated pneumonia .
+302	The highest percentage of ALI was found among patients with healthcare-associated pneumonia ( HCAP ) and hospital-acquired pneumonia ( HAP ) , suggesting that health-care-related exposures could have contributed to the development of ALI .
+303	Although the number of HRV-A21-positive cases was small , senior age may be a risk factor for the degree of CAP severity in this cohort .
+304	Multivariate regression analysis also proves that age is an independent risk factor for severe COVID-19 ( P = .0223 ) , which may be related to immune dysfunction and presence of underlying diseases in elderly patients .
+305	The status of pre-hospital T2D could be significantly associated with numerous clinical parameters , which are known independent risk factors for the poor outcomes of COVID-19 , including cardiovascular abnormalities and immunological dysfunction .
+306	10 Overall , this suggests that elderly patients residing in long-term care facilities ( LTCFs ) could be vulnerable to SARS-CoV-2 infection and at a high risk for COVID-19-associated morbidity and mortality .
+307	In this setting , steroid therapy used for GVHD prophylaxis may partially explain the association with PRES onset through exacerbation of hypertension which is a renowned risk factor for PRES .
+308	In this cohort , lower production of CXCL-4 and IFN-a in the fetoplacental unit increased the susceptibility to PSRW/asthma .
+309	Based on these observations , there is concern that patients treated with immunosuppressive drugs may be at a higher risk of developing poor outcomes during a SARS-CoV-2 infection .
+310	Compared with patients with non-severe disease , those with severe COVID-19 had a higher risk of developing gastrointestinal symptoms and liver injury .
+311	Furthermore , pvl emerged as a significant predictor of need for a drainage procedure and higher number of surgical interventions , indicating that PVL ( or an associated factor ) likely contributes to severity of muscle disease caused by S. aureus .
+312	Additionally , we also found diabetic COVID-19 patients had more preexisting cardiovascular disease , and were more susceptible to have acute cardiac injury during hospitalization , which might increase the possibility of short-term poor prognosis in diabetic patients after SARS-CoV-2 infection .
+313	A history of prematurity and chronic disease increases the risk of severe LRTI among HMPV- and RSV-infected children .
+314	Pre-existing comorbidities such as hypertension , diabetes , and cardiovascular disease are associated with a greater severity and higher fatality rate of covid-19 .
+315	Pre-existing comorbidities such as hypertension , diabetes , and cardiovascular disease are associated with a greater severity and higher fatality rate of covid-19 .
+316	Our study also showed that patients with exposure to high-risk factors ( respiratory droplets and close contact ) , advanced age , and comorbidities were more likely to develop COVID-19 in the COFs .
+317	As respiratory and cardiovascular diseases represent potential risk factors associated with increased COVID-19 mortality , our results are in line with the hypothesis that long-term exposure to nitrogen dioxide is linked with increased risk of COVID-19 mortality .
+318	Our results show that in MAFLD patients with laboratory-confirmed COVID-19 , the presence of obesity markedly increases the risk of having severe illness .
+319	Additionally , elevated D-dimer is one of the risk factors for the development of acute respiratory distress syndrome ( ARDS ) , progression from ARDS to death or early in-hospital death in COVID-19 patients .
+320	The risk for abnormal fecal examination ( erythrocyte , leukocyte and/or OB ) results in non-critical COVID-19 may be similar to baseline status of others lung diseases , but the risk in critical COVID-19 increased obviously .
+321	Even though COVID-19 infection may be just severe in any adults , older adults ( 65-year-old or older ) may experience a higher mortality rate .
+322	The current retrospective study of two cohorts confirmed that blood type A populations are more susceptible to SARS-CoV-2 infection .
+323	In addition , PIV3 is a new risk factor for VRI in PSPs .
+324	Although postpartum infection can not be excluded , our study also suggests that vaginal delivery may be associated with a low risk of intrapartum SARS-Cov-2 transmission to the newborn .
+325	The current meta-analysis confirmed that increased age ( ≥65 years 168 old ) was associated with death in COVID-19 patients .
+326	APACHE II score was associated with a 30-day mortality in patients with ARDS infected with respiratory viruses , which suggests that severity of illness has an impact on overall clinical outcomes .
+327	In our study , HBoV viral load did not show significant influence on the presentations of upper respiratory tract infection symptoms , such as cough , rhinorrhea , however high HBoV viral load led to more severe lower respiratory tract symptoms and longer hospitalization .
+328	Moreover , the presence of geriatric syndromes , especially physical disability and cognitive impairment , may play an additional role at worsening the prognosis and increasing the risk of adverse outcomes related to Covid-19 .
+329	Despite limited data , patients with IBD are theoretically at increased risk of COVID-19 due to proximity to medical facilities and immunosuppression .
+330	According to previous reports , male gender , presence of older siblings , tobacco smoke exposure , and siblings attending daycare center were important risk factors for RSV infection .
+331	These findings indicate that cancer patients appear more vulnerable to SARS-COV-2 outbreak .
+332	Especially , nasal USA300 carriers may be the high-risk group for SSTI .
+333	The disease burden of obesity is obvious in hospitalized coVid-19 patients and has strong relationship with the development of obese-related major and lethal complications .
+334	Thus , maternal SARS-CoV-2 infection may be an independent risk factor for preterm birth , regardless of symptom severity , though the mechanism remains to be clarified .
+335	Maternal URTI requiring hospitalization is an independent risk factor for PTD and CD .
+336	Remarkably , the mortality rate associated with COVID-19 is significantly higher compared to the most recent seasonal influenza [ 22 ] and may be exacerbated in the elderly and those with comorbidities .
+337	These results also suggest that frailty is a major contributor to the risk for serious complications of influenza , even in vaccinated older adults .
+338	Despite the limitations of currently available data regarding the impact of diabetes on the prognosis of COVID-19 , it is plausible that a hitherto undiagnosed T2DM , in addition to age and other comorbidities , is a risk factor of poor prognosis .
+339	The results of our study also suggest that there is an independent association of death and MSOF among patients who develop both a viral and bacterial infection during their hospitalization .
+340	These reports showed that children infected with SARS-CoV-2 may have variable symptoms , which may be partly related to the previous health status and interval from onset to consultation and comorbidities .
+341	As per the final analysis , underlying hypertension , cardiovascular disease and respiratory system disease might be risk factors in patients with severe infection compared to patients with known severe infection [ 35 ] .
+342	In conclusion , immunosuppression and immunodeficiency were associated with increased risk of severe COVID-19 disease , although the statistical differences were not significant .
+343	Taken together , the present study provide evidence that male , older age , comorbidity with diabetes and lymphocytopenia are major risk factor of ALI among COVID-19 patients .
+344	Unexpectedly , we found that having asthma , immunosuppression or smoking are protective factors against infection , while COPD does not increase the risk for SARS-CoV-2 .
+345	According to our data , the diagnosis of dementia , especially in the most advanced stages , represents an important risk factor for mortality in COVID-19 patients .
+346	This study demonstrates that COVID-19 patients with CVD are more likely to be critically ill and have a higher mortality rate , especially those who simultaneously have different types of CVD .
+347	In our study , there was one critical case who was only 8 months old and had a previous history of surgery and combined with mycoplasma infection , suggesting that infants can also be infected with the SARS-CoV-2 , and that a previous surgical history and comorbidity may aggravate the progression of COVID-19 .
+348	Older patients are surely at increased risk for severe SARS-CoV-2 , but age per se may not be the main contributor to this evidence .
+349	Obesity is a risk factor for SARS-CoV-2 infected patients to develop respiratory failure .
+350	Compared with patients with non-severe disease , patients with severe COVID-19 had a higher risk of developing gastrointestinal symptoms and liver injury .
+351	Our meta-analysis demonstrates that patients with COVID-19 presenting with elevated D-dimer levels have an increased risk of severe disease and mortality .
+352	Our meta-analysis demonstrates that patients with COVID-19 presenting with elevated D-dimer levels have an increased risk of severe disease and mortality .
+353	The considerable difference in CFR for COVID-19 among the elderly in Italy and Spain suggests the possibility of unknown factors that substantially increase the fatality rate of COVID-19 in the elderly .
+354	RSV , HAdVs , and co-infection of RSV and IFVs were more frequent in hospitalized children ( or adenoviruses in adults ) , which might predict the severity of ARIs .
+355	In summary , the current study found that only 46.875 % of hemodialysis patients with COVID-19 infection have fever symptoms in the early stage , and diabetics may be the most susceptible population .
+356	Our analysis further indicated that a high SARS-CoV load is associated with early death , in addition to a high mortality rate , as previously reported elsewhere [ 10 ] [ 11 ] [ 12 ] .
+357	These results suggest that because of their immunosuppressive status , transplant recipients may experience more severe COVID-19 pneumonia and a more difficult recovery than those in the general population .
+358	We found a prolonged PT , In summary , this meta-analysis showed that older age , presence of chronic inflammatory states , dyspnea at disease onset , decreased gas exchange , increased IL-6 levels , lymphopenia , decreased CD4 and CD8 count cells , changes in biochemical indices , and coagulation abnormalities including prolonged PT , increased D-dimer and thrombocytopenia are important predictors for mortality in patients with COVID-19 .
+359	Our study suggests that higher mortality in COVID-19 may be at least partly mediated by coronary artery inflammation .
+360	Furthermore , our results indicated that the hazard of COVID-19 death was significantly higher in patients at older ages .
+361	Conversely , in SARS-CoV2 infection , the presence of comorbid chronic respiratory disorders is not associated with enhanced risk for developing infection compared to other common clinical conditions .
+362	In this study , CoV was identified in patients , suggesting that CoV is clinically one cause of PVOD .
+363	However , parental asthma , ever wheezing and environmental tobacco smoke exposure are risk factors for severe viral pneumonia in children .
+364	Overall , available studies in adults and children suggest that acute C. pneumoniae and/or M. pneumoniae infection may play a significant role in asthma exacerbations .
+365	These data strongly imply that not only is pulmonary fibrosis a comorbidity for COVID-19 , but that it may be the cause of mortality for COVID-19 .
+366	The existence of comorbidities is linked with augmented age and therefore increased risk of mortality in COVID-19 patients .
+367	SARS-CoV-2 infection seems to lead to a more severe disease in patients who are elderly or have comorbidities .
+368	The persistent SARS-CoV-2 in elderly patients may be the initiating factor that causes organ damage , especially persistent inflammation of the alveoli , and disease progression .
+369	In the present study , people with old age , male , smoking , presence of comorbidity , CKD , COPD , cancer , hypertension , and diabetes were identified as predictors of severe disease from COVID-19 infection .
+370	The results from this study suggest that though the positive rates of EV-D68 are low in both hospitalized children with pneumonia and cohort children cases with ARI in the Philippines , EV-D68 is associated with more severe pneumonia .
+371	Our PICU study suggested younger age , bacterial co-infections , history of chronic lung disease , acyanotic heart disease , and neurodevelopmental conditions ( e.g. , mental retardation , cerebral palsy , neuromuscular diseases ) to be risk factors for severe RSV infection [ 5 ] .
+372	In contrast , rhinovirus was dominant in children aged 3e18 years , suggesting that viral respiratory tract pathogens might differ at different ages in asthmatic children with acute exacerbation .
+373	In particular , lung cancer patients were reported to be at high risk of pulmonary complications related to SARS-CoV2 infection .
+374	9 Our results suggested both overweight and obesity were risk factors for severe COVID-19 infection , consistent with emerging data in small clinical studies .
+375	In conclusion , this cohort study showed that obesity is a factor in disease severity of SARS-CoV-2 , having greatest impact in patients with a BMI ≥35 kg/m2 .
+376	Our current study shows that among abdominal trauma patients , increased BMI is an independent risk factor for mortality .
+377	Moreover , we observed that thrombocytopenia is also associated with threefold enhanced risk of severe COVID-19 .
+378	Despite different SCD genotypes , the four patients all have history of respiratory complications , such as ACS , asthma or PE , which may be potential risk factors for progressive COVID-19 pulmonary disease in patients with SCD .
+379	Nevertheless , inadequate use of influenza vaccine remains an important modifiable risk factor in patients hospitalized with COPD .
+380	This result may be attributed to viral load and suggests that multiple etiology in viral LRTI may be associated with worse prognosis .
+381	These findings may suggest that chest CT , if performed at least 6 days after symptom onset , is a prognostic indicator for COVID-19 .
+382	Moreover , patients with underlying comorbidities have a higher mortality than other after they develop COVID-19 .
+383	Nevertheless , overall viral carriage in patients with ILI on return ( 75.0 % ) was significantly higher than in individuals without ILI ( 42.5 % ) , which suggests that viruses play a role in the pathogenesis of the RTIs .
+384	The high tacrolimus level at presentation and low TCIF ( Cylex ) level suggested over-immunosuppression , which can be a risk factor for SARS-CoV-2 infection .
+385	These results suggest that delayed-onset CMV pneumonitis was independently associated with an increased risk of death .
+386	Thus , other factors besides warmer temperature are related to COVID-19 spread , and clinicians must be aware of new-onset diarrhea as part of the SAR-CoV-2 infection spectrum .
+387	Our study also suggested that all non-SARS-associated HCoVs contribute significantly to URTI in adult patients in China .
+388	Our data suggest that use of CS 7 days before ICU admission is an independent risk factor for fungal superinfection .
+389	Our data suggest that use of CS 7 days before ICU admission is an independent risk factor for fungal superinfection .
+390	A BMI > 28 kg/m 2 and a history of type 2 diabetes are independent risk factors for severe illness of COVID-19 .
+391	The meta-analysis of retrospective studies confirms that COPD is associated with a dramatically increased risk of aggravation in patients with COVID-19 .
+392	Respiratory coinfection is likely to be a determinant of more severe acute exacerbations with longer LOS .
+393	Risk factors for severe outcomes and death from COVID-19 infection include older age and medical comorbidities , characteristics that are common in cancer patients .
+394	This study suggested that for HSCT candidates with pretransplant RSV URTI , a delay of HSCT might reduce the risk of developing RSV pneumonia .
+395	Uncontrolled or poorly-controlled hyperglycemia due to any cause including diabetes or stress hyperglycemia is associated with a poor outcome ( increases in severity and mortality ) in patients with COVID-19 .
+396	Compared with moderately affected COVID-19 patients , diabetes was found to be highly prevalent among severely affected patients suggesting that this non-communicable disease should be considered as a risk factor for adverse outcomes .
+397	However , we found a more than twofold increased risk of fetal death following maternal pandemic influenza in the first trimester , supporting that influenza during the pandemic season in 2009/2010 was a more severe threat to the fetus than influenza during regular seasons .
+398	Our study showed that CRP in the severe group was significantly higher than that in the nonsevere group , and CRP was an independent risk factor for severe COVID‐19 .
+399	Our findings support the matched case-control study 19 which showed that MERS-CoV patients are more likely to have leucopenia and transaminitis .
+400	In this multicenter nested case-control study , advanced age and high LDH level were independent risk factors for deterioration in mild COVID-19 patients .
+401	Our findings that RSV was the leading pathogen identified in young children under two years hospitalized for lower respiratory tract infections demonstrates that RSV could also be associated with substantial morbidity and mortality in China , as reported in studies from other industrialized and developing countries [ 20 ] [ 21 ] [ 22 ] .
+402	Patients having diabetes were more likely to develop ARDS and require ICU and mechanical ventilation as compared with non-diabetic patients , indicating patients with diabetes had higher risk of progressing to critically ill cases .
+403	Nonetheless , the current literature does not support smoking as a predisposing factor in men or any subgroup for infection with SARS-CoV-2 .
+404	Nonetheless , the current literature does not support smoking as a predisposing factor in men or any subgroup for infection with SARS-CoV-2 .
+405	RSV , adenoviruses , and co-infection of RSV and IFVs were more frequent in hospitalized children ( or adenoviruses in adults ) , which might predict the severity of ARIs .
+406	In our study , HRV was identified as a risk factor for ARI which required hospitalization .
+407	Moreover , elevated white blood cell count , urea nitrogen , α-HBDH and decreased platelet count were associated with the risk for mechanical ventilation , which reflects critical disease .
+408	Compared to stable asthmatic outpatients , higher incidences of HRV , RSV , and metapneumovirus infections were observed in asthma exacerbation inpatients , indicating that viral infection , especially with HRV , RSV , or metapneumovirus , plays an important role in adult asthma exacerbation in clinical practice .
+409	We found that 70 % of patients had at least two concurrent SIRS components and detected significantly higher levels of serum IL-6 and IL-8 in the patients than in HCs , which may explain the high morbidity and mortality associated with this disease .
+410	In addition to RSV , our data support the role of HRV and HCoV as causing ARI in pregnant women during the second and third trimesters of pregnancy .
+411	The severe pneumonia incidence of COVID-19 infection is relatively high , especially in the elderly .
+412	The incidence of thrombi was highest in 2016 , and therefore highlights the urgent need for improvement in nationwide hospital practices to minimize risk of thrombi formation and early detection in the higher-risk S129 of S301 populations .
+413	The higher case fatality rate of MERS is likely related to older age and comorbid illness .
+414	In summary , SARS-CoV-2 infection can cause acute cardiac injuries , chest pain and arrhythmic complications ; cardiac involvement in patients with COVID-19 may be associated with poor outcomes .
+415	Older age and presence of diabetes mellitus , hypertension , and obesity significantly increases the risk for hospitalization and death in COVID-19 patients .
+416	Older age and presence of diabetes mellitus , hypertension , and obesity significantly increases the risk for hospitalization and death in COVID-19 patients .
+417	However , the risk was found to be even higher for the children with the most severe forms of CHD during the summer , which indicates that risk of severe infectious illness may be present all year round for CHD children .
+418	This study found sex ( male ) ( Risk ratio [ RR ] = 1.29 , 95 % CI , 1.07 to 1.54 ) , hypertension ( RR=1.79 , 95 % CI , 1.57 to 2.04 ) , diabetes ( RR=1.57 , 95 % CI , 1.25 to 1.98 ) , fatigue or myalgia ( RR=1.17 , 95 % CI , 1.02 ; 1.35 ) , and smoking history ( RR=1.71 , 95 % CI,1.25 ; 2.35 ) are potential risk factors for the severity of COVID-19 .
+419	In summary , these patients may be at a higher risk of impaired outcomes in the case of COVID-19 infection .
+420	This underscores the importance of age , not only as a risk factor for acquiring MERS-CoV infection , but also as an important predictor of MERS-CoV-related mortality .
+421	This finding suggests that patients with T2DM might be particularly vulnerable to a coronavirus infection .
+422	In general , presence of co-morbidities is associated with poorer outcomes in patients with COVID-19 .
+423	However , our study indicated that patients at a wide age range can be infected by SARS-CoV-2 .
+424	In conclusion , the presence of diarrhea was associated with a higher risk of hospitalization in Chilean patients diagnosed with SARS-CoV-2 .
+425	However , the results of this study indicate a trend towards the hypothesis that hBoV coinfection might promote hospitalization especially among patients > 65 years old and > 24 ≤45 years old .
+426	But , the crazy paving pattern on the basis of multivariable was unassociated with COVID-19 pneumonia , which may be due to other potential confounding factors .
+427	Previous acute and chronic GVHD or recipientedonor HLA mismatch can be considered as surrogate markers of immunity and increased the probability of VRI diagnosis , suggesting that some patients are more susceptible to VRIs .
+428	The higher rates of obesity and diabetes in females may be significant factors contributing to higher 2009 H1N1-related morbidity in women .
+429	Combined with nosocomial infections , the risk of COVID-19 infection is potentially amplified with close contact between confirmed cases and health-care workers .
+430	Thus , coexisting HCoV-NL63 infection in children with KD may occur , especially during winter .
+431	Age and comorbidities ( such as diabetes or heart disease ) are independent predictors of poor SARS-CoV and MERS-CoV outcomes .
+432	We speculate that contrary to the other clinical risk factors , exposure to secondhand smoke at home is a modifiable environmental risk factor for young children in terms of preventing the development of wheezing when inflicted with viral LRTIs .
+433	Notably , we identified a high prevalence of bacteria-respiratory virus co-infections , suggesting a possible synergistic role between bacteria and viruses in the pathogenesis of AOM in these setting .
+434	In conclusion , preceding or concurrent RVIs might significantly influence the clinical severity in patients with pneumococcal pneumonia in addition to other factors , such as male sex , old age , hypoalbuminemia , and azotemia .
+435	Dysfunctional coagulation is one of the important risk factors accountable for the high risk of severe disease and death in patients with coronavirus disease 2019 ( COVID- 19 ) infection .
+436	Our study suggests that the risk of seasonal influenza non-vaccination is significantly higher among illiterate T2DM patients .
+437	The findings of the current study showed that influenza is the leading viral pathogen among both elderly inpatients and outpatients with ARIs .
+438	Among respiratory viruses , influenza A viruses , above all of the subtype (H1N1)pdm09 , may be associated with ARDS , as it became evident during and after the last influenza pandemic .
+439	These data together with ours suggest that majority of pediatric CAP cases have virus infection , especially in younger patients .
+440	The high detection rate of HRV confirmed its association with severe LRTI and hospitalization .
+441	In agreement with previously published studies , our analysis also identified Age to be the most important risk factor for mortality among COVID-19 patients .
+442	Diabetes and other comorbidities are significant predictors of morbidity and mortality in patients with COVID-19 .
+443	Among these abnormalities , lymphocyte proportion , neutrophil proportion , CRP , LDH , CK , urea , and calcium were significant prognostic factors , which suggest that COVID-19 may cause damage to multiple organ systems when developing into a severe illness .
+444	The presence of diabetes considerably influences the course of COVID-19 infection , being a risk factor for poor outcomes .
+445	Furthermore , HRV is present in 25 - 30 % of severe community-acquired pneumonias , which also indicates that HRV is a frequent pathogen of severe pneumonia .
+446	This meta-analysis suggests that hemoglobin and ferritin levels vary according to the severity of COVID-19 as well as age , gender and presence of comorbidity among COVID-19 patients .
+447	Together , these epidemiological studies imply that heavy acute or chronic exercise is associated with an increased risk of URTI .
+448	Our study reconfirms the independent association between multiple respiratory viral infections and severe bronchiolitis requiring PICU admission .
+449	Importantly , the present study revealed a significantly higher rate of concurrent diarrhea in patients with ARI positive for HBoV as compared to those with ARI but without detectable HBoV , suggesting a causative role for HBoV in gastrointestinal manifestations observed in ARI patients .
+450	Our study confirms that increased age is also associated with disease progression in patients with mild or moderate COVID-19 .
+451	In conclusion , we found that patients with co-morbid medical conditions , predominantly diabetes are at increased risk for COVID-19 .
+452	Obesity represents a risk factor for higher severity and worse prognosis in COVID-19 patients .
+453	We found that dyspnea , an easily assessed symptom , is associated with death in patients with COVID-19 associated pneumonia independently of age and sex .
+454	CVD is considered an independent risk factor for fatal outcome in COVID-19 patients .
+455	Our observation that IFN-γ + 874A allele was significantly associated with SARS-CoV infection suggests a genetic risk factor for SARS .
+456	In conclusion , in a cohort study from the single largest exposure event , history of autologous SCT and tachypnea at ED were identified as host susceptibility factors to MERS-CoV infection .
+457	Our results also demonstrated that COVID-19 patients with period from onset to admission ≥ 4 days had lower risk to develop imaging progression on chest CT at first week after admission .
+458	Lymphopenia is common in patients with COVID-19 infection and might be a critical factor associated with disease severity and mortality in general patients .
+459	Allergic diseases , asthma , and COPD are not risk factors for SARS-CoV-2 infection .
+460	Allergic diseases , asthma , and COPD are not risk factors for SARS-CoV-2 infection .
+461	The association of comorbidities , old age and chronic pain increases the risk of immune suppression and subsequent COVID-19 infection .
+462	In the present study , RA development exhibited a seasonal tendency , and ambient parainfluenza , coronavirus , and metapneumovirus infections were associated with an increased number of incident RA .
+463	Acute encephalopathy syndromes as a complication of influenza infection has been previously described by other authors in children and adults , but our observation in unvaccinated adult population with risk factors to develop influenza complications underscores the need for higher vaccination coverage in at risk population despite age .
+464	Acute encephalopathy syndromes as a complication of influenza infection has been previously described by other authors in children and adults , but our observation in unvaccinated adult population with risk factors to develop influenza complications underscores the need for higher vaccination coverage in at risk population despite age .
+465	Patients with a history of previous hospitalization for CAP are at high risk for CAP recurrence .
+466	In conclusion , we found significant crude relationships between vitamin D levels and the number COVID-19 cases and especially the mortality caused by this infection .
+467	The proportion of symptomatic RSV infection is likely to be even higher among pregnant women , as evidenced in this study , owing to an increased risk of exposure to young children and decreased cardiopulmonary reserve .
+468	These findings suggest that viral acute respiratory infections are significantly more likely to occur in CMV-infected children .
+469	In our study , we found that the majority of coronavirus non-survivors were male patients , elder patients and patients with chronic diseases , which indicated that these patients might be also at increased risk of becoming critically ill or death .
+470	The younger age and fewer comorbidities may partly explain the higher survival observed among healthcare workers , as well as the possibility of earlier identification or suspicion of MERS among healthcare workers .
+471	In this first nationwide population-based study , increasing age , sex , and number and type of comorbidities were closely associated with hospitalization requirement and death in SARS-CoV-2 PCR positive cases .
+472	These data suggest that a multi-cat environment confers a high risk for FCoV infection and development of FIP in China .
+473	Indeed , healthcare exposure seems to play a key role in the spread of MERS-CoV outbreaks .
+474	Thus , our findings suggest COVID-19 infection in kidney transplant patients may be severe , requiring intensive care admission .
+475	Thus , our findings suggest COVID-19 infection in kidney transplant patients may be severe , requiring intensive care admission .
+476	In summary , our findings demonstrated that patients with severe covid-19 with diabetes were more likely to receive mechanical ventilation and admission to ICU , and had higher mortality .
+477	The development of acute renal impairment is an important negative prognostic indicator for survival with SARS .
+478	The development of acute renal impairment is an important negative prognostic indicator for survival with SARS .
+479	The risk of long-lasting and serious COVID-19 infection is more among tobacco smokers .
+480	In conclusion , hMPV infection may contribute to the development of cardiovascular manifestations , particularly in the elderly population .
+481	In addition , the major finding of our study is a significant association between FcgRIIA-R/R genotype and the severity of SARS-Cov infection .
+482	Patients with hypertension who had previously taken ACEI/ARB drugs for antihypertensive treatment have an increased tendency to develop severe pneumonia after infection with SARS-COV-2 ( P = 0.064 ) .
+483	Our study indicates that HD patients are the highly susceptible population and HD centers are high risk area in the outbreak of COVID-19 epidemic .
+484	Our results clearly showed that chloroquine was a risk factor for HZ development in subjects with DM/PM , independent of disease status , therapy and demographic features .
+485	Therefore , we suggest that the severity of the disease and high risk of composite outcomes of COVID-19 patients with diabetes are associated with chronic comorbidities , weak immune responses , and the potential for concurrent bacterial infection .
+486	However , patients who had any chronic cardiovascular disease were at higher risk of developing ARDS .
+487	It is apparent from our study population that HCoV-NL63 may be a cause of severe LRT disease .
+488	A history of prematurity and chronic disease increased the risk of severe LRTI among HMPV-and RSV-infected children .
+489	Also , old age , current smoking , smoking severity , presence of associated co-morbidities like obesity , diabetes mellitus , chronic heart diseases , COPD , malignancy , renal failure , renal transplantation and liver cirrhosis are associated with a poor outcome of ICU admitted MERS corona virus infected patients .
+490	Furthermore , patients with CVD are more likely to develop severe symptoms if infected with SARS-CoV-2 .
+491	Our studies suggest that , during the epidemic of NCP in Anhui province , there was a certain proportion of infection and co-infection of other common pathogens of CAP , and the secondary bacterial and fungal infection is not detectable in NCP patients .
+492	Our studies suggest that , during the epidemic of NCP in Anhui province , there was a certain proportion of infection and co-infection of other common pathogens of CAP , and the secondary bacterial and fungal infection is not detectable in NCP patients .
+493	The risk of death is higher in pediatric H1N1 patients with a history of CCCs .
+494	In the present study , high-dose steroid usage and lymphopenia were shown to be risk factors for mortality in SCT recipients with CRV-LRDs .
+495	39 Our data do not support a specific impact of bacterial coinfection in the outcome of influenza A H1N1 pneumonia , despite the fact that bacterial co-infection was associated with higher PSI risk class at admission and a trend for worse renal function and more need for mechanical ventilation .
+496	This study shows that children with CHD have an increased risk of hospitalization due to RSV infection as well as RTI in general , in summer as well as winter .
+497	However , in multivariate analysis , the correlation between viruses other than IFV and COPD exacerbation was not statistically significant , perhaps due to the confounding effect of temperature , which is a very powerful factor in COPD exacerbation .
+498	Furthermore , among COVID-19 patients , those with underlying cardiovascular diseases can be more severely affected and may have more adverse outcomes than those without underlying diseases .
+499	Consistent with the reports , this present study showed that middle-aged people are more susceptible to SARS-Cov-2 , senior people are more likely to develop a more severe condition .
+500	The present study points out that in Mexico , where an important proportion of the population develops two or more chronic conditions simultaneously , high mortality is a sever outcome for those infected by SARS-CoV-2 .
+501	The latter findings indicate that occurrence of cardiac impairment is possibly secondary to severe pneumonia-related systemic inflammatory response and closely related with underlying cardiovascular disease or potential risk in patients with COVID- 19 .
+502	Covid-19 case fatality rates and CV risk both increase with age and with the presence of concomitant comorbidities , so that the association between Covid-19 and CV risk factors might reflect the confounding effect of these variables .
+503	Very young age ( <3 months ) at the time of infection , premature birth , underlying immunodeficiency or underlying cardiopulmonary disease are important risk factors for severe RSV disease .
+504	Nevertheless , we found no association among laboratory tests and clinical findings to assign them as risk factors for severe COVID-19 diseases .
+505	Older age , consolidation on chest CT images , and lymphopenia might be risk factors for disease progression of COVID-19 and contribute to the clinical management .
+506	Overall , the chance of developing serious complications due to SARS-CoV-2 infection is higher in people with more health conditions associated .
+507	Prior intestinal inflammatory conditions like IBD may raise the susceptibility of SARS-CoV-2 infection through fecal-oral transmission .
+508	Thus , an association between hot and humid climate conditions and slower spread of SARS-COV-2 is plausible .
+509	As suggested by others , 9 the findings of our cohort support the hypothesis that COVID-19 respiratory syndrome may be less severe for maternal prognosis than were SARS and MERS .
+510	Interestingly bacteraemic IDUs are older than the general IDU population in Northeast Glasgow which suggests an association between duration of drug use and the severity of the septic complications .
+511	Allogeneic SCT , advanced malignancy , younger age , gender mismatch between donor and recipient are commonly reported risk factors associated with HHV-6 infection after SCT .
+512	Based on data independently reported by Guan et al. [ 34 ] and Zhang et al. [ 35 ] , incidence of SARS-CoV-2 appears to be lower in patient with smoking history .
+513	In conclusion , we found that people with low serum sodium ( hyponatremia ) may be related to the susceptibility of SARS-CoV-2 infection and the development of severity of disease .
+514	Taken together , these data indicate that younger patients may be more likely to present with abnormalities in glucose metabolism due to obesity , which may put them at increased risk of developing severe Covid-19 .
+515	These results might explain the high risk of poor outcomes of SARS-CoV-2 in metabolic ill patients .
+516	However , from the available data , we can conclude that SARS-CoV-2 infection is related to encephalitis , cerebrovascular diseases , consciousness disturbance , anxiety , and depression in patients with COVID-19 .
+517	Though there was no significant difference in the number of hospitalization days of patients with single infections by rhinoviruses or other respiratory viruses , our data suggested the importance of rhinoviruses as a potential cause of pediatric pneumonia .
+518	In our study , parainfluenza , coronavirus , and metapneumovirus were significantly associated with the number of incident RA .
+519	Interestingly , asthma appears to be underrepresented among comorbidities for critically ill patients infected with SARS-CoV-2 .
+520	This study suggested that individuals With HBV infection that carry ayw4 and ayw3 subtypes are more likely to be infected with HIV .
+521	Although the univariable analyses showed no statistically significant associations , we still suggest that the stage of cancer may affect the clinical course of COVID-19-infected cancer patients .
+522	In conclusion , an unexpectedly low prevalence of current smoking was observed among patients with COVID-19 in China , which was approximately 1/4th the population smoking prevalence .
+523	In conclusion , an unexpectedly low prevalence of current smoking was observed among patients with COVID-19 in China , which was approximately 1/4th the population smoking prevalence .
+524	Although scarce , preliminary information on the prevalence and outcomes of COVID-19 in this population suggests that kidney-transplant recipients are not at higher risk of acquiring the viral infection .
+525	Young chronologic age at the beginning of the RSV season is a consistent risk factor for RSV hospitalization .
+526	Comorbidities are known to increase the risk of ARDS in SARS-CoV-2-infected patients .
+527	The above findings implied that corticosteroid use and concomitant bacterial/ fungal infections might contribute to leukocytosis and high mortality in critically ill patients with SARS .
+528	In conclusion , severe RV-associated pneumonia patients were more likely to be immunocompromised and less likely to have bacterial coinfection and septic shock compared with patients who had severe IFV-associated pneumonia .
+529	In our cohort , patients who had undergone previous auto-HSCT were at increased risk of developing vRTI independent of GVHD , donor relation , and lymphopenia .
+530	In this cohort study with real-world data , poor adherence to anti-hypertensive medications is a strong risk factor for worse prognosis in the hypertensive patients who underwent treatments for ruptured aneurysm .
+531	Besides ICH , elevated IPF is a predictive risk factor for mortality in VLBW infants .
+532	The infection of severe acute respiratory syndrome coronavirus 2 may be related to the older age , comorbidities , malignant tumor , and surgery in gynecologic hospitalizations .
+533	The infection of severe acute respiratory syndrome coronavirus 2 may be related to the older age , comorbidities , malignant tumor , and surgery in gynecologic hospitalizations .
+534	We found that history of macular degeneration ( a proxy for complement activation disorders ) and history of coagulation disorders ( thrombocytopenia , thrombosis , and hemorrhage ) are risk factors for morbidity and mortality in SARS-CoV-2 infected patients - effects that could not be explained by age or sex .
+535	This is consistent with previous studies reporting that older patients have poorer prognostic factors and are more likely to experience critical disease [ 7 , 11 ] , suggesting that older patients should seek early screening and early diagnosis to reduce the mortality rates associated with COVID-19 .
+536	The observation that young age is associated with RVI development contrasts with what has been observed with pulmonary fungal infections in pediatric lung transplant recipients , where an older age is an independent risk factor .
+537	The results of this present study have revealed that coma , parenteral nutrition , 2 or more antibiotics use and the duration of mechanical ventilation > 5 d are independent risk factors associated with MDRIs in PICU .
+538	Furthermore , influenza RNA detection in blood was associated with increased mortality among patients with influenza LRD .
+539	What is highly related to age is the existence of comorbidities that increase the risk of mortality from coVid-19 infection .
+540	Our data suggests that MM patients treated with PI-based induction regimens and immunological response < VGPR at time of ASCT seem to have higher risk of developing symptomatic CMV reactivation .
+541	Nursing homes bed rate is one of the determinants of SARS-CoV-2 infection rate among the individuals aged>80 in Italy .
+542	Further , hypertension , diseases of respiratory and cardiovascular system were significant risk factors for severity of COVID-19 [ 10 ] .
+543	In our study , STS risk grade and history of cardiac surgery were significantly associated with post-operative nosocomial infection in CHD infant and child .
+544	Our study found that the SARS risk associated with chronic disease was independent of recent exposure to healthcare facilities and suggests that , as is the case for other types of pneumonia ( 10 , 11 ) , persons with chronic medical conditions are more vulnerable to clinically defined SARS .
+545	The major implication of this study is that there may be more potential risk factors in schizophrenia patients , which may be responsible for the increased transmission of HEV .
+546	Given the fact that vascular risk factors were frequent , the association between SARS-CoV-2 and stroke might be coincidental .
+547	Infection with specific pathogen pairs might be associated with an increased probability of hospitalization , as was observed with influenza and RSV .
+548	Rhinovirus were repeatedly detected in multiple admission cases in our three-season analysis , suggesting that repetitive RV infections could contribute to subsequent aggravation of asthma .
+549	Thus , the reported association between hypertension and COVID-19 infection is likely to be confounded by age and comorbidities .
+550	According to the current studies , numerous diseases including lung disease , cardiovascular disease , and immunosuppression appear to be at higher risk for severe forms of the COVID‐19 .
+551	We found that current smokers were at an increased risk of hospitalization for CAP , which is consistent with previous reports .
+552	In summary , bacterial co-infection likely affected almost one-half of patients with severe influenza A/H1N1 pneumonia , and was associated with more severe outcomes .
+553	The high adjusted OR for the detection of RSV and HMPV in children with pneumonia strongly implicates these viruses as probable pneumonia-causing pathogens .
+554	Our findings suggest that among women who underwent HS-OC , not only smoking but also the absence of ERT is associated with increased odds of dying from lung cancer .
+555	In conclusion , male sex , medical history of at least one ACS and thoracic pain at hospital admission are associated with high risk of developing ACS .
+556	This study detected a higher prevalence of respiratory viruses in CRS patients than controls , suggesting that there may be significant associations between inflammation of CRS and respiratory viruses , particularly rhinovirus .
+557	Patients of older age ( > 60 years ) and with other co-morbidities such as hypertension , respiratory disease , cardiovascular disease , diabetes and chronic kidney disease are indeed found to present with more severe SARS-CoV-2 infection and have adverse outcomes .
+558	In addition , early development of cGVHD in sites besides the lungs was a risk factor for the development of LONIPCs .
+559	In summary , HBoV is frequently identified between young children with LRTI , and coinfection with other respiratory viruses is a frequently observed behavior .
+560	These data suggest that clinical manifestations of SARS‐CoV‐2 infection in middle‐aged SOT recipients appear to be similar to the general population without an apparent higher rate of complications .
+561	Conclusions Elderly ( [≥]65 ) patients with COVID-19 had the highest risk of severe or critical illness , intensive care use , respiratory failure , and the longest hospital stay , which may be due partly to that they had higher incidence of comorbidities and poor immune responses to COVID-19 .
+562	CVD as an independent risk factor of the critical type of COVID-19 may lead to exacerbations in patients .
+563	CRC patients were generally in poor immunity and physical fitness , which are susceptible to COVID-19 .
+564	The prolonged immobilization combined with respiratory failure , sepsis and dehydration might expose SARS-CoV-2/patients to increased risk of complication including pulmonary embolism .
+565	The present study identified an association between co-detection of RSV and Streptococcus pneumoniae and more severe disease , suggesting the bacteria has a pathogenic role in these young children .
+566	Similarly , genotype D is associated with more severe liver disease than genotype A in India and may predict occurrence of HCC in young patients .
+567	Thus , based on current evidence , patients with cancer might plausibly have a higher risk of acquiring SARS-CoV-2 infections .
+568	Accepting that data from registries are subject to selection bias , preliminary findings suggest that baseline liver disease severity is strongly associated with COVID-19-related morbidity and mortality .
+569	Thus , our study indicates that other sources of MRSA transmission such as nasal carriage constitutes risk factors for ICU and nosocomial pneumonia .
+570	Advanced age is considered a risk factor for developing severe WNV infection or death .
+571	In conclusion , high day 1 GV was prevalent in the patients with sepsis , and it was independently associated with high 30-day mortality , particularly in the patients without DM .
+572	In conclusion , prolonged SARS-CoV-2 RNA shedding in the respiratory tract was independently associated with delayed admission to hospital , male sex , and invasive mechanical ventilation .
+573	In conclusion , patients infected with COVID-19 requiring OTI with higher levels of Ddimer have an increased risk of developing PE .
+574	Bilateral pneumonia on CT scan , shorter period of illness onset to admission , lymphopenia , the severity of disease are the risk factors for longer hospitalization duration of COVID-19 .
+575	Our results showed that Black patients with COVID-19 have a significantly higher risk of mortality , hospitalization , and invasive mechanical ventilation compared to White patients .
+576	Obesity-related comorbidities could also represent an additional risk factor in COVID-19 patients , enhancing the risk of severe courses .
+577	However , shortterm corticosteroid therapy was associated with lower mortality in immunocompetent patients with COVID-19associated ARDS .
+578	The results of this report suggest that the increased use of RAS-inhibitors among COVID-19 patients is fully explained by older age , male sex and higher prevalence of comorbid conditions including hypertension , diabetes , heart failure , and chronic kidney disease .
+579	In our cohort , we found that severe HAdV-55 infection could cause a rapid progression of respiratory failure , with a very high failure rate for NPPV and IMV .
+580	This study found an increased risk of severity and mortality in COVID-19 patients with liver diseases or CKD .
+581	Moreover , comorbid factors including heart failure , renal disease , and pulmonary disease could increase the risk of pneumococcal pneumonia .
+582	In addition , we found that RSV or hMPV infection is not associated with C-reactive protein level , indicating the importance of making definite diagnosis in early intervention of RSV and hMPV associated adverse effects , such as severe inflammation and pneumonia .
+583	Age , baseline diagnosis , use of steroids , lymphopenia , and early onset after transplant are shared risk factors for LRTI and mortality .
+584	This data indicates a connection between anticancer therapies and susceptibility to coronavirus , particularly among lung cancer patients .
+585	The presence of an asymptomatic viral infection was associated with a lower risk for subsequent symptomatic ARI in this study .
+586	Cardiac injury defined by hs-cTnI elevation and elevated d-dimer on admission were risk factors for in-hospital death , while higher SpO2 could be seen as a protective factor , which could help clinicians to identify patients with adverse outcome at the early stage of COVID-19 .
+587	In summary , mechanical ventilation and blood transfusion in the ICU have been associated with the development of CMV disease , but no association with severity scores was found .
+588	Although there have been limited reported outbreaks of COVID-19 in LTCFs to date , the elderly in LTCFs are vulnerable to infections and at a high risk for mortality .
+589	Our study suggested that human coronaviruses , with a positive rate of approximately 6.5 % , are relatively important pathogens in ILI patients .
+590	To the best of our knowledge , this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia .
+591	To the best of our knowledge , this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia .
+592	Pregnant women are more susceptible to respiratory pathogens ; hence , they may be more susceptible to COVID-19 infection than the general population .
+593	HBoV at a high load could be an etiologic agent for LRTIs , which led to more severe lower respiratory tract symptom , longer hospitalization , and longer duration of wheezing .
+594	Our data , along with another recent study 19 suggest that HRV-A and HRV-C subtypes are significantly more likely to cause symptoms related to ARI .
+595	Potential multi-target organ damage caused by SARS-CoV-2 infection in pregnant women may increase the chance of COVID-19 parturients received caesarean section .
+596	A significant difference in the incidence of diarrhea was observed between subjects who were hMPV-positive with and without underlying illnesses ( P ¼ 0.024 ) , which suggests that hMPV infection may cause different clinical presentations in patients depending on the underlying conditions .
+597	In Asian region , indoor/outdoor air pollution and poor socioeconomic status may play important roles in the pathogenesis of non-smoking-related COPD .
+598	Taken together , the data suggest that atopy among the children age 3 to 18 years may be critical as a risk factor for hospital admission and an adverse response to infection , especially infections caused by rhinovirus .
+599	In addition , the number of rehospitalizations for asthma was also significantly higher in coinfections than in single infections , suggesting that coinfections are associated not only with more frequency of asthma but also with greater severity .
+600	13 Our results suggest that professional category exposure involving direct patient contact rather than educational attainment of healthcare workers can constitute a risk factor for H. pylori infection .
+601	Our findings might indicate a significant association between respiratory virus mixed detection and the possibility of developing more severe LRTI such as bronchiolitis and pneumonia when compared with single detection .
+602	Our case-control study revealed that the combination of eosinopenia and elevated hs-CRP as a potential effective predictor of COVID-19 patients from other patients with similar symptoms .
+603	In this meta-analysis of 3,428 patients with confirmed COVID-19 in China , liver dysfunction was associated with severe outcome from COVID-19 infection .
+604	The present meta-regression suggests that air temperature , air pressure , and UV may be negatively associated with COVID-19 incidence .
+605	Respiratory viruses are frequently detected at the time of these pneumonia episodes , though causal association can not be established based on this study .
+606	The elderly ( R55 years ) , a high level of BMI ( > 27 kg/m 2 ) , a low level of CD4 + T lymphocytes ( % 400/mL ) , and a high level of IL-6 ( R20 pg/mL ) are markers associated with the progression to severe and critical illness among COVID-19 patients .
+607	However , the risk of co-infection of SARS-CoV-2 with influenza viruses in winter influenza activity peak season is concerning .
+608	The high rate of proven or probable LRTI in this patient population indicates that HCoV infection may have greater clinical significance and severity in HSCT recipients than previously thought .
+609	In the present study , overcrowded environments , such as neonatal day-care centers , was a strong risk factor for RSV infection .
+610	Similar to previous seasons , our data indicate that pre-existing respiratory disease is associated with ICU admission in the 2015 - 2016 influenza season [ 20 ] .
+611	Our findings implied that both the category and number of comorbidities should be taken into account when predicting the prognosis in patients with Covid-19 .
+612	Our findings implied that both the category and number of comorbidities should be taken into account when predicting the prognosis in patients with COVID-19 .
+613	Moreover , LRTI was independently associated with multiple viral infections , RSV infection and longer hospitalization duration .
+614	In summary , herpesviridae reactivations are frequent in ICU patients and associated with mortality .
+615	Furthermore , the prevalence and death toll of COVID-19 increases with aging as well as frailty , and seems correlated with prolonged exposure to air pollution , both of which represent life-threatening CV risk factors .
+616	This finding suggests that physicians need to suspect and diagnosis CA-RVI in transplant recipients with respiratory symptoms regardless of posttransplant period .
+617	10 Atopic characteristics are not seen as a risk factor for RSV-induced wheezing and asthma , which is more linked to young age and low lung function , indicating that the timing of RSV infection may be important for the future development of respiratory illnesses .
+618	There is an increased susceptibility of elderly people with chronic comorbidities to SARS coronaviruses , and men appear to be especially vulnerable to SARS-CoV-2 .
+619	We found that obesity and need for invasive mechanical ventilation were the only two risk factors associated with increased incidence of viral CAP ; however , obesity was the only independent risk factor associated with influenza CAP .
+620	The co-occurrence of diabetes as well as other co-morbid conditions with COVID-19 augurs greater risk for severe outcomes and mortality .
+621	All three factors increase the risk for psychiatric complications such as anxiety and delirium in the acute stage for patients with COVID-19 compared with those with SARS or MERS .
+622	The findings of the current study confirm that children may be infected with SARS-CoV-2 and this may lead to severe disease with requirement for intensive care admission and mechanical ventilation , and/or other intensive support in rare cases .
+623	In summary , our study showed CRP , D-dimer , LDH , PCT are the high risk factors related with COVID-19 .
+624	Subgroup analysis on median age < 55 years-old and prevalence of hypertension < 25 % showed strong association ( RR 3.33 ) Conclusion DM was associated with mortality , severe COVID-19 , ARDS , and disease progression in patients with COVID-19 .
+625	Although the lack of data on SARS-CoV-2 pathogenesis , studies in China showed a possible correlation of massive inflammation and severe lung damage on the rapid evolution of fatal pneumonia .
+626	Findings from this study suggest that a large variability of glucose during the acute phase of sICH is associated with higher in-hospital mortality .
+627	Moreover , in patients suffering from STEMI , we observed significantly higher hsTnT concentrations at admission during the study period compared to the previous years , suggesting that affected patients suffer a delay , or avoid hospital admission , and subsequently may increasing their risk of adverse outcomes .
+628	Current research shows that the poor prognosis of patients with COVID-19 is related to factors such as sex ( male ) , age ( > 60 years ) , underlying diseases ( hypertension , diabetes , and cardiovascular disease ) , secondary ARDS , and other relevant factors .
+629	Thus , the predisposing factors can increase risk of COVID-19 death due to their effect on rate of infection or/and rate of death among infected individuals .
+630	The increase of LRI incidence soon after the peak of URIs suggests that URIs and LRIs share common 326 epidemiological pathways or that LRIs are complications of URIs .
+631	People with DF disease often present similar co-morbiditiesThe same comorbidities are often present in persons with DF disease [ 6 ] , and it may be concluded that people with DF could be at increased risk of mortality in the case of COVID-19 infection .
+632	Our data suggest that MTB infection could be a more important risk factor than the comorbidities commonly reported in epidemiological studies such as diabetes and hypertension 12 .
+633	In conclusion , this retrospective study , based on clinical data , revealed that COIVD-19 mainly infected in older people with comorbidities , and may cause acute severe respiratory syndrome .
+634	In this study , VAP caused by multidrug resistant pathogens and sepsis were independent risk factors for the development of acute renal failure .
+635	This study elucidated that a higher mean RSV load is associated with a more severe disease and longer durations of hospitalization and symptoms .
+636	We found that initial high viral load , prior high-dose steroid use , and myeloablative conditioning were important factors associated with prolonged HCoV shedding in HCT recipients .
+637	Those with prior CVD are more likely to suffer myocardial injury related to COVID-19 infection .
+638	Older age , lymphopenia and unrelated or HLA mismatched BMT recipients were at higher risk for the development of RSV pneumonia .
+639	Our analysis indicates that ACE I/D polymorphism is not directly related to poor outcomes after SARS-coronavirus infection in Chinese .
+640	Taken together , our data suggest that host factor is an important contributor to the development of severe RV-associated pneumonia and affects the outcome .
+641	This finding adds context to the literature regarding HRV-C in children , suggesting that the observed higher severity of some HRV infections may be confined to specific risk groups .
+642	Our study showed that CKD patients may have a higher risk of intubation and death .
+643	Although further research is needed to clarify this association , our findings suggest that teicoplanin and linezolid might exert a protective effect against the emergence of MRSA .
+644	Obesity and related metabolic disorders at baseline , and more weight gain and increased serum triglyceride during follow-up are risk factors of development of NAFLD .
+645	In addition , our findings highlighted early markers for the risk of death in patients with COVID-19 .
+646	Our meta-analysis suggests that single-nucleotide T to C polymorphism of IFITM3 associated with increasingly risk of severe and mild influenza in both Asian and Caucasian populations .
+647	In summary , our data are in line with previous reports that age and existing medical co-morbidity play a major role in determining the mortality and morbidity of SARS-Cov infection .
+648	The aged population ( age above 65 years ) , and persons having decreased immunity or chronic diseases , such as hypertension , diabetes mellitus , cardiovascular diseases , and lung disease , are at a higher risk for developing severe COVID-19 if they are infected with SARS-CoV-2 .
+649	However , RVI , especially RVI within the hospitalization for transplantation , was found to be a risk factor for post-transplant mortality or retransplantation within the ¢rst year following pediatric lung transplantation .
+650	The clinical data from this national surveillance study show black and minority ethnicity is significantly associated with admission with SARS-CoV-2 infection in pregnancy , along with preexisting co-morbidities , overweight and obesity and older maternal age .
+651	Chronic lung disease increased the risk of RSV infection and RSV-associated ALRI ; however , it was not a risk factor for increased severity in our study .
+652	Our meta-analysis suggested that the use of corticosteroids is associated with disease severity ( ICU admission ) and higher ARDS rates .
+653	These results provide evidence that AKI at the early stage elevated death risk of COVID-19 patients .
+654	In conclusion , all people are susceptible to COVID-19 , and older males and those with comorbid conditions are more likely to become severe cases .
+655	However , HCoVs are associated to more severe respiratory tract infection among susceptible population .
+656	Besides RV infection , neonates born at term , born via vaginal delivery , those who are exclusively breastfed , and who have high Hb were at high risk in this study .
+657	In contrast , we found an elevation in PCT level of 26 % PPE , suggesting the possibility of a secondary bacterial infection in children hospitalized with COVID-19 pneumonia .
+658	In view that the prevalence of asthma in the USA was 8·4 % in 2010 , 31 our data suggest that this is a possible risk factor for admission to hospital with EV-D68 .
+659	Our findings suggest that Herpesviridae reactivation is associated with worse outcomes for ARDS patients including when they are under ECMO .
+660	The significant and overwhelming inflammatory response in patients with severe COVID-19 infection may increase the likelihood of thromboembolic disease and in turn explain the high frequency of VTE , particularly in patients admitted to the ICU .
+661	COVID-19-infected patients with hypertension are associated with higher rate of morbidity and mortality .
+662	Environmental factors , such as urban air pollution , may play an important role in increasing susceptibility to severe outcomes of COVID-19 .
+663	Coinfection with a virus and another pathogen in pneumonia-related ARDS patients is not unusual and is associated with higher hospital mortality .
+664	According to the current analysis , hypertension , cardiovascular diseases , diabetes , kidney disease , smoking , and COPDs were among the most prevalent underlying diseases among hospitalized patients with COVID-19 .
+665	Furthermore , underlying comorbidities such as diabetes mellitus , renal insufficiency , chronic obstructive pulmonary disease ( COPD ) , and malignancy were significant risk factors for developing an Acinetobacter infection .
+666	Our findings suggested that PIV3 is a new risk factor for VRI in PSPs .
+667	We found that AKI at the early stage elevated death risk of COVID-19 patients .
+668	Children and adolescents might be susceptible to SARS-CoV infection if they had close contact with confirmed patients , but the clinical course and outcome are more favorable in children younger than 12 years of age compared with adolescents and adults .
+669	With the emerging evidence of thrombotic complications and prothrombotic states in COVID-19 , we conclude COVID-19 was the risk factor precipitating this episode of CVTS .
+670	Our study provides further evidence and support to existing literature of key risk factors for one or more severe outcomes in patients with COVID-19 .
+671	In our study , multiple viruses were identified in 5.1 % of virus-associated pneumonia and were associated with higher mortality than single viral infection in patients with chronic respiratory disease and other comorbidities .
+672	This meta-analysis showed that lymphopenia on admission was associated with poor outcome in patients with COVID-19 .
+673	We found that octogenarians with more severe injuries and higher grade BSI are at a higher risk of NOM failure and mortality compared to a generalized GTP cohort .
+674	In our study , an immunocompromised state was associated with a higher risk of severe LRTD after we adjusted for clinical and virologic covariates .
+675	Infection with M. tuberculosis ( MTB ) , the pathogen that causes TB and latently infects ~25 % of the global population , may be a risk factor for SARS-CoV-2 infection and severe COVID-19 pneumonia .
+676	Although national guidelines for ARI treatment recommend systematic empiric antibiotic therapy , our results suggest that antibiotic use might be unnecessary in most cases , given the predominance of viral infections as potential cause of febrile ARI .
+677	Among cancer patients , 3 out of 4 ( 75 % ) who had received recent chemotherapy or surgery developed severe disease compared with 6 of 14 ( 43 % ) not recently treated for cancer ( odds ratio 5.34 , 95 % CI 1.80 - 16.18 ; p=0.0026 ) , even after adjusting for other risk factors , including age , smoking history , and other comorbidities ( 9 ) , suggesting potentially that recent antineoplastic therapy may impair immunity and impact the outcomes related to COVID-19 .
+678	Patients infected with the new SARS-CoV-2 appear to be associated with higher risk of thromboembolic disease , especially stroke and pulmonary embolism .
+679	As a result , these patients might be at an increased risk of SARS-CoV-2 infection and consequently poor prognosis .
+680	Our findings suggest that ACEI/ARB use did not increase the risk of a positive test for COVID-19 or severity or mortality among patients with COVID-19 .
+681	These data suggest a need for preventive and therapeutic strategies for HMPV infection and highlight the need to consider HMPV infection as a cause of ARI among hospitalized children , especially in the spring .
+682	Our study suggests that high IL-5 concentrations may also be related to viral pneumonias .
+683	This south-Korean study suggests potential higher mortality in the Asian population compared to Caucasian patients , which might be linked to genetic susceptibility .
+684	Elderly , obese and patients with neurologic disease had an increased risk for severe H1N1 infection during the 2009 pandemic in Austria .
+685	Among children and young adults who died of influenza , low-producing MBL2 genotypes may have increased risk for MRSA co-infection .
+686	Preliminary reports suggested that cardiovascular risk factors such as hypertension , diabetes , obesity , and established cardiovascular disease , but surprisingly not smoking , were common amongst hospitalized patients with COVID-19 , and associated with a high risk of in-hospital death .
+687	Although acute liver failure has not been reported as a direct consequence of severe COVID-19 , the extent of abnormal liver tests seems to be associated with disease severity and worse outcomes .
+688	Patients receiving corticosteroids had increased risks of developing HAP due to the immunosuppression effects , and those who received mechanical ventilation were susceptible to VAP .
+689	Our results showed that AKI was more common in critical ill patients with COVID-19 .
+690	These observations suggest that the short-term increase in excess cancer and cardiovascular deaths might be associated with undetected/unconfirmed deaths related to COVID-19 .
+691	The prevalence of hypertension and CVD is clinically relevant in patients with COVID-19 , and particularly in the elderly .
+692	In summary , it is apparent that persons with diabetes are at increased risk for COVID-19 infection , and are at increased risk for medical complications including death .
+693	In conclusions , non-transplant critically ill patients in ICU group with CA-RVI except seasonal influenza A/B had higher all-cause mortality rate than in transplant recipients .
+694	However , MS , in addition to other well-recognized predictive factors , could be a significant risk factor for CAP .
+695	In this study , although there was no clear link between comorbidities and mortality , factors such as smoking , obesity and previous renal disease impairment seem to have an impact on the prognosis of severe CAP .
+696	In this study , coronaviruses were detected in 3.4 % of children with wheezing and hCoV-NL63 was detected in 0.8 % of hospitalized children with wheezing , which indicates that they play a minor role in provoking acute wheezing in children .
+697	This study confirms fever , cough , and breathing difficulties are the major symptoms of COVID-19 infection among pregnant women .
+698	Overall , these findings excluded an increased risk of COVID-19 infection in patients already treated with RAAS inhibitors .
+699	Persistent fever greater than 10 days is highly associated with development of MAS in KD .
+700	Persistent fever greater than 10 days is highly associated with development of MAS in KD .
+701	Besides age and hypertension , HIV is an independent risk factor of CSVD .
+702	In this study , we found that compared to HCoV alone , the odds of LRTD or severe LRTD were much higher in children with RSV coinfection than in those with coinfection with a non-RSV copathogen .
+703	History of stroke is associated with a three-fold increase in the risk of death due to SARS-CoV-2 infection .
+704	Our study found that COVID-19 patients over 60 years had a higher rate of respiratory failure and needed prolonged treatment than those at age below 60 years , demonstrating that elderly COVID-19 patients were much more severe and showed poorer response to treatments than the younger .
+705	In this cross-sectional study , our findings suggest that in the absence of microbiological findings , microbial translocation could contribute to febrile episodes in an adult neutropaenic cohort .
+706	Taken together , these findings indicate that coinfections may influence severe illnesses in patients with RSV infections , especially in young children aged < 5 years .
+707	In terms of treatment efficacy , the use of corticosteroids in COVID-19 patients is significantly associated with higher rates of ARDS .
+708	These observations strongly suggest an underdiagnosis of COVID-19 in this population of cancer patients and an major underestimation of SARS-COV-2 contribution as a cause of death in cancer patients .
+709	The finding of worse outcome of hemodialysis patients with SARS-CoV-2 infection may be explained by high prevalence of comorbidities as well as other risk factors related to end stage renal disease per se ( 2 ) .
+710	In addition , HLH patients with documented EBV infection had a lower rate of CNS involvement and a higher rate of cholestasis , which suggests the tropism of organ involvement in EBV-associated HLH .
+711	The older confirmed patients with COVID-19 infection has a high proportion of severe cases , and the COVID-19 infection is generally susceptible with a relatively high fatality rate in older population .
+712	Lymphopenia and eosinopenia that were uncommon in normal pregnant women were observed at the onset of SARS-CoV-2 related symptoms , which might facilitate early recognition of COVID-19 .
+713	In our study , young age , lymphocytopenia , and IL-8 , IL-6 , G-CSF , and CCL-5 plasma levels were associated with severe RSV infection .
+714	Whereas COVID-19 is a new disease and there is limited information regarding risk factors for severe disease , based on currently available epidemiological data from multiple continents , it is clear that the elderly population is at a significantly higher risk of severe or fatal outcome of COVID-19 .
+715	This is a surprising finding considering that young people are considered a low risk group for complications and mortality associated with SARS-CoV-2 .
+716	Patients having diabetes were more likely to develop acute respiratory distress syndrome and require ICU and mechanical ventilation as compared with non-diabetic patients , indicating patients with diabetes had higher risk of progressing to critically ill cases .
+717	This data along with the higher prevalence of coronaviruses-infected cases found in specific at-risk group patients pointed to the relevance of coronaviruses causing respiratory tract illness in patients with comorbidities .
+718	Data from China and Western Countries confirm that these comorbiditiesalong with others , such as age and obesityare risk factors for developing a severe respiratory syndrome from SARS-CoV-2 .
+719	Although Blacks represented a small percentage in the cohort , they had a high percentages of diabetes , hypertension , CAD and PNPLA3 GG genotype , suggesting a presence of cumulative risk factor burden for development of NAFLD in this group .
+720	Taken together , our findings suggested that high GV was common in the patients with sepsis , and that it was independently associated with 30-day mortality .
+721	Our study provides evidence that hypertension directly influences the risk of pneumonia .
+722	In summary , the detection rate of hMPV ranked third in patients with community-acquired pneumonia and similar clinical manifestation was observed between hMPV-positive and RSV-positive patients .
+723	Our study has found that there is no correlation between the absolute number of patients with active SLE and the mean humidity , while there is an inverse correlation between the number of patients with active SLE and the mean temperature , demonstrating that , based on genetic background , a low-temperature environment may be one of the causes to induce SLE .
+724	In our study , we found that older age , higher lactate dehydrogenase ( LDH ) and C-reactive protein ( CRP ) , RDW ( the coefficient of variation of red blood cell distribution width ) , DBIL ( direct bilirubin ) , blood urea nitrogen ( BUN ) , and lower albumin ( ALB ) on admission correlated with higher odds of severe COVID-19 .
+725	In our study , we found that older age , higher lactate dehydrogenase ( LDH ) and C-reactive protein ( CRP ) , RDW ( the coefficient of variation of red blood cell distribution width ) , DBIL ( direct bilirubin ) , blood urea nitrogen ( BUN ) , and lower albumin ( ALB ) on admission correlated with higher odds of severe COVID-19 .
+726	The risk of SARS-CoV-2 infection in cancer patients appears to be higher especially as they are more likely to present with an immunocompromised condition , either from the cancer itself or from the treatments they receive .
+727	Our results revealed that SARS-CoV-2-induced ALI was more common in critically ill patients .
+728	Although there is no direct evidence for the involvement of proinflammatory cytokines and chemokines in lung pathology during COVID-19 , the change of laboratory parameters , including elevated serum cytokine , chemokine levels , and increased NLR in infected patients were correlated with the severity of the disease and adverse outcome , suggesting a possible role for hyper-inflammatory responses in COVID-19 pathogenesis .
+729	Asthma exacerbations were more severe in patients with persistence of RV RNA , suggesting that the severity of acute asthma might be linked to prolonged and possibly more severe RV infections .
+730	Nevertheless , RSV children were more likely to have lower saturation at admission compared to RSV-negative children , suggesting that RSV is associated with increased morbidity .
+731	Although high fever was associated with the development of ARDS , it was also associated with better outcomes among patients with ARDS .
+732	In our study , viremia and high RV loads was seen among both cases and controls indicating the need for inclusion of controls in epidemiology studies on the role of RV in the pathogenesis of pneumonia .
+733	Being older and having multiple co-morbidities continues to be the leading indicator of poor outcomes from infection with Covid-19 .
+734	We believe that i ) increased expression of ACE-2 in hypertensive patients being treated with ACE inhibitors and AT1R blockers and ii ) previous exposure to circulating coronaviruses with low neutralizing capacity to SARS-CoV-2 may greatly contribute to the increased susceptibility of the elderly patients to COVID-19 .
+735	In addition to lung or pleural involvement at diagnosis , our study suggests that pre-existing CHF may be a risk factor for developing respiratory complications , even from non-cardiac origin , after chemotherapy , and that CHF exacerbations account for a significant part of respiratory complications .
+736	This indicated the importance of hypertension and CVD in COVID-19 patients and raised the question about susceptibility of CVD and hypertensive patients to SARS-CoV-2 .
+737	Interestingly , co-infection of RSV with IFVs was a significant predicator of increased hospitalization among young children in our study .
+738	We also observed that ADV was an important virus associated with ALRI in children .
+739	Maternal vaginal colonization with GBS is a key risk factor for developing early-onset GBS sepsis , which often includes pneumonia .
+740	However , our findings showed that 179 gender was not a risk factor for mortality in COVID-19 patients .
+741	The presence of RV viremia is associated with a significantly higher nasopharyngeal viral load and more severe disease , which suggests that a high nasopharyngeal viral load is a prerequisite for viremia , and that viremia is associated with considerable clinical involvement .
+742	This observation suggests the possible correlation of natremia on ICU admission with hospital mortality and confirms that both hypo-and hypernatremia present on admission to the ICU could be independent risk factors for poor prognosis in ICU populations .
+743	Critically ill patients with SARS also die later than other critically ill patients in a SARS ICU , which might be a characteristic of the disease or be due to the use of corticosteroids and nosocomial infections .
+744	This is consistent with our findings that COVID-19 has a higher incidence severity and mortality in men .
+745	This suggests that an excessive immune response ( cytokine storm or immunopathological damage ) could be more likely to occur in males and old persons with SARS-CoV or SARS-CoV-2 infection .
+746	In summary , our data suggest that HCoV-NL63 may play a significant role in ARI , especially in young children and the elderly .
+747	However , in this study , RSV viral load was significantly different between three diagnostic groups and a high RSV viral load may be a risk factor of developing bronchiolitis .
+748	In conclusion , our results indicate that , compared with influenza A virus‐induced asthma attacks , RSV infection had a higher probability of being associated with asthma exacerbation in infants and younger children and induced attacks of greater severity .
+749	In the light of what was known about the cardiac ADRs of hydroxychloroquine before the pandemic , all these results suggest an increased cardiac risk in patients with COVID-19 .
+750	Although little is known about risk for transmission from persons with mild MERS-CoVinfection , HCP with unrecognized MERS-CoV infection might be a reservoir for transmission to hospitalized patients who are more susceptible to severe illness because of underlying illnesses .
+751	In summary , the current epidemiologic evidence is not strong enough to infer a causal link of a harmful effect of ibuprofen in patients with COVID-19 .
+752	Furthermore , lower albumin level was associated with a severe presentation of COVID-19 .
+753	This may explain the increased risk of severe COVID-19 in these subpopulations and highlight importance of smoking cessation .
+754	Hospitalizations for VRIs resulting from rhinovirus may be increased among subjects with moderate to severe COPD .
+755	Hospitalizations for VRIs resulting from rhinovirus may be increased among subjects with moderate to severe COPD .
+756	Our data indicate that hospital visitations to the index patient was another independent risk factor for contracting SARS , suggesting that hospital visitors may have played an important role in the SARS epidemic in Hong Kong .
+757	Although there is no evidence that pregnant women are more susceptible to SARS-CoV-2 infection , they may be at increased risk of developing severe illness when contracting SARS-CoV-2 infection .
+758	Strikingly , this patient subgroup had the highest need for invasive MV and death , suggesting that pulmonary hypertension and right heart dysfunction is a major comorbidity during ACS .
+759	Our analysis confirms that smoking is a risk factor for progression of COVID-19 , with smokers having 1.91 times the odds of progression in COVID-19 severity than never smokers .
+760	Familial aggregation infection may be the main cause of COVID-19 in preschool children .
+761	Reduction in peripheral lymphocyte count was commonly observed in patients with COVID-19 , which was considered a possible critical factor associated with disease severity and mortality .
+762	Thus , it is plausible that parasitic infections could impact the incidence and clinical severity of COVID-19 in different WHO regions .
+763	This study has revealed that individuals with comorbidity , non-health-care workers , patients with no clinical fatal experience , and patients without any clinical and subclinical experiences significantly increased the odds of death from MERS-CoV in the Arabian Peninsula .
+764	In Mexico , the risk for reactivating TB in patients with DM2 was increased 4 - 6 times , which is comparable with increased risk for TB among HIV-infected .
+765	Our study revealed that even though multiple viral detection is frequent in hospitalized children with LT-ARI , this association is not related to either disease severity or to any other clinical features studied .
+766	Our meta-analysis supports that mortality is significantly higher in patients with severe AKI in patients with COVID-19 .
+767	On the other hand , accesses to hospital expose cancer patients to an increased risk of COVID-19 infection .
+768	On the other hand , accesses to hospital expose cancer patients to an increased risk of COVID-19 infection .
+769	Previous research indicated that dysfunctional coagulation was one of the important risk factors accountable for a high risk of severe disease and death in patients with COVID-19 .
+770	Our study showed that although RSV was detected less frequently in hospitalized adult patients , it was associated with a significantly higher risk of 20-day all-cause mortality than seasonal influenza .
+771	Also , asthma is associated to a double death risk among patients with SCD .
+772	Therefore , COVID-19 may worsen in individuals with underlying adverse conditions , and a not negligible number of patients hospitalized with this virus had cardiovascular or cerebrovascular diseases .
+773	Therefore , COVID-19 may worsen in individuals with underlying adverse conditions , and a not negligible number of patients hospitalized with this virus had cardiovascular or cerebrovascular diseases .
+774	6 These observations suggest that although patients with pre-existing CVD may not be more susceptible to contracting SARS-CoV-2 , they are prone to more severe complications of covid-19 with increased mortality .
+775	Generally , those COVID-19 cases with higher age , male sex , and more comorbidities were prone to have severe disease and subsequent mortality .
+776	Also , older adults and people of any age with serious underlying medical conditions might be at higher risk for severe forms of COVID-19 .
+777	Also , older adults and people of any age with serious underlying medical conditions might be at higher risk for severe forms of COVID-19 .
+778	Furthermore , poorly controlled asthma may lead to a more complicated disease course for those with COVID-19 infection .
+779	Fever is an independent predictor for unfavorable outcome after ICH and may trigger CSDs .
+780	Although the reports identified here did not distinguish between the prevalence of type 1 and/or type 2 diabetes in CHIKV , results of the present study suggest an increased risk of developing severe CHIKV complications in people with diabetes ( OR = 1.2 ; 95 % CI : 1.05 - 1.48 ) than in those with other or no underlying chronic diseases .
+781	This study also shows that seasonal influenza vaccination may have contributed to an increase of the HAI titer , especially in the elderly .
+782	This study also shows that seasonal influenza vaccination may have contributed to an increase of the HAI titer , especially in the elderly .
+783	All hospitalizations occurred in the 0 - 5-year-old and 150-year-old age groups , which suggests that , like the other HCoVs and RSV , HCoV-NL63 may cause more-severe ARI in frail patients , such as infants and the elderly , than in other patients [ 4 , 6 , [ 11 ] [ 12 ] [ 13 ] .
+784	These data suggest that HBoV is frequent in young children with acute respiratory tract infection in Lanzhou , China , and RSV is the most common coinfecting virus .
+785	Our data show that colonization by M. catarrhalis may play an important role in enhancing the risk of AOM during RTI .
+786	According to relevant studies [ 9 ] [ 10 ] [ 11 ] 124 ] , the proportion of COVID-19 patients with comorbid CVDs , such as hypertension , coronary artery disease and cerebrovascular disease , was larger than that of patients with other comorbidities or without comorbidities , suggesting that patients with CVD may be more susceptible to SARS-CoV-2 infection .
+787	VTE represents a highly frequent complication in cancer patients with SAR-Cov-2 infection with an overall rate of newly diagnosed VTE of 14 % and a recurrence rate of 15 % among previously diagnosed in our series .
+788	Finally , we found that bacterial pneumonia was the most common cause of ARF in HIV-infected patients , even if PCP remains a major cause of life-threatening respiratory failure , most notably in patients whose HIV infection was previously unknown .
+789	Our findings suggest that , although RSV has the potential to cause severe communityacquired ALRIs in high-risk adults ( such as immunocompromised patients ) [ 25 ] , RSV infections seem to rarely require hospitalization in this population .
+790	However , after stratification by comorbid conditions , the significant association between having the codon 54 variant and susceptibility to SARS-CoV infection was pronounced only in patients without comorbid conditions , which indicates that these MBL polymorphisms exerted an independent effect on the risk of developing SARS .
+791	As expected , ETS was a significant risk factor for severe pneumonia from our study .
+792	An association between elevated sRAGE and fatal outcomes suggests that it may have an independent causal effect in CAP .
+793	These findings suggest that HRV positivity in hospitalized pediatric patients may not lead to adverse clinical outcomes , although asthma is a risk factor regardless of clinical comorbidities and diagnoses .
+794	Our results suggest that neurological comorbidity and invasive procedures , as presence of CVC , have a significant negative impact on survival in MDRAB infections .
+795	In conclusions , male gender , comorbidity , lymphopenia , and elevated CRP are the risk factors for the poor prognosis in COVID-19 patients .
+796	Factors such as high blood viral load , confusion , abdominal pain , vomiting and conjunctivitis were associated with poor prognosis for EVD patients .
+797	Older age is also determined to be the strongest predictor of COVID-19-related complications .
+798	Compared with non-pregnant women , both high and low-risk pregnant womenespecially during the third trimester-have more cardiopulmonary events during influenza season .
+799	In contrast to our study , HRSV is a common respiratory pathogen in children .
+800	In addition , advanced age and elevated neutrophil/lymphocyte ratio ( NLR ) were risk factors for death in patients with SARS-CoV-2 infection in the COFs .
+801	These conditions may be risk factors for infection , although the associations could alternatively be explained by a greater likelihood of symptomatic or severe presentations in these patients which in turn increased the probability of testing for COVID-19 .
+802	Hypertension and cardiovascular diseases have been shown to be risk factors upon SARS-CoV-2 infection .
+803	The severity of patients with late AKI is not captured on admission by the APACHE II score , suggesting that events taking place after ICU admission , and possibly amenable to preventive measures , are involved in the development of late AKI .
+804	This study confirms that obesity is a major risk factor for COVID-19 disease severity , significantly impacting disease presentation and critical care requirements .
+805	This study confirms that obesity is a major risk factor for COVID-19 disease severity , significantly impacting disease presentation and critical care requirements .
+806	In conclusion , our findings indicate that patients with pulmonary fibrosis , heart failure , and virus infection have a higher risk and are more susceptible to SARS-CoV-2 infection .
+807	This meta-analysis suggests that ACE insertion/deletion polymorphisms may be associated with ARDS among Caucasians .
+808	Our meta-analysis showed that discrepancies in host genetic factors may influence susceptibility to influenza .
+809	Our study suggests that Enterococcus faecalis significantly contributes to leukocyte esterase negative UTIs , and associated with the risk of delayed diagnosis of UTI in children .
+810	In this study , we observed a higher rate of MERS-CoV incidence and deaths in men than in women .
+811	Moreover , previously infected soldiers redeployed to endemic areas may be at an increased risk of DHF/DSS complications .
+812	Our study found a significant association of infection with performing chest compression ; while performing intubation showed significant correlation with the former , we can not distinguish between these two variables given multivariate logistic regression , so both might act as factors that enhance the probability of SARS infection .
+813	In addition , in our study RSV was found more frequently among hospitalized young children than outpatients and was a significant predicator of hospitalization among young children with ARIs .
+814	Our study revealed the important association that Gram-negative bacteremia , aminoglycosides , hyperglycemia and severity of illness have with CIPM development .
+815	Age is a risk factor for the development of severe disease and death from DENV infection .
+816	Hospitalization history , previous antibacterial therapy , physical decline , and mechanical ventilation are risk factors for LRTIs in this population .
+817	However , based on currently available data , COPD does not appear as a frequent comorbidity in patients with COVID-19 .
+818	In conclusion , patients with myeloid neoplasms contracting COVID-19 infection may have atypical insidious presentation and suffer from higher mortality .
+819	As expected , our analysis also revealed that underlying cardiovascular or cerebrovascular diseases contributed to high mortality of COVID-19 pneumonia .
+820	► Active IBD , older age and presence of comorbidities have been found to be associated with a higher risk of COVID-19 pneumonia and death in patients with IBD .
+821	Allergic diseases , asthma and COPD are not risk factors for SARS-CoV-2 infection .
+822	The proportion of HCoV-NL63 infection in each age-specific group indicated HCoV-NL63 as a high risk factor for pneumonia patients aged 16e25 years and 26e35 years .
+823	A further independent risk factor for the development of bronchiolitis-related apnoea includes young age at the time of infection .
+824	Our data are strongly indicative that COVID-19 mortality in patients with cancer is principally driven by advancing age and the presence of other non-cancer comorbidities .
+825	However , chorioamnionitis or maternal fever at term has a stronger association for the the development of CP .
+826	In agreement with these studies , our results showed a higher frequency of dyspnea in subjects with HRV-C compared with other viruses ; in addition , we noted an association of HRV-C detection with preexisting respiratory diseases , in particular with asthma .
+827	However , our data suggest that patients with the rs12252-C/C genotype of IFITM3 are more likely to attribute to the significant increase in severe influenza susceptibility in both UK Caucasians and Han Chinese .
+828	Given the systemic immunosuppressive state caused by malignancy and anticancer treatments , patients with advanced lung cancer may be at a higher risk of COVID-19 infection .
+829	Given the systemic immunosuppressive state caused by malignancy and anticancer treatments , patients with advanced lung cancer may be at a higher risk of COVID-19 infection .
+830	In conclusion , the infection of 2019nCoV was of clustering onset , is more likely to infect older men with comorbidities , and can result in severe and even fatal respiratory diseases such as ARDS .
+831	People with various comorbidities appear , from the emerging evidence , to be at increased risk of severe disease progression and death after developing COVID-19 .
+832	Our findings suggest some risk factors for SARS-CoV-2 infection in this primary care study are similar to those associated with more severe COVID-19 disease , with men and people older than 40 years at increased risk .
+833	Male sex and older age are independent risk factors for COVID-19 related deaths .
+834	From our limited experience , we believe awareness of acute abdominal pain as a potential symptom of COVID-19 could reduce the risk of viral transmission to healthcare providers and spread of the infection within hospitals .
+835	Older age , higher CCI scores , smoker , ulcer disease , and previous pneumonia history were independent risk factors for the development of POP in cancer patients .
+836	Elevated LDH levels seem to reflect that the multiple organ injury and failure may play a more prominent role in this pathology in influencing the clinical outcomes in patients with COVID-19 .
+837	However , performing prolonged , high-intensity exercise or periods of strenuous exercise training is associated with an above-average risk of URTI .
+838	Although results from a case-control study identifying exposures associated with being an MERS-CoV case are still pending , drinking camel milk could be a risk factor for being a case .
+839	Based on this limited data , liver transplant recipients appear to have a low incidence of COVID-19 , with less severe symptoms than expected , when compared to the general population and other solid organ recipients .
+840	Based on this limited data , liver transplant recipients appear to have a low incidence of COVID-19 , with less severe symptoms than expected , when compared to the general population and other solid organ recipients .
+841	Our results suggest that higher cumulative doses and longer treatment durations of steroids are more likely to lead to the development of osteonecrosis in SARS patients .
+842	14 These findings suggest that this population might be particularly vulnerable to dying from Covid-19 infections given that the virus can cause lung complications including pneumonia .
+843	We found patients with MERS-CoV who had GI manifestation tend to progress to severe illness and this may be considered one of the poor prognostic factors .
+844	In summary , spinal diseases are prone to respiratory infections and related complications , thus increasing the infection risk for COVID-19 .
+845	Thus , we conclude that obesity is the only independent risk factor predisposing patients to influenza infection , although the association of obesity and viral CAP , and then , with influenza CAP , could be over-represented by the large proportion of patients with Influenza virus diagnosed in this cohort .
+846	These factors may contribute to higher severe COVID-19 risk in participants with atrial fibrillation .
+847	This suggests that RSV LRTI may have differential effects on the development of recurrent wheezing depending on the genetic predisposition .
+848	This study suggests that presence of serum bilirubin concentration ≥ 18.7 mg/L , hypercreatininemia , hypocalcaemia , metabolic acidosis , and IRIS grade 4 and 5 of acute kidney injury increase short-term mortality in dogs diagnosed with AP .
+849	Our findings suggest that in patients admitted to the hospital with confirmed influenza virus infection ( mostly A/H1N1pdm09 ) , a high viral load is associated with a higher presence of abnormal findings on chest X-ray but not with a significant worse prognosis .
+850	Although causal relationship between SARS-CoV-2 and abdominal pain can not be deducted from our limited observations , findings indicate that COVID-19 can present with abdominal pain without respiratory symptoms .
+851	We retrospectively reviewed cases of influenza-related LRI from the 2015e2016 season , which suggested that the presence of allergic disease , including asthma and food allergy , when compounded with an influenza virus infection , was a risk factor for developing PB .
+852	Acute liver injury caused by SARS-CoV-2 is more common in patients with poor prognosis who had significantly higher risks of developing severe pneumonia , and Male elderly COVID-19 patients with diabetes and lymphopenia .
+853	This adds strong evidence that hBoV is more aggressive than other respiratory pathogens and is associated with more severe LRTI .
+854	In conclusion , the age and underlying diseases ( hypertension , diabetes , etc . ) is the most important risk factors for death of COVID-19 .
+855	The other independent risk factors for COVID-19 infection included older age , male sex , black ethnicity , socioeconomic deprivation , longstanding illness , and reduced renal function as measured by cystatin C , the latter also notable given renal complication in severe COVID-19 .
+856	In this present study , we found that influenza coinfection increased the risk of readmission , which is consistent with previous investigations of children with complicated pneumonia .
+857	Therefore , the high prevalence of comorbid conditions elderly patients with COVID-19 may be explained in part by the high prevalence of diabetes and hypertension in the Chinese population .
+858	These findings suggest that hMPV was an important pathogen of ALRTI in pediatric patients , especially those < 5 years of age .
+859	Taken together , infection with multiple respiratory viruses is associated with more severe bronchiolitis and prolonged PICU stay .
+860	Older age and the presence of comorbidities are associated with increased risk of mortality in the current pandemic .
+861	As CC17 represents a clonal complex usually associated to hospital settings and rarely found in the community , CC17 carriage on admission might be associated with previous hospital stays .
+862	Moreover , children with DCS associated with PCD have a triple greater risk for UTI than those with DCS only .
+863	These results suggest that patients with CRS may not be at a higher risk of SARS-CoV-2 infection .
+864	In conclusions , we identified four predictors , age ≥ 65 years , preexisting concurrent cardiovascular or cerebrovascular diseases , CD3 + CD8 + T cells ≤ 75 cell/μL , and cardiac troponin I ≥ 0.05 ng/mL , for high mortality among the overall population of COVID-19 pneumonia patients .
+865	This means patients on these drugs might be at an increased risk of more severe COVID-19 infection .
+866	However , patients with pre-existing advanced CKD may be more prone to develop the ESRD with COVID-19 infection-related sepsis mediated AKI .
+867	Our study of 421 COVID-19 patients suggested an increased pulmonary lesion in bilateral upper lungs were independent risk factors for adverse clinical outcomes , which as far as we know , has not been reported .
+868	Therefore , patients with chronic liver disease may be vulnerable to the serious clinical consequences of COVID-19 infection .
+869	The younger risk profile of 2009 pandemic influenza may also at least partly explain the higher rate of influenza-related ICU admission among pregnant women compared with the overall population .
+870	Our study suggests that HBoV might have an epidemiological impact ( 16.3 % positivity ) as a sole causative agent of disease among patients < 5 years , since co-infection with the most common respiratory viral pathogens ( HRSV , HRV , Flu A , Flu B , HPIV-1 to 3 , and HAdV ) was previously conducted .
+871	Although the results of the current analysis indicate that smoking can be an underlying factor that makes people susceptible to COVID-19 complications , in some studies , especially COVID-19 related studies , no strong evidence has been found regarding the correlation of COPD and smoking with being infected with this new virus .
+872	We observed a high prevalence of respiratory symptoms and signs ( 12 ) and high carriage rates of both respiratory viruses ( 13 ) and bacteria ( 14 ) , suggesting that SARS-CoV-2 infection might also be frequent in this population .
+873	Our study therefore 171 suggests that diabetes might be a triggering factor for these disorders and therefore is related 172 to mortality in patients infected with SARS-CoV-2 .
+874	Most importantly , co-infection of influenza patients with CA-MRSA is associated with severe pneumonia with high fatality .
+875	Moreover , diabetes with hyperglycemic crisis episodes is associated with higher risk of pancreatic cancer .
+876	Further , as previously described in other cohorts , overweight , hypertension , and diabetes are risk factors for hospitalization due to SARS-CoV-2 ( 19 ) .
+877	Intrauterine growth restriction could be one potential long-term complication among patients recovering from COVID-19 infection , consistent with data obtained during the SARS epidemic .
+878	Our findings further contributed to the literature that older age was also associated with prolonged viral shedding in patients with COVID-19 .
+879	Moreover , troponin levels were significantly higher in patients admitted to the ICU and in non-survivors , suggesting that CV complications might contribute to the severity of illness and adverse outcomes .
+880	In a community where SARS-CoV-2 ( new coronavirus ) is circulating , the risk of infection is greater in elder than young persons , as well as elder persons are under increased probability of being symptomatic and higher CoViD-19 induced mortality .
+881	In this research , we identified older age , higher LDH and CRP , DBIL , RDW , BUN , and lower ALB on admission correlated with higher odds of severe COVID-19 .
+882	In this research , we identified older age , higher LDH and CRP , DBIL , RDW , BUN , and lower ALB on admission correlated with higher odds of severe COVID-19 .
+883	These findings support the association between IL12B1 polymorphism and SARS infection , but not necessary the disease outcome in Chinese population .
+884	This study result suggests that SARS-CoV-2 infections in children were occurring early on in the epidemic .
+885	Moreover , the IL28B genotype is potentially associated with the outcome of direct antiviral agent treatment in patients with decompensated cirrhosis and liver transplantation .
+886	In conclusion , old age , comorbidities , delayed confirmation , along with poultry exposure are the major risks contributing to fatal outcomes in human HPAI and LPAI infections .
+887	As such , mixed infection could be a poor prognostic factor of adult CAP .
+888	In line with our findings , previous studies have reported BMI as a risk factor for COVID-19 , but the mechanism(s ) of excess weight in conferring additional risk remain unclear .
+889	These results suggest that RSV infections may be a significant cause of hospitalization in the adult populations , including younger adults .
+890	All patients with both a history of anticancer chemotherapy against hematological cancer and lower respiratory symptoms , such as wheezing , sputum , and hypoxemia , had abnormalities on CT , suggesting that these two factors might be important for predicting the existence of LRTI in RSV-infected patients .
+891	The other two independent high-risk factors , increased blood urine nitrogen and lactate dehydrogenase were related to renal failure , heart failure or multi organ failure ( MOF ) which may lead to fatality of COVID-19 .
+892	Nevertheless , the same study conducted a year ago in the same population has confirmed our findings that a wide range of respiratory viruses might have played a role in escalating respiratory tract viral infections among patients with SCD and SCT .
+893	However , in this study the number of dual viral infections is significantly higher in the PPE population which suggests that viral co-infection seems to have an impact on the severity of pneumonia .
+894	Therefore , 2019-nCoV with other viral coinfections may be more common in children .
+895	Same to the previous reports on H1 and H3 seasonal influenza , older age and preexisting concurrent health conditions have been associated with an increase in the chance of death from high and low pathogenic avian influenza [ 37 ] .
+896	Our study identified disease-related risk factors like ISS and transplantationrelated factors such as HCT-CI and PAM , hospital readmission , days of hospitalization and CMV reactivation that were associated with worse long-term survival .
+897	These results suggest that HRV and hMPV may be contributors or cofactors of AECOPD .
+898	We also found the type of employment and being unemployed is strongly associated with overall mortality due to COVID-19 in Ecuador , suggesting that poverty is an important driver of the final outcome for this disease .
+899	Despite the high rate of co-detection , our results suggest that HBoV may play a role as an etiologic agent of RTI in children .
+900	Moreover , the incidence of NTHi was much higher than Hib in the first month of life ( 11.4 versus 1.2 per 100,000 cases ) and infections were more likely to occur in the first week of life , suggesting vertically acquired infection .
+901	However , our observational study suggests potential differences between ARBs and ACEIs for the risk of intubation in COVID-19 patients .
+902	Our findings convey an important message : the detection of respiratory viruses or the development of a clinical respiratory virus infection among LTRs is often associated with adverse outcomes .
+903	Our findings also suggest potential risk factors for the poor outcomes of operative patients with COVID-19 infection , including age , comorbidities , and surgical complexity .
+904	Chronic DOAC intake is an independent parameter associated with a decreased mortality risk in our population .
+905	Moreover , the rate of cyclosporine taper during the fourth and fifth month after BMT was significantly more rapid in patients with LONIPC than in controls , suggesting that the risk of LONIPC may be influenced by a faster reduction of GVHD prophylaxis .
+906	Subsequently , the amount of ESBL-E in the digestive flora and the presence of an oropharyngeal colonization as compared to a rectal colonization may be associated with a higher risk of ESBL-E-associated VAP when GNB-VAP is diagnosed .
+907	MP pneumonia was more prevalent throughout Korea in 2011 and caused more severe clinical features than at any other time , which led to an unpublished observation that it may be associated with MRMP .
+908	Consistent with previous reports , we found that preexisting hypertension , CVD , CKD , and diabetes are strongly associated with increased disease severity and poor prognosis in COVID-19 patients .
+909	These findings support the role of CT imaging and clinical indices at initial hospital-visit for potentially predicting the hospitalization time of patients with COVID-19 pneumonia .
+910	Our results showed that higher NLR and CT severity score on admission were independent predictors for progression to severe NCP , especially in nonimported patients .
+911	However , based on the prevalence observed , immunosuppressed transfusion recipients may be at increased risk for transfusion-transmitted HEV .
+912	Also , admission to an ICU facility ( OR : 11.899 ; 95 % CI 4.986 - 28.399 ) , antimicrobial exposure ; particularly carbapenems and fluoroquinolones [ 14 , 16 ] , hematology patients and patients with immunodeficiency are all high risk factors for K. pneumoniae colonization and infections .
+913	In this study , we found hypertension is a risk factor for severe cases , independent of age and other variables .
+914	The present study can not confirm that HPyV6 is the cause of RTIs in hospitalized children , because the viral loads of HPyV6 were low ( 1.38 - 182.42 copies/μl ) and the coinfection rate with other respiratory viruses was high .
+915	The incidence of AB at CCH in central Taiwan increased according to our study , highlighting the critical need for infection control and prevention measures .
+916	In our study , prior preterm PE was associated with an increased risk of TNBC compared with other tumor types .
+917	On the other hand , the present study shows that the combination of TBI and chest injury in poly-traumatized patients is the strongest independent predictor of pneumonia , implying that both severe TBI and severe chest injury influence the development of pneumonia .
+918	Moreover , more severe lymphopenia was found in those patients with a history of stroke , as well as an increased neutrophil-to-lymphocyte ratio , a well-known marker of systemic inflammation and infection.8 These laboratory changes indicated that inflammatory mechanisms might play a crucial role in the development and progression of COVID-19 in stroke survivors .
+919	Based on currently available information and clinical expertise , older adults of over 60 years and people of any age who have serious underlying medical conditions ( comorbidities ) might be at higher risk of developing the severe disease with SARS-CoV-2 , which may even lead to death .
+920	In this study , hBoV infections are frequently detected in children with acute wheezing , which suggest that hBoV may have an important role in acute wheezing .
+921	Risk factors such as advanced age and some co-morbidities , such as diabetes and chronic respiratory diseases , are associated with poor outcomes in both TB and COVID-19 .
+922	In agreement with previous studies [ 1 , 10 - 15 ] , age was a strong risk factor for hospitalization , adverse outcome among COVID-19 patients .
+923	Pregnant women infected with SARS-CoV , a related coronavirus , appear to have increased morbidity and mortality when compared to non-pregnant women , suggesting that MERS-CoV could also lead to severe clinical outcomes in pregnancy .
+924	Patients who are immunosuppressed appear to be at higher risk of a more severe infection or complications from COVID-19 , although the extent of this risk is not known .
+925	Post-transplant metabolic complications ( eg , arterial hyper tension , chronic renal insufficiency , diabetes , hyperlipidaemia , and weight gain ) might outweigh immuno suppression as a risk factor for development of severe COVID-19 disease in patients who have received liver transplants , in line with data from China , which suggest that comorbidities are associated with a worse prognosis .
+926	In summary , the main factors supporting anti-NTM treatment decision in immunocompetent were low BMI , hemoptysis , lung excavation(s ) , prior anti-NTM treatment and Aspergillus pp .
+927	Additionally , systolic dysfunction , diagnosed early in the acute hospitalization , is an independent risk factor for increasing ICU stay .
+928	However , diabetes appears to be mostly associated with severe cases of COVID-19 infection .
+929	In conclusion , we found that mortality was high in HM patients , with or without HCT , who developed RSV LRTI .
+930	Patients with hyperandrogenic phenotype , such as polycystic ovaries ( PCO ) , might have a risk of COVID-19 increased viral load , increased viral dissemination and severity of lung involvement .
+931	The presence of multiple pre-existing comorbidities is related with more severe COVID-19 infection manifestation , reflecting the presence of pre-existent physical and/or cognitive frailty .
+932	The study concluded that age , smoking , and liver cirrhosis enhance the development of IPF in HCV-positive patients .
+933	The present study showed that septic shock patients carrying the rs842647*G minor allele had an over risk of MODS and mortality .
+934	At the onset of the pandemic , immunosuppression was a suspected risk factor for COVID-19 .
+935	In addition , more upper respiratory tract infections occur during the winter , resulting in a decrease in immune functions among pediatric patients , which might contribute to increasing incidence of HFMD .
+936	In conclusion , respiratory viruses , especially coxsackie/ echovirus and rhinovirus are frequently associated with pulmonary exacerbations in pediatric CF patients .
+937	We found that compared with non-AKI patients with COVID-19 , older age , multiple pre-existing comorbidities , an increased white blood cell count , low lymphocyte count , and increased levels of PCT and CRP , were risk factors for AKI .
+938	For the first time , we identified the obesity ( BMI over 28 kg/m 2 ) and a history of type 2 diabetes as two independent risk factors of severe illness , suggesting that the metabolic conditions was associated the severity of COVID-19 .
+939	Furthermore , this cohort study showed that allergic sensitization led to an increased risk of wheezing illnesses caused by HRV , but not RSV .
+940	Similar to reports from other countries , this finding suggests that the risk for serious disease and death from COVID-19 is higher in older age groups .
+941	Therefore , the combination of ACEI or ARB with SGLT2i may significantly increase the risk of COVID-19 infection .
+942	We also found the comorbidities were risk factors associated withe the severity of COVID-19 in our cohort .
+943	A significant proportion of elderly residents had pre-existing cross reacting antibody to the pandemic ( H1N1 ) 2009 , which may explain the minimal clinical impact of pandemic ( H1N1 ) 2009 in this elderly population .
+944	This review reported that GI endoscopy is an important risk factor for the transmission of CRE and has been associated with the morbidity and mortality of patients after ERCP .
+945	Further , both morbidity and mortality from the COVID-19 infection have significant differences across age-groups , with mortality increasing rapidly in the elderly .
+946	We also found that the CT feature of patchy consolidation on admission is a risk factor associated with severe events .
+947	In conclusion , a substantial proportion of ARIs are associated with the infection or co-infection of RVs in North China .
+948	These results suggest that an abnormal innate immune response to a VRI might increase the susceptibility to viral infection in patients with CRS .
+949	Interestingly , in this study , early infections within the first 60 days after transplant were associated with higher morbidity and mortality , supporting the crucial impact of immune status for the outcome of patients with RVIs .
+950	The findings from this study showed that low lymphocyte count ( < 1·1 × 10 9 /L ) in peripheral blood was an independent risk factor for patients who converted to severe cases .
+951	Additionally , in our study diarrheal disease was significantly associated with pediatric mortality .
+952	Moreover , studies of outpatients with VTE demonstrated that about 1/5 of patients had a recent infection , suggesting the recent setting of inflammation from infection may contribute to VTE risk .
+953	Patients with recent chemotherapy were at a higher risk for viral pneumonia , which is consistent with previous knowledge that immunosuppression is a risk factor for influenza viral pneumonia [ 19 ] .
+954	The observed significant difference in mortality rate by age could prove that relatively older age ( vs 6.7 ‫ע‬ 3.9 years ) is one of the risk factors for H5N1 infection .
+955	The lower incidence and nonsignificant AF from our data among individuals ≥5 years of age suggests that PIV infection may not be associated with respiratory disease in older children and adults .
+956	Our cohort study reported higher incidence among older patients at KFGH , suggesting that clinically recognized disease did not develop in certain younger patients who were exposed to MERS-CoV infection at KFGH .
+957	Our results suggest that hBoV and hMPV may be partially responsible for the development of ILI in adult and elderly patients .
+958	Moreover , in these patients , the severity of COVID-19 and the rate of complications , potentially leading to increased liver-related mortality , might be more pronounced than in general population .
+959	Although in small cohort , disease-causing MEFV mutations and FMF disease rate were increased among patients with IBD .
+960	This may suggest that immunomodulatory effects of macrolides alone may not be effective on improving mortality rate in patients with MERS in the absence of effective antiviral drugs against MERS-CoV.
+961	In addition , when adjusted for age , sex and BMI , those with history of hypertension have over two-fold risk of developing severe form of COVID-19 .
+962	This suggests that ambient respiratory viral infections are associated with an increased number of incident RA after a moderate time interval , rather than having an immediate effect .
+963	Hypertension , cardiovascular diseases , hypercholesterolemia , and diabetes are the most common comorbidities in patients who died from COVID-19 .
+964	While we did not find a higher mortality rate assosiated to HC , we observed an association to longer hospital stay and blood product transfusions , suggesting a higher morbidity assosiated to HC development .
+965	Our findings support the hypothesis that antibiotic use may predispose to future infection risk , including infections caused by both antibiotic-resistant and non-resistant organisms .
+966	Similar to previous studies , patients with severe covid-19 with diabetes in our study were particularly susceptible to receive mechanical ventilation and intensive care , and had higher mortality than those without diabetes .
+967	Comparing patients positive for SARS-COV-2 with concurrent GI symptoms with those without GI symptoms , our analysis found no significant difference in mortality between the two groups , but those with GI symptoms had a significant risk for development of ARDS .
+968	Most of the bacteria isolated during the study period including S. pneumoniae , K. pneumaniae , H. influenzae , and E. agglomerans fall in either community-acquired or nosocomical categories , suggesting appropriate preventive measures could limit bacterial involvement in ARIs .
+969	Interestingly , we noted an association between pulmonary complications and CMV reactivation , which is not among previously reported risk factors .
+970	Our study identified a strong temporal association between antibiotic use , and influenza virus activity , and the incidence of ARTIs .
+971	This suggests that symptomatic patients with any pretransplant respiratory virus detected are at higher risk for adverse clinical outcomes than asymptomatic infected patients .
+972	The results of our pooled analysis demonstrate an association between elevated LDH values and worse outcomes in patients with COVID-19 .
+973	However , a large retrospective study of term infants suggests that TTN might be significantly associated with childhood asthma with increased propensity in males .
+974	Similarly , preexisting cardiovascular disease predisposes to serious COVID-19 infection with increased morbidity and mortality .
+975	The risk of requiring intensive care may be higher in pregnant women with laboratory-confirmed SARS-CoV-2 in Sweden , compared to non-pregnant women of similar age .
+976	In conclusion , hospitalized patients with severe COVID-19 are at high risk of PTE .
+977	Bronchiolitis , fever ( ≥ 38 ° C ) , and poor appetite were more frequent in patients with single RSV infections than in coinfected patients , suggesting the key pathogenic activity of RSV .
+978	Our study demonstrated that young children had a high risk of hospitalization due to influenza pneumonia , which contributed to a significant morbidity .
+979	In conclusion , prolonged A(H7N9 ) RNA shedding in the respiratory tract was independently associated with delayed initiation of NAI treatment and with use of corticosteroids .
+980	Additionally , we found that patients with COVID-19 with a high risk of venous thromboembolism had poorer outcomes than patients with a low risk , suggesting that these patients might require increased attention in case of rapid deterioration .
+981	The lack of an increased risk of COVID-19 requiring admission to hospital associated with RAAS inhibitors ( compared with other antihypertensive drugs ) was found in both patients with most severe and less severe disease , suggesting that the outpatient use of these drugs neither facilitates nor aggravates the infection .
+982	HAdV-55 is thought to be closely associated with severe CAP , and the results of our study verified this phenomenon again .
+983	In conclusion , lung-transplanted and cystic fibrosis patients might be at major risk of developing a severe SARS-CoV-2 infection .
+984	Viremia also appeared to be associated with mortality among patients with influenza LRD .
+985	In conclusion , we found that in hospitalised middle-aged Chinese patients with laboratory-confirmed COVID-19 , the presence of diabetes at hospital admission was strongly associated with an increased likelihood of having severe COVID-19 illness .
+986	Older age also represents a risk factor for poor prognosis in COVID-19 patients .
+987	Our analysis demonstrated that the participation of viruses in causing severe lung infections is significant in children with comorbidities .
+988	Our study suggests that RSV infection is frequent in Laos and commonly associated with pneumonia in hospitalized young children .
+989	We found that age , N/L , CRP , and D-dimer were independent risk factors for the severity of COVID-19 .
+990	Increasing age , smoking and immunosuppression are common risk factors of pneumonia , and are thought to increase the severity of COVID-19 .
+991	Based on the epidemiological data currently available , diabetes does not seem to be a risk factor for infection with SARS-CoV-2 but may be associated with a more severe course .
+992	This finding identifies that fever is a not a reliable symptom for the suspicion of MERS-CoV infection in patients with cancer .
+993	In addition , we found that both acute cardiac injury and acute kidney injury are highly correlated with an increased risk of COVID-19-related mortality .
+994	This suggests that perhaps pregnancy should not be considered an independent risk factor for severe or critical COVID-19 disease .
+995	According to our analysis , use of surgical masks by the exposed persons was associated with a lower risk of nosocomial acquisition of S-OIV , which was consistent with previous studies suggesting that wearing a surgical mask might decrease the risk of SARS infection .
+996	Our analyses for mortalities showed the MV as traditional risk factor indicating severity of LRTI was independent risk factors for all-causes in-hospital mortality in three immunosuppressive groups with CA-RVI .
+997	Although RV mono-infections ( in contrast to co-infections ) were associated with a greater clinical severity , RV infections were equally detected in wheezing children compared with non-wheezing symptomatic children in this study , suggesting that other factors ( e.g. genetic , immunological , anatomic ) may play a role in the pathogenesis of wheezing in young children .
+998	Survival analysis revealed that male , elder age , leukocytosis , high LDH level , cardiac injury , hyperglycemia , and high-dose corticosteroid use were associated with death in patients with severe COVID-19 .
+999	Although we did not detect co-infection , HMPV may worsen RSV disease in a small percentage of infants .
