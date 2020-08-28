@@ -1,5 +1,5 @@
 arg1:[e]COVID-19 $infects arg2:cells
-0	<s1>h:SARS-CoV<e1> targets human angiotensin-converting enzyme 2 ( hACE2 ) and infects +h:intrapulmonary h:epithelial h:cells+ more than cells of the upper airways [ 13 , 14 ] .
+0	<s1>h:SARS-CoV<e1> targets human angiotensin-converting enzyme 2 ( hACE2 ) and infects <s2>+h:intrapulmonary h:epithelial h:cells+<e2> more than cells of the upper airways [ 13 , 14 ] .
 1	<s1>h:SARS-CoV-2<e1> infects <s2>h:ACE2 h:+ h:cells<e2> in the oral mucosa and lungs , including <s2>h:ACE-2 h:cells<e2> in the alveoli [ 97 ] .
 2	Like other viruses , <s1>h:SARS-CoV-2<e1> infects <s2>h:lung h:alveolar h:epithelial h:cells<e2> using receptor-mediated endocytosis via the angiotensin-converting enzyme II ( ACE2 ) as an entry receptor [ 4 ] .
 3	Initially , <s1>h:SARS-CoV-2<e1> infects <s2>h:cells in the h:respiratory h:system<e2> and causes inflammation and cell death .
